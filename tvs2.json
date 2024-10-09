@@ -909,13 +909,6 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvOWTRXk8S+YzeN7iRCyTeqLsx2ecHjFeU6iFZ5yfLOhye++ym1cQEuVS3URR8Ul7ElgUh2NDvk7JeiGdCmC1JjdKYmmMOnvQL3gQQ4WY/rxJREq8GwTgRa1jcEUkAbg1OzDmQnF1sRKlCEUGuyGi4+g="
       },
       {
-    "name": "242 CORAZON TV",
-    "ico": "https://contenidostv.b-cdn.net/images/Coraz%C3%B3n-Color.png",
-    "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBVoN4xrfv/h8H5qh2eCEpvjw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-      },
-      {
         "name": "243 TELEVISA",
         "ico": "https://mx.mmvpnok.online/panel/ico/variedades/newtelevisa.png",
         "uri": "C9FNLF7tQUj5BsJuPqmVwWkbiS/Xd20xlrKWAnu3UPF53yWZfcCw9WAKbNJcaYITkaWVWqzpi5GECWcEjrisSg==",
@@ -1068,7 +1061,21 @@
         "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKo//72D6XuvPk2EB8vs0Hgrxr4GQxCyjU30jBH5tGgTZKX63xdysUwdYXnKzZ/9wPPUpAfhgzXj7UfxpU9LlkYlYIHtYOECAGL7GruBcd6UxmjeVe83IT++/pV00furo=",
         "drm_scheme": "clearkey",
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjaQx7DsnSUnKevUnQPushp+HiK7Cp0jFm0UfvRZEm5e7g=="
-      }
+      },
+      {
+    "name": "CANELA TV",
+    "ico": "https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png",
+    "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJg08Ot7zQP1CsLiCMdEGNLQ3335Z5+gVxiFiVeAZJSL9jd7X+eYhgopgVzbcv8YVBcNk+mHIGA0kJzBg5JHklv6ZLaMalZ5xyNHESVd1rnTAA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RCN TELENOVELAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1280px-RCN_Novelas_logo_2019.png",
+    "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBV4nF3g5u+OLlonkjbVXn1lg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+   }
     ]
   },
   {
