@@ -728,20 +728,6 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjaUqkYDPR7DElrgGVRRBbcq7lym2Fd+xFa0xlIt83uuWA=="
       },
       {
-    "name": "UNIVERSAL REALITY FLOW",
-    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png",
-    "uri": "gcBhM3mYC3THrFVFhN9rjPGEpd+dsIsxi0yNDJacZbGD/oBEazFjcmbghGmtAMeaoTzzkylKT4Q+A/wGBq8s6IhmzTi+tX3NWyuC7Bs+eTNW+33XcdSP9IX+e6rRdRnWLt+sepqYyaLrKElgeYd9QtNCL1k/VfRLrbgcuVU2VbV4cHfZUcUlwEWJdR48mw7k",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "Z0p2/Nrcy3axbOwF/b0tIrTW/vLbADzNvcYAmnlGpGhj1xGlsHL9x2SDSCLau3avT+MzHTl3pbZ/J6BCs1SlGOjQQ8e/VQFjNZ7eQBeNIrNn5CJMHb5YYp+DKzD2gjqvM732CMLW8cKC8ocUQhnqlfTrFYsmS4t5iWvdKMQcuA/Y/1xvu5bo2fb1/aCMsXdtcwAipPLnEpuR3GNFylHEUnyr8LsHHqgb/b0ccdoYA1/yZEIJ46dxBKl0Bl3Mi+omo0D+Cp5qXrKUxQ/V7Ve4baiHv+padimJdPI+aw9F2Mo="
-  },
-      {
-        "name": "212 UNIVERSAL CINEMA",
-        "ico": "https://i.ibb.co/D4p8NpJ/Universal-Cinema-2021.png",
-        "uri": "EK37m29rGU7R9fv/4u/mwjrEScjWtiboCDyYYTaqwuSgC82LHuVmo/i4u+yvRYs2lhA5O5yzARXKUjY7R7r2JSSMKF+vga0L/txO83YU78oHChH6UpMsaaGvA7MEsOWvnFsJdwnMz1ZmfftYZSNlyA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjZwU/awhVCwrgiHIZCyQc5bmbqKibFiAOpB4MiO9dvO0A=="
-      },
-      {
         "name": "213 CINE AR",
         "ico": "https://static.flow.com.ar/images/701/CH_LOGO/350/500/0/0/20222966074359.png",
         "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCLyDTLL+zByrg/873zAnrJPhctsKosW1mayXdC1RaF+DV2224JqfcOxwID3F2MSrhCtMb9O7T2l6hIwW4+D7qG",
@@ -805,12 +791,19 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjZ9Na6ne00Tv9EprlUXgKGxsR2ZKQEiTRl/H4L485L+DQ=="
       },
       {
-        "name": "222 WARNER CHANNEL",
-        "ico": "https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png",
-        "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZB8szIVOFyFO70QGNhS52odV060wNgHoDS5hyIAiejOn30WN4ghmFTlyBD00IEsq5q3jcVdopjefb5+mW4Mw9jA",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjaisBLmRH2RY4PoiLo+xSf2ZxoGiVJ6uwa1lOGGIQk7cA=="
-      },
+    "name": "222 WARNER CHANNEL",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png",
+    "uri": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775"
+  },
+  {
+    "name": "222 WARNER CHANNEL",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png",
+    "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775"
+  },
       {
         "name": "223 UNIVERSAL CHANNEL",
         "ico": "https://vignette.wikia.nocookie.net/logosfake/images/8/8e/UCHD_2011.png/revision/latest?cb=20140429100918",
