@@ -791,20 +791,6 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjZ9Na6ne00Tv9EprlUXgKGxsR2ZKQEiTRl/H4L485L+DQ=="
       },
       {
-    "name": "222 WARNER CHANNEL",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png",
-    "uri": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775"
-  },
-  {
-    "name": "222 WARNER CHANNEL",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png",
-    "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775"
-  },
-      {
         "name": "223 UNIVERSAL CHANNEL",
         "ico": "https://vignette.wikia.nocookie.net/logosfake/images/8/8e/UCHD_2011.png/revision/latest?cb=20140429100918",
         "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFxGGTMJOSYXd5uUUWM4of71DUcI7mI/3tsQdL9wMRpNLcN/Cv3NoJe4M6lQqDUCwIHbkvh2FMN+cJvFHr94nuDg==",
@@ -904,13 +890,6 @@
       {
         "name": "236 BRAVO TV",
         "ico": "https://television-libre.online/img/bravotv.png",
-        "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQxBBEcx5044gNfb/YD/tyk0IWvupAAFjgZYtffVw+4JlN9ROB8dpiHor0Illpu6VE=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvA9mmbCqPpCusDVc2XcTaF1NbrvS1TcPXpjH3RZSNa1MdCDZ4QbjWivZKFCt1xFarw=="
-      },
-      {
-        "name": "236 BRAVO TV op2",
-        "ico": "https://television-libre.online/img/bravotv.png",
         "uri": "dez5A4z4WD5QF8gm7PEZMBvEh2lSx51Eu08rcr+Gn+nY0G+VWOPlFZrRoAQ/hAPfPHVKfp7LzNHkCBXzcZsyPSRiHyISfDuTtFY4R7kE7pLILVVBVPAag86eTmSiSpqm",
         "drm_scheme": "clearkey",
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjYI36w3gwjbrb+wKAVsMgy6"
@@ -923,32 +902,11 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjbrot88pCi8pto+98kl4chnCyYADVC0VDx4SVnIcqNG7g=="
       },
       {
-        "name": "238 La rosa de Guadalupe",
-        "ico": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg",
-        "uri": "UJ5QHZ9HLFBc3kyfb0vsm3JD3Z1QHRemmyhyAB0tFybAnP51EUCZN/t+qvV1wdgykN35Rwh6bd93ORFPjQKO6uLARZlMmtMZ5d0LVDkjpEY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "239 TNT NOVELAS",
         "ico": "https://i.ibb.co/jVMmjN6/descarga-8.png",
         "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQAtt6Y9cQbkFovdy6EPLpT1UFoNUr1bnICLHuT4Uy3W0rppMGzQWcje6ILpFKMXY0=",
         "drm_scheme": "clearkey",
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvOWTRXk8S+YzeN7iRCyTeqLsx2ecHjFeU6iFZ5yfLOhye++ym1cQEuVS3URR8Ul7ElgUh2NDvk7JeiGdCmC1JjdKYmmMOnvQL3gQQ4WY/rxJREq8GwTgRa1jcEUkAbg1OzDmQnF1sRKlCEUGuyGi4+g="
-      },
-      {
-        "name": "240 IVC",
-        "ico": "https://mx.mmvpnok.online/panel/ico/variedades/ivc.png",
-        "uri": "9PtIAu32Y1lCOdWkd1STMcU6lkO21ZRtIE8nK8MToJxRqfiI3BBTwLWgKwaUbzHoo+5MRQKka0S1+EUKq0znAQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvA9mmbCqPpCusDVc2XcTaF2zgTUaYETPoN/vsVGfsR/b"
-      },
-      {
-        "name": "241 CANAL A",
-        "ico": "https://mx.mmvpnok.online/panel/ico/variedades/canala.png",
-        "uri": "dez5A4z4WD5QF8gm7PEZMFvXGrjPWI3XTMm+uoly8S99yrkyLkKlJOubGlzovlWqFxWONqy14KRUN9F6ZtaS52oAcGHxV0HV6uXU89gJXvBkBOLRI2lFIl7E6JCSegrL",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvA9mmbCqPpCusDVc2XcTaF1tLPttr9FAh2CT/HvGROMKj2MjgSQZ7KZ+5hSqznljPQ=="
       },
       {
         "name": "242 CORAZON TV",
