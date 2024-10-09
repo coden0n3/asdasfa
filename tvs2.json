@@ -686,12 +686,12 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjYNrX1bgZqfkxHFol1M1AnGUkWVkR4N+FMmO6fijkquMA=="
       },
       {
-        "name": "204 HBO POP",
-        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-pop-lam.png",
-        "uri": "dez5A4z4WD5QF8gm7PEZMFvXGrjPWI3XTMm+uoly8S+gW2f2LW0BCmRGn5nIFuafN8+E9Agu79MR15frlCP2a2cmGVhpxig2IWNwd1vIzdEsIYzDBsI/HzXD5nTuxMds",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "q48fzK4bk8urgNBcLIgkIRxXUoPFqrBJEu+WJZG4DHahb139wXpy4Bgpaohx0W2m"
-      },
+    "name": "204 HBO POP",
+    "ico": "https://i.ibb.co/R3BXfDK/hbopop.webp",
+    "uri": "AC/VapUExTEN0dJuIvkNUeNJ9tc/2dOoxV03k9KfeSs+1cyr00r1kfLmKdJmYd4d0HpjyMVC1SkzBgazerIAn/i16rdS8HY6rhjhHlY59GNIy/LRSU0gqxZzb7w5n18NddcQ6B+SrYnzGZ8KlkHKqtOF2Qxc859dvuyrxwSnBkkQhkx5+bi8EmMfrHaAIFht",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "Z0p2/Nrcy3axbOwF/b0tIrTW/vLbADzNvcYAmnlGpGhj1xGlsHL9x2SDSCLau3avT+MzHTl3pbZ/J6BCs1SlGOjQQ8e/VQFjNZ7eQBeNIrMgbh+mqN7kSIjM1jjDuTOqzA/46rL1bJ8Xp4NvW7MUFm7PK6HM9YyYcJWHou4CHBqi2DFor/Xe9bbKxCD396n4UPb8AUlkQJpLWd4g3giskGDFvK6UNw7rI2UWsuvvEzMPgXZ6+QiquTAA0dNyEvPvgtZV56/5yURk/fUKiwYTLkpSE8uai9li25L2GEN66gE="
+  },
       {
         "name": "205 HBO XTREME",
         "ico": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
