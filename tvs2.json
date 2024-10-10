@@ -1125,12 +1125,12 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjZ8fYttkQaO9v/Fp3cA/FkS"
       },
       {
-        "name": "272 TV ESPAÑA",
-        "ico": "https://static.flow.com.ar/images/728/CH_LOGO/350/500/0/0/834899000759.png",
-        "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBZQeKZhBohyL6wccMFJU72kS0L5OoUzTbxd7toLOaQhJa6iBRYtG0slVWF+HRZK8E92j8D9Ycl2U/L96fLyLul",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjaQV7RDIUncATs0Vob2r1oMHbwYvMy85jwXhYw98dH0uA=="
-      },
+    "name": "272 TVE ESPAÑA FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1024px-Logo_TVE-HD.svg.png",
+    "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2fiZRNmAZjKQodIEGU2iEhtQjOJlN+9EbJ9++yah3/94=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "273 TV5MONDE AMERIQUE LATINE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_TV5_Monde_-_2021.svg",
