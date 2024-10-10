@@ -4,78 +4,92 @@
     "mode": false,
     "lista": [
       {
-    "name": "18:00 Venezuela vs Argentina",
-    "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
-    "uri": "AC/VapUExTEN0dJuIvkNUeNJ9tc/2dOoxV03k9KfeStBn7TMReVoIxZcsdZEQbMSdjpBK0KQnMBstrH+ZAahnpEBlRIt7P6mk+1xs19Sd1MhaPRqfZIqycBfe93gYIyb89e65pNB7wwtC2m2hKwo0wi1Rv+RKCQNq+SpD51hfp/N0Yq7PoMNDSXvSW0K7SIC",
+    "name": "ARGENTINA OFICIAL",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0fOpe0XFDA/CSMRnsX8gYevC/Gcj7j8UKZaI3InmfIq8OXHke2c9Fatj/QHrkKNvIKstrPjtzpxZ5hn8GLqJL",
     "drm_scheme": "clearkey",
-    "drm_license_url": "Z0p2/Nrcy3axbOwF/b0tIrTW/vLbADzNvcYAmnlGpGhj1xGlsHL9x2SDSCLau3avT+MzHTl3pbZ/J6BCs1SlGOjQQ8e/VQFjNZ7eQBeNIrPOGgu42Yk0jUI6d785X1+skZnD/DU2xQrSfR0jfEP25OcbKlRdF3CSennVQ9HPN0ZZCuwkO9QohbFV355rO0ohXvrY0zm2jDtqNzDZg5JjzOdDPgiUDMNeynE8smEb3QvMTdRoCs7ifS1AdKab+/BLgK4Fa7zfIGNcMaM6qHwAXAcFRRs8c+hlAZsGfP9j6vk="
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi/kxbF66U/NX+R5UFpcdB5oESjXxlbZKp9r+zB20nvs8Iea04v0lG0T6NvD3ZiwT12UCZqJU0UUgJAZJT7F3MR7GCacCedn8SXNmD4DSrv1xWk4ryCTt7DHrZ5hwZHIJQ=="
   },
   {
     "name": "17:00 Bolivia vs Colombia",
-    "ico": "https://static.vecteezy.com/system/resources/previews/015/272/184/original/bolivia-3d-rounded-flag-with-no-background-png.png",
-    "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7pv8sQBSM/tm3eajKaoyYOM=",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2g7brIY/C3lCAXxA7LoKtwMpkIlqw6xS8GjeGU+en8Ew=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "17:00 Bolivia vs Colombia+",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8MJC7b9EVP6ebHni+qUO2mqPT2tfczLxkq5QUg49KWSD/UpnDTkMFIGvSJG8+zK5cQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "17:00 Bolivia vs Colombia",
-    "ico": "https://static.vecteezy.com/system/resources/previews/015/272/184/original/bolivia-3d-rounded-flag-with-no-background-png.png",
-    "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7prhEkC+5dUx50xXd6XSCyE=",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lgbU0LVHZaUMZyy6VqsAsYnsQB5Sd76W8JqqL4vVsBvU0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "17:00 Bolivia vs Colombia",
-    "ico": "https://png.pngtree.com/png-clipart/20220704/ourmid/pngtree-colombia-flag-png-image_5686476.png",
-    "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7hQF6dQxsK27iuLZTlLhGAA=",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lgjW6X5wNWK1rDpqG9BhQZIws+mS2XBjFTpU6BX5GGot8=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "18:00 Ecuador vs Paraguay",
-    "ico": "https://i.ibb.co/sJ50F00/gen2-removebg-preview.png",
+    "ico": "https://iili.io/29TIjLX.png",
     "uri": "AC/VapUExTEN0dJuIvkNUeNJ9tc/2dOoxV03k9KfeSu7DsZcbZAFu/xBcUkNsHVLBG8J51puWsUF2mPTnh76NiGmKc7eVvpipPQO7IeAbzFGqNOZfG90UIaFzCNycUBTRI61gSt1zJKGttt/7T3etg==",
     "drm_scheme": "clearkey",
     "drm_license_url": "Z0p2/Nrcy3axbOwF/b0tIrTW/vLbADzNvcYAmnlGpGhj1xGlsHL9x2SDSCLau3avT+MzHTl3pbZ/J6BCs1SlGOjQQ8e/VQFjNZ7eQBeNIrOXNVKR7CSy6HX6IR4ACCE9gbf0yS/82JSCITJv2a9DToD/JdVCeGcN2ZitaYV77Tt+NjrrSILTHtmZm8oTjRz40+1J8oZfr5UDHAt2H8j1BFwcx9IbkMPOlYKjt17dYTTNsv+FDjAXo31Vq+vlrhPsixMEih8m9xTJ5w2hgFQaIzBDqyRCDXxdNQ2fzLu91i4="
   },
   {
     "name": "18:00 Ecuador vs Paraguay",
-    "ico": "https://static.vecteezy.com/system/resources/previews/015/272/161/non_2x/ecuador-3d-rounded-flag-with-transparent-background-free-png.png",
-    "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7vDFx854XEYZEiP8avkt4OE=",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lgzyOGCZCJ1Ukh75PXct85ACgAmPXmON04zqpZCIx6x6M=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "18:00 Ecuador vs Paraguay",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAMscz0a9817ISpDOxJywoy2Bn0/z0+cUaDAtOI4EJqk/WCZoASVSB0duuyDrCI80E=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpq4Xr4iB+haIjpzTOUQm8e3AxPVdb9hI7DRTXS1KkSCOArRtdRMJpoHaQIAGFVTXVt5uDmHSrpZnLy9qfcDXY1CE8p0cxo1RkTgByrMgQ3+muQwLbzX62UUmjCcYNC49w=="
+  },
+  {
+    "name": "21:00 Chile vs Brasil",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lgCnQkPv7qU0rYoPWC9XwsBslYiYrTV7JH8BAOgpD4Wew=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "21:00 Chile vs Brasil",
-    "ico": "https://png.pngtree.com/png-clipart/20240302/original/pngtree-brazil-round-flag-glossy-glass-effect-vector-transparent-background-png-image_14476633.png",
-    "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7oZqbXvn7Hr0MEMX50KNS3I=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "21:00 Chile vs Brasil",
-    "ico": "https://png.pngtree.com/png-clipart/20240302/original/pngtree-brazil-round-flag-glossy-glass-effect-vector-transparent-background-png-image_14476633.png",
-    "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7lEmh0YKBrSTIegsQAl4Zxg=",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lg9k0ka6Ng7s/vKha1TKc3+ve1TY/C2lq6UPmKjdUH9bU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "22:30 Perú vs Uruguay",
-    "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+    "ico": "https://iili.io/29TIjLX.png",
     "uri": "AC/VapUExTEN0dJuIvkNUeNJ9tc/2dOoxV03k9KfeStBn7TMReVoIxZcsdZEQbMSdjpBK0KQnMBstrH+ZAahnpEBlRIt7P6mk+1xs19Sd1MhaPRqfZIqycBfe93gYIyb89e65pNB7wwtC2m2hKwo0wi1Rv+RKCQNq+SpD51hfp/N0Yq7PoMNDSXvSW0K7SIC",
     "drm_scheme": "clearkey",
     "drm_license_url": "Z0p2/Nrcy3axbOwF/b0tIrTW/vLbADzNvcYAmnlGpGhj1xGlsHL9x2SDSCLau3avT+MzHTl3pbZ/J6BCs1SlGOjQQ8e/VQFjNZ7eQBeNIrPOGgu42Yk0jUI6d785X1+skZnD/DU2xQrSfR0jfEP25OcbKlRdF3CSennVQ9HPN0ZZCuwkO9QohbFV355rO0ohXvrY0zm2jDtqNzDZg5JjzOdDPgiUDMNeynE8smEb3QvMTdRoCs7ifS1AdKab+/BLgK4Fa7zfIGNcMaM6qHwAXAcFRRs8c+hlAZsGfP9j6vk="
   },
   {
     "name": "22:30 Perú vs Uruguay",
-    "ico": "https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png",
+    "ico": "https://iili.io/29TIjLX.png",
     "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7tNsQfjOngJDxmYjaZpOSPU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "22:30 Perú vs Uruguay",
-    "ico": "https://cdn.pixabay.com/photo/2019/03/18/08/15/uruguay-4062572_1280.png",
+    "ico": "https://iili.io/29TIjLX.png",
     "uri": "DxwY6mlGMXDr4sSgitkPBUZ4T1oqHQo+wowc2uw4Oe6k6blDZgpE5rxKTAqaDu9zZOWVmWAoHlhkulznI/Zw7mNhIOV+4WRISMcCU/mO1w8=",
     "drm_scheme": "",
     "drm_license_url": ""
