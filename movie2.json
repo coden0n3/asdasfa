@@ -4,7 +4,7 @@
     "name": "ESTRENOS 2024",
     "mode": false,
     "lista": [
-       {
+      {
     "name": "60 MINUTOS",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",
     "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXYZL8+xGLtwnqfuXDg97FYU3Ua8G9Y6uAMbjnyjp7WDg==",
@@ -145,7 +145,7 @@
     "drm_license_url": ""
   }
     ]
-},
+  },
   {
     "name": "▐ ANIMACIÓN",
     "mode": true,
