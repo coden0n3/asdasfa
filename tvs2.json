@@ -1042,13 +1042,6 @@
         "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjahBK3QsznYM1PWJwECoSexFaxEdLuB66/mDxGkH9+YKg=="
       },
       {
-        "name": "262 TRU TV",
-        "ico": "https://static.flow.com.ar/images/122/CH_LOGO/350/500/0/0/61224231071260.png",
-        "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBzBkJlHBKu1kvBQ6b5Db0btCgqTgQnKZLrE+XxLN6lwgOjCn4mSqEt2iWYF/giWXk=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "DZa4QrBWvTrCjJ16w3qFvCs84RG9uFpPhbFU0ww+cjafWAUkE5StdezY2Gti5uPA"
-      },
-      {
         "name": "263 WOBI",
         "ico": "https://static.flow.com.ar/images/733/CH_LOGO/350/500/0/0/2654526707723.png",
         "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDzXKwNXBdAGIOo+O7QxiE20tA/ML+/66WQdNVqEYvp/9rWa95Jkny0PwllemuQHOE=",
@@ -1068,14 +1061,7 @@
     "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJg08Ot7zQP1CsLiCMdEGNLQ3335Z5+gVxiFiVeAZJSL9jd7X+eYhgopgVzbcv8YVBcNk+mHIGA0kJzBg5JHklv6ZLaMalZ5xyNHESVd1rnTAA==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "RCN TELENOVELAS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1280px-RCN_Novelas_logo_2019.png",
-    "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBV4nF3g5u+OLlonkjbVXn1lg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   }
+  }
     ]
   },
   {
