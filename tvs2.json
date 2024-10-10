@@ -1552,156 +1552,121 @@
     ]
   },
   {
-    "name": "▐ DIVERSIÓN 24/7",
+    "name": "🥊FIGHTERS: UFC- BOXEO - MMA",
     "mode": false,
     "lista": [
       {
-        "name": "366 PEPA PIG",
-        "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzNL/9S1asfFZO2ICoFQmxFZhRdGyW7nEfLQsPNn6B/Oo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "367 CASO CERRADO",
-        "ico": "https://budtv-ultra.com/posters/1711913283211.png",
-        "uri": "x+PEnVy5rr4y+QVFUkGPwR2JzMebkoZQcMB+llsoWsh5IjUax89QLlJ/ovdAib0oF9nl8uuwzHxeAkQI/OsMBQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "368 EL CHAVO DEL OCHO",
-        "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzqEKk9iZ+p+RkLrvj7EtKNxhsN6H2ofrubtKpmxLDBGY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "368 CHAVO DEL 8",
-        "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzqEKk9iZ+p+RkLrvj7EtKNxhsN6H2ofrubtKpmxLDBGY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "369 HEY ARNOLD",
-        "ico": "https://budtv-ultra.com/posters/1711908596346.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzeqq2P8819QmGUV95sIFXLQandP5J1RTGPg3ORX7fm08=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "370 DINOSAURIOS",
-        "ico": "https://pupilasembrasas.com.br/wp-content/uploads/2014/01/42381.jpg",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzVR/dqPW/I1UidQNfYu7p0xc013rpcWsbn934xb5tvOk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "371 CINEMA UNIVERSE",
-        "ico": "https://i.ibb.co/WHSSMQ1/Marvel-Cinematic-Universe-Logo.webp",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzTu43LXeIO/CJRyATWvAmE6IBlMqDIDNmqkgiezNEYCU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "372 SOUTH PARK",
-        "ico": "https://i.ibb.co/F7NFVcV/south-park-logo-by-zizigolllo-d8k6cad-fullview.jpg",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzSlJ/JBZnUzRsf7mVQDK7LaiRuDIrPopqmNBnAo1EWPg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "373 LOS SIMPSONS",
-        "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzAgzr77ScIsk8CgbzbYPL9VFRMC6LL6RjMvgVnps2S/4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "374 DRAGON BALL SUPER",
-        "ico": "https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuz8MKkZB5++FcylaXRTOLhY1egCgWwjydnykxHAjsFLgY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "375 EL PAJARO LOCO",
-        "ico": "https://i.ibb.co/4TJ8k2p/6a0a77a49e190ba1ec1211b426b0ef7c.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzytYX86HzsJYTobFtLWcYRwQmySUK5QpgLhv7dI2zGBU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "376 NARUTO",
-        "ico": "https://i.ibb.co/NSPys4j/imagenes-sin-fondo-naruto.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzBCfj32YAO7cUWzwN/dWrz/5AqJovmhsLupVbXUug2uo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "377 BOB ESPONJA",
-        "ico": "https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzOPKmRxdTeP780UZFiJ+yMXdew0mnCBssVRxMg9N4oTA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "378 TOM AND JERRY",
-        "ico": "https://www.clarin.com/img/2015/03/24/H1JtXsaQx_1256x620.jpg",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzApwY7nXdD7I0mAEuWYQi4VvDkyuk0Pybv6uGRHUos+4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "379 DOCUMENTALES",
-        "ico": "https://static.wikia.nocookie.net/dreamlogos/images/d/df/Canal_Documentary_1993.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzEWvb5KTB2fVRFB1NjTjJU0ZKJzyaDtXz8eUe9lCJW2w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "380 PANTERA ROSA",
-        "ico": "https://i.ibb.co/PcCk0wH/f6633e6de07c300d8397ef9f4c980849.jpg",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzxAE4iTAoW29dJ490yGozr5+tgAylE05/+DkQxL+Qod8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "381 SONIC Y SU BANDA",
-        "ico": "https://i.blogs.es/2596e6/sonic/1366_2000.webp",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuz+jOW9wVuSa7kYfIinF72CQ6J4alGfw258VDMSm0Si0Q=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "382 PATO AVENTURAS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Patoaventuras_logo.png/800px-Patoaventuras_logo.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuz2TE7nD+8kZ159Y5sT7qCH9x19SSK/PZJzEsCWToShZ4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "383 PADRE DE FAMILIA 1",
-        "ico": "https://fotografias-neox.atresmedia.com/clipping/cmsimages02/2020/03/05/152D3E9E-7A8B-4B77-B6D3-7A4D9A7767E8.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuz6vv2/lZ0RjPLi8TYLvBo0/WM4Xly41o5rANsOwvh8II=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "384 PADRE DE FAMILIA 2",
-        "ico": "https://fotografias-neox.atresmedia.com/clipping/cmsimages02/2020/03/05/152D3E9E-7A8B-4B77-B6D3-7A4D9A7767E8.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuz6vv2/lZ0RjPLi8TYLvBo0/WM4Xly41o5rANsOwvh8II=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "385 LA LEY DE MILO MURPHY",
-        "ico": "https://i.pinimg.com/originals/00/35/e6/0035e63dedffc14ab972227f98b9e322.png",
-        "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzByupLmKgrATRxNoJ9oG1l41ZQdgazb6DRxLy/QrCZC4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+    "name": "HARD KNOCKS",
+    "ico": "https://i.ibb.co/MGq0gyX/hard-knocks.webp",
+    "uri": "a6EOA5Xh3k2PxlAGpOZVcy81NYhepfggwuK0NOcdxpP9b3TgZzgwFX8U7NnXfCTheqgxYVk6PlGFdmyxFPJurL9MmPs4a11RTEltTtvQ0ckUtWwC23/nK4phOi6o4qLekCxn2a0pIuIFDRRdM8rNseZxCfgYV3RE0D9sRBXYxPQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COMBATE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png",
+    "uri": "gnM2Pl1UQqhVm57+2mFhDO2PUNMUQLvzFsL6jFmTA9VqCfCek3+Isv9KWUsZFTmDRcCNRvQUMYWZhQf2k0FhZ9pE6FfxgBaiEAAbW5rzLPo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UFC PASS",
+    "ico": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png",
+    "uri": "UpOrJs4XUutQu1SSbk++xmrz5iUaW/n9nV93DT1wlJakZbeZ0Jqz1d0ICAvMaRAbbQ+ny6xQtX5OVj+tG+lvlAHy/8kK/LM0iGfXgS4Xuzo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BOXING TV",
+    "ico": "https://image.xumo.com/v1/channels/channel/99951154/600x337.webp?type=channelTile",
+    "uri": "NL67pg4GljXyY9PoaaDnHTR9Oh4Sf4z51HlvsldufflOPcyYdlUIASLK7OjGOVhYDzVwkHIz009SJ/DDxPdTyG6A3pAuB0pb1rbTgMQTZ4Jy2nCtlYwl7IZ0bxSWiqKcK7Ks3qoPMw8Ffy4CkPCIww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UFC",
+    "ico": "https://image.xumo.com/v1/channels/channel/99951134/600x337.webp?type=channelTile",
+    "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJhhPUev0vqZdfOCUH102n8eAX/Cl1ShdKClot8N2OHm51OtmO5M8glM/qIWsE1FJi9pYZtKHQljxYNAZknaY6vy",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MMA TV",
+    "ico": "https://i.ibb.co/ZhxL3T3/mma-tv.png",
+    "uri": "NZdRmnGHJkgnn4gBFNw5uOL/qe/hqwgBTLnpXuxTuxj210rrFeMWHTkaQODcyk0sisVBcTdD5eAWMKatOReyog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FIGHT BOX",
+    "ico": "https://i.ibb.co/wNr5192/fight-box.png",
+    "uri": "j1dDvKwyIRTBD/9Kq4G8YdkVs2UDhGL0cs1iqxpf6ojE75ejyX85Agr/0fIw6HMVCgTlHoVTeg4Ltv8AggBCUkNmLiVvehkU5NdnfVnamXfitRyHrShbspE+SYAoRDbL",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FIGHT NETWORK",
+    "ico": "https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=channelTile",
+    "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJhhPUev0vqZdfOCUH102n8eUj1iDw8PXTI5Vsam0Rxhl2Yp1ysuAnuSoPX015q24LGG7GqwMbOKRcxOTPhwQxiu",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FIGHT NETWORK 2",
+    "ico": "https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=channelTile",
+    "uri": "FGCPyLHrvTCbMT2TeDnu49AROGDv2UHubr6cSRK2XHdyJuN2l51yAwU/ABLtDiGZ0YTC+I8YiOn9aMU/AJfAVzMxIsPF6E57VXLYHKOHY2Tnzgzof9lsW50JY+18P2sNQXVdIxkg9zYPArSEBo3C8wxo9u/KRXM/pbvOoJ/sCJE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PROFESSIONAL FIGHTERS LEAGUE",
+    "ico": "https://image.xumo.com/v1/channels/channel/99951203/600x337.webp?type=channelTile",
+    "uri": "NL67pg4GljXyY9PoaaDnHTR9Oh4Sf4z51HlvsldufflOPcyYdlUIASLK7OjGOVhYLwfzUpbwWSaMLr7mTxjuJY317k+3lgHCK5zvXsjJTXdb7iZEmqpgWxPD4PjYb49PP3LdWHBqZ42KDKtj82RQww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FITE 24/7",
+    "ico": "https://i.ibb.co/pjHcQHK/FITE247.png",
+    "uri": "XoNTm9iHUju7wAL3Zai+JZ3C2wOuAyHu1yqreV/Hn9FIpvDS2FDJpt+J/wloHy0+zXB3Y4nfGdd6bvsrE4Q2nhN5NLvUtmYN4w3+iOWAuyWTHCJRCuXYkQexZ9AIYpXxquSyHJJh2cjsaJAlHpdctjcASXTIkWz91zhBTm7hig0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SWERVE COMBAT ",
+    "ico": "https://i.ibb.co/2gDHQxW/swerve-combat.png",
+    "uri": "FGCPyLHrvTCbMT2TeDnu49AROGDv2UHubr6cSRK2XHdyJuN2l51yAwU/ABLtDiGZ0YTC+I8YiOn9aMU/AJfAVzMxIsPF6E57VXLYHKOHY2RsgvrqbpChKKQcrAnCThXlO8URoV0dyB7+SXnBjneTgU7vXkMjRqqzVnbne5BCk4I=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MMA JUNKIE ",
+    "ico": "https://i.ibb.co/D4T7phH/mma-junkie.jpg",
+    "uri": "FGCPyLHrvTCbMT2TeDnu49AROGDv2UHubr6cSRK2XHdyJuN2l51yAwU/ABLtDiGZ0YTC+I8YiOn9aMU/AJfAVzMxIsPF6E57VXLYHKOHY2SBd3aD3UpgqDxkeAwkGQPECDACBS/+rjrT4MA2dhT/pQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UFA",
+    "ico": "https://i.ibb.co/CmdBHzB/ufa.png",
+    "uri": "FGCPyLHrvTCbMT2TeDnu49AROGDv2UHubr6cSRK2XHdyJuN2l51yAwU/ABLtDiGZ0YTC+I8YiOn9aMU/AJfAVzMxIsPF6E57VXLYHKOHY2R2wEeOm/3aOVSLcxDSGbiveJUrEez+00fDzFQTRbApKCRDlDOwnI8rnELhXa4tkeE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FIGHTING SPIRIT TV ",
+    "ico": "https://i.ibb.co/sFvRTLs/fs.png",
+    "uri": "FGCPyLHrvTCbMT2TeDnu49AROGDv2UHubr6cSRK2XHdyJuN2l51yAwU/ABLtDiGZ0YTC+I8YiOn9aMU/AJfAVzMxIsPF6E57VXLYHKOHY2Tgq0+z+wM2NkcNO0415FIOVhauKbojeOZ6A4I+mcru7nsfplISf2I7V80M3RwoxgY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHANNEL FIGHT",
+    "ico": "https://i.ibb.co/sVwQKzC/channel-fight.jpg",
+    "uri": "nrlh/mQjJ7IzJFGasCEF75A2xm74Qt4D/W0Wwfo824I2JuNXuRBHvCyERTksobv8viGWrp86K8NCOqC0sYtGW077GbX/jhehsIZ9Sj/amGYngiuzHouwdlyrVDYci36OsEbOlxxGQSImI7icPVl+GI14aS0IqJSjjTNXvsgBy8M=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   }
 ]
