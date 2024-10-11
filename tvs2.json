@@ -1,5 +1,60 @@
 [
   {
+    "name": "ELIMINATORIAS SUDAMERICANA 2026",
+    "mode": false,
+    "lista": [
+      {
+    "name": "PERÚ VS URUGUAY (ARGENTINA)",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0fOpe0XFDA/CSMRnsX8gYevC/Gcj7j8UKZaI3InmfIq8OXHke2c9Fatj/QHrkKNvIKstrPjtzpxZ5hn8GLqJL",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi/kxbF66U/NX+R5UFpcdB5oESjXxlbZKp9r+zB20nvs8Iea04v0lG0T6NvD3ZiwT12UCZqJU0UUgJAZJT7F3MR7GCacCedn8SXNmD4DSrv1xWk4ryCTt7DHrZ5hwZHIJQ=="
+  },
+  {
+    "name": "PERÚ VS URUGUAY",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "0AWQaYVNTu1fZRYvGLicEAsX6yS7nm/aX+X7z9zhg/12WVWCwoPOVtzdipgUjvqEX0QQgzgjRCfDN0Qa9nqRX0cjLAd0xLP9O3pDJZsL8+o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PERÚ VS URUGUAY",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "0AWQaYVNTu1fZRYvGLicEAsX6yS7nm/aX+X7z9zhg/12WVWCwoPOVtzdipgUjvqEX0QQgzgjRCfDN0Qa9nqRX0cjLAd0xLP9O3pDJZsL8+o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PERÚ VS URUGUAY",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lggNkPfMHPdRIoAldshdCIJoSUXcBfW685Ks04FN0ImYI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PERU VS URUGUAY",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lgLP15dwzcP9zHZAFtA89+GvLKn6dZRnyNrz2TDQFRnVo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PERÚ VS URUGUAY",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpc1YeyC/BsXdLNw6AazZXue2kc68UQzWK3iTDI9XgeJap7obAWyH6nPCJUeU6b49a2IsgMMVgzFVqTchYIUJlv862yOi9QAzaUzvKWWWD4tD4JOHeGEzjFiOn3kTgirecOfSy9HKD61UeLFFr9MDo+rbWSesBkjfonGP7Ojb4ObMebFUqWpi+5ndth6vOM6JJQJvtYHDr36s+aJPbQfDGMXUtBaL3thgjIqdfYL0ewEhDk6HuT+qmRUMrW0ALFr1LY=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+  },
+  {
+    "name": "PERÙ VS URUGUAY",
+    "ico": "https://iili.io/29TIjLX.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0fOpe0XFDA/CSMRnsX8gYevC/Gcj7j8UKZaI3InmfIq8OXHke2c9Fatj/QHrkKNvIKstrPjtzpxZ5hn8GLqJL",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi/kxbF66U/NX+R5UFpcdB5oESjXxlbZKp9r+zB20nvs8Iea04v0lG0T6NvD3ZiwT12UCZqJU0UUgJAZJT7F3MR7GCacCedn8SXNmD4DSrv1xWk4ryCTt7DHrZ5hwZHIJQ=="
+  }
+    ]
+  }, 
+  {
     "name": "▐ NOTICIAS",
     "mode": false,
     "lista": [
