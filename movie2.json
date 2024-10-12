@@ -1,54 +1,6 @@
 [
     
   {
-    "name": "ESTRENOS 2024",
-    "mode": false,
-    "lista": [
-      {
-    "name": "ALIEN: ROMULUS",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXYZL8+xGLtwnqfuXDg97FYwtAXcR1SVw0uvyILtM3Ryg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GUASÓN 2: FOLIE À DEUX (NO DEFINITIVA)",
-    "ico": "https://image.tmdb.org/t/p/w400/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXYZL8+xGLtwnqfuXDg97FYkNDlOiE+90EqOKwjAQrRmw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "JACK EN LA CAJA MALDITA 3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRf4gjq0aW1MX86pUhhMcnF9QB.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXYZL8+xGLtwnqfuXDg97FYzjoVQz4p5d39jmEgw2X3Pg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RECURDOS MORTALES",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4p4lA5P8kV336z1WrjxYS1r2TK.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXYZL8+xGLtwnqfuXDg97FYn+Z+T2+WpxNhh6tcyG781A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EN LAS PROFUNDIDADES DEL SENA",
-    "ico": "https://i.ibb.co/2P0Bw3M/sous-la-seine-902824671-large.jpg",
-    "uri": "owtczOSaFUXS5e1xpo1ZmTn8J/BBAm42tgJflVj12MoFvF51wN7p7TeN1jnY1IbajNuJLSbzX7kG12+hsFZTSw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL PASAJERO",
-    "ico": "https://image.tmdb.org/t/p/original/pkQLQpdbomYrxQtQS3lop8WJAxk.jpg",
-    "uri": "owtczOSaFUXS5e1xpo1ZmTn8J/BBAm42tgJflVj12MoFvF51wN7p7TeN1jnY1IbahgzEzllMYd1IKjLUee1x0w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-  {
     "name": "▐ ANIMACIÓN",
     "mode": true,
     "lista": [
