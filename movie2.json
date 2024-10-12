@@ -1,55 +1,6 @@
 [
-
-    {
-        "name": "RESIDENT EVIL",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-        "temporada": [
-           {
-    "name": "La luz",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1GJHuGqNLHSUVby3pyzo8IiAZ/bDf44XfstD5X6uWoKkwMBLa1G89lwnaalUIbB/E=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+    
   {
-    "name": "La transformación",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1GJHuGqNLHSUVby3pyzo8IiAZ/bDf44XfstD5X6uWoKvkU3CcFjbm7LyXwzlywd1U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Películas caseras",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1GJHuGqNLHSUVby3pyzo8IiAZ/bDf44XfstD5X6uWoKn1cvEMJsdKARJ2ViU4VXcQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La hija de alguien",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1GJHuGqNLHSUVby3pyzo8IiAZ/bDf44XfstD5X6uWoKpb1dIENpU5dc3/KdQx6b+Y=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Parásito",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1GJHuGqNLHSUVby3pyzo8IiAZ/bDf44XfstD5X6uWoKt0Ovf1JVMZSPdLK0mBNiX4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Revelaciones",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1GJHuGqNLHSUVby3pyzo8IiAZ/bDf44XfstD5X6uWoKru0LkR3r2kfZIqKC0gKvxs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-
-        ]
-      },
-{
     "name": "ESTRENOS 2024",
     "mode": false,
     "lista": [
