@@ -1,5 +1,96 @@
 [
 
+    {
+    "name": "SERIES 2024",
+    "mode": true,
+    "lista": [
+      {
+    "name": "Todo sobre Vicky",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHW2jBI7UYOOU1X1hj9kFdG0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrilete cósmico",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHZAKV0XjE7uuQYYNlNxgCes=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ametralladora de likes",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHXwK8MZFYPQ8lvTPBwoszhA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Leona pero no campeona",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHWp9YALXVKoxWV8Tr6MGmGk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El juego de la vida",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHWNteYS3Gx+WvVDOkHaIWqg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Pizza Delivery",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHQx4l4PxE9IBVka7wtg5Nbs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Todas se casan menos vos",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHSZ2opDvJ8V/ySO3znAHS+4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rota y Roto",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHRmgbcy4+F8Jf7rwYxicpJ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Historia clínica",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHd62ZlsNkociUE//ynyOdGM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Un zapato feo y cómodo",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHRV6gQhqOT95RoKnc7r9OK0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mujer quilombo",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHVwHrnL/uJC/TuVW+JoPfR8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La sirenita",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3uGpo3sQuCpseNtu8vquAh1NXVUySUQ97fufltrMKbWGddfx0NEfUtsdnj4t8RbzHekYFVIgu+sQ32uIyHRPcEk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
+        ]
+      },
 {
     "name": "ESTRENOS 2024",
     "mode": false,
