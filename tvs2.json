@@ -606,99 +606,295 @@
     ]
   },
   {
-    "name": "ARENA SPORTS",
+    "name": "ZAPPING CHANNELS",
     "mode": false,
     "lista": [
       {
-    "name": "ARENA  1  PREMIUM",
-    "ico": "https://www.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpc1YeyC/BsXdLNw6AazZXue2kc68UQzWK3iTDI9XgeJap7obAWyH6nPCJUeU6b49a2IsgMMVgzFVqTchYIUJlv862yOi9QAzaUzvKWWWD4tD4JOHeGEzjFiOn3kTgirecOfSy9HKD61UeLFFr9MDo+rbWSesBkjfonGP7Ojb4ObMebFUqWpi+5ndth6vOM6JJQJvtYHDr36s+aJPbQfDGMXUtBaL3thgjIqdfYL0ewEhDk6HuT+qmRUMrW0ALFr1LY=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Net TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
+    "uri": "jc2wUWBhzx3t/qDXdrqrnD8DUaLc2Y55x1qOdurYFNJAGhPQzdfQ/h097CJ79ZQ8Qezhhn52oL1mEaqBX8rk0w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  2  PREMIUM",
-    "ico": "https://i.ibb.co/XFwwGcL/tv-station-rs-arena-premium-2-2697.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpfCEiz87q8sGd63HuQEEiqsCqaZJpdrAOIe2CGuRseIbyyRQFwUZKvDnS9zmiuBGcejrRbXuKT0qr2k/e8AK/9TBbFNA2+Gw65M3m3MGS3zwDoMxMytspy40vQ/Xa5ZnLtNDdcbi/o5Lu+fSpFY3bONaii9dUBzs/xE1PKxbLuDp1qgmVOfdf63yU2/fkIAvkGuVfimMD96H06PoO3mysaOjDm5OM8cneLucOPU5UA+auU2ixIjTlrWkKQ5ETVxwMI=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "AnimeStation",
+    "ico": "https://cdn.m3u.cl/logo/1081_AnimeStation.png",
+    "uri": "CHiXf3NfAkGLi4DACJSqz/JbjR/meHhealxTp2EXKhTcqv6hWHuYO8sEaXWBj+f4jNtodUJejtZVKbWYYAGAtTVx1Ea9MpaR6PQBfsDyJ5o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  3  PREMIUM",
-    "ico": "https://i.ibb.co/xHy202f/tv-station-rs-arena-premium-3-2698.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpfpazNc6y9+h05w8xG0OI2YJau/BGSdM84mjSxH5dha4JyTaRioiiWrdC/51AAT0lx/d0KcsrOflbhANfaLYhDCDH2XNk3YxwXNugRFdnhvoWR2Bpc/eVVathrCEZR7X6ipIBfjLjvfP3MjsaK8lyGuq5UC5p9TX6kBWxhYf9ghmJL8FGFPtA4/rCvLkPgWFtnHJHxEguq3EJupABaxtx6+0AcMX0jj3XQALkhkrp6sgU0L1TGtHgD/jljKyaIBh20=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Señal Urbana ",
+    "ico": "https://cdn.m3u.cl/logo/218_Senal_Urbana.png",
+    "uri": "qvJXDCXXK9G57ClfL6/ID5XTawwxvfzneHIAcC1+7v6tdUldHvDY81c61GmB4y/bJq8hOMKyA5YKx/omoOgG3Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  SPORT  1",
-    "ico": "https://i.ibb.co/rf9M95s/arena-sport-1.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpdtGoBe+4oDhg4g1YqvjYkIy3UMVE7qj51vyo9JKorQ3KyVxNtV0HfI8S3NC9uNfkdbE+Gq+XT2ridajO7FiBbcBjAG4jCcmbf2ysAc+1CkTiUfr+FiYfNAEW0Frn/TrzprJQNI5M2RtuXcZ3JfPURaX3lpMMK9A++1WKDrn4prhKvcNVZqtSxMTKaxoyy/oGwU6FPacpa15Yx9gZPOevDOWrPsM25V6w4T4yoTT/PQmffg3suSyTvGorulgLPsN3g=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "UNaM Transmedia",
+    "ico": "https://cdn.m3u.cl/logo/1010_UNaM_Transmedia.png",
+    "uri": "ifB/IBwOBNnSYg5Nm0q+JOtzusOvLFWJPfGKmYSI+LsSfV7rXNrDhL3FGSykgsiZ",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  SPORT  2",
-    "ico": "https://i.ibb.co/ZhR22dX/arena-sport-2.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpcbH4qvFLbC5mwh8SVD+ekuyC20P2EvN8b2qwx9ZNADGF/lFfjttp+I3G0Y2Q9GVzizoziqErOkgn7DavZWgcKCIQRokDVCV03OlDF+9o+t/Nkwa2TxmX9ZUUxgTmpLqkC4G1A3BY24GTDa3gZJwegZPZPoiG8y6UbDhX+NyytVQjFs0Xhics3d5JvhkJr12Gz3aPe55VJ58mHEU6ygOfwDVMvzdNhNLu9qucf5vmqtd/94+VYiT+rRQiId4Gh2DM0=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Locomotion",
+    "ico": "https://cdn.m3u.cl/logo/50_Locomotion.png",
+    "uri": "0KWUxkD94ARSWfhcrxIzr11jShzTb2hZVPfXTEOL+uCmzuw6zW1OdlovMIRG9vTy",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  SPORT  3",
-    "ico": "https://i.ibb.co/4Fm3Yt4/arena-sport-3.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpflbw6Zgg9kOiMT2nLsIGdfMI7teBQdK4Wow2QMG/2bR4WNrEmX6NPsuQbGDjcIgkQNmrvjQ/Y0Q1wX5Akq8fjXpvSXEiVtMp0CHPIbIcR4YpQi7vugPgd143331cUcftw+jZFQjB7/HVyU0VktQSXV/tEPJQ0dxNEZSoGnSoc//I7vqIxHKplOstM4W+s7oytB/7WLRWFicDQZ9vYZsceM0Xw2DjDHMvQhLHblPFbcQge6xpUrpvnZpj7DVeYDFBs=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "VariedTV",
+    "ico": "https://cdn.m3u.cl/logo/1335_VariedTV.png",
+    "uri": "DJuEHYRn630ayDJQbUOh3zthfMm+l0NBH+9fjfpTlvNF8WC2AugkgMcDpu2qYptn60KlhhPQaHrNYTArIYcLfg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  SPORT  4",
-    "ico": "https://i.ibb.co/B2yx1kj/arena-sport-4.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpcKuds/ACf6rjBuQ1iLNlatsSkz881dR7tZRhoj2oCHSrn6/HD8snjw445IpjzrP+hwOwpJJtL1tpSXqi+qy/FEw18hh03ODoc+XxEFFBvxYgmOZXsif3Obiapp2QkNbh82XMm/dCM2u5vgrPk7OTyhBBK8c01ibbcdJJ0D+Ah9xBmUdAdmvepP3a2Mf79ZbVbBDWnhMZKy+i6x3OgnLNO25qJuyfxPkyjytWz/2qfzPLQt5T9M6P3vMLskzk+i2/A=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "NMax Television",
+    "ico": "https://cdn.m3u.cl/logo/251_13_Max_Television.png",
+    "uri": "raaFaJpS/02JUKMo+BUjaLLtV+05ecn5VJKsrI/Mre/u4Q0AmnyWHDpDgfwGokIQ80d4bVf7H+Xau9E6zJIeMs7MBWMX8zE3oVnYkxaCbGg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  SPORT  5",
-    "ico": "https://i.ibb.co/4fFtdnG/arena-sport-5.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpc2Pie5djdxHDRy/EZHSTxz4sl5HgSezuCzXB2x60Za6A5NKizVvcVDqNF04tQKx0D7vjHIW//dR43miM6L9brEhdoSsGOJqeQ64bvPt2wbzEESX4X83b7yldiR7b6UeAN5SXzKIS0KphnkxXLiTMqk6QzRd9XMdAdXh69ul9R4U3Q+Hnv2Zuo+dA4eIc5KhWqhYCMZJjF6a1JyRp1EJuN65G/7ME75jmjx3FSkNbq99i57wksazap9nPj9X/8oaDM=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Bayres TV",
+    "ico": "https://cdn.m3u.cl/logo/1200_Bayres_TV.png",
+    "uri": "Ff98wgzF7wgTmpOCzf/2gMsFMfd7070bn/thAJrpt7W+Nnv9CT8DrREiuAlKUKxjGK+jAqlpVsbj6nEDwr0Z4A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA  SPORT  6",
-    "ico": "https://i.ibb.co/StQZdMw/arena-sport-6.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpeaM+5s/37e2jXjnW+NH6nuo0a02cuGGVFNzT9fghTUQVw/KmCJUncnRFFDKvyCSEc63Jpcz01ccL7DOdpZOfNPxFdbsg4/EiiiW7SvS/0f0ZYas7Z3sDsSNPX/KqN6Br21ADphfgTeRK2J0344Ns5YQmUI2Qnq4Zu8N89gIsfW5senwp4fZOa6wRi4JeoxgqUFJpelvxufLOsesYYODEfJNtsNM+mHc8bWuIzX/7WFDBpVrO9C2MYnbQ+XneOssxo=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Canal 12 Madryn TV",
+    "ico": "https://cdn.m3u.cl/logo/268_Canal_12_Madryn_TV.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnk/rg/0SVfCEiuDdfn2VD9fjKSYPI3hs3lKbiOME8j9+wbTOEOCpYKNHPE903MeF8g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA SPORT PREMIER LEAGUE",
-    "ico": "https://objektiv.rs/wp-content/uploads/2022/06/arena-sport-premier-liga.jpg",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpdRg6Cy/qralJTHcUU+pEm12CgFt8TZ3aL0LVLeG+Ri/pOXdHJOZiXLGDekms8j931K/jUvECHjz5UZfRMKhtCEPUfy5r/KmugSP0hAePkI1vctDKEIbv+C4g9Vtg3W9v6HGLAkJbf2dr1Af6fYKIEAsjj00MsVr10+n867b2bDqmvNIg9jkaXJLaSLM3UAKjemvhQ6lsAP22tr/UrfZcaSMg0PwIYGimTCkZ78xbPZZZMktpCOlYbGgT/sT2PimVk=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Canal 5 Pico Truncado",
+    "ico": "https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBC8FH/wmCEfVDH89TJ+1PNRe6qL5KFdDt4ofUxQbxZqJR4gCQS6tHGZOLQ6jsSCn7PA5sh3pkB9xsxJMjSarWAacDZyfrF6edBPVXcml3vXL",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA SPORT 1x2",
-    "ico": "https://i.ibb.co/FwGPKqB/arena-sport-1x2.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpfiso5/PcS9yJLlbG3TreCUPAV0vP7mZQiA8EOUEPmUQPMn6Vln1deiWKisXOi13Mkmo2C4ceZ+sWifY9+2/s2AyWsoZZ3LAJah2U2yLnPND0XTOWMxEd7jD/0axhfVyIczTNpYYuBcc1S6cTchXvn3j85D7OeEOeKIKzn3ROKdY4aO1yJf9M+yurzoxlu073YkhHaqN7en3mJvrmIGjYOuoyhzZ+Y+34G00SlsNXVF0KBjUZ6LfuE63T+z2CALLvg=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Canal Cinco Tigre",
+    "ico": "https://cdn.m3u.cl/logo/274_Canal_Cinco_Tigre.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor14tD3F4jT4Yz/n6edIgCGQnjZcMaM+ICLM0aoMftSjO6Xbbg9oNqW1Tl0V0ZxWvbkY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA ESPORT",
-    "ico": "https://i.ibb.co/x5CBgrg/arena-e-Sport.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpcqqn8DGO7YXS2qKIIdIAMPteseliealsJOzvWFJacptPeQw2dgjOxJ+7+lhVgYhgseqsGtZ5i7fhGVPXJstC/dXc58p7jh+YsHINvpJC7d+hxBgrVo7upk3D3VTetzGcJAa2lHtOgf0CBR6b1J6IYA73Z0BDcdlgf+b/E8EpaEvw+bLb7AtH3IpVbEvpqU3ENAfDP+rx5S9DsbhUluIdbMLt5K5Jf6ydweAoHrXoD7csQFWRVqYwhK/wJ3059yDiM=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Canal E",
+    "ico": "https://cdn.m3u.cl/logo/1417_Canal_E.png",
+    "uri": "jc2wUWBhzx3t/qDXdrqrnAqw4ZVS0u+n0LVp6LACEuGObdpKtRw8EFK/PHow8+TKN5lRjidje8+xtH32u03Xtp4/q1xKoV+ZRJPTbIf30Qs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "ARENA FIGHT",
-    "ico": "https://i.ibb.co/F6N3Bh4/arena-fight.png",
-    "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpfDBhjHcPF6Gn1I6XsRB0Dk9dUWs+xpmq/09t17R0N3kc2Wh2vAbl6Pk/wmTva9OPetnSnbemD5pkjuAIpsCbmyP8CHJwiWszlyzF6JFyXym6392NaxtwvCypR0Wwr81ZEzkfV6UFRcpjX4gaG5RKRgeOAyC9hzqNzyJvWzjSF2RBTiQQ7JwnX+0FCCnl7hOt+ZypBaiowgEGpee/HUWky1RC/6ajsGa7wSsMUviPQ4oBSVC7FKku9WYKbZNz65i9s=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+    "name": "Chaco TV",
+    "ico": "https://cdn.m3u.cl/logo/279_Chaco_TV.png",
+    "uri": "g9qoUiBJiljlPDVSvZDt9dW69xnckq0jT/yMqunyvnngd8+L4pUKRx9tMSL65Udv5JM4A17serHlU1RkN0yXLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cosmos TV",
+    "ico": "https://cdn.m3u.cl/logo/1143_Cosmos_TV.png",
+    "uri": "+/gcdYHnhMGj1Vnh9jo83Fcnkb0DrvESUFHaXwOw/DWaSAYd8J0CEI+0UTukqbPe",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GEN TV",
+    "ico": "https://cdn.m3u.cl/logo/240_GEN_TV.png",
+    "uri": "4pvj22sj1XIHP6iDTdgdV4yKQhmhov4VRMDY0dPTZ5AjCf21rD6LKdNL30EAnCYQ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Latina TV Mendoza",
+    "ico": "https://cdn.m3u.cl/logo/1621_Latina_TV_Mendoza.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor17+MB5+u1k12j3mm694UNT2Zu0og0TodMyjyyoNiGYWZNNOBo0KDQQDpc50zTH3xLg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LTO Television",
+    "ico": "https://cdn.m3u.cl/logo/1086_LTO_Television.png",
+    "uri": "P2Rdu7eF3RH43i9Z1J02GNqTncaCcYjvifQ1IMFsN1rGv4RbyCW5TP9mYOP14I0e",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Medios Provincia",
+    "ico": "https://cdn.m3u.cl/logo/1394_Medios_Provincia.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBO1M3V84KNvEBptVr6VJpEsTJYAI/k2fJjIwHfr14izr56TnRtfx6WV+yRiV6FJwyw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Misiones Cuatro",
+    "ico": "https://cdn.m3u.cl/logo/1362_Misiones_Cuatro.png",
+    "uri": "Bi3h+LQz5kUv7oCPixqzYRjnHCbkHjuwK837t5HxgrfkjZ6O+mY8GvWntTCc4eaLQZAZE1TY6Bh7lvZ0GNhoCreSFVgANn8C+rwF4p2u2vk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Multivisión",
+    "ico": "https://cdn.m3u.cl/logo/284_Multivision.png",
+    "uri": "G2wm2NLBqQE7WyP1DKPFoJDuHaT+RMCOEtgsu4s1P3/fJ1PQ3r2ZyqdoAhl5Mz+cXVtaSqVFGYWYVJ+n+HLJnw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Play Television",
+    "ico": "https://cdn.m3u.cl/logo/213_Play_Television.jpg",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYi91uKdvOYn6tE/iL8F8BLl9e1gOOfAjqrU2gcOtDY9w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Power",
+    "ico": "https://cdn.m3u.cl/logo/243_Power.png",
+    "uri": "/Q4zKyp0RlaYIBVCkDdv9K+61AkGeQdWfiBZ4VTjwX0TvT74H70lMfBRjocPe74pie4ZIo0uyK/J3LI7V643Qg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Power Max TV",
+    "ico": "https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor140QmPRZoo+Lc794UHVyjCbvwFCrcA51M+J7kzb+USANvjtz2MpXnXJs/KHoUPyMAM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sello TV",
+    "ico": "https://cdn.m3u.cl/logo/1406_Sello_TV.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnkpABVH+gI51e1XyNgxLII4Qr400foUuSHSrOyyaRdHzTKYP9SbggMBShTLGthiTpM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Telediez",
+    "ico": "https://cdn.m3u.cl/logo/245_Telediez.jpg",
+    "uri": "z/qAE2SzzZix3/x0i3b2ew8ooGKNpZ3hZqARlWv0cVFH4dHzfONdhPx8B87AtphJ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sicardi TV",
+    "ico": "https://cdn.m3u.cl/logo/288_Sicardi_TV.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TbYm74Qea24SeBpua2g4SDH8DTfB3SYU2cRrDDXkRJO1g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TeleNord",
+    "ico": "https://cdn.m3u.cl/logo/814_TeleNord.jpg",
+    "uri": "67irdqz2DE533H4/zDlymGrJKa/zFm9C//VQJ8IhAVLP4Jp7AEjDNPqGCsflYxqMs01YnYW9IihizY2+XBIYjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Telpin Canal 2",
+    "ico": "https://cdn.m3u.cl/logo/293_Telpin_Canal_2.png",
+    "uri": "Bu0Q7j2/SIC8JqIiUs/0080C9BmrWC7p9VHjMkZIdyJlRpNTna8g0h+daeysyq25njZJM+YMQHuURVc9CDTxbme3Uu/LojuqBq52dC5Iv9s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Tribu TV",
+    "ico": "https://cdn.m3u.cl/logo/777_Tribu_TV.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBFhNa9yPe+UmGSPeFJ5AbdxF5aet3f6ts0ar28TD/4VrjpuNW+MplAdWKSs2LDMMTQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sublime Gracia TV",
+    "ico": "https://cdn.m3u.cl/logo/1003_Sublime_Gracia_TV.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnkH45zPV71osOOPpEmiMsOXgw8uOdzZqOp8XIk6HucGAjd3sRy+LG0LTN85w1xWtmQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Retro Plus TV",
+    "ico": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",
+    "uri": "A7l/zy0FhF2Mh/0wweCNX0zWJcygFVtT0EUgbj10x3fPy7ioqi6ztGjRLW4cI2Y0NRXjjLHyHw/gKD7MsY5tFw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Recuerdos Retro Radio TV",
+    "ico": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+    "uri": "L91HD5uYMn0y60uIUmACCAhNrHIvASz/Hz+cwsMS9Ru5r1BdSzXgrSqVvENZ1F6F75FZPcfnYfYdGL2oGQXB9w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PANC TV",
+    "ico": "https://cdn.m3u.cl/logo/1236_PANC_TV.png",
+    "uri": "G2wm2NLBqQE7WyP1DKPFoMB9Nk+DMHI1f/5Ja51RIDYSFs+kzbZ57Lxjeha4sM2pYEdxEZVGQzXNh7+PxErTQw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Vive TV",
+    "ico": "https://cdn.m3u.cl/logo/1459_Vive_TV.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TbfDn72NvcKQsQrYJ3xYCClOR1u/zbc2rx4OTNmz8tSPQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Urbana TeVe",
+    "ico": "https://cdn.m3u.cl/logo/1372_Urbana_TeVe.png",
+    "uri": "4pvj22sj1XIHP6iDTdgdV40sFyxMG0csEj5MJZA++xe1tMWsrwtzg3cPKRUy4Kug",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UNIRIO",
+    "ico": "https://cdn.m3u.cl/logo/247_UNIRIO.png",
+    "uri": "ZqU31JXL4XGQdgffRNiTxqVaQdRWj6zPrjS7JU+MzN5M7Pvb2gNtN4P8C7JEZ32rqFmFZc1VGKoe4hCpqcFSIw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Uni Teve",
+    "ico": "https://cdn.m3u.cl/logo/248_Uni_Teve.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+Ta0nF3A46eks3QP+Eyhs3SXitEgBa+qkZtdj0TNpn99Dg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV Universidad",
+    "ico": "https://cdn.m3u.cl/logo/1371_TV_Universidad.png",
+    "uri": "ns1C0MQMmIiQjItU5hwnIGBaI5hzZ+2x6X9OqP9mvwTWfo4g+BeAUPAYi8VyrEiqMqTOJGYlqrR6in1lzmaK0A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV Solidaria",
+    "ico": "https://cdn.m3u.cl/logo/1370_TV_Solidaria.png",
+    "uri": "a91suXrHoZudArzlglWW80taDcGP8L47IqNoJ06VFkYvAZf0lm6wUAuwF9uaDVtCKuxrSCPV4JDiYKRs3VVXDQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV Publica Fueguina",
+    "ico": "https://cdn.m3u.cl/logo/298_TV_Publica_Fueguina.png",
+    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yBwy8KWJfxUP8wDSCMoGyqHhUGYZ5Q0yZH4S+lauhHGdcw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV Mana",
+    "ico": "https://cdn.m3u.cl/logo/297_TV_Mana.png",
+    "uri": "5V5Inn2I4ADtkjctrZ6atN/T92IelUBk4B4k/ZytrdiJYw+dHkyfsAUGcL7etgouELf5KOtBvnktaD80bHQ1+AGGTfhRcp0Wy/6QZLprjDs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
     ]
   },
