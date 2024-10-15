@@ -3343,14 +3343,14 @@
     "name": "PPV 1 URUGUAY ᴴᴰ ",
     "ico": "https://iili.io/d4K4azG.png",
     "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2mQRlhJgUhrvejhyLyopqMtqG3OD0bYEPAYn3Gf4m8sc=",
-    "drm_scheme": null,
+    "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "PPV 3 URUGUAY ᴴᴰ ",
     "ico": "https://iili.io/d4K4azG.png",
     "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2wEcg7puYyGQLy8ZNOC9BrPLniWCEojjPA9C71OLyivY=",
-    "drm_scheme": null,
+    "drm_scheme": "",
     "drm_license_url": ""
   },
   {
@@ -4197,9 +4197,8 @@
     "drm_license_url": ""
   }
 ]
-    ]
-  },
-  {
+},
+{
     "name": "▐ DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
