@@ -1854,6 +1854,117 @@
     ]
   },
   {
+    "name": "▐ RAKUTEN / FREETV",
+    "mode": false,
+    "lista": [
+      {
+    "name": "RAKUTEN ACCIÓN",
+    "ico": "https://i.ibb.co/0nLz0zG/RAKATEN-ACCION.png",
+    "uri": "WPUfUc2y5gDTikjsQXm98ez1xFKqBrgQ+lPyx0gJ4SIrsTzKq0bdPacklTiUeXU2/V0vf7mNZPfqOSsydqES4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN FAMILY",
+    "ico": "https://i.ibb.co/ZgXvv8W/RAKETEN-FAMILY.png",
+    "uri": "WPUfUc2y5gDTikjsQXm98ez1xFKqBrgQ+lPyx0gJ4SIrsTzKq0bdPacklTiUeXU2/V0vf7mNZPfqOSsydqES4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN TOPFREE",
+    "ico": "https://i.ibb.co/CMqtMVw/RAKETEN-TOPFREE.png",
+    "uri": "WPUfUc2y5gDTikjsQXm98X2gM0vZeK7/sJh/NIo5YQo4iNm+odEfREkahJlQQzyxoOuC42TDH1uCoTzA8pckCQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN MYTIMES",
+    "ico": "https://i.ibb.co/SXQCNbz/RAKETEN-MYTIMES.png",
+    "uri": "ubf71SkchMQsZnrJe5ANoApk5Chmqq+xJtm5cbeoSdTIbQbQAjf/Z6tWM0hZrt79kDCk1K+9iAEIJWtT+s+YSA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN TVSHOWS",
+    "ico": "https://i.ibb.co/LrgmpjN/RAKETEN-TVSHOW.png",
+    "uri": "WPUfUc2y5gDTikjsQXm98fI4zbRlPSdkf9kMdu2aTJ0kxAEjsVKthfra15B8gg69CHChdJJIPnEcXX1z/CpvcA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN ROMANCE",
+    "ico": "https://i.ibb.co/FxsqSy3/RAKETEN-ROMANCE.png",
+    "uri": "ZlpVR/g0dabaI2KFCUOkl/G8XsZNln4lwSv/tA11NXKdaROzoqxdUKGuqBcK8RYdRGxgA3ttfWTFhBGPV8Dvek6wCLsOuiAqy6FqPXzfBPf+dXEkj9x9Ad0Zzq/T9ZqbHgx5hMU06ozq+IbJ5nhIOsnx2jBfUfYcznD7jlpG5JNZAuinFAd7izBos/NwkzXSuUuLzh55hpwBvxUtgET66rfcPihjQTbkowoiux66c8w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV DRAMA",
+    "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7NrqNWthkqbW8HAKXsHjOL6Qwn8piC6Iz82ILamhQrYbgmkN/MgKPiXGlOAAY7z8y",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV ACCIÓN",
+    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7q7hhjG+k+OnaqJFBB11ScYdCuOsoDp+1y6wL2u6w8m5C+F01c38/6WiSyf/BxSVK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV ESTELAR",
+    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7nLvleHdaRtRfwAd436RkLq6NH7pwKu/YemkF3LNYhQvtwQt3AYq8Dhyxefo5dGRY",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV LIVE",
+    "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7ccxXquCmgYjnweiUtKiYa1/ueugS4gw6y/0mOoLb6Wki3LcsvBvYtVBqpy1KXUDg",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV TERROR",
+    "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7sNqm3ZWHg/z0lDwvr7H0KDfWebGHI5I01f4fGhC2+j7Ab0qbnrpllkigDcrOS2db",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV SUREÑO",
+    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7NrqNWthkqbW8HAKXsHjOL8qTbT9PH7bzfkuv0iQr/BERmPfld8J06vSgAtgJMpot",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV FAMILIA",
+    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH74D3QuGGO7qjBKR3pTUMWUXuChAtQSJUG6qRyMhA/jvp1SjOXlXLWA7UwhC2Aj3vj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV SABER MÁS",
+    "ico": "https://img3.static-ottera.com/prod/oly/video/thumbnails/square/213x213/banner-fast-channel_1-1-v2_1_0.jpg",
+    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH750L6mwDU01ImdNYe7kbGdxqyfom8N5Vg2kh2b3GtiHdzDmV0nF3rvQhJt//5evM+",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FREETV BANDA",
+    "ico": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_banda_1080x1080_02092024.jpg",
+    "uri": "U+YdJjDjQ/bbEaDj+uXmYBLwK3Tz2IpmTe+DzUlekeYmNq4zpTeurRzfhnRQfGtAKQsWo+oVdIXvNBKIL9p/XjQHO5qU1OQKcMqw/43/hwK1JUdo7aeCnqSq+O9CxzOK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+  {
     "name": "REALITY ARGENTINA",
     "mode": false,
     "lista": [
@@ -2285,117 +2396,6 @@
     "name": "CANELA TV",
     "ico": "https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png",
     "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJg08Ot7zQP1CsLiCMdEGNLQ3335Z5+gVxiFiVeAZJSL9jd7X+eYhgopgVzbcv8YVBcNk+mHIGA0kJzBg5JHklv6ZLaMalZ5xyNHESVd1rnTAA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-  {
-    "name": "▐ RAKUTEN / FREETV",
-    "mode": false,
-    "lista": [
-      {
-    "name": "RAKUTEN ACCIÓN",
-    "ico": "https://i.ibb.co/0nLz0zG/RAKATEN-ACCION.png",
-    "uri": "WPUfUc2y5gDTikjsQXm98ez1xFKqBrgQ+lPyx0gJ4SIrsTzKq0bdPacklTiUeXU2/V0vf7mNZPfqOSsydqES4g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN FAMILY",
-    "ico": "https://i.ibb.co/ZgXvv8W/RAKETEN-FAMILY.png",
-    "uri": "WPUfUc2y5gDTikjsQXm98ez1xFKqBrgQ+lPyx0gJ4SIrsTzKq0bdPacklTiUeXU2/V0vf7mNZPfqOSsydqES4g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN TOPFREE",
-    "ico": "https://i.ibb.co/CMqtMVw/RAKETEN-TOPFREE.png",
-    "uri": "WPUfUc2y5gDTikjsQXm98X2gM0vZeK7/sJh/NIo5YQo4iNm+odEfREkahJlQQzyxoOuC42TDH1uCoTzA8pckCQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN MYTIMES",
-    "ico": "https://i.ibb.co/SXQCNbz/RAKETEN-MYTIMES.png",
-    "uri": "ubf71SkchMQsZnrJe5ANoApk5Chmqq+xJtm5cbeoSdTIbQbQAjf/Z6tWM0hZrt79kDCk1K+9iAEIJWtT+s+YSA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN TVSHOWS",
-    "ico": "https://i.ibb.co/LrgmpjN/RAKETEN-TVSHOW.png",
-    "uri": "WPUfUc2y5gDTikjsQXm98fI4zbRlPSdkf9kMdu2aTJ0kxAEjsVKthfra15B8gg69CHChdJJIPnEcXX1z/CpvcA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN ROMANCE",
-    "ico": "https://i.ibb.co/FxsqSy3/RAKETEN-ROMANCE.png",
-    "uri": "ZlpVR/g0dabaI2KFCUOkl/G8XsZNln4lwSv/tA11NXKdaROzoqxdUKGuqBcK8RYdRGxgA3ttfWTFhBGPV8Dvek6wCLsOuiAqy6FqPXzfBPf+dXEkj9x9Ad0Zzq/T9ZqbHgx5hMU06ozq+IbJ5nhIOsnx2jBfUfYcznD7jlpG5JNZAuinFAd7izBos/NwkzXSuUuLzh55hpwBvxUtgET66rfcPihjQTbkowoiux66c8w=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV DRAMA",
-    "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7NrqNWthkqbW8HAKXsHjOL6Qwn8piC6Iz82ILamhQrYbgmkN/MgKPiXGlOAAY7z8y",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV ACCIÓN",
-    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7q7hhjG+k+OnaqJFBB11ScYdCuOsoDp+1y6wL2u6w8m5C+F01c38/6WiSyf/BxSVK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV ESTELAR",
-    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7nLvleHdaRtRfwAd436RkLq6NH7pwKu/YemkF3LNYhQvtwQt3AYq8Dhyxefo5dGRY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV LIVE",
-    "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7ccxXquCmgYjnweiUtKiYa1/ueugS4gw6y/0mOoLb6Wki3LcsvBvYtVBqpy1KXUDg",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV TERROR",
-    "ico": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7sNqm3ZWHg/z0lDwvr7H0KDfWebGHI5I01f4fGhC2+j7Ab0qbnrpllkigDcrOS2db",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV SUREÑO",
-    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH7NrqNWthkqbW8HAKXsHjOL8qTbT9PH7bzfkuv0iQr/BERmPfld8J06vSgAtgJMpot",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV FAMILIA",
-    "ico": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH74D3QuGGO7qjBKR3pTUMWUXuChAtQSJUG6qRyMhA/jvp1SjOXlXLWA7UwhC2Aj3vj",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV SABER MÁS",
-    "ico": "https://img3.static-ottera.com/prod/oly/video/thumbnails/square/213x213/banner-fast-channel_1-1-v2_1_0.jpg",
-    "uri": "ynx9r9pStxeopIB+uRxskosYCKmsHROC64J8SzMtcu/Emm/RZA1bTAhV4GSX9yH750L6mwDU01ImdNYe7kbGdxqyfom8N5Vg2kh2b3GtiHdzDmV0nF3rvQhJt//5evM+",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FREETV BANDA",
-    "ico": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_banda_1080x1080_02092024.jpg",
-    "uri": "U+YdJjDjQ/bbEaDj+uXmYBLwK3Tz2IpmTe+DzUlekeYmNq4zpTeurRzfhnRQfGtAKQsWo+oVdIXvNBKIL9p/XjQHO5qU1OQKcMqw/43/hwK1JUdo7aeCnqSq+O9CxzOK",
     "drm_scheme": "",
     "drm_license_url": ""
   }
