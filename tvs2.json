@@ -4851,48 +4851,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "SPORT TV 1",
-    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-    "uri": "gnM2Pl1UQqhVm57+2mFhDEg9JCiWOyczzHk/EbaWDUH33Ypn935rMHWIcYlK8wCaueZ/hO6Z15EhXJlAfqMo7Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SPORT TV 2",
-    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-    "uri": "gnM2Pl1UQqhVm57+2mFhDEg9JCiWOyczzHk/EbaWDUH33Ypn935rMHWIcYlK8wCa0mEA2fBZaqcrejPvx6DY6g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SPORT TV 3",
-    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-    "uri": "gnM2Pl1UQqhVm57+2mFhDEg9JCiWOyczzHk/EbaWDUH33Ypn935rMHWIcYlK8wCa7Tupc8JQljQae80esfGVmA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SPORT TV 4",
-    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-    "uri": "gnM2Pl1UQqhVm57+2mFhDEg9JCiWOyczzHk/EbaWDUH33Ypn935rMHWIcYlK8wCauZC51uQZJOY76DL/3mc7Pg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SPORT TV 5",
-    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-    "uri": "gnM2Pl1UQqhVm57+2mFhDEg9JCiWOyczzHk/EbaWDUH33Ypn935rMHWIcYlK8wCarGk6gigRRBOmrG3F8WOcwA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SPORT TV PLUS",
-    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-    "uri": "gnM2Pl1UQqhVm57+2mFhDEg9JCiWOyczzHk/EbaWDUH33Ypn935rMHWIcYlK8wCa19fZGmRG8XoY9zzrZOYLMg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "BEIN SPORTS CANADA",
     "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
     "uri": "gnM2Pl1UQqhVm57+2mFhDEg9JCiWOyczzHk/EbaWDUHoI2RvVAY1PGZDzq3Hg94oWCRj/4b+66UYjOoDC2OVMA==",
@@ -5003,6 +4961,27 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA+6mnVWiaiU/q/LxdDqBrSocSoweEQpsro+JjTfDhyi6NpsHwew+4Hg60vRD9R6bbJvIeZWIoVYXWZR6Hk1p9r",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlga+t4qmUEBxwJsOz9u4MCJuwHIfZTcWtsM+vocqULnKXmw2X+W8WEKtfB1oLsD6qplrm8N7Vt5hpVBcs4dLh9trQNib637eARYaDo04FASwb4Uw1Kh142DZ3BbSHqNXg=="
+  },
+  {
+    "name": "VTV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA+6mnVWiaiU/q/LxdDqBrSocSoweEQpsro+JjTfDhyi6NpsHwew+4Hg60vRD9R6bbJvIeZWIoVYXWZR6Hk1p9r",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlga+t4qmUEBxwJsOz9u4MCJuwHIfZTcWtsM+vocqULnKXmw2X+W8WEKtfB1oLsD6qplrm8N7Vt5hpVBcs4dLh9trQNib637eARYaDo04FASwb4Uw1Kh142DZ3BbSHqNXg=="
+  },
+  {
+    "name": "VTV PLUS",
+    "ico": "http://imgfz.com/i/dTApbyc.png",
+    "uri": "UQ9MDhQExwZa3C1bpvjSAyrb24GCpUcmWVEIydfoX6Bx7kkq+JP/Ho5GCwA+0jKJYlyoGommvMsi23J6Ua91GA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEPORTV",
+    "ico": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg",
+    "uri": "qv/beaya0kf17JwQLwMCnMJnOjFXaU7uWcBojN/mr7kmSEda0HqgVRw81M9RO6vQROhQc9djvvUB1KHQY2s+hAi+vsiraSjuRSjN44dCy5Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "AMERICA SPORTS",
@@ -5751,6 +5730,96 @@
     "uri": "BEo+tud2DHFwPzFZtc+anlJmybfVcGXhNlb3T32jNpfDBhjHcPF6Gn1I6XsRB0Dk9dUWs+xpmq/09t17R0N3kc2Wh2vAbl6Pk/wmTva9OPetnSnbemD5pkjuAIpsCbmyP8CHJwiWszlyzF6JFyXym6392NaxtwvCypR0Wwr81ZEzkfV6UFRcpjX4gaG5RKRgeOAyC9hzqNzyJvWzjSF2RBTiQQ7JwnX+0FCCnl7hOt+ZypBaiowgEGpee/HUWky1RC/6ajsGa7wSsMUviPQ4oBSVC7FKku9WYKbZNz65i9s=",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w=="
+  }
+    ]
+  },
+  {
+    "name": "▐ DEPORTES PORTUGAL",
+    "mode": false,
+    "lista": [
+      {
+    "name": "SPORT TV1",
+    "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+    "uri": "owwGjn1+eeB1FvUBD5S26RMtWGEumLyC8Kc9a26nyoIwmqlmwO0e/2cK0i2rd98S5N1bymxK1PZ5AsZ5nvOKJA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV2",
+    "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+    "uri": "owwGjn1+eeB1FvUBD5S26RMtWGEumLyC8Kc9a26nyoKYww7fMU1k8Rw72Xk0cZ1FITRO5ojurB0V6/yCpBlskg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV3",
+    "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+    "uri": "owwGjn1+eeB1FvUBD5S26RMtWGEumLyC8Kc9a26nyoKtX6QNHV1R9mAlC4xGOGP+Bg3lAMJ9T7+k+eF0Kagk/Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV4",
+    "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+    "uri": "owwGjn1+eeB1FvUBD5S26RMtWGEumLyC8Kc9a26nyoKr+WW4P4/IkU76v0XAWZCVlbTYr4AgB757k79s0M/PwQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV5",
+    "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+    "uri": "owwGjn1+eeB1FvUBD5S26RMtWGEumLyC8Kc9a26nyoI2cYx1FFGr4TEbfN6/3xbC8K7kc5VDX94pAklxcwlzKA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV6",
+    "ico": "https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png",
+    "uri": "owwGjn1+eeB1FvUBD5S26RMtWGEumLyC8Kc9a26nyoKQYGOGKAxgZ7MVC9IMmeus/EM6QE/KjctkLswkiStESg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DAZN 1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "gfpXxZA2KipHQytAcrXJdGr4BF7KbjTQuVGmSTSHCTJQmInY8VjvHsMCJzcZKmWyjqLg3SHj/tOBOxk65dfGHg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DAZN 2",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "gfpXxZA2KipHQytAcrXJdGr4BF7KbjTQuVGmSTSHCTLPeZxnU7/9RJAqU9RLElyXrTJVQCDtPAizG0Hmkiadhw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DAZN 3",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "gfpXxZA2KipHQytAcrXJdGr4BF7KbjTQuVGmSTSHCTIFjIv00j+9RtlFVvRNahvJh1jLWBLLqg8+IlFGvCEtTg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DAZN 4",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "gfpXxZA2KipHQytAcrXJdGr4BF7KbjTQuVGmSTSHCTIDmBxKHFI713Ztyc1uNOSn+UgWU6lCTjaH3FWy4w1l0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DAZN 5",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "gfpXxZA2KipHQytAcrXJdGr4BF7KbjTQuVGmSTSHCTIztZFMpH4ZhP5ZAuHdpMZhifL4ONHOVtvIOi439jlP6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DAZN 6",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "gfpXxZA2KipHQytAcrXJdGr4BF7KbjTQuVGmSTSHCTKeSXThpIw3Tb/GFAYYBr+8kiHN4S+aUOffIJ5aJdO8RQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
     ]
   },
