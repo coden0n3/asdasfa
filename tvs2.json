@@ -426,6 +426,75 @@
     ]
   },
   {
+    "name": "▐ CANALES 24/7 ",
+    "mode": false,
+    "lista": [
+      {
+        "name": "EL CHAVO DEL OCHO",
+        "ico": "https://x.playerlatino.live/elchavodel8.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGYf85H/OCauy4InPW/bckEQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DRAGON BALL",
+        "ico": "https://x.playerlatino.live/dragonball.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGF7tfgTmbzhx2CFByYzRDzg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DRAGON BALL Z",
+        "ico": "https://x.playerlatino.live/dragonballz.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGAPxJfBf3C5kp11OXwmPKag==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DRAGON BALL GT",
+        "ico": "https://x.playerlatino.live/dragonballgt.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LG0AOWHf8528ddSkRgs/8oJQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DRAGON BALL SUPER",
+        "ico": "https://x.playerlatino.live/dragonballsuper.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGWRZjkjlr9w96EqSCRBrW8A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOS SIMPSON",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LG7VroWeETIiTgI5+Y+02MsQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ALF",
+        "ico": "https://x.playerlatino.live/alf.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGnNpiyfWTI2l9kj+t8XVguw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOB ESPONJA",
+        "ico": "https://x.playerlatino.live/bobesponja.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGEt8BWHWACB4xv7lYDEhG+A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CORAJE EL PERRO COBARDE",
+        "ico": "https://x.playerlatino.live/coraje.png",
+        "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LG3J7ubf6GNvinaYr/p7a1xw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "▐ PLAYTV MOVIES",
     "mode": false,
     "lista": [
