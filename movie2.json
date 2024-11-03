@@ -5,9 +5,58 @@
     "mode": false,
     "lista": [
       {
-    "name": "VENO: EL ULTIMO BAILE (2024)",
+    "name": "VENOM: EL ULTIMO BAILE (2024)",
     "ico": "https://i.ibb.co/8bM9KWN/venon-el-ultimo.webp",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lS6qVq1IFOFERbZU+D1GjGQd0jp/lI2b+YE8jEJFi3Vd1/fb+XSQ+ZzDrTQSSDprIsH6MAoRZpKUHj6pY+rs0hB6mGnm/1eAkCoydLpIKrLL",
+    "uri": "OvK42DtDW3NeXy7WmfHeQjD8FJzCnvbG7jKOyxpO7YUH9KDAfrQX0L82RoUFp4FZvfSbhHMU3u8HNGIRvegTE3EFlfBRPNisl2SgNO1wQhzmiKYJ/YFCt3/4lPh7oMD9",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JACK EN LA CASA MALDITA 3: EL ASENSO (2024)",
+    "ico": "https://i.ibb.co/BcFzsT8/jackcasamaldita.jpg",
+    "uri": "OvK42DtDW3NeXy7WmfHeQh4GdTGJlk5OOF+6c4yo1Fh6d2WzrQtwTRaQ2Wrm9aegKuMu3JvGOUrUmTk2z0odcnB8N5kSAgYGYRER+C1Jt2w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GUASON 2: FOLIE A DEUX (2024)",
+    "ico": "https://i.ibb.co/Yp1ZvPX/guason-2.jpg",
+    "uri": "OvK42DtDW3NeXy7WmfHeQpGea1HhnHe1vw4e74aLVb0EMdQMezyu6Nqf8sRL4BbEnpdVTLN0KDNTiUBG9d+6IA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL CUERVO (2024)",
+    "ico": "https://i.ibb.co/GxpdckW/el-cuervo.jpg",
+    "uri": "OvK42DtDW3NeXy7WmfHeQhNBHjf9qTjsyeg5Hwy3Z5tX1rUxpDhqx0KoWDpNlZmpF5uHsNjE/I+M49C3MDtbrA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL AVIADOR (2004)",
+    "ico": "https://i.ibb.co/hxGy3vj/el-aviador.jpg",
+    "uri": "OvK42DtDW3NeXy7WmfHeQhNBHjf9qTjsyeg5Hwy3Z5v7GTZmtzggD6TP/7s+tUbw1vRf3dvPbkrGkImfw/Ekcw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA SUSTANCIA (2024)",
+    "ico": "https://i.ibb.co/8P6LFNY/LA-SUSTANCIA.jpg",
+    "uri": "OvK42DtDW3NeXy7WmfHeQgZXaGxj19LsjLftttBBSdrX83wtFsPIeUk68Kepbkz+6zsTngGA8p/jzmAbMKBpoFSeLnv6Cf9NSd8TtQ4nIB8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "APOCALIPSIS Z: EL PRINCIPIO DEL FIN (2024)",
+    "ico": "https://i.ibb.co/0tL0z7y/apocalipsis.jpg",
+    "uri": "OvK42DtDW3NeXy7WmfHeQtOwTH16bQh0TnlGpjuRJvoqPImwvUdRWAEd2arnUh2WnKsPuZK+fHxF8m0MUsHHVbzU3crMderRyy62UrKW+Qnt36qxrtqow8/FoaE4mZJB",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HELLBOYS THE CROOKED MAN (2024)",
+    "ico": "https://i.ibb.co/4MxZsDH/hellboy.jpg",
+    "uri": "OvK42DtDW3NeXy7WmfHeQuWMw/d68c5t9hf6VVK3K8rqkHplDWomG2o4Nupam8+Xp2Ipa26ysk1DRpSROru6yw==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
