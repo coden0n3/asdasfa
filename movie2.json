@@ -1,6 +1,67 @@
 [
 
-   
+  {
+    "name": "▐ ESTRENOS 2024 ",
+    "mode": false,
+    "lista": [
+      {
+    "name": "VENOM: EL ULTIMO BAILE (2024)",
+    "ico": "https://i.ibb.co/8bM9KWN/venon-el-ultimo.webp",
+    "uri": "https://subida.mmvpnok.online/movies/Venom.The.Last.Dance.2024.HDTS.DD2.0.H.264.LIGERO-LMHD.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JACK EN LA CASA MALDITA 3: EL ASENSO (2024)",
+    "ico": "https://i.ibb.co/BcFzsT8/jackcasamaldita.jpg",
+    "uri": "https://subida.mmvpnok.online/movies/Jack.en.la.caja.maldita.3.El.Ascenso.2024.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GUASON 2: FOLIE A DEUX (2024)",
+    "ico": "https://i.ibb.co/Yp1ZvPX/guason-2.jpg",
+    "uri": "https://subida.mmvpnok.online/movies/Guason.2.Folie.a.Deux.2024.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL CUERVO (2024)",
+    "ico": "https://i.ibb.co/GxpdckW/el-cuervo.jpg",
+    "uri": "https://subida.mmvpnok.online/movies/El.Cuervo.2024.720p-Dual-Lat.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL AVIADOR (2004)",
+    "ico": "https://i.ibb.co/hxGy3vj/el-aviador.jpg",
+    "uri": "https://subida.mmvpnok.online/movies/El.aviador.2004.720p-Dual-Lat.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA SUSTANCIA (2024)",
+    "ico": "https://i.ibb.co/8P6LFNY/LA-SUSTANCIA.jpg",
+    "uri": "https://subida.mmvpnok.online/movies/La.sustancia.2024.1080p-Dual-Lat.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "APOCALIPSIS Z: EL PRINCIPIO DEL FIN (2024)",
+    "ico": "https://i.ibb.co/0tL0z7y/apocalipsis.jpg",
+    "uri": "https://subida.mmvpnok.online/movies/Apocalipsis.Z.El.principio.del.fin.2024.720p-Cast.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HELLBOYS THE CROOKED MAN (2024)",
+    "ico": "https://i.ibb.co/4MxZsDH/hellboy.jpg",
+    "uri": "https://subida.mmvpnok.online/movies/Hellboy.The.Crooked.Man.2024.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  }, 
   {
     "name": "▐ ANIMACIÓN",
     "mode": true,
