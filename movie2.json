@@ -4,9 +4,10 @@
     "mode": true,
     "lista": [
       {
-        "name": "Pablo Escobar: El patron del mal",
-        "ico": "https://i.ibb.co/CH6B1cw/ea.jpg",
-        "temporada": [
+     "tipo": "serie",
+     "name": "Pablo Escobar: El Patron del mal",
+     "ico": "https://i.ibb.co/CH6B1cw/ea.jpg",
+     "temporada": [
           
   {
     "name": "Capitil 1",
