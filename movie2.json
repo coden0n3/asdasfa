@@ -1,71 +1,49 @@
 [
 {
-    "name": "▐ SERIES NARCOS",
+    "name": "▐ SERIES",
     "mode": true,
     "lista": [
       {
      "tipo": "serie",
-     "name": "Pablo Escobar: El Patron del mal",
-     "ico": "https://i.ibb.co/CH6B1cw/ea.jpg",
+     "name": "Dragon Ball Daima HD 1080 (2024)",
+     "ico": "https://i.ibb.co/4fpqx1M/da.jpg",
      "temporada": [
           
   {
     "name": "Capitil 1",
-    "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/vbwjymt1ua13_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/xyxNOntBlNWvqTcRifGS+U",
+    "ico": "hhttps://i.ibb.co/K2gwKrx/cap.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyG7e6gwDWGSN4VR/hW8BkVg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Capitulo 2",
-    "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/94mwesjdc2ik_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/x+I7X5t8Pt2BeyUN7BzHoh",
+    "ico": "https://i.ibb.co/d5RcXrr/cap-2.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4FtSfnKSIoHITrjjbdAa5Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Capitulo 3",
-    "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/66m4mxcn1qy8_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/y9XobYYKkUdpRIh7EMDN7S",
+    "ico": "https://i.ibb.co/7Kp3WZv/cap-3.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyC4bTQ5tAqtok1PsEIpFSuA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Capitulo 4",
-    "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/y71clfg2b7dt_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/x9QoWpo2jDmFd1WtgEN+/P",
+    "ico": "https://i.ibb.co/c6BYFTH/cap-4.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4G/hZ0VMAa2wPJFSZ3Im6w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Capitulo 5",
+    "name": "Capitulo 5 Muy pronto",
     "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/d4ls7qjqah3u_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/zGrCjcPAlkqRtnF9S8jKyj",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 6",
-    "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/5wz8z60fyvuv_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/ytAnVsgmoemfBvElhPxd8D",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 7",
-    "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/agnrz5sg8j6a_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/xifW+DPKsISakJ8eUPS+Dz",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 8",
-    "ico": "https://01-ukr-sv.enpantallas.com/i/01/00000/zvb8nwic2917_t.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVEXtucjAcmw3+CFNjhCg/y2k9oLYgdQSBR0xXI1jNce",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGycmMXgpuEzlaPlX+oxgkmrQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
-
         ]
       }
     ]
