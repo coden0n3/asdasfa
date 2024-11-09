@@ -1,5 +1,110 @@
 [
 {
+    "name": "▐ Cine Argentino",
+    "mode": false,
+    "lista": [
+     
+      {
+    "name": "Amante para dos",
+    "ico": "https://i.ibb.co/nLYT4r6/am.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldMD0fFhg7FinST/+e9CqwIdGKo9XVIselFjuGvMS5NX2RMH8ZodApdwEVfzUIGF3w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Así no hay cama que aguante",
+    "ico": "https://i.ibb.co/Rc80t3P/asi.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcxNPw7FNB8vYVLCyvxUaD686M0lVXreU+TmQJklfz3n/P7kCgNiYJC9A+YfZeh/1IefHGeZSPqj0ymvS61T1mk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Manosanta está Cargado",
+    "ico": "https://i.ibb.co/gZxBhkm/mano.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lZjGuyrgInKGpMXQhyR1A3fHLHxjO2vGiiDoY79vVjDfsfzO54G6/uNWcYg8CxO45w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El profesor punk",
+    "ico": "https://i.ibb.co/kGbHYk9/elp.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lZjGuyrgInKGpMXQhyR1A3fHLHxjO2vGiiDoY79vVjDfsfzO54G6/uNWcYg8CxO45w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El rey de los exhortos",
+    "ico": "https://i.ibb.co/FVmxkhM/rey.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lZjGuyrgInKGpMXQhyR1A3eKtbwpTch5BXIBQTsotjaoL8wPh1Xpo7BRzcWZN1oZO21JQL0k5pp7y2UFY7wESv0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Expertos en Pinchazos",
+    "ico": "https://i.ibb.co/RBV6rBt/exo.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lZjGuyrgInKGpMXQhyR1A3eKtbwpTch5BXIBQTsotjaoL8wPh1Xpo7BRzcWZN1oZO21JQL0k5pp7y2UFY7wESv0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Galería Del Terror",
+    "ico": "https://i.ibb.co/wCD41bZ/ha.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lZjGuyrgInKGpMXQhyR1A3eKtbwpTch5BXIBQTsotjaoL8wPh1Xpo7BRzcWZN1oZO21JQL0k5pp7y2UFY7wESv0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Las turistas quieren guerra",
+    "ico": "https://i.ibb.co/YBxCbYj/tur.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lZjGuyrgInKGpMXQhyR1A3eKtbwpTch5BXIBQTsotjaoL8wPh1Xpo7BRzcWZN1oZO21JQL0k5pp7y2UFY7wESv0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Colimbas se Divierten",
+    "ico": "https://i.ibb.co/5vRBtw3/col.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lepU0nr+RKFLxBGDHc+yKcKxq/MSu8SRoW82iWQoSUz381TIDAtyeyLSZbFy/CLlfg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los fierecillos indomables",
+    "ico": "https://i.ibb.co/4jMvwC6/indo.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/leO0/8idL/wsRYIVZDrlWQemsX73zYZziAQzOTTxCBj8l/oYTe97FggoLzdWct3Q2Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Reyes del Sablazo",
+    "ico": "https://i.ibb.co/F3WmrJK/losr.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lepU0nr+RKFLxBGDHc+yKcJQEUQ2Utn8saYK88AMeKUxXESNvt0Cg2QJkMooOIfvgLybJrG2/EEMOTUAyfahQH4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mi novia el ...",
+    "ico": "https://i.ibb.co/BtwhrsS/mia.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lYyBVMk4B4QG2Hvn9cIhnWCtxEgCbWm2v7qbG1wVtOU6",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rambito y Rambon",
+    "ico": "https://i.ibb.co/mBgBP78/rambi.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lbaxTnxYH4usC3ZbzYPZAwuJsS9VtgHmddNYi3Wtphto4hq/U3H1fSp/8D13mUZMYQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Te Rompo El Rating",
+    "ico": "https://i.ibb.co/YbTL5hN/terom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVHbsI+sNtPTC/6E6IDP/ok6FT2OHQvZnAY/b/gh7dMBylq3LhNpXTmwRWptmY00vw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
+    {
     "name": "▐ SERIES",
     "mode": true,
     "lista": [
