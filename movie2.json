@@ -52,61 +52,61 @@
      "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
      "temporada": [
        {
-         "name": "Episodio 1",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E01_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 2",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E02_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 3",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E03_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 4",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E04_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 5",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E05_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 6",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E06_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 7",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E07_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 8",
-         "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
-         "uri": "http://62.146.179.159/series/Croma____n_S01E08_WEB-DL_1080p_Latino__1_.mkv",
-         "drm_scheme": "",
-         "drm_license_url": ""
-     }
+    "name": "Episodio 1",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cU4prRFniqFrucJSil0yniHvtlwzuci9nxdBUIeaPs8CUnDoY2M4FZaZh+1OYWcJ/U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 2",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cW6Hnvs5tuETRuC4cgOoEXUcmci1d+esh4/12lsRc1xVp4niXOLtt+D/j07NPNIxoc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 3",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cVdTDkrf2ORlBE+G8nFgDEwOmOADURvBZye/Ra1H4CCILpCBcNR0h6iJddrMLRVLt8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 4",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cUPvmw/wIGdmgv6AtY00m7eNukEEyAd9VBxrgm3fEMqDOTZWCCNxGIdQM/dgUY2rvk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 5",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cWcGc+Tg/RuohMnTCF2najqGtOgBcSfoxdRLVnq5VRPEepi64YnLbcttf+XhbXsu8M=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 6",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cUOgf+jyEHTHAuUOndEoKB23qTJ6kYxqX9ZXlmi1kBpM2tHHhlsPCV3FWdjyMr41bY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 7",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cXP3wGKGJx5cTXT7GS/vWIIIr+1k4gdsoLgUhnaXaJygni1z4CVGvD/6WPNJwr1j+w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 8",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cV935eH2KxEd5aQ862bQdvYTGq3x073YHjd/Snx/KNcWtr1o5le7z9P9WaZwKq2kcM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
          
      ]
    }
