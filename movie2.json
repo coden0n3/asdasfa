@@ -44,6 +44,69 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "Cromañon Temporada 1 (2024)",
+     "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+     "temporada": [
+       {
+    "name": "Episodio 1",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cXw37cOvyYunI8Qsh38WuVM9JocdpgLqLwgBLIVJM7q1Eu+5Q1tfZdeThCWo0EPpT4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 2",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cWSkNkvcxGRmNtZwEFNrEIlHF4ipqAJwK+ym+/6GCamyksHZD1teiDZWam8nzfqV/Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 3",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cVACsRTzdpAngtt2b44twO3PK906r9JU2Pp6HC/uvScYoudr/CKrfJc+oOXuR5pxMI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 4",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cUBtFMoiVlom2AeHxosIZ8AQZG+/YG9O6eCHC9YhwxaVL0XKNfC7DUCIkGJYAsJwWg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 5",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cWpJ2yIxjiKkHOEG4/iNICiKivpoqgnyfGY0nyPY0xqaYEAltj5c/+WxJEhFh6jdqs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 6",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cWH635/INRieambyXHM2Jq66GD36LHRcGtg3uaCRx2qz/dAaoucb6aMyuQY0SMqZOk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 7",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cV+PtH6J4wOrL0HEBqGHQF0H/4EHmfZA+xHd6H8tDwKaQOur9aNEy5exLc+ZqmsGnQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Episodio 8",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "1whyekE4X2IVoGYQ29Np2je6TnWxBNGneeKyouwcxAZHSVIHmLpfa2zDcC8bfyM5yZi1Mrkb70P0/0oWfc1BVrBsUPC7kS6+RkrseGuryEE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
         ]
       }
     ]
