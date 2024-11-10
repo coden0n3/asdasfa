@@ -155,7 +155,49 @@
     "uri": "nnQ4vk+dR/V6QKQ9uqk/lZuxAvyQSHTys3WHtYViV4WxTE7wxcKpbYtWhIEMOdoNDlvPw3HL16CiaWMnqg6Vf9R8ZNwm/y0z9zpCDZH2Ep0=",
     "drm_scheme": "",
     "drm_license_url": ""
- }
+  }
+]
+  },
+{
+"tipo": "serie",
+"name": "Asalto al Banco Central (2024)",
+"ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+"temporada": [
+  {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfNqLkDuVvg0eg9O9OeCYxIVBvqG7fRJePFfjpvoQXn96ZZ/rADxGDdnw5UJc/JbcQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfNqLkDuVvg0eg9O9OeCYxIVBvqG7fRJePFfjpvoQXn9U0LtX9/T7cH77fNxWAEaug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfNqLkDuVvg0eg9O9OeCYxIVBvqG7fRJePFfjpvoQXn97J/bZzwdA9b8mv/8Lbml7w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfNqLkDuVvg0eg9O9OeCYxIVBvqG7fRJePFfjpvoQXn9xiGWfQaVvW87bWFPFQPjLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfNqLkDuVvg0eg9O9OeCYxIVBvqG7fRJePFfjpvoQXn9CvSniHTNliE4LwUqmHbaBg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
 
         ]
       }
