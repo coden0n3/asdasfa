@@ -244,5 +244,103 @@
         ]
       }
     ]
+  },
+  {
+    "name": "▐ SERIES NETFLIX",
+    "mode": true,
+    "lista": [
+      {
+     "tipo": "serie",
+     "name": "Nacidas para brillar",
+     "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJii+u3SNpuhm8Todkd8Iphow==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJitJBnAra3PMmjNwJjNP/lkA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiG11Oe2ObiEIrrZepgEYPVw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJi/jhVeaWezJyumx/RCcbWOQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiwaVStU0kjnWU3JHrI0ms6A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiHUve/PU0dH/2UghTalJmLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiQHQPuB+JZdqARknLQM5+1A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiXPq4jfjjl77LpP5e1Y+qqA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiDvDHoDfjZbBekqQpdldJxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiTilKmDu3xwi/PF3XX2/nDw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiYnwP6b6gDx9u+10J8V+SvQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcvzkM495L3rOlpxs92Vi9QWqjwmHMZ/LAe/pWhCpOJiiUoQ3/vxXs6MLQhTOiyBOg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
+        ]
+      }
+    ]
   }
 ]
