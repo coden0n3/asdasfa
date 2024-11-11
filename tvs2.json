@@ -1,32 +1,5 @@
 [
-
-  {
-    "name": "⚽SUPERLIGA",
-    "mode": false,
-    "lista": [
-      {
-    "name": "⚽ESPN PREMIUM Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png",
-    "uri": "JVKxDC8ytYMjXQVQ3TnQN0RGdE9bZf88nyWO42fNt3PfcQiOxhb4uaqUaPvf8ogyZ1EkGWc+CJO8rSBgx5IZ0E/QPwwPCHhA3ivi4ossIcnMXC/yzJFKgI9T6lSve0hisdYUkGCfEH5wyukKFbg50Ym64a+Uf8Grl5crdJYwW/w=",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkhxBRYe731EXIafSzapl7eHjbFYD6DHyRUyFAbT2K7WDZVXj3mLt+kSQINtE8c/VDqW5IBawCFE+Nr+rkIX5YMT0tb5lGcil1JxOjwr3zGWdzFqw8F7SNwlFZ6nGPWL+A=="
-  },
-  {
-    "name": "⚽TNT SPORT Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
-    "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
-    "uri": "JVKxDC8ytYMjXQVQ3TnQN0RGdE9bZf88nyWO42fNt3MVWOy8/l5j/6c1+CUQFBB/wehkcJpC7ObOgDdNGnWme1aVf6+BJRVszJ+w3bUlARB3QWb9TMmMRwGH4EF0zuotH00yjB5ZIMZ70DEl8op0bQ==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKj22Oou2mK+ZkKVc0BEtgVIdNTOQqHjLDOjHV/H5Gk37HhbBBnfbydymemq+PAb+sD0AkwNZinoNVTWru9TAkelCn1mskkaN4oZs3PO0GdTTFQUbUZ1Mm3/edBapR/Hvlw=="
-  },
-  {
-    "name": "⚽TYC SPORTS Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
-    "uri": "89Ea17h2xj0+Yw2cya5sL0TpiC1H6fezKUjTt2CtY0EeqX4XbVaLe+BCbwRKeSnTeUp4h2PT3BTF2gL7HkwMWg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
+  
   {
     "name": "▐ NOTICIAS",
     "mode": false,
