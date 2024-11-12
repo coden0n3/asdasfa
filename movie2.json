@@ -440,6 +440,131 @@
   }
      ]
    },
+    {
+    "name": "🧒DC & MARVEL",
+    "mode": false,
+    "lista": [
+      {
+    "name": "Batman",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWekz/8XtRMufo1eK26uJq+k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Batman Vuelve",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdEE0qGuagjMnzKNGYR6uaBITA.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWVy5qU9QYH7GpIOEdl2m7EE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Batman Y Robin",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWaf1NWmz8KSZ+f9yNuoJIO0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitán América: El Primer Vengador",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxRS/Oe3To1Uo9tCirQweLdA72n3Dk2bfCRr4aL22mzig=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Deadpool",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWZQ9J5/jwfEf36Gs6upzthM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Doctor Strange",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWYixcbvi1rmpFY50iEzbGYA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los 4 Fantásticos",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWc8xpA8l701bsrNSvQtQ/yg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS VENGADORES",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxRS/Oe3To1Uo9tCirQweLdMbfb/+o8QOAcIG2zZJJKg8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mundo Prodigiosa: Las Aventuras De Ladybug En Nueva York",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxPwMVKjYGZK9kpQHCAeBQbRNEL6VB+qP9ZSXuxKvWrFo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Prodigiosa: Las Aventuras De Ladybug: La Película",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVlB5J2KYkbwBnWJSJEAbvPFaqm.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxRS/Oe3To1Uo9tCirQweLdMh9nFLeAVVvD9uZlbmILqg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Spider-man",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWdPj3bgq0PwE4QnYsl+83gg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Spider-man 2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9R3lUNzpHnivyGpKwEPUNGdmmH.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWY33ZpzDEPIITol8ipL3DyU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Spider-man 3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWcZQAENqUxgykW+t6NmjUNc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Spider-man. Lejos De Casa",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWV4pmd1NDWWZvo3yVXO7j6g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Thor",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxRS/Oe3To1Uo9tCirQweLdAz9DIzimCgpf1auEfCTuP8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Vengadores: Infinity War",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxRS/Oe3To1Uo9tCirQweLdH7LYCN7cCjD4xDyord1byU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Vengadores: La Era De Ultrón",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxRS/Oe3To1Uo9tCirQweLdLN/QCmTy0lH6zLlkCofUNs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
   {
     "name": "▐ ANIMACIÓN",
     "mode": true,
