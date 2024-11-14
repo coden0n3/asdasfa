@@ -45,7 +45,71 @@
     "drm_license_url": ""
   }
      ]
-   },	    
+   },
+    {
+     "tipo": "serie",
+     "name": "Teacup (2024)",
+     "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz94iGEX0xCF4+8Tbthbp59Nw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz9cEgCzu8Vl2Tzu1+Kw4To8w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz9fx8rCWbvtcqdYmI4mbpWzQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz9r3epE7B0JSi2+qSlr+4ayQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz9QEcBdu6OyQ073OtqxjWfGg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz9XMC0/1SCmZ+JC0snJKuYoA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz9fOb5iSeDd9hD6yATPidBtg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lVfsC4QX8/Fv9M474n/5LLnQrrH5zsvvgop4ty3SfQz9vhSBy0bRKZT9gmi5xN+1mA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },	    
    {
      "tipo": "serie",
      "name": "Cromañon Temporada 1 (2024)",
