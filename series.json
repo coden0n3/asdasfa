@@ -3,7 +3,65 @@
     "name": "▐ SERIES 2024",
     "mode": true,
     "lista": [
-      {
+
+	{
+     "tipo": "serie",
+     "name": "Marvel Studios: Legends (2024)",
+     "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldjllxdbsLBe7GZf1GTlgw9x31NIournBNFXe/8uLuO8VJrC4z2O2MnMZBIwbHYsmQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldjllxdbsLBe7GZf1GTlgw9x31NIournBNFXe/8uLuO8zQ+vv2Q+GYp9Td66L+9mYA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldjllxdbsLBe7GZf1GTlgw9x31NIournBNFXe/8uLuO8+eVTG6Xa8zQkwNvyhjOfZw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldjllxdbsLBe7GZf1GTlgw9x31NIournBNFXe/8uLuO8AMUNxKOym+IwnwRm2d6CUA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldjllxdbsLBe7GZf1GTlgw9x31NIournBNFXe/8uLuO81zbItOKCNRns1O00JxY8qg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldjllxdbsLBe7GZf1GTlgw9x31NIournBNFXe/8uLuO8H5VGIU3djt//drYHpiGbHw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ldjllxdbsLBe7GZf1GTlgw9x31NIournBNFXe/8uLuO8+Qz0w4oSE3WU76xJ1CQAmw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },    
+	{
      "tipo": "serie",
      "name": "Dragon Ball Daima",
      "ico": "https://i.ibb.co/4fpqx1M/da.jpg",
