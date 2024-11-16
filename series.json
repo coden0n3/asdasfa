@@ -295,6 +295,153 @@
     "lista": [
       {
      "tipo": "serie",
+     "name": "Las hermanas Guerra",
+     "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+     "temporada": [
+      {
+        "name": "Capitulo 1",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8E9FiffF82y8xZpEqTwFI7dA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 2",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EmNtUXpbPPt//WRvKIXtgfw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 3",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8E+RzIGfzZIRPNhno36ZjKyw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 4",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EI3AvDg2wYrdZKtKIzWrqfg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 5",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EMjpNba4RQgtzZzrdUebzBg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 6",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8Ewbx9oH1Ylum16GCt7nWGlw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 7",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EcWCYX4hEZzs2CwivPH5NSQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 8",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EjgaEU909XyubJSqQTKac2g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 9",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EjnR42Pg/9R2ZYdJnhSJS1A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 10",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EuhjIwTAmxjtZnxbhoVAnJw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 11",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8ETqo/rSCdZl1lJv82Vcz4Yw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 12",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EfVyi4L9r4LthQFz8xliLdA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 13",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EOzoQmLY2Cy6eCbgG3eU1AQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 14",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EXf0tXG/mhDZZd6Ksda9vnw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 15",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EoI2nLtOjAXUXo4T6mruNdQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 16",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EMP8DNpMrpN04u27abRxSQg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 17",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EmXgSXNUNwyxmDJOa5gnNbw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 18",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EpfURCh25+3sNyWbhGW4PbQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 19",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EBeue635wt2yVnPeHPCOd4A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 20",
+        "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+        "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EGhmCOoDW55d2baVctD9lug==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }	   
+     ]
+       },
+	{
+     "tipo": "serie",
      "name": "Nacidas para brillar",
      "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
      "temporada": [
