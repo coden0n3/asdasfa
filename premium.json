@@ -125,11 +125,7 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmQI/CfM2bIlyGMg9BLF3SKIgr7catKv+3u4ATIEKDmg/WsudDL6Sg2v3OSfH2lJNc="
   },
-  {
-    "name": "▐ CANALES DEL INTERIOR ARGENTINO",
-    "mode": false,
-    "lista": [
-      {
+ {
     "name": " Canal 22 Buenos Aires",
     "ico": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es",
     "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnkhk3G0Y5gccUMwBFMsdhn+O/G7S0RgYSWKMznr+JCvmPMNFXYt+uwao1E9vlL8Qz1dU0E4z7yjGfQHFfrYte/p",
@@ -437,13 +433,13 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-      {
+  {
         "name": "DRAGON BALL",
         "ico": "https://x.playerlatino.live/dragonball.png",
         "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGF7tfgTmbzhx2CFByYzRDzg==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
+  },
       {
         "name": "DRAGON BALL Z",
         "ico": "https://x.playerlatino.live/dragonballz.png",
@@ -598,10 +594,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "▐ PLAYTV MOVIES",
-    "mode": false,
-    "lista": [
       {
     "name": "CINE ACCIÓN",
     "ico": "https://i.ibb.co/Vv64RLQ/canales2.png",
