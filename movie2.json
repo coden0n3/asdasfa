@@ -1,6 +1,34 @@
 [
     {
-    "name": "▐ ESTRENOS 2024 AGREGADAS ",
+    "name": "▐ ESTRENOS 2024 RECIEN AGREGADAS",
+    "mode": false,
+    "lista": [
+      
+        {
+    "name": "El sindicato (2024)",
+    "ico": "https://i.ibb.co/x2DYDvc/elsin.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U14reV1L0c74Rja/mKzcWR6S7LZrqNYm3HInsItb00aWQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Inexpertos (2024)",
+    "ico": "https://i.ibb.co/n8XVVxq/inex.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Bck8PXIa18FSAjTjWieMKzsgyx1afv2sKdDbG6pDhew==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Colateral (2024)",
+    "ico": "https://i.ibb.co/m6QSf2v/colateral.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0qsYy/DjcpUlLOo5oLtRLZNqdH7nB5VbPmk3GtDqUKkA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }    
+     ]
+   },
+  {
+    "name": "▐ ESTRENOS 2024 I",
     "mode": false,
     "lista": [
 
@@ -189,7 +217,7 @@
      ]
    },
     {
-    "name": "▐ ESTRENOS 2024 ",
+    "name": "▐ ESTRENOS 2024 II",
     "mode": false,
     "lista": [
 
