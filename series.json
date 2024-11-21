@@ -293,7 +293,36 @@
     "name": "▐ SERIES NETFLIX",
     "mode": true,
     "lista": [
-      {
+      
+	{
+     "tipo": "serie",
+     "name": "Ángel Di María: Romper la pared (2024)",
+     "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FPpy7u2go5oj/z3wsny5n3hyywhNk5Nck6F+7I9wo2BD2w1gkPKpneFUOuS7k8vbQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FPpy7u2go5oj/z3wsny5n3hyywhNk5Nck6F+7I9wo2BCyLBte/1yMr2glDKDkzPsI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FPpy7u2go5oj/z3wsny5n3hyywhNk5Nck6F+7I9wo2BAtA/fzhfiWTj/KDi0x6eec=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+       },    
+	{
      "tipo": "serie",
      "name": "Las hermanas Guerra",
      "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
