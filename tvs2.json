@@ -4,6 +4,13 @@
     "name": "▐ NOTICIAS",
     "mode": false,
     "lista": [
+     {
+    "name": "ESPN PREMIUM",
+    "ico": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKWb/ocX+fj38HK8ADSqdtYvjHzEQCrmnxv3t8k9hQWhRAqUbdK+0tPMVYxGG8j9c8JbAiTROkaDdnrKjmfE9Bg7vnWpRZSM5q1cxs7SLX7Q==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBzaqTzR5/mHo7WC5180rKutYfs1EGFQLfy3zPJyp+dHQ6SRcekDM4XZIPGRiu/RbIEbBcu9zm93hAVgGb+xpuLTUiOuNf4w1+qhoAXZu+AtYKTLU1mQtQn6whg4ajBn7NQ=="
+  },
       {
     "name": "AMERICA",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
