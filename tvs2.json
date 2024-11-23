@@ -316,13 +316,11 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "CANAL 12 CORDOBA",
-    "ico": "https://i.ibb.co/60sFBfY/og-image.jpg",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKo//72D6XuvPk2EB8vs0HzdNtHbvRxwCTTsqnEUJkNIZsYHKs2I/OZvsui27fqLfj3pADbMOQqneU3nej4LdO",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "LS6qxNscpFe9rDy2K+y73MjKr/uvnEMXOyYXqSIYmdwmKM7Zp3ihsQ1gZBWeNwKVi5SnjawofkRDDmYpGkCVvOVs10+cSn97JcTLdNmgexg5mPT0J6XLkDCxVemnvmt0kBP7h2JcSGW3fOyPkLlmF8z+MfrfL5HOZPD/07behY4=",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "name": "Chaco TV",
+    "ico": "https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg",
+    "uri": "g9qoUiBJiljlPDVSvZDt9dW69xnckq0jT/yMqunyvnngd8+L4pUKRx9tMSL65Udv5JM4A17serHlU1RkN0yXLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "CANAL 12 MISIONES",
@@ -378,87 +376,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "SOMOS CORRIENTES",
-    "ico": "https://i.ibb.co/Jy849HS/somos-corrientes.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwUNqaCnzWfdxhhHb6DzYrnYqp2og3Km+KyuBDYA1ZKdz/qTWcz0Zn5h4lPGLIsy1/N21FRA+QNV5rAI/W1oL2Ng==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKrCwbrdh+wEYEE6etvOZzEWr9e/PZ7zIxeA3mytWKVyVlkfXEK0wdP3FpGGIAulBlT54kkNC9JX1Zdwf8pglgygT4VDkvcjsKdWAUoZlrEMOS3wYIzzMHsj/aqOdIiy8WQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS EL VALLE",
-    "ico": "https://i.ibb.co/bdxBzMQ/somos-el-valle.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwF3QLnvYkGEWdSDHvItoX4d2DPFu+vZKNgn9AT5fqUFywrj8aHacrpKUXO0q4Nqve",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv9MQ+JukwGD2jKIrNMjbDlrK1R7vMJF0IhXaddjRcGJvUbQB0TlOMo0d3h/Q6HmLwPpq0Uyzj02V9LMCZhFiAnee8PM8qwzDvznOIrxGnjfL2KX16DNBxM309TbUBRAqA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS LA PLATA",
-    "ico": "https://i.ibb.co/vBWtKxB/somos-la-plata.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCyOZr3cU+t8XA/hASN1ZzOe1gQA3DkoQks/SFfxJvcfstRe+fNfvWoiah6JJDdR/KtyWOygOJM+oOdhTAA6nh2",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKon7sKf01f1zBuAiyJGxWfk8jJUeFDX7i8xe9DRmAtTx3tuVzYLGzCTUOpdBwEZT9n8bRQsL3KPRecg3Si75e4WumzxIKHzhnk3YvCGtuRE7vRSRRCxoHg8qm0oupD9fTg==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS MAR DEL PLATA",
-    "ico": "https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCSoQNFGTRH/HMajCREiLe2In1DIWu1WPOPWBhASJNUHZqrAQ5dWgudhCwJJ4lViNF7X8aPl0oDs/6Idt4Vv2wmbK2yqxUdnJWpH49W2RiP+A==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKs2hOxr+8ccn6MvaF6AxbRkJ7GLYQPDw3Lvhta88aTUz9ZMh+3BuXrQozIEDR3libQkpOGgzW4INxe5LZTkGKShUbBazmjZDJ2+XyVb11btJoptexGjMZA9SzAIR6U7Xhg==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS NORTE",
-    "ico": "https://i.ibb.co/qnXjFGd/somos-salta.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCyOZr3cU+t8XA/hASN1ZzOuKOuVCkgEfgAaT7Drgf8FqGqjVmib5nnpuwy1LMdxVwBHUpNc9gIwQphAIvllvhh",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKl2wgsgtcbtYM2DVvSBE9WzDgmk10Kl5ixeJPtUnKMU0d8whrOoa1MwTJzz4EjD1OUV8MWf/ari1g8QfnFQ1DCcgwgRhyR3DvufrFSC+aixHIDX5Kd2A/nC3vD1ckr9jKQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS RAFAELA",
-    "ico": "https://i.ibb.co/b5KqPnJ/somos-rafaela.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwuhRoKGoMchHQ8L5XphrI+5QE3iP8OQC4gD8InFqvdrfSp9CCPJDExjduuoX7gRjR",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpPJ2iEfH0+/NM4bLuP5L6QdX4Uzqc/WcBE7PCfaJzZ1fpGTO36RqOdhs0/eIM6IStUT+ZlMdHIctVsXFtHW//SCgWUqJ5ng5m81sCoKjXR/7SDI/b1vuizEed7c77x9Nw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS ROSARIO",
-    "ico": "https://i.ibb.co/BCtZVZT/somos-rosario.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAxa4lGuzuUEyKvaznAD7q+4O2wPWMwahjaAaWLgHTkaRGAyIMbE+Fi+g35l+t6dgdpoqnFHtvPhit42CfKBuR9",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkVF+zU85m0j76RnAl5Xm7/mt1rirCBQ1E06FKB9jR1m4WQCS/F3+cEUbC/rdIcEHgUqUKnqy74yx0U6CsVxuZ/S7Qt8btuWDk6P2jzvfZDpV+Fpyt1/HBLeaeXdlPXY0A==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS SALTA JUJUY",
-    "ico": "https://i.ibb.co/qnXjFGd/somos-salta.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwlDQMXitcZbcl84VHSlf5ChHgsrTlew16QQVqgzjB49ZHZ9cedb8VYHwH5qKGJ2+c",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqMTtL0W2XCpwBeplCNbla+hRYebqV0iSF8u+KX2mVAsx3d9/7BjJ+uhW7JlCeJjr2pSJuqzPPwBUY9TOL0RemX5gXHjkU9YvjGmyHFFxQgmMrP7db9nrRXDUwwbwkdzdA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SOMOS SANTA FE",
-    "ico": "https://i.ibb.co/jLvNjBM/somos-santa-fe.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAxa4lGuzuUEyKvaznAD7q+OOYpoy9caZGSos9v5dOcJoO5hdIPIZ8AdoIuoT9/r2GHuUu6305xHLr7HpMbAuER",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhV2eh+ODhK+x9s3D8OsiD85V2laCyZmjAvpICSKARlxzMftrVSgVarNup4f7u5WHBTamUkyPKVlAMLCLGdmbEUlA7FNB+unuwUeJxQIIUIyH9cELjcKA97Ll8SoUSWBew==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
     "name": "TELEFE BAHIA BLANCA",
     "ico": "https://i.ibb.co/8YmztY7/Elnuevetv-bahia-blanca-logocolor-svg.png",
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTj3vR2QczToHQjfO3ym93sKLLOpYz9/Aqc922Mablx/Win3sV7n8FwpaD6lvj2UBAsBfUPOvMQ+R7RdmvwTbqGfu/VVNefrhDwcgS/OIfksA==",
@@ -502,6 +419,55 @@
     "drm_license_url": "LS6qxNscpFe9rDy2K+y73PRrc7/FsC3FhXgTgx05oimgLiiFPPruVmfYI200KHnYy+Wzt33PBu1HcO9qq1x6yg5aU/fDOjv/qWhMvQhnkHKXi+H1XVkM7QxQjjb7a5Qj/Wo9htPk31zyLEHj2H/loCzMtzioogc5U2XM4hwwWZc=",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+      {
+    "name": "CANAL 11 MACHAGAY CHACO",
+    "ico": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png",
+    "uri": "9L1LtaNXx+3vooD2iXdEEryxoL46m4AXTtP43tWLVyXfebYI0hTektjbwy4cNT4RwrqKhbqfIOyGL6OQuu778g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL NUEVE TELEVIDA",
+    "ico": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
+    "uri": "jc2wUWBhzx3t/qDXdrqrnHWuAt4ilDeX4j1B+VdmVb5w/azsfT1ycHZN74+BrpFJib193rEuaISw2z8Zw2cQTQEgZlvXuorukYWWZisfmyfK3yf8s4zavOu1V+tqKNEPkEhc3XDxjQ5xXU3MiI8FxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Multivision Cable",
+    "ico": "https://static.tvar.io/imagenes/multivisioncable.jpg",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor17FB//fiLa1HiqOMKgJPGbRkTl+Gv3En1/gy02t8+VL1Z9YkhLJ0E4yY1ggxfVEJEqngOLGfPG+7C0DOUULzZpd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELE NORT CORRIENTES",
+    "ico": "https://i.ibb.co/W5H1n4c/telenor.jpg",
+    "uri": "67irdqz2DE533H4/zDlymGrJKa/zFm9C//VQJ8IhAVLP4Jp7AEjDNPqGCsflYxqMs01YnYW9IihizY2+XBIYjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LITUS TV",
+    "ico": "https://i.ibb.co/VQr9vVz/litus.jpg",
+    "uri": "YHIWb47IC9YI8pY3jTg2I06isPo6HjNSkUHsCJJ+qLNAnTHujTJeT7flim29sW+iDczy0HejP4SkcwRbWH6FyKPMoBSB07sGOyUdgLGto4g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 7 SALTA",
+    "ico": "https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYD//IgE+kDstwedbBXK5hhkB+NlYjhc9ruJzD5IQlHdA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 2 SALTA",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcnRIcUhGDREH6gXZ9y_LEvXC0KHs1Zj9r7l3QHNEAg&s",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TZM7Pc0cJZ93beZnUCn8ju3fjtWoV4OU4fgVSEirNH0sg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
     ]
   },
