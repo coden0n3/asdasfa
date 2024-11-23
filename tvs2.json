@@ -1,7 +1,7 @@
 [
 
   {
-    "name": "▐ 🌐 NOTICIAS",
+    "name": "🌐 NOTICIAS",
     "mode": false,
     "lista": [
       {
@@ -169,7 +169,7 @@
     ]
   },
   {
-    "name": "▐ 🇦🇷 CANALES DEL INTERIOR ARGENTINO",
+    "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO",
     "mode": false,
     "lista": [
       {
@@ -472,7 +472,7 @@
     ]
   },
   {
-    "name": "▐ 🛰️ CANALES 24/7 ",
+    "name": "📽️ CANALES 24/7 ",
     "mode": false,
     "lista": [
       {
@@ -660,7 +660,7 @@
     ]
   },
  {
-    "name": "▐ 🌐 NOTICIAS INTERNACIONAL",
+    "name": "▐ 🌍 NOTICIAS INTERNACIONAL",
     "mode": false,
     "lista": [
       {
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "name": "▐ ⚽ DEPORTES ",
+    "name": "⚽ DEPORTES ",
     "mode": false,
     "lista": [
       {
@@ -828,24 +828,7 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-      {
-    "name": "ESPN PREMIUM",
-    "ico": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKWb/ocX+fj38HK8ADSqdtYvjHzEQCrmnxv3t8k9hQWhRAqUbdK+0tPMVYxGG8j9c8JbAiTROkaDdnrKjmfE9Bg7vnWpRZSM5q1cxs7SLX7Q==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBzaqTzR5/mHo7WC5180rKutYfs1EGFQLfy3zPJyp+dHQ6SRcekDM4XZIPGRiu/RbIEbBcu9zm93hAVgGb+xpuLTUiOuNf4w1+qhoAXZu+AtYKTLU1mQtQn6whg4ajBn7NQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "ESPN PREMIUM OP2",
-    "ico": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKWb/ocX+fj38HK8ADSqdtYvjHzEQCrmnxv3t8k9hQWhRAqUbdK+0tPMVYxGG8j9c8JbAiTROkaDdnrKjmfE9Bg7vnWpRZSM5q1cxs7SLX7Q==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBzaqTzR5/mHo7WC5180rKutYfs1EGFQLfy3zPJyp+dHQ6SRcekDM4XZIPGRiu/RbIEbBcu9zm93hAVgGb+xpuLTUiOuNf4w1+qhoAXZu+AtYKTLU1mQtQn6whg4ajBn7NQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
+     ,
       {
     "name": "TNT SPORTS HD",
     "ico": "https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png",
@@ -933,6 +916,24 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCbNEn1BrRo22gAuafADRdMpStPMlhT54JBTGvvfGBRev2P4F5pkKwGdy08lG5WxGzz2F/sfkeLQGNxHYaJoKov",
     "drm_scheme": "clearkey",
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOBzaqTzR5/mHo7WC5180rKut3228MU1505DDzfE9aKuLRxSyjkaVKgZ3Ob2fLyBoSo9NgZW+ws0apxyNvRb/hLaEgk7Wpmn085EFSY5fvr42l8mm9gs4r5qK7pHxo+c3+Cg==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "ESPN PREMIUM",
+    "ico": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKWb/ocX+fj38HK8ADSqdtYvjHzEQCrmnxv3t8k9hQWhRAqUbdK+0tPMVYxGG8j9c8JbAiTROkaDdnrKjmfE9Bg7vnWpRZSM5q1cxs7SLX7Q==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBzaqTzR5/mHo7WC5180rKutYfs1EGFQLfy3zPJyp+dHQ6SRcekDM4XZIPGRiu/RbIEbBcu9zm93hAVgGb+xpuLTUiOuNf4w1+qhoAXZu+AtYKTLU1mQtQn6whg4ajBn7NQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "ESPN PREMIUM OP2",
+    "ico": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKWb/ocX+fj38HK8ADSqdtYvjHzEQCrmnxv3t8k9hQWhRAqUbdK+0tPMVYxGG8j9c8JbAiTROkaDdnrKjmfE9Bg7vnWpRZSM5q1cxs7SLX7Q==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBzaqTzR5/mHo7WC5180rKutYfs1EGFQLfy3zPJyp+dHQ6SRcekDM4XZIPGRiu/RbIEbBcu9zm93hAVgGb+xpuLTUiOuNf4w1+qhoAXZu+AtYKTLU1mQtQn6whg4ajBn7NQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -1099,7 +1100,7 @@
     ]
   },
   {
-    "name": "▐ DAZN",
+    "name": "⚽ DAZN",
     "mode": false,
     "lista": [
       {
@@ -1182,7 +1183,7 @@
     ]
   },
    {
-    "name": "▐ INFANTILES ",
+    "name": "👩‍👦‍👦 INFANTILES ",
     "mode": false,
     "lista": [
       {
@@ -1336,7 +1337,7 @@
     ]
   },
   {
-    "name": "▐ ZAPPING CHANNELS",
+    "name": "📺 ZAPPING CHANNELS",
     "mode": false,
     "lista": [
       {
@@ -2413,7 +2414,7 @@
     ]
   },
   {
-    "name": "▐ CINE PREMIUM ",
+    "name": "🎬 CINE PREMIUM ",
     "mode": false,
     "lista": [
       {
@@ -2707,7 +2708,7 @@
     ]
   },
   {
-    "name": "▐ RAKUTEN / FREETV",
+    "name": "🎞️ RAKUTEN / FREETV",
     "mode": false,
     "lista": [
       {
@@ -2812,7 +2813,7 @@
   },
   
   {
-    "name": "▐ CULTURALES ",
+    "name": "📚 CULTURALES ",
     "mode": false,
     "lista": [
       {
@@ -2953,7 +2954,7 @@
     ]
   },
  {
-    "name": "▐ NOVELAS Y VARIEDADES ",
+    "name": "🏻‍ NOVELAS Y VARIEDADES ",
     "mode": false,
     "lista": [
       {
@@ -3174,7 +3175,7 @@
     ]
   },
  {
-    "name": "▐ RELIGIOSOS",
+    "name": "😇 RELIGIOSOS",
     "mode": false,
     "lista": [
       {
@@ -3289,7 +3290,7 @@
     ]
   },
  {
-    "name": "▐ PARAGUAY🇵🇾",
+    "name": "🇵🇾 PARAGUAY🇵🇾",
     "mode": false,
     "lista": [
       {
@@ -3459,7 +3460,7 @@
     ]
   },
   {
-    "name": "▐ INTERNACIONALES ",
+    "name": "🌍 INTERNACIONALES ",
     "mode": false,
     "lista": [
       {
@@ -3555,7 +3556,7 @@
     ]
   },
  {
-    "name": "▐ URUGUAY",
+    "name": "🇺🇾 URUGUAY",
     "mode": false,
     "lista": [
       {
@@ -3663,7 +3664,7 @@
     ]
   },
   {
-    "name": "▐ MUSICA ",
+    "name": "🎵 MUSICA ",
     "mode": false,
     "lista": [
       
@@ -3875,7 +3876,7 @@
     ]
   },
   {
-    "name": "▐ FIGHTERS: UFC- BOXEO - MMA",
+    "name": "🥊 FIGHTERS: UFC- BOXEO - MMA",
     "mode": false,
     "lista": [
       {
@@ -3979,7 +3980,7 @@
     ]
   },
   {
-    "name": "▐ PROHIBIDO PARA MENORES",
+    "name": "🔞 PROHIBIDO PARA MENORES",
     "mode": false,
     "lista": [
       {
