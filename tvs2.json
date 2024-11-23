@@ -1295,6 +1295,30 @@
     ]
   },
   {
+    "name": "▐ EVENTOS",
+    "mode": false,
+    "lista": [
+      {
+    "name": "EVENTOS HD 1",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAgNkB2xvqW0U2/S56O5ZuEbc5jZM0FwBRakpj/PGTqt4H7Vbj3BD0dp6Ec6utesiXostjY0mef0G3eRVKARqCQ",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv+Xq2Jx6mhkZGXxbbwnjk6ndMy22LM7bB5LMRBzm4kjd82ZO5tSdRWEyy4InZcdWfy96J+S4lcqHnIpXCAXWxK1f1OLfR1IHARDA+XmI1CQtfUN/Ustdt9lhMxktPTAVQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "EVENTOS HD 2",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDx1AnvCSFIMNhNM3zPyFpKZSr+ESaJdXC3rI8EAFE6h1Z9RPksGciC7USQyPXNO5oDvp8bd0loDDd/CJt3pkZd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv+Xq2Jx6mhkZGXxbbwnjk6ndMy22LM7bB5LMRBzm4kjd82ZO5tSdRWEyy4InZcdWfy96J+S4lcqHnIpXCAXWxK1f1OLfR1IHARDA+XmI1CQtfUN/Ustdt9lhMxktPTAVQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  }
+    ]
+  },
+  {
     "name": "▐ DAZN",
     "mode": false,
     "lista": [
@@ -1377,318 +1401,1079 @@
   }
     ]
   },
-   {
-    "name": "▐ EVENTOS",
-    "mode": false,
-    "lista": [
-      {
-    "name": "EVENTOS HD 1",
-    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAgNkB2xvqW0U2/S56O5ZuEbc5jZM0FwBRakpj/PGTqt4H7Vbj3BD0dp6Ec6utesiXostjY0mef0G3eRVKARqCQ",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv+Xq2Jx6mhkZGXxbbwnjk6ndMy22LM7bB5LMRBzm4kjd82ZO5tSdRWEyy4InZcdWfy96J+S4lcqHnIpXCAXWxK1f1OLfR1IHARDA+XmI1CQtfUN/Ustdt9lhMxktPTAVQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EVENTOS HD 2",
-    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDx1AnvCSFIMNhNM3zPyFpKZSr+ESaJdXC3rI8EAFE6h1Z9RPksGciC7USQyPXNO5oDvp8bd0loDDd/CJt3pkZd",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv+Xq2Jx6mhkZGXxbbwnjk6ndMy22LM7bB5LMRBzm4kjd82ZO5tSdRWEyy4InZcdWfy96J+S4lcqHnIpXCAXWxK1f1OLfR1IHARDA+XmI1CQtfUN/Ustdt9lhMxktPTAVQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  }
-    ]
-  },
+   
   {
     "name": "ZAPPING CHANNELS",
     "mode": false,
     "lista": [
       {
-    "name": "NET TV",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
-    "uri": "jc2wUWBhzx3t/qDXdrqrnD8DUaLc2Y55x1qOdurYFNJAGhPQzdfQ/h097CJ79ZQ8Qezhhn52oL1mEaqBX8rk0w==",
+    "name": "Cine Estelar",
+    "ico": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfU8iq83EqVekBpW1OUwZeUP2Tz8jYUewYUYsJiNePQp7xdcMjBv57c9iYvuS92rrG/uNIhb8zXjbToGnIYsRzwx3wnFIUsz/asehq7gFEpU+wFSIT/ko6zQDJCm2G1sAc7mAwFWQ4kU7S2P9qq/sJDIXmRMkCaRYd4+mLFYdiB2b9j7plNv476BVE3RBqjHRlln68P94PmTodXGR23lmDKObqzKKtWd5KpBU2pQn3ApgqNDDJ8HTZLGHdghUgMenb3ZVo2JgHs1MD4XLLu6F6inmK6cc4ylCKnR3VXBmzJkOnX83Gju9IWTxBceY8myoXfy6C333jQFax3X0Xtc0MPrivzeZ9vDiuzQ6vsXgRuX5FvP7K7Gn5hIlSvomuIccb8tBXBE8fW42a9wPxPKUrEu4KORHkM9mfSFYxKRfkQtYoa+73TPGIlmLxTqoTrWbXtv3RclpyqSkSbIb9Sweptvun62DuHKAAHDWwDAzx/wwjrDBJvmdYOYl+L4dB7yHkQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "ANIMESTATION",
-    "ico": "https://cdn.m3u.cl/logo/1081_AnimeStation.png",
-    "uri": "CHiXf3NfAkGLi4DACJSqz/JbjR/meHhealxTp2EXKhTcqv6hWHuYO8sEaXWBj+f4jNtodUJejtZVKbWYYAGAtTVx1Ea9MpaR6PQBfsDyJ5o=",
+    "name": "Cine Acción",
+    "ico": "https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsHlNTC9REhh2f2PyK1/HpQiWJmggnnNELN97i4p+UQnaXxhl01kxDsMq41cAts89sDv8W01BkonXfrYHnpj1XBCuDmD7o+cfcbP8p8zKoUlv9UjnqsjpbVEqOcMq5+D+k3lHjJtlnW7ZqYHg9oVQXb1ziu6Su4OulTuzhw5Yr13DU1a34rEYuEHpH/DJBccomZlOuuSBeHVHEpJ/2Hf3mIjH/JpUaVWjxZQmHBzS0T2G4u6QGhzYUxM0CZKcl3jdkl8vEIr1mXrRnYRVejdF5Su818q6hjcoNZXFU3KycbqbNZ0ytEsJLByyOrIWKhVbiz4/ul7RXUsHRqcTnHxxiM2qKjXuik7Wo41MOc7jKCt9VkrTynIF7EnjGKrtq70cT+6qdrEVRcifHbYwKiUX5hRi9f2Uia2TBoKTFa0sb2TAH2b7OqxZ4/2ZzopOrqj/Tmy1V8Bb5ap09PJvfFlwyKuEjtlFKrXpVUSSYtdjozSiiWDenMfYK2ygskADmdGsr027ZjtIkbkpYswUdiBOdSQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SEÑAL URBANA",
-    "ico": "https://cdn.m3u.cl/logo/218_Senal_Urbana.png",
-    "uri": "qvJXDCXXK9G57ClfL6/ID5XTawwxvfzneHIAcC1+7v6tdUldHvDY81c61GmB4y/bJq8hOMKyA5YKx/omoOgG3Q==",
+    "name": "Estrellas de Acción",
+    "ico": "https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zshaezifa5EkOzEj2WJp/lgc18BVEQGj2pvOGBy8VyT6D6XlM5c2ytxr/gd76QDnLlb/h5sWJnHZA71bzeQffEfiN9t9Vpq9cO2VV3dlLygXZFHPouazJ2wnRYouNQQ2EVOzm4qNAQm01+lZbyaUSNKhbho/qToKit0lpfAIi8KCbcRbrso98ATn5U4gG2H53KrVP4QrfT8LtnUpq7vIpKhplW9n9kjHuQV2LtO7kmZ/pfMhiQj+R5HP3KJLcP4SIIoMdW/u05hjtsmoHkPBgn4cjVBueW3KMrw05GfhI7Zx+dtj9MQWRSyB+PymzSKhsXMQgYDAyLxedrgz6apy/yLiiKxVZdy41+gtciCQ7eBvwlBz09FM9AuM3srbV2/lAKcMuJtxymVi2yXsy31i0TpPM7eebvo9RH+Ksb0e9YeuVkBwnxouAIJctvI5CNQDDRA5RB6k0bfVLZE7xMD9oY24dcmQkwkSSCFqhRtlWBwZinVm3etWeuKn33xv+Tmrnc0Hpe5n7TRvfoGfAUCYFwhg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "UNAM TRANSMEDIA",
-    "ico": "https://cdn.m3u.cl/logo/1010_UNaM_Transmedia.png",
-    "uri": "ifB/IBwOBNnSYg5Nm0q+JOtzusOvLFWJPfGKmYSI+LsSfV7rXNrDhL3FGSykgsiZ",
+    "name": "Adrenalina Freezone",
+    "ico": "https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsHTeQqewBE0B6MXXC2vrYlQqlQVPX4CwTDsxPNJUi/S1/vd9THQUmMnPgjzrex1HZIftUd6yswg/X2WNNvwY0XVu7+avLpGpv8GyiaCl4Ha9SEE4nrMMQ2uwoMQf5N0JhQ1PaMam/VPLq5giFObu1ITKclZY2/YC9ewxHPF/tmEXYnyr+xeYVDWMqKj+5AlXI8x6hHe+EhfiM6HIis037WvH2T2akJrgsOYtSYn9uqb0JhMI24oHuFstmWWM+0UFY4PVxGG+tLXYJ27PcajcSwLd2w9IVOS5YCr5XrqmtjWcO6P//mg/yVs04rjttVQrHtJHRNnx/siGgTDxTTcGM9v1uyiW1tB3BGU9W4LXHnP/j1f6D6lH5ocv5aI3oe8ZZPsjne0s8SkOa9ib5Y7BhVsAfTvm/jd8PPFOc70gjCZ/3bGU1mOhUTyMqaTh/OSdwXFvvMPvy6QQZ4GFXTgEyKn3t9DiLUHr/jWtFerj7QVamD5MX051f0xEPm2/Kul2WMjzx9D//RY7ZAU9b6e0bbw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LOCOMOTION",
-    "ico": "https://cdn.m3u.cl/logo/50_Locomotion.png",
-    "uri": "0KWUxkD94ARSWfhcrxIzr11jShzTb2hZVPfXTEOL+uCmzuw6zW1OdlovMIRG9vTy",
+    "name": "Cine Comedia",
+    "ico": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsXcOXm5JaaNBW0eaRlU7kT59MY3WG6jjo63xhOWnSv3Is/qrWRuZWBwgaVhWNHGCvudjkE1sAR5v1S2O7MjFIKKLBdg0/ZX3g82XrJKZ6a0OS20Rc9yDL4mNI9xlKS/w9bhx8MiIGSWQIf8UsLqwcSVtE0uqXiB98a2Aj/tJsmm+QO7Qsa00xb2y4P2tCyDrAgeNwXwJe7rOO5FMtbRXpYZwQTItC05isRwnvYcN43sABgfPvXY0URvLxN2TDFQPnqA3gXqgcuG9qy8KM6RIx9hjQ+ubkt44wx7N0AX83dZ0huO9Cbka0ahroF5Sx0v5hsBdFcV5OHgyD+2g+0xik9Wy9kv7dwwLUt5vqpkFgUkPBPmw1SLchD0JcPVZe1pEt2U76BPFYk71LpDXjG5F4XnDevPpb5ggq/HSiWexO/qIaNQWF+xV2DaTbVdneCkjla93ijFQxYdXonKkvK1Sb9SdJldYZYcJzjusNLpxrcSZhIV2v3PASwPJSj7Q6jQVlGrNls8aZbtSgxu6iSAd52w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "VARIED TV",
-    "ico": "https://cdn.m3u.cl/logo/1335_VariedTV.png",
-    "uri": "DJuEHYRn630ayDJQbUOh3zthfMm+l0NBH+9fjfpTlvNF8WC2AugkgMcDpu2qYptn60KlhhPQaHrNYTArIYcLfg==",
+    "name": "Cine Drama",
+    "ico": "https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsXcOXm5JaaNBW0eaRlU7kT+YW/9SK9JsHtc8642QE0vZFZ77xlDfIz/PZVx1Nnarc0CGb0ipg/BqMYwZOxNxoPq41cSVkwwffoDk8PEo+XdAB8NMMwBcfs5TerX8t/cykCGN7Ba6y7Z+JRmhqZDUchFEDX+SA6RKNe2HhkOoFLveF84vUFj0Unhmb3fjq5baonqJ+WF1ae57Yh5MAue9/DC3Pli+pnFJuVgbgTGVVuJ4ItxH3zdSqMUAxez0najT13hTvUtuLghanlW0iyifvXPa9VAuNNQby4jjBjTsmaiPVYYab1+vjc7p3q1dwyLOpHfR+/QAMemOG0ajft6+YfqCtIAyOBsRv+BNmcJDAKmHLdBbx7/T3dXFoHz54aYsL5qAHHfncOTaZ2e9yOUDkSfmY6F58id53YumaS4gYGMbC/JPLNg/s2Ce386ogydGgg2/3KlHpm6/QmlcmErtafSH/3AzbdLzCmH/zRKlo5c/jYXrULD6Iy0vWt7gyq1edpBD7ldb5UZhHsqvY/gCHhg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "NMAX TELEVISION",
-    "ico": "https://cdn.m3u.cl/logo/251_13_Max_Television.png",
-    "uri": "raaFaJpS/02JUKMo+BUjaLLtV+05ecn5VJKsrI/Mre/u4Q0AmnyWHDpDgfwGokIQ80d4bVf7H+Xau9E6zJIeMs7MBWMX8zE3oVnYkxaCbGg=",
+    "name": "Cine Romance",
+    "ico": "https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs9p1NHQeMNz9RR1yEDXznYayTRuPZUTpZdwV/HSvPEPONqsMZB48S1cIk7Ervx/kMGsFEk8d3+/zdT519a1Mdn6fVzKHttglZbU8Cuw2gWKTUFjLxc2vHuTw0Ol89IlQoikSATPAwd3+8fASXA8blPxeooJmLRyB308O1u78Rqm/dOBNXpmQLN0rzypIHa8Q462zJ1BPbVtgCYchsf+iL9aANLTW3O5l5DJxn3PLnIaz4DEllGQBIrzu0aD63jP495wIqDZsylzhT7w0Hh3c6FnjUx+N4SPAiLEXrnlaEBiDU/vc0g2FHZpXorqFCTvx/bLh3Kyy+K0+NXaAMDYyFi6ZW3ty2r+3H3IggGU3Rgu9/e9KAJ9IMYm3Tp3UP60RsWpgGgVHs3uOD3zw5dy9iB/0eKNP9aPw10BmSXgiBo81sArSvSHXT92nXfMGwgkgIolRDKdqz0q3tYMhowxp0nwuhPAPFVJX7RvlgPF+kVv90Q6XQYHVBgkRAXFcPQ0EoNM7LD27+lK1+/GMBxMw1TA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "BBAYRES TV",
-    "ico": "https://cdn.m3u.cl/logo/1200_Bayres_TV.png",
-    "uri": "Ff98wgzF7wgTmpOCzf/2gMsFMfd7070bn/thAJrpt7W+Nnv9CT8DrREiuAlKUKxjGK+jAqlpVsbj6nEDwr0Z4A==",
+    "name": "Cine Suspenso",
+    "ico": "https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsR1MVM6hdbf1/0TJ5bMKGDVlrcxfJPECo2i41lrQHdrBvlwYCvzqGEfYBfuaoGZXC+ihmTHXdpRYxoo3CN8/2GRad7F6zIz8IoarhbnXsVzObxKqNov1hGcLpJNp7WW126x5rejY9ELDRXhv7JbLLX+/Q+D/YkxzoYo/PpyjNP7DQcMnernQ53Ochkki3WGtxKIdpJHQ+w1XDivBNCBDqCCr/W/WDY5V286svl3Q/b/8KgApZWx+dQCkhLrxVUmrcodAOl2dNyzSoFtKLclvaTY/BuSj28lH5UNcb/6v+KJzelCBAadm2/+VnZff/V7NI3FVCT/SAprLp6JxDeTdkxoZZ3MAfm8MmmsM6MCgbcTaeJkKcwc3e2cF0/pV7LqAMJmfeB+ZzZiD+mRuCJjAqvAgZG6ZgKdLIT0ePa8dn6ke491xp1Ef3IcwDPT9VqZFrxt8cJwKx+2R7a6O2G50LiCj22B+/Qzy3zfbYulRfy8cNtmt8V/Bc8/8kkijTfUFJQ6SSDBSEP6l1m9uGYRypmw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CANAL 12 MADRYN TV",
-    "ico": "https://cdn.m3u.cl/logo/268_Canal_12_Madryn_TV.png",
-    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnk/rg/0SVfCEiuDdfn2VD9fjKSYPI3hs3lKbiOME8j9+wbTOEOCpYKNHPE903MeF8g=",
+    "name": "Cine Crimen",
+    "ico": "https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zspoJsF8ryaFpBdARFdLTRZI/rNZU69LQHDSXHJc4Us8bm6fIPaCrR54Rl+dP2B1AV6/K3Awnntp9QkvMc2aUdnOZembq/XFmDgZ/e5jYeIMJRd04Fs8EdZ+gMsYkzV1jwwUedR1LB4mJTAHOUf6veVEdqmQw4kclytRLdeTFfWJwxvkw8/ojgRnBEvAtDSNYQOs4DBtMCDSILSvWmYA3HEKOTB20bq/b5i/VqZnlc248In7YMz+As/nKU+7o3+TMcbWCUd+r/pY91PYCkqKpmiO+p1xGQjgYaTeIXO4lIsKaOneSHPI52Whx1OBFWmVoN0h9RGMHeMG8UNydxYSKLR/ekluaMRpS7x0o6fdgjSQRf9KtL4w/H7fJgTjv0jxp/Yuka9VcD4uCo4ELYLICSNm4YlKHyHGSio486Az5c6EYi2nUI6ytOrXVAFdUwlQw079pUwR7Ig0meqRN6PzJhFIe6nbzp45uHUKTAqOS3/ZpzjD8AVkJv+ckkhPE8uKQxwvq17ziEeeBCley7oTeiRg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CANAL 5 PINCO TRUNCADO",
-    "ico": "https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png",
-    "uri": "5XU+n9Ud2NXJC+ch+PkHBC8FH/wmCEfVDH89TJ+1PNRe6qL5KFdDt4ofUxQbxZqJR4gCQS6tHGZOLQ6jsSCn7PA5sh3pkB9xsxJMjSarWAacDZyfrF6edBPVXcml3vXL",
+    "name": "Cine Terror",
+    "ico": "https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsXcOXm5JaaNBW0eaRlU7kT4pc9fv+zzsYCMSqYtvdPmQSj8hvoWuzYNPX91yTiG42bRJti539Zlk8Pa5lFrH+ofMtKuvdapFvT8AHNs2IWE+HkyxmYoF0srdmRr3+asjbARpOOVrxHgG1TMd0Hm9T4ixePLFvb8ygkc1BQR53gmTg3FAUr6A/b1AaIYdMWUWRa48SFttEv0A7/6DN72SK5WpXAqx3SzfwGO5hBJCf3icDW4+lQErO0+Kbr4bkNDSbG2OJQv5KmYI1inqzmrRv2NguG1wPEXcsP2j8I4s+7gDWIAZ3xnPqu8BWfWG5zsc99ViDjaQoVZZsUNfouxA+tTgsatj0l48aMwYqvGCxMtCM39nPUmFG/vEadv3ycAz1JLwUCIlamGFr9UzjW0wAu1a352KiUZDSdvM2StRt1g8MZafCII6Ok9flhj4r9j+aitX5qPce+5+lwc3Dgy4a88M9K40hDHkoaldgzYUq+XKjow46wGWZofCMbxktepzzwfnkZj3ZO6yqbMGaUh6QRg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CANAL CINCO TIGRE",
-    "ico": "https://cdn.m3u.cl/logo/274_Canal_Cinco_Tigre.png",
-    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor14tD3F4jT4Yz/n6edIgCGQnjZcMaM+ICLM0aoMftSjO6Xbbg9oNqW1Tl0V0ZxWvbkY=",
+    "name": "Sci-Fi",
+    "ico": "https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zss3Pgpv1svCxXS/uSbE7tud4LwlpQnbjbn88RBfS5qtzmXzNS2FP3AjBHk6u0s30trtBAnINBIyMqfY8GBWT1o5RgnJiXfN0rI+v0h4XlSwbqwDb9R3g290EF7WvShJyZgmbl6a+NkHgVERJftuRevRUnXEFv/OFyqGZ7Cl8+uqxO5tU7GV53fzkxfRVPMrBYn0TXFl2AQ8XV6YsdvoFeL+9+qDn/vexjOzN7oWojpkGK7p7hWVCOC9R/q6AiB64MsXjSfhOVfZzJ+XVoX29Ki4rv1zqqGH6GxhyIboIJWr+9WIvh6vWUBNjgLkBpOQgay35o+tVRNEp7r9rMk4ZYhZ6uMebT+OkexojRS22wD76UXNF1Nk+hqbwbItmiU4xWL0P5vDt4j4mg/Mt3Rozz+Q4YAJdlnQqFi/sfNOeXIHK9VkBUk8BNBHFDQQJDIAopdtWEP6JYTIvJpkjw2hFkOJRkog0GQFQkWGemDzENY60q+tbLzT8B5ECeWlZRkrkzBnUAhI1BXU5Phz+ku2PNSQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CANAL E",
-    "ico": "https://cdn.m3u.cl/logo/1417_Canal_E.png",
-    "uri": "jc2wUWBhzx3t/qDXdrqrnAqw4ZVS0u+n0LVp6LACEuGObdpKtRw8EFK/PHow8+TKN5lRjidje8+xtH32u03Xtp4/q1xKoV+ZRJPTbIf30Qs=",
+    "name": "Runtime TV y Películas",
+    "ico": "https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsf7ACki8/FtiYe2mxYRZRXpe7NrPZ4lWJpK5/TVTGU1T9z7WI0WoCzV5CVNLVtmXBidv7Di0ri/JDmj5S6xRx6gX1362McEe8lHB2nmipGIgmT8MsC/tcDRqcIuHI80cKQKlewx4gBJztwb1fGARJCrvPC8MploEjh0Ts92m85S3BA/FjyKul5P+VcN+vt/O+TCmECY3Lg+L1Z/gdz38/Hi4EOZTrNsBVXDalWNKTPB1GAJYCxJgb3bbW8KsHUlDmrJji79A9qAP3ku0TbZEhARb4POdLP5Ofs7oK4hHMroDE9qkyJIGNxB0aisHlfmq1Md+2lqjUL/yCHMviZwIuxJxL+nzol2NWlIB4nxEeby9ORvGjI950j+izhuzxxwthbxwV1lxCEimYhSXzHt8do1BKYbO0uA3vhSpfhCPUSpz5ePKQ5T2OJKWZu1H0WHpOLGoOR7AVE4aERt0D8hxr+668/SJUTr3f6PkFAWM6Dz0AvZiKnhy8uco1i4k5+rEywu0TdEY0wrcMwZZ8pd/35Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CHACO TV",
-    "ico": "https://cdn.m3u.cl/logo/279_Chaco_TV.png",
-    "uri": "g9qoUiBJiljlPDVSvZDt9dW69xnckq0jT/yMqunyvnngd8+L4pUKRx9tMSL65Udv5JM4A17serHlU1RkN0yXLw==",
+    "name": "Filmstream",
+    "ico": "https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsqKVRwYJE/B2ILmjFLv4XWHm0LzLdhi/hf9vEwyqpMSgf6HrZM9Hfd7DP1YZAMqFxGCftbtCtruecwT7sGeu4GjxSXYAafUnk6VM2mMGYgWXMdDOXSayVPiS7tzSOYey/i74kx4ftx6w3he5Kq0sjV0Qb4p297+Urj2jLITxnpJJgFmfsuWhoe6kqmqpSQHSxAzaYPd/HWMCdxyUf195KvDpmjXAf5dsT1um3xqUFSX5/N5skHLgffOnuAcqSMVisPXtDaHTbOye4DnMI1KPXUH7MdXuZHaK15VIMhwjrnEUqMv/HBiY832O2Waesh1OXxG8oKnchlJLT83qH8NjRtiLAwcOKHr2lSebxfuWMZsyENuLB5adn1ZVReMdeAku9sl+KSr5VfJd2SpOKuvgJz3dNNvujhc1kJCwOmTvw0YrLP1grVE9TYoTWHatzWY49yRAXevNBSVVjL0uLyIK1HV8wVVqeNWi2HUOzL9H3dYJcDqc/tkD++tHTC64YiY6Ns/HcY1rUMNqGLWaBSvn1GA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "COSMOS TV",
-    "ico": "https://cdn.m3u.cl/logo/1143_Cosmos_TV.png",
-    "uri": "+/gcdYHnhMGj1Vnh9jo83Fcnkb0DrvESUFHaXwOw/DWaSAYd8J0CEI+0UTukqbPe",
+    "name": "Nuestro Cine",
+    "ico": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsYF+HI71uivSU8xniggBLKm336rxGMxjBh3naCjyN0W2nZHpROvjFlwicYB9xoaeJn6mSohS6dagx+14rgWlKwlaPfu9p7vKL2ZILQoABg7RJxMu0RJ77it4G3wZIESb2dO3jCC78w5zkQYkmUlQIk1MELBPxueeDvprgSTS7r9u9ln6OJcPLuRi5E+8HQdKdxDoqpad9e1gKBUhk0hMQrsIQODpte7DFpnCgqsPaHXAVHKCsShvU+dxB1t15rWh2pjVm8dFQUn996eHYjXytRJFh830BbgqXVBaMeeZH8UC9wFJ7YN61xP3uOSYSG9iAyU3fLysYPvO9uC3637LPqLVSRXt9PPorGH/Z2mh30gui+pW4N3y00ONGOIWvXDVDoudCOBjc+a155ziSP6Vr3RDZ139U0G2NaEghIDTdi97W2Jx6sBxJvB26e5ufRxSOpQBJflw86y9qwD/jRrl62D1EsJPUzyVWV7qOXGR9huFTNVqTDwOiSARUIGb2ep92okE5gL7Yc7vpEqrjwzmjzA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "GEN TV",
-    "ico": "https://cdn.m3u.cl/logo/240_GEN_TV.png",
-    "uri": "4pvj22sj1XIHP6iDTdgdV4yKQhmhov4VRMDY0dPTZ5AjCf21rD6LKdNL30EAnCYQ",
+    "name": "Cine Clásico",
+    "ico": "https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs79VFNxFY5mI8tDB7ypzYvY++zVjUt7kV86fkaPOat3wtiTNpmu9GKLtqDTcHtmXOS9iZb82Xf78VsTaIE7+JoQQ5/166LRiHQj0H6k9HeVB9pv10byuW3oX8gcX6KTvJT8BY2ZqtDUkJQAX7dzp+ZfRYRJqCp4ctHZXUL9ka8WWjm2wMzALBXDyXBATrG7cPS7udI/tyVGB0N+DaCa9Vc74Siom3p6AeIYvFg+JfYX5eK/4wtbTo0VLGtltSfeZTesgeGMTXrL2VyC0i6cgSvANUmGmd1y/ajEBqymjZeIxsLSfXbJk/QjtXDVuB4IkDXrr5yCt/u2mqhciLdIv5R2OG4LeESB8c8fBz/GF8cdO/E5HPTZedcXW65N+02RVLW+GIskl58EwqCBKTkym1ZpIe7SGgg3GlMkT4A6xgvWYAERulhoVk6kx23JbV7E7hhC3t2Aq4xuqzkLQB9FFmNBBiAwHCGeGTMx/Lq9XKi3D7ycGfhqwMjFSoMnkmkEzx1aguEI6aOxpt/PedNO4nxA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LATINA TV MENDOZA",
-    "ico": "https://cdn.m3u.cl/logo/1621_Latina_TV_Mendoza.png",
-    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor17+MB5+u1k12j3mm694UNT2Zu0og0TodMyjyyoNiGYWZNNOBo0KDQQDpc50zTH3xLg=",
+    "name": "Cine Familia",
+    "ico": "https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCgfxmp4b7/ObJioD50gH6BVzY71D5TbnPNii1cwFKT7Jhdvjchy62B6b0ybeDlhnemvYBEwhJLzsz9K9WDYtD+7dpoIQJGD7gEYHGI/KoWl6Typ7S7xUZTIiAeGSfNW7uTMvKG+TMvWT7msjrCNiO7oDd+iMblz5OJj9XMCOA7mr3pPfZbDB1TgyCOHDsZqNvKyGLAjmPp29kMLpllUB4doG09GrbiKS/qnvPokrWoNcx5QMhCKqBZSc1wh3Im1efO4JuRoAj8/G4JdiPg30CfJQee5XdizF5/1t2+xmLJlijqUOqtMuFCrtt7Q1QWf3n0EUlS/asvujcCAfN7xdQBKz73q9rJqeVWa4AralknOqR/1FIL1eOI4SLntHGIWxufEeLnGQ3U9F6IESCIzBvpi4CmvUg+TihEh0WSHD6X+TyjfjwF5mwdCXg9m76YEHMm1Xi54wdqrhYYHhi7EJaCKwANaMpm9J2Eb1nGVmUcoRrqtOmkyGtJ4M454q6Nibs6PXXpQvEuccAsIR2/8N9Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LTO TELEVISION",
-    "ico": "https://cdn.m3u.cl/logo/1086_LTO_Television.png",
-    "uri": "P2Rdu7eF3RH43i9Z1J02GNqTncaCcYjvifQ1IMFsN1rGv4RbyCW5TP9mYOP14I0e",
+    "name": "Paramount+ Presenta",
+    "ico": "https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsU/7YGl4gHpeDEF+UU/UWEsuHCTkz72+q+U/8H1e9CloGS5HMfMj0u3oHB0gnsbhvurEv0QagvRjeu+6Q5MAUAM3ShnvlvL1dJf01veyMa2ZMWKBq1BURgmVQTqdRa+uwYICfMc542lFQRsAEmuCx3ks9OLgGTtsOPagzz3YwpPNf1wts8RDPTpjEjtR0Qyhkt5CaWup2T6PQidLIMxnVtrVNVvexXAY5hvlLNvlKfN9GncUyEVt0QghBkBONneo5QoIxNQJBbZ+hk+RuzUMA07eTRK41/7T9AmFNLxPnswxlXUZKfucYJnV6ojHCUr9JjGfkWy+Mu5r4HzvOYosrRpa+pMW8tXgSimtpF1mKLnMDtN5Vbxwewi0joe/AdslsDhJ1xZ7QFQuzFjCiUwkq08iFvu09fAyra4Ma0exwik5xDsfVYWrys2GUz99bqaSauA9y5QMNxvVlpm/IzzEJORGY5PfaAq44rAsSsFOVEND7QfGJ6mv3C5qAGMQ6eRXPanDFcMXIGtK4Mp4HqVbjhQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MEDIOS PROVINCIA",
-    "ico": "https://cdn.m3u.cl/logo/1394_Medios_Provincia.png",
-    "uri": "5XU+n9Ud2NXJC+ch+PkHBO1M3V84KNvEBptVr6VJpEsTJYAI/k2fJjIwHfr14izr56TnRtfx6WV+yRiV6FJwyw==",
+    "name": "CSI: Miami",
+    "ico": "https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQwD72A+4WkABedyPUDCzYbu6eru8+y5eN1+FRymvLsyjCJKAoXewXvzL5pl3iE8VchLxG+KSab118jQAF/T+SUDmTjW3jtVO6+MtCUz31qFGzFvN2N1ZzfKOsmEnmuxuZT1UR0pmepjViGWKJuC7kFTkrx0axJTZUKmkf3KF5GGQiK7afrKHKd8kwJenQZbNg1aavCN4KoG8w02m2SShxVaxwXeGvek290G9sfDrC80hrzS4iIWlccJ+uGPkvx2xlYAyg1xua4TQnYihi3Y4szuiKOYeD9pZP4ET+DE6tvRXhgDNJkOYEltjoyYDmktiFxQkDHT9jvORAsaRMTyfc4igUqayMj4FqYQkhyFASV7yqKqDSlXNya3v66fixf8qylqT8izPok/P8HKWSrm3LG7D9rOG+OkjQA4NHXK9uOp10Nvnd1FxhifENNq28d1uqpbYiXy/HS4iF68NZP3ov4luTqDs/EZ3uX+A9jA39MTbJnW6Jcu46sz3pgYwLt4Gh9PwOioWuaokCrr4iNVuUA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MISIONES CUATRO",
-    "ico": "https://cdn.m3u.cl/logo/1362_Misiones_Cuatro.png",
-    "uri": "Bi3h+LQz5kUv7oCPixqzYRjnHCbkHjuwK837t5HxgrfkjZ6O+mY8GvWntTCc4eaLQZAZE1TY6Bh7lvZ0GNhoCreSFVgANn8C+rwF4p2u2vk=",
+    "name": "NCIS",
+    "ico": "https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQwD72A+4WkABedyPUDCzYcHJDN+whdGfGE72VG7zQ33dugVYIsGeENk04OfYkY8xFhGbHHjz2KxExQQ3HHVaeD0OM8zd2Rh+zvv0Jlys47IE/PW7mQtvVJqUvj0kGMDpwplhGZU/S1lyTQmKsQoPre6AktwJDXy40OnWuxTb6Z8PEv7YEBf5BRtjl2TaFxDaJ0gphRSL5lTjvg0MlCKJxa9ogGeiLMffvF92gNUMPE2p5j70YWkrKDACU4tSobG0A7oWjuLP+V2oHkqD4wgTSbHoBaB+6Mj94JwJeokplTwc5sAaHw15oe9lk72c6RCo4jaVMi1B2gz3AOnonNKC8Xvzh3Hw2jn//f3XgnF1P/PsquQChW6CGMnpe9GEJodoacjU4bejKfirC9H6RGGxfBh+HtPpHUBfDjqFSo0U9voPRAIGX7fCZKve2nin+nSectT7+r9ueKfRj+1wd9dNz+/6hPqTdphON2ZUBWxCYl7q2L3r3zrwmi/kckXNymCrOuOfjtOzvYju25cuYJ/xyg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MULTIVISION",
-    "ico": "https://cdn.m3u.cl/logo/284_Multivision.png",
-    "uri": "G2wm2NLBqQE7WyP1DKPFoJDuHaT+RMCOEtgsu4s1P3/fJ1PQ3r2ZyqdoAhl5Mz+cXVtaSqVFGYWYVJ+n+HLJnw==",
+    "name": "Series",
+    "ico": "https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfQSxeUF+ofbiu2YE8wNV3OOi4g5bsyhW8bUVfTr5fYsQQHRog1awqgC8PExNkzlQSCJNEEEN6KAt3v/UBU6ZtwKWOJo+gPXy+3pg58KsDJu++JDjyGSP4ptmFy06AZOOWgYugdMgdlYDWkL3UlK5GnZUS0jmqauTGn9ywoDs4ao3ZzJBnml20Hj6xBt9LCaf8U4HqhbA4IntoEO11Va8ETTnI4/ljeN2TfMirRzUu+oNnwysN6V5Jpn8u7UZciv/sj6FCSEK8vQKIf1Cl3laE8xTIbNeBi8LlQIzUCabP6atO7zxANpLwc2wnii5toDYznLgvLYX4/rvcOC+Bt4nvf4K0uStkFawQY4J0y+iyvCJaEOPvp02b6nc3Iqb0RyjDhibAkmcVCEgBBEKnEFVEGgYlUwJLB3Z172QtOQK8iUYgWESQpm+7zuUh4qOGe5NooM6K2AM9B0dES36ktcmCGWTs4HzmcbSTJ0pQOviM6VBQl0sTmx68a1v30FVmxYf0Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "PLAY TELEVISION",
-    "ico": "https://cdn.m3u.cl/logo/213_Play_Television.jpg",
-    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYi91uKdvOYn6tE/iL8F8BLl9e1gOOfAjqrU2gcOtDY9w==",
+    "name": "The Night Shift",
+    "ico": "https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsPYd2wxTIC/BiwIcVvRTmSchCwVHDo1iSigVKDjq4aLo/A/o+IX91pe2ftdWsc97Hma5O4JqC9m85Td8GbTOGvEzSBT4KsGb2ARoXLdW0Sg/cQs5bzy4pD0dADHGv3Aq51tble+IqYr35CAtB+tGS+jALBmV1ZVFEZzL+bKmVDbxvgp9S2+MoUl1rkHT3YDX978VVYHfyQUi2Fw9gJ5NyHQXILMfxk16u/SWPo+QXpghakeQeErnUyBXj0mbf5eVIGCOVhI/TMfDeaIjIxGs3AdSNMcpXarsz1o8x0UvRaHmXpsLdgTBVwrQxJbzmoy4n6PmMdorQIdXapyfL9SjmZbTHmpp12xsngkXPAZigXyt/gSolWL7uSyZOJR8buSQYGVEXLwDsEuv5+58k2Iotf4kvkgdpBgbeQU+JbBInquh48UU89w+bg7ohe13MO01xxPqqr+LFJk0dXoMMYJPvp5SMDIpQC1fhL/B4C428fnEFL+MvExM/IA4TWmolZMT76QBijbJADZ7nov55/5vDVQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "POWER",
-    "ico": "https://cdn.m3u.cl/logo/243_Power.png",
-    "uri": "/Q4zKyp0RlaYIBVCkDdv9K+61AkGeQdWfiBZ4VTjwX0TvT74H70lMfBRjocPe74pie4ZIo0uyK/J3LI7V643Qg==",
+    "name": "Schitt's Creek",
+    "ico": "https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zskVT3PiHg/t8ting6pqr9/CRLRfxmh7u8Ah2R0hxJYQm0sqxfnt2WM9mMlU6r0uohjEt6wRz45+KJ+Rso0XNRp2ZfNgYPbJugFuv0QkDYjyEl8KM19ZqqqAY8SQUxFBXNob2hSf1VixRH97G/YtZhS4aYWTubZSc8oI8P3YALmkIY6kkEXrGNYOBsZbfNDdaHr3o7ImvAuVOXhbY6gCaIJHh6pcfy46RvZIhT461MbyuI4znZ/GdKtyZVrqwWEeJ/dn2q0IalEw2+xnY9g33nyrFBn5gW5BaOV6P1WUV5pUv1cZ9znv1KTl1CgZ3x49Db/3dg8J4foQabx9CSFH9ncjsILvnS9EWdiuvDygNRtdiyDMTEnhyDCR2m3XU/LkijLejRUR8BpRn9pu84NMGyrcaRZAJK3/e/xcKtzfct8+G3zvhRawXtqtMxEfddDihDWJdvG7+fcUcHlphoMJ0MjvLdP9yQp0rHZKT8ZuVdDhKnDfh93FualrUE5cdZSQk3oBNxbQ7OWsbu3jAV2nronA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "POWER MAX TV",
-    "ico": "https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",
-    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor140QmPRZoo+Lc794UHVyjCbvwFCrcA51M+J7kzb+USANvjtz2MpXnXJs/KHoUPyMAM=",
+    "name": "Younger",
+    "ico": "https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs81DdjhhjhCehlQmiBUjcPa8cHms3j2kKYW880HU8aUC/xRQXjlaSSav7rel5En2JAYN8VEkDpntHXUt7libgcH//GtbPVtcLn6rM+x3T/Dh6DgO2dQMSKAfE2tkLHVgVQ91Tse8rrdiVelGKAIv0sw7wIrrdJrwhrj03BkBllzqkw2m9ZiO+zwwdpxShod0D1BYdE9vHSZKJQR6GOk/RKsOorSASQ5bXvPm2lW5v7uVBoFKKgID7jpvjWh/isOfe1POExfrCZN5uMsokfFC23Qhk1626rW5FNexoF0a2DTdNApajVwNX2sVuCq6tY1yhZKtmc6FbxweHZj/BzhXDE68RrK1+n9QgEHKbc+L6c0LPt39q45blVzP4GeUJAuCujPPcmTx6D7USQQkGGkaYYXhIvuOVRGK/Z36GdQIrilxnFuJKYkjvp8L/5yidCVq1I1+7sbxEgqiTFi35fJ8TnmSQcP4+s6CHVV2Fkg8pFDaKsrnngYpLW89qAIZJXe98glnyPIk794EY/MFVhj7IKg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SELLO TV",
-    "ico": "https://cdn.m3u.cl/logo/1406_Sello_TV.png",
-    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnkpABVH+gI51e1XyNgxLII4Qr400foUuSHSrOyyaRdHzTKYP9SbggMBShTLGthiTpM=",
+    "name": "Dramas Coreanos",
+    "ico": "https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsSyseBUJC0mODuT95+ysRNrf8xJcjBjjo+ktCepH36dCuXLiu3E5G4lll3d5hZxVCLGDw0NYMM/AvCTW0dTnc5H9f9afCkd7TeHSr0Bsp3BxKz4WGogvV8dnlgEAxrmYtZUTa1LcJ7p1PcUDp5E23a6/aCADJTjsfWuE1j4NvvUIiIcSRsm64LDjigKUTcqlOpA1G8OfSYHEkx4i7L5GXibqzK9KIiGgn7/5DHs6IhyjJ4L5h5/lEPuIKKcHLSXJ8i15ePkD6TjpirancUztSoUvA/II08H6N51+N1Mi8oMEqQTjCWqAYdye9DmkjYX7BsmPOEXEfnOwnQ0YggiqtkPgCPLdl4mkPxiZhjEXQ1alrgtmxekKQ3euLqIvzcFCT0P6tqkSWWB0NHg+CquIrp2y7JQSXBMIh6AML4fwIbaSznAHmxJQm62ND/TCU+X9itOoBhAPLGfGOtOFEmTklBxttP+XN5SeIsCMum4gP1T9jIMBxHNJwKqCqT0Vcbh1+7v/333IhLfRp5zLF3A/6IQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TELEDIEZ",
-    "ico": "https://cdn.m3u.cl/logo/245_Telediez.jpg",
-    "uri": "z/qAE2SzzZix3/x0i3b2ew8ooGKNpZ3hZqARlWv0cVFH4dHzfONdhPx8B87AtphJ",
+    "name": "Series Latinas",
+    "ico": "https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsbY14O2gTnAJkOUJEIlDIrNM33y9TCCphZ78w2iuW9Us7c8yPwIIsGhc/kLFRjl0H+oDXdepsm//MT+ov1VkFNvqfuYrGn6ALKqEfp5KlIpqUeRQe3mVcObWvMNmLixxiqjATgOMqMUH1t3PZwFlOXCJoDx9nD7AV7O8Dt/iZU4PRvXEkkrQgCl7b9ojMkcC7dZYxqgDTFwXdKT/UDeBgN+G9Hb68PFKemh/RAzxbKpCXwweB6medsdI5OA1DIP+VdHnI00GCILg0RqLDsBPWzpifm6YycI1TrUM+IKbO5UhIWJYLcyTguzrRoB9CIPL1xLnor+qp+T9M1D5v8h08ylFbqxYaMoW/612n6bO0CD1QkD+FQTnZSSIbKPPadWNKrZivx2zudT4j1vNbNvRd2aAWHQX8qj9z80R8W7LICBWcA+cCTHUzd3VbloW8kBVprEzJk6OlOySCg+lnAagfzkW2dDTytpngGJ3EKCYsWUrUpmWM76m7f3YkIPUcN5lTmXi/xigomcndUQTxYo3yxw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SICARDI TV",
-    "ico": "https://cdn.m3u.cl/logo/288_Sicardi_TV.png",
-    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TbYm74Qea24SeBpua2g4SDH8DTfB3SYU2cRrDDXkRJO1g==",
+    "name": "Series Retro",
+    "ico": "https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zslc+n1q66xq8acFNTZhzV30FyQ0nACP93wi3oHlesH1vDL9axK/UXRuLW5luJnNnmPtjHRBGOucAjLj9mQ1pD5hgubwtIMkwULwsGrpya5x+BKMORIxIoAo4CoTMb8qtdLp51okd2eAEbda7QBg1dvksEckKS1oNaOzbJ/WXr5aBoEgsfMmnAozKUiZL5Lu4nh2aqU9HNdjr274ydfnmua0Cwdfpy9dL3bDDKw4derVbtFCmjLJP3H92xS/axmGgw59ZxZy6sU+fIax6dA6ukTQ1PW8m1n39OVhNp2dL5P1pGk2xkLfOWSAOHLUYWv6DD7b++ifdIN5ff9g+vNFGA1Tm4EfCoiah0PglxXzhuB3TWRRhbxyxp8KASlvPLVjQax+DMRuyvyQqbhga7/1S2POsCp1nWilTqhmpOf5WoiOjmZvaoqCQZKGbpLzO3v1WbJ9cI7SQ1QqeCz+7OEdk4CyAUT4aTgMq0vV6nvyZIu3jyoLmyY9mo3Y7H5S50Qe+dG1FCMKAsY3Xuuuurma6ZYw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TELENORD",
-    "ico": "https://cdn.m3u.cl/logo/814_TeleNord.jpg",
-    "uri": "67irdqz2DE533H4/zDlymGrJKa/zFm9C//VQJ8IhAVLP4Jp7AEjDNPqGCsflYxqMs01YnYW9IihizY2+XBIYjw==",
+    "name": "Hechizada",
+    "ico": "https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zslJZrDFY1EBPYSR4QVUXqP7wJY5lkaCmRUdYzlHzjvy7giHDnbrfA8Gywl1Ufl8YbZFdtgkoVKczhT0GajvN4QS1tEQDHvVa2WS5AYqj+isK395DajCPoK+qQY7z+4p2X1XHZ5K/SYqiik+y5IuvEI2lP9wq3RHlRJkbYXZsZWbFiST+F74ZZph0GtKNY9C5qRJgbd40eVHQtdgzpNEvqE5b358RJAtQr22TqjvFZsDzL5lMPfPtJoqsHo8Sr8TejdvfZfBsC547lALNDvj31Z9ZEY6KOJFDJFBrkdsuP6imQQk/FQoMO/tF4fPv3/dOnHQzG2D/Z0fDtoTh6tHkgjxMaHDNEBin+x3JpX+08GPBiik4nnz825uzr8ybF9P4uaG0jJ10bFC2YUwFKUib6vOzcqNw9j0x2IoywOxli2aH0S47lBzqb9NH2/T/viai+eoHW0gwwmY+DCOLNYrDzszIb10qCbirdekDEu4R5fSnBdWCifJ4u3hcMDYKG6+8q2YMqku1E6rvrNM/DL9MhGQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TELPIN CANAL 2",
-    "ico": "https://cdn.m3u.cl/logo/293_Telpin_Canal_2.png",
-    "uri": "Bu0Q7j2/SIC8JqIiUs/0080C9BmrWC7p9VHjMkZIdyJlRpNTna8g0h+daeysyq25njZJM+YMQHuURVc9CDTxbme3Uu/LojuqBq52dC5Iv9s=",
+    "name": "Los Ángeles de Charlie",
+    "ico": "https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsKaWfSvf9L8UU6e7MBGbM2UQcnfLBpVEm0gKigX0Tpthk2GNF8j6k1MFy8pF2BCOggo2KW8k4bCZBvvzVVyksn1saJmthSwx7ybir9bk5lChFvZpBLfvbDAzpehVDxKaLa/4P52aQX4GYpEs2xZLtT+RVHdtaJzLvaRKqwDIXMUoghdJtL59tsJy6O4/NIpyfBbnSdeB4kuH0uAZ/zNQdRH7s59btJ/xw31jDN36YYiKDRafRt2tgzBbp2vAKLSkXT3tZbAJxHGn8oBUcEv5l1AZCKkwschG6fyNpv0j0W46cZEhxqsq5u/6Yvp2rzQhxSSggGciQgodZjHcAtmoR4gHXV8MHQsb4qi5tOy20RZ6slYkV4mtG+PoFZsbuGf0TdyT48y4AbebjeIUMlWUh3zJ3C/iPrE+Xbp0AZDuA/1GKnlguMAaJoAQ8Id034SrzFX8OvzvDCTCnQEnTd5rK6psRpQ3U/CxKZIdbdRspxux3vTX8AxPB3uRqrf2HcMO5ZO12VZ5fEY5/s7uSa8eGew==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Tribu TV",
-    "ico": "https://cdn.m3u.cl/logo/777_Tribu_TV.png",
-    "uri": "5XU+n9Ud2NXJC+ch+PkHBFhNa9yPe+UmGSPeFJ5AbdxF5aet3f6ts0ar28TD/4VrjpuNW+MplAdWKSs2LDMMTQ==",
+    "name": "Starsky & Hutch",
+    "ico": "https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsBR/yMrt9oTeRLsakrjsH6m51uygA1f/ktcG+iJBm7bZLKDr0MLUNvOYIzzqDx41CxMAwbgnPcyu5scW9rcW2ntnRH5mRQ4kCQRPC+HS2+2Rd5JqQ5svUaHWRxkOR6+SxD8Jx+ZdsoKfb8/aRTFbFEfUIB+mI2k2l9dT9ooXY3CCALX+zqY1wM+aLvkT/cbYtVbeheFOEpUc+z+w473mJn+XEdz1J4gt2GtTOgN+FamLSc2+zD9i2yrKGgkXJ33MGfy6IxjZZ5a+x+7smMcWCzUbnxKuBkI26w7IDzQM8+EBFl6WlRUC+e4mS+LYuEGHorhCM0yjLv/fg0J8vzNYwbOCTLwtmjN48w8jIOZOzJcYjpMgo/rmVyb3ZwGgBnrb9IXswSjsOyuUnZUDG0+D760iz4d50ij1QT/l+VaIf3KPiW5LURh69H2lIUQV8px3W+bi5Zp7epOLG5AHDOMaoNqJVKwpHJ3CgeNgkuMakY6nA3lD4x/No6a5KuIyihVBxcOgTnSvntZlUouSSvTvTow==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SUBLIME GRACIA TV",
-    "ico": "https://cdn.m3u.cl/logo/1003_Sublime_Gracia_TV.png",
-    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnkH45zPV71osOOPpEmiMsOXgw8uOdzZqOp8XIk6HucGAjd3sRy+LG0LTN85w1xWtmQ=",
+    "name": "MacGyver",
+    "ico": "https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQwD72A+4WkABedyPUDCzYXjkep2aYdtE8fVZBloLg+LHvnOE7RH0n5XIGHoFiQOPLQPGIzQAsp7Zw6ey2BGcCLcJVsjZjNkKxQJex8HMK2jg2a0O7p5SPraGxn8NvB8FhGIYHG86qFmgj0j/44pZCHfix2nrookGrbntF6ewykMeVSqUMyct/vghDTVtd1mNmGf2ein61I5qmCky6wlau/moZTN5nKM836i6xIXo/SzC5c+VjeN/qNJgrKK+qhRQ2M7fY4KIPh84XXHr2E03tA06jWSF0AIbqKT3ya+HRO6aSY1myQK4o8pmM+r59c4/KVALFiSLJYU+TJQ16hfdXXRVgJ/v3/HtzaAkfx3SLL08xtSe70vK9s7Upm0IJA3QZcsw0FhRrN5pCPUa/oPht2xrHuPy/GTRjMPO3lBOTI7wAh5QbSt10QidkCbpzwPKt4vkPndSkCNPbw+LSPICT82mKdrMiJ0nwUE97p2cHikrK7AVucke/Vvso7Nu3qXcdpxC4o/grkfECP/jl9OXrA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "RETRO PLUS TV",
-    "ico": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",
-    "uri": "A7l/zy0FhF2Mh/0wweCNX0zWJcygFVtT0EUgbj10x3fPy7ioqi6ztGjRLW4cI2Y0NRXjjLHyHw/gKD7MsY5tFw==",
+    "name": "Beverly Hills 90210",
+    "ico": "https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQwD72A+4WkABedyPUDCzYWrEXRkxwbRA0txFfgOAxRQbmSTUu6gkDKHZta/+yZL6nJgku94+FUjoStuPoU0wRIvMcyU93sv+jth+cMQHXwbqHpo97AYeR23LoBvkeeDb8emW2trxNeiH3GIdnllzGvAqHx9/7GHGrVyI50zjQzsMIvNcV7F01t26FW4UHxzfPoDM0Ua+Z0UguZmUfLWN1cdRmnwATPsKpSYeFvzVYpK3Dd7SXMhLtgw7uW6zc8bDFwo+3E6tNipg8NgZBpicw+8HXbjLTWvVDGU/ygb1QfUaCtm0cgTPlygV1BpxL4tSy0HLtS60typz2cP/SJxyB4IPY/wWoaenM5Anw4J1XDLtTIil9UrymtXfglXRvLGMp/npd0RwVPA7hSoD1IQvU/pQbfX4aSVCve8nggLR3cLFw4mjrRXbf9qw2BTy7KcH5yAOpfhRFL0GFwa8M0MaU7ZKwW0iJXf4odg4hvtsXR8M4z49onYNmeC5EVvNI0ZyXLRoUKbYTmzulBHrMKLBCg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "RECUERDOS RETRO RADIO TV",
-    "ico": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
-    "uri": "L91HD5uYMn0y60uIUmACCAhNrHIvASz/Hz+cwsMS9Ru5r1BdSzXgrSqVvENZ1F6F75FZPcfnYfYdGL2oGQXB9w==",
+    "name": "Loco Por Ti",
+    "ico": "https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsBR/yMrt9oTeRLsakrjsH6t4rWZtnE4LQh3bwQEkDCEa40ao5FYy7eUKb+hhHrQm/it5ZdJyVQmX78TmzXXYpqrmsgRVFd7QdUi456M1hw9pLHpdYYARgHb25X3qFZmbSHWvF5bpNYMaZUYoqG7P2VGmtj/MFkTqpwB2z8Ldb03vncJ4lr/xDUtAy83xdwKJ4cYfHDgYSgjK29F0MlOID5JyldDUR+kSWWjin0Ly2NYpef6ib5/ZstgIoNG1lmhrYB/Gs4m1R6wJyB0aSRbV6dNhDzgGYMoXvdgTfzQJHXcJFkDK+ng2sx5Ctw8guAL9PcUHJcC1BIpx+CKnzxCLj79HXSOhwiqmBwiVl5KG3PUoBmcQHMHgarsXRMruK7Wgm59d5AlgTOIF6MPq7JpGQEq7A1Q0kWWAeMahBnRsTQL/n1wnFWaI6mKu78/pPbjlxVVBFoGFCF8m3Xdq9MIUHOF602OCLFXqCESj1g8G83XuezIONLJoG97AlClrczbUZlEjrGhZk/vXUm8PMZ6ZWvQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "PANC TV",
-    "ico": "https://cdn.m3u.cl/logo/1236_PANC_TV.png",
-    "uri": "G2wm2NLBqQE7WyP1DKPFoMB9Nk+DMHI1f/5Ja51RIDYSFs+kzbZ57Lxjeha4sM2pYEdxEZVGQzXNh7+PxErTQw==",
+    "name": "Los Tres Chiflados",
+    "ico": "https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsGQFtHNjXbt27NldqBXRDETjMr2oqk0YLTNNRvGoWiduxh6FabXqXIa4TwFQ56RXP9ongquhzzuaF/c5repZl4UDSz+068YV1tLbP5W2InkrNr8324LKmG6MRq1e5RdoYqCoGOG3GyhOGfFp8+F60HVUXdNqqAWEiHEVabcxdglvD4o0xUBp7IKZNEZDizKq9V8HgWuKJ2X1bQ9Rgx9ynNoE8+cSiqwZF6/HIoQwypuuu4fnQB2j81PoC3is7R2Z3HTCecnkq4ynY3IYM6LOTyfBMTkT/G9epBPoi8cIgJavVXM+Zj3xRbX0NW1IOkQcvhpp69Js43uzdbArGBZxgya7zUdBq+kgdgFhlpG/UNmkpWrdpcjNYdaUaao+FI06P4Ial6EJakTPtJoMYZmktIu001+W2ipvvXYsmArtjJazL1nFgHAfNbnLVGRS20W4J3CvMKjhROTjcrylLBemvBHxFRgDopcLkQjQcxisQx7VV0DH8r2y/SLxO6s2FcJDz6j+kWCCo6xgRiJZWlqNH+w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "VIVE TV",
-    "ico": "https://cdn.m3u.cl/logo/1459_Vive_TV.png",
-    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TbfDn72NvcKQsQrYJ3xYCClOR1u/zbc2rx4OTNmz8tSPQ==",
+    "name": "The Ed Sullivan Show",
+    "ico": "https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsDWvolYwY10Lg8Ec2X6DTodybWpH8mmOZy+xz5QPaJsVd2P+1etBV5oDL9kcuvGO204I2eOUpjRIZ3Uwrz4krx67lAA6lSmASk4UxwDgjkAQSsK4kzEBjraXYPNDYV1sNmHo/ZLKlTJcIAQUdMHlxlPzxI7OuLxn2yqoZgiZWtDvEVz1JSaEiU+BBZVZ8rxo2wQAmKsKUGE+rpRa1cRmXdce+KKkYIxYKQ8MWiIphDm+S8EVZE48nJST0wJZwAfAd05hfsCUVffDYSEZhhqrk7ie5R8hTvat0qyQu+7vPIMfEt86x9mWKfPyijixx76LfyRtNWzHMDUL0w+/wOQgOWB5IG9qzGW0NhP2zfLdMVwlHGTv+C+X0akZHEHXexx+hf+AWXt4zF6qhTXG4JPnSlp+KXQFgHsClE2Nres+LEbHQHFyZGlvDjW+w7sgzkoJq7j10CwDlpHIJBbu5Mcx9Lt7hRO6K6XJvpTy98q5yz+gckr+04sNAaBYkSYWdVj1AHpKcJ4fBSiK1bTGvGR1l6Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "URBANA TEVE",
-    "ico": "https://cdn.m3u.cl/logo/1372_Urbana_TeVe.png",
-    "uri": "4pvj22sj1XIHP6iDTdgdV40sFyxMG0csEj5MJZA++xe1tMWsrwtzg3cPKRUy4Kug",
+    "name": "Retro Cartoons",
+    "ico": "https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsNX5o5Zsf62lEHcEnblPDEP/mxq8tlE5utuSDDDrzrvvIdsvhyGcYMcUAPDYkTdnzNNpHxGyleVQvmd8jgP0heYEm2GCSixjkJOX2q2QudeCCit8AHAHov89P7EcoIo4Wep11dbtXk+VuS5ZXVgoH/c1o5JBDQPueWNs4QSt3281dMQRt2FI5pF2JvCjP2lJNS8fwNJDbQC8p9qkTeVCCi1Rizsk6vQyHbPaGHzJySUY5SOoEofeis3VV2YI6hgsWNA8AKoShS1GQlpm9NBvadjm+Cs8IS95LhBGNagHS3+nT3qNdjTn9YSDySjdnUrjuqdMQV7d28o+9syj5icLe1ClwZAlgnEFuf4SwGgHXw+msWgtUbcyH+txY1Xlv6W9NG2foQ7oEPxz+vDN8hly+PSfYvLytBc3NprHCv7oMaCu4hDB2aPnMLCDZE9raZ8mjrjmu4oPOfIwbe0INxp0j1T0bQ7UMvpHhcpXbg7dSuH+T8+V+HtU0eb+7cU8ERkKXF1iqiy+ogK8S5EYQRcy1Xw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "UNIRIO",
-    "ico": "https://cdn.m3u.cl/logo/247_UNIRIO.png",
-    "uri": "ZqU31JXL4XGQdgffRNiTxqVaQdRWj6zPrjS7JU+MzN5M7Pvb2gNtN4P8C7JEZ32rqFmFZc1VGKoe4hCpqcFSIw==",
+    "name": "Novelas",
+    "ico": "https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfdB1pn4U9l/s8385QvP4nDCrmKNvI/sLgvyrqvz+TRfVWyt3L7CbSXb87acPX3DUI/yU0CLemDHwOnG4+efhZEH/E9r5khXbXbDhXRc59Wjzw2OpNssJ2aoI3LQNAP92eM8KjPjLapCXfoHbcT3h8YfLKzMFqh7+dr871WRWOlHt80yDgIC5S5FWoQlzr43LHqN1vfOF/9t4K1J31mArxCfd2MFcn7s+GKuvHD2dMJsC97W5JUzOnrT6f2pYd3fXSYAj9SVRqd/1cULofqnfMHcaEzzFUmj+ldbbBKrUNWkLeCn/qY1Fl1qehb3A2yUE8uMGadWrsJjYq84YZIi7h3O2YVbOTQrpT7PWGP6VCq8/Cqr9PhzBIMzCZ0WJ/NHtGmdNhcAOt5Hcf+868Kn5ISCzzr90pvDrtR0cnV61M8DOT83wsAsHe7mEjQg4UbrJThgDiCU5PcvpOPZQ3R5RSQyUZak4pQGmQ/KyTHUj/NIT5oqME2ykbpvZYJIQlCEI0Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "UNI TEVE",
-    "ico": "https://cdn.m3u.cl/logo/248_Uni_Teve.png",
-    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+Ta0nF3A46eks3QP+Eyhs3SXitEgBa+qkZtdj0TNpn99Dg==",
+    "name": "Sin Tetas No Hay Paraíso",
+    "ico": "https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsX3O2oDxgmh2om24l+8/YejZPDT1YV2YmkPfYSq/xQ2EOw95Nk9xIijTCNTuC2iRLXqWL9qKyE1QO/PFEQcmCcwtHbFV5g5ZhU2gFuRSjB3e3FcX2tlsHma6ajTOqkE956LLC6En0LwUCOBYCfGb6z5JJDYfC0jfrZ5uDBrXMKYniL2GTt2IoZa4B0SBwe7cOSWcsOydejFM8+r7yVWKAsrT63AQTjtZbnfu7SYA0YfWyMWKn7sWrnvTPDqEeIlqME8p/OCC4RcggZAaNKHXIQqkWa4MXCqAGtJKRKbCirtnH1HhL+TqPAgO8sTYXl8nrEZY958FhSOvXP+XcjbSRAYvitvSgI2nMafIFxgGSbx3rf6kvFsgGfwHdemIGf5IF8D672e1qpeO6WCHZ2oNSSAybBiWLdSdJDfIgIkPNB8MxQZw8BepQmJhkGJ/bsCVliaIsB8nBwNQqbTvxAoO8wnjH6rj40XQAmHOtr6guFCAaga3l2MXgQRuACZxxgi0nRXURF5JWcfRISdV+M9w63w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TV UNIVERSIDAD",
-    "ico": "https://cdn.m3u.cl/logo/1371_TV_Universidad.png",
-    "uri": "ns1C0MQMmIiQjItU5hwnIGBaI5hzZ+2x6X9OqP9mvwTWfo4g+BeAUPAYi8VyrEiqMqTOJGYlqrR6in1lzmaK0A==",
+    "name": "La Selección",
+    "ico": "https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs7zeh3ZcxbTGFCsoDwQY4Rb7s6atYUhICi7vdz+nKlB5iMtZO7ipZPRewNUJAU2my2nLKdcSvt6zW/kzYWBg0g0rPhiM3NuBLkpTi04fCGlzcSq1LlCkp1/s0a7ymGATBk9806gxcaZeoC+nMjbiNU13jQCFueYj003d+iJs/oRyUlnI4IJoDZFZdVxl66u4Msn/YN/CEpdGIFNUo/ahkY4dzxsRaergoktDGFd9mQWqKCsXUaBaIJCMtKq928cRUGrMtdNDgV+nQlsH/F1i1qmZY7oFtz2AGyBcaDDYwslYy5rfeAhSnFJ7Evixavs5dPLhl961sBP1THqSLiGXqZEARll9ptipJ0ff60jaFL0OqH+xT9jexHttu85mzBhz+Ka9kcXlmAXjM4bjua/xHs3Mjll5hc2+PLaEXM6KFkZYqyUYQhdSqDKiTca9eN03ye8VryEOAz0WpqVL6nBY0FpTyXm0DwDm8k+TS+VT2wFGm7ERdRMpzT6uHLX/w9i7RgDJoBBU/4hzUaKrwTyap6Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TV SOLIDARIA",
-    "ico": "https://cdn.m3u.cl/logo/1370_TV_Solidaria.png",
-    "uri": "a91suXrHoZudArzlglWW80taDcGP8L47IqNoJ06VFkYvAZf0lm6wUAuwF9uaDVtCKuxrSCPV4JDiYKRs3VVXDQ==",
+    "name": "Rock Story",
+    "ico": "https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsisGgnYgZvD4ZCmCwOHHPaeeEmVxqQVuGkIaOX+aPIhLP/8mi94UNtTCAPgZsIOVZRf8mSrr5tMacgjG/PK+IV8nYnQnMujbdkXfyV4EP9Deolme28j/vgfhyDUglQ5/rAuWCJJluqNpDO95aooHZ3JynSAzyPHHNvXRY4TY08Iu3ZF2nVoDga/klplvKtMMQtgKSpLZIyIbI7a79obNuvKkvv+/DmTBT9ERh1akZ4M05jcyFih2lAbEq7oAgq7N+8cNqMfeAt7EBLJs1gdC4XcZr+PN479xTiRdZ/8PXlHpKwVcXyZBo/07V0nsuP4El2CTsuSL8CWvn67hE2O6/WdHUMm3ZdIIzczC/nkL6T9ULD4++oCQrs+v19NQpkjyzJ35+P6zANWIGcMGWru6l2mtlPSYRuGuorFlN2/O1u1XYpPINwM+yFEDgc8UMgodbVnRatq51l7wZ2sB6yKj1K5pHSxU9wFcbySp5PBQmueZPVmb181e7dR5HXghdxsYFeDyjvciyUfDjPp7lJxDd4g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TV PUBLICA FUEGUINA",
-    "ico": "https://cdn.m3u.cl/logo/298_TV_Publica_Fueguina.png",
-    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yBwy8KWJfxUP8wDSCMoGyqHhUGYZ5Q0yZH4S+lauhHGdcw==",
+    "name": "Reality",
+    "ico": "https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfedYMIMipnbB4uSc8PndiTmCida8g/lVWdfDzPBpLFO5lXRrld303wkDT4EjwSjGdDu0N4ldt4ROyuYTltGRyPxBrP45W0NLr+gj8VfBqx7MM6g1BUU0BxZa6X1DwrZVJa0XqHn+Y4Wj8NV1f/aJO5bQAdCXuRsgGXPB+UbJcHRKXYXaILyGPLpgyg6VmhvZlZ0mUk909OinWQLA2OBsYzaWVxlj7X+NtXERntJKF52pBAp6KeciQi3KtPZTRbCVBCmrFIs7xAoa/AEjTdAQExb8fw4kjHKQSB0qqLWzcm8FkbD0+bx0xMibYzPsVDbebWeyl/VgPMJXGlTo3qfEZq2i4Tf/h8R+yWA76FdodgAkuATqPiPvIFYTO9+DTfJQaeCYP4/7U5UKnchUR5+AeiWKJ07OQ/B+hdt4N3hvMtj6YhOEO2EMfO+FTiOpCXFhk+7zyL/XKZ8ojDovYWr2tUM3aWscDIoywSJqxf+DZbk+n/q04XT8Cb5yOxpFFRQy0Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TV MANA",
-    "ico": "https://cdn.m3u.cl/logo/297_TV_Mana.png",
-    "uri": "5V5Inn2I4ADtkjctrZ6atN/T92IelUBk4B4k/ZytrdiJYw+dHkyfsAUGcL7etgouELf5KOtBvnktaD80bHQ1+AGGTfhRcp0Wy/6QZLprjDs=",
+    "name": "MTV Drag",
+    "ico": "https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsC5unJp0RD0J5qJajNebrfzrjIXEyAzJjdxbTpL7fYg1787sbWZbDuUzwiGzngVlyKoiFay0UOEYe74eqZ27f/qBpwpJ/zHo6Icg96iqITaDBf/3oXG8aKOpHG/ldF5z4p340WWvL5fu3j4f1OuCtz2k1bevJqVQTowol7u6pRAYJxHDNqZ3MhuP4jwd2HVCboirjA1kX9EKlUVMYeXY9MXgyl0JaxbyOpclIWl719BxhMzGX3xwivaIAtmpm0j6259+krWrm2es0TtrsfWQ+OgxUGH2vyXsWH0/ddWbTp4g68EtCrHCsWpHQXpW0Gn0yG1kPA9fAhDu5TR+DqTGotw11lapzWRx1HHfSYvPwDbwnytJudKRmP41+zzpaMbzdk182Bmx0xInUOl+JEX4Inw9ZFgHbfqfJ4tZ15tANhui2xofmI1IpXjOWWqNPDOYowvAbSHRpPVP6JFgWR2vW9Q+jkMefzxUtHNj3ilcD4FyR/goskN0TDJSjiyIQB6u/qrRj/RU1GFyUdvjOo6bVhA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Pluto TV",
+    "ico": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsIR8pBP2FwYFv6GIGUWCHh3azf4Lj1uHjdRe5RyVKgn8L8RW0PSVmEYQkakfXT4xVUteAhSpJJRhwqWBEMifSLkQOEtE41dKBkIhchy/xVHByDBfoTtlXPt6rTGKzHWrcvCVWXu6CDLUJgqBDH1B9JoFp40vzUuI/U45RQlk72rquNGqVal5tYESvW5ManyNXkcdG1YmyNg0pxRuzLRSvIB7JTNRC3EyPodky/nHFKz2xgWW2GeYldbAccwb2kgF5HfT5zZcYXR3Tc6PsIyeXCg5uxRyuPIpfcIh3ym3tpugTEdNP19a4LbVqjRB3yMAP34iak0NXLyIyg4qR+lpcy4u0PdIpLBKI1tJFcIswQf6TALgrH4HP43TAQUVnUT4XiL51muqqKkDyOEoDUGzEOuSmlY8UiT64RLtyc17OSxiMP6TpRShE7gO7b9p0DPSpC47sXy6/R72mxeC4h4sfQJOrvpCSDI0V5oFWb55O3YVfARtbgJoRuys1VEMZaQKv9yZqKsw/+W5nPCvdm2YAMw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Classic",
+    "ico": "https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsaF3SVZZxFfFZz5VyLohFVfHiYBEwf1yU7zFOk70V2Vj6piytjQK839AvEHbJSuualG5FsGv1+xbG4UTLRgBnlC8+qDuw6/v1Ah9jtrrDUwSrScZamObEjY3fKDUeuKQ/PxKpsH+H9kHiyjL/SgSmSMwMrfApi6tS7QW+o+LjQBu5Aw6Zdr2d7XPeIJv4iN0KupcLbzlvpNMunwr61Kk9JINTx4eLd3sC5u6121+6bn1McKqj1cXHSJZL0Wt7gBssC64JTUEEd030uIitYpMJ4bO8XQQMIjOu6MdXZSJAkUl5o5A4bPQ9oTuUAZjeiNfQSBvFQjEKvDp8LNjMAZ0hF0ifo1VVp5JZRbedCxVcS1lfPHj/zwFD4blcolS0AmfHJm4mjSj6dxgSoNshgDHerZBB0frrd3YYOxNxKyxZP7v2wKL8GHvXSQWsBIZu4uhgKzqBPPb6PQriLHhD0WzzbrV+fr/UMqu5cAfgpHH+RhHpYnH9QDiohT7sCb9Q0JFcKop3L6gu8DolffurxfrKGw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Shore",
+    "ico": "https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsfhUGt8OXD9AjrctCuxihNVbS7reKzjfVxkjSzddWqkZAVJYPy1hrntYB1Kx3Y9EGXAU1FwbMvVulN0OyTx9l49ecE5q2Kr76hb1XmcgDLlhZd+xG3YMZtg459M8S8qZ+2eHYcsU+hiTaiRbY3IykYUYjRtjs6bcVrjMsjjAolW3FwnAIsndWw8wXRvgME2QSdBgXqtsWiuLgP03qbgMGQqDD0hsNFfla7a7u29y9rnUVDVCSL1RbUUutKVrN7Hstkdx9PdEGT2W37iHn1YwxEwHSbbV4/iVM31S7NFQf3JKx1Mi/L2Ok71OHOz+mvdIYKde5DHoNFrGPeBwBd+dARUYBKnwHYoPCDfdsKbxZoaaRKg8SKCpsLn8LQkzMCSWG35R/t3Cd4CHtABveafGO2ppyYg1b/yKGSjUvEYDK84QsVwpN6kD1Q9YOL34ZjedFQAioSDi1ICpaFo/dhl9au6RruRfrVASUKa6jC1F1A5Sp2jn+j/zCoTfWrz9f4I/1PMq0IH+IWl6Sc07WMJLhHw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Con Mi Ex",
+    "ico": "https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsmG58sg2Asj8Vqc8eVPx/V37CN4gqUj3+oxu6ETtAY9v/5eWW4w++Ibiru3/hCBfs4RRfQWinsRdgr+wbSVyAHYov/Yl+Q5ug1Jg1OhSQj0lprKZTjIgoKm1PBma3dQq2I8U9UArQ9voKCheFEVtd1tbP9IYexKVDpDr+f1eI8xWCGZojLfAxBmDA/YWlQcJ9bDgIGg5p0xW67mzSMG3LYQl6UJ30ZENU/cHpsp3DPRi81Q0SmhZBfkiGvWGfhfT3oEz+SV/mPvbUUUREyJWRxsUtvxy0HrS1UulWGAu63A1yZxiI4CV4P2+GB2IoVv2enYdSEtXV+uFkFU0f18h0mpM24FgmfPFt7ZRpCJnAlmLBujR07fgHqBPknkfXHrUeT6Tq8D2+26blcQ8tps95Ev8SUr4+DXCsgRPTvQqHkcktQe+5jLBqbbCCx2x7bD9mLz0bg7fT4Hex4CCIJMyJXhhZrmPezyBsCMOdJ9y7Xibk7/9QPSo5YkmhFUF30GEEaUbZUiq2iPu2pHMfnhn9tw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Ridiculousness",
+    "ico": "https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsK2m76l2wvKfTpHiD0O0Uxr9uITWNNYlkQM1p9OGoJh69jmTX+ZU3L1/56ZKz9xHdz3LEI5+qaxi9PmmXfQXiQfkKQ80kuAhYctz6tx0sP9RkY94w3G3aPZDdhfHz0C382QgfDpFWvso2Emmm+VaKW3d2iK+m+1s1GkLhs7kLCEZjkKeL/ewgsAzOHXWS2WVtxMrI69/yk9yFi5XSu6VRN4grazYLqqBR6HEO0AzY7H85/tBWCq+UsN13pqbGwjDJN7HT9OA/vcueYVUSl7OPHA4KzBwA/exVme99q0fmrOkcXPeVqKJVFXKBZ1Bd0zuhqTZwqkZJBV7cK03UQdZr1OBUwFNbUt5Nv4T68Z+Bv/ngKOjSQbPy3eTyYjSLrrT7Ca/+nL4nA1Z57YeVI2hsQ6V38wZw7S+oRDWnhLCgcs1mX/zifEvj7/CJIIgEHOU2pnABReVXYUpbVNCD0wRs8HWrD4FwcXjJkxDLM2LLxabpapDka3DS1suf1ITqDzl+DknRS4nRdpXfIaACt3LN7A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Teen Mom",
+    "ico": "https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsFEyx+hHq4pT+UHg7RVDYay8J3aTetaaBhrquIoiyWiXZ9gDIC1h6W0DlZ7zZSSYiQU9AQXf6MWZ53/yHUhbWyo5KmLVNxzkaAh+xQHKphZCYJnsrd9Zw3xQRxZFL+RbGJfsQow2fd7Lalys17Ga1ekxOOBR2k6vOsRfnyDXIo4zKwmwVXUGOPDuGb4HqNAzPbos0Xu8Krpm5i9vYhFssqtmUkO0axRpFmWoYN3njey26V314oiVje5tmqjoseyu0PdiXFOuaifiuFD8KeWbyHEcjzBlmABsFBdC/5SWK4UTZ40FI32VQNYsWoUMoe+8OHvhuoUoF0dC9h39CHlNiuWvBU9eRf8IQO1STEgoxOR56oHLDriq6Dkro8BQ5lmJrQlM28GkV/r6s7/y0M11yp3u+5BV5jM+9C/NbzZtEUPn2pUq7amkAT6Umrz/UqMJ+WoxfoCCIfKc/xxeMTaOAXpjVnC9L0qACIeDLFUV3f2cbphkz4aEZGhq+KvStdGP0oMl8hXgrXXEweyhxSmZlnw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Catfish",
+    "ico": "https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQlfWcCPTW4b62W/35jBF4KNVspbdA8U297qfkWBeXCv91/T0sb125MfDy3C7GK8tc5krcUpNCjMt2TORyhQFR5QTgkXfPPlDFw4CvQI64VOZK/mW3JMnovR0SpVbCQG8r801YmKBxtsFU9nNBhjO/Yd6ao56UT30TrBVl3w6K6bNQNWKnNsEs6x/etYggfkcWahalsahE/LjWRoLVQU9NxKDABfKH2KVAiD/5RKrirO5mLn92blnOlsYGHmywtjyBa49p3CV3z7uK68rjrnmCkMTx9qKraQyxz7Dm29fYPlh4OWuyZbtu6NXOmS9JQYqNtCBOZZvgH+fVvpXbr9fZiaetS1mhDYjJFujoMPTcxbU+YTGQx5qiZ+SeAbjAJ0moMWqWelPMXwZoeOKtDHPGiPLeXFJsfuP9TRGBqGcSedXzwfQdOiWMkr/ZGwS6iq3xMO7oXzmygAH2HKSPal7Blz/3iAoa2A6HO2HowPYBLPo3XyMTKGHF1NTRedaK4+Dq5RslK3jxKy015ETv+USqg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Competencias",
+    "ico": "https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCgfxmp4b7/ObJioD50gH6F0MyP5N3kdD8E8jOcSvb3wd+NwlRSrR9yORKq+DKnz8ksDyT5A33NoovYW0NJt4nXcmzGaR1vmg5Dz7sxSB3HZzxMjdvuEY5CpoKQQ8D+CfYyRXbHu/nfyRZEAl0nJKKSsPmqvfOojGHApzCreuvwF/vZGcooIRpkXMMJ6cEBVWCEBDkzWRYxojPSnSO4CdJeFjVR/8oyVSRLDBJ1uCfwxW3FULbKvcpYlgr4hSSbpINb29tbMv4ZHYComrx/3nVmoJ5x8MlG28pvMxlyYg8M4aYnadZ1JoilGuQZvlo14xL+7eZGMksCTJtbV9rt6KbnSic8qP8WxiDQ8GnA8k9zYI/xnmm0TkgfBddlQr2pIn2tE1iZf5+Wpxj+oykb8kSE4KSoKlam/l2U+qLdkaQr7NAunxLq+w+YO8EcHnmMUKu5IJ1+2tOxzhR1nArAFn25GbcB6shWS0jQeC+LjjhcuYTAde7xmvKT5bEKH1Pksq/kf648rZdM1snv93MfVt2w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Iron Chef",
+    "ico": "https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsoYcwUlAB/sLkoc9UfDZSBp8aqsnm5PNhs8zOU1bPbByYqkdC6XcDzUQv9Gx1sHPgQ0tiTiUvqMXLv3jdkZ5WWmYJm3p+kTlAn/i86D1Xr1VR/1MIm0TzvY41naYdBbfTwkDvGaBqehCRF0hYlIvtFJKIRgsyk1kytXdMkHCZ9S4i0J0cr1OgI1KmYQgtbpZSMrM2zxtNt9sbyWkJykGwtcz7M8egbK8cmVotioBZlGpZ18gvasiWFdRBSN7kBhXXrGjefcuNsyR/Ar2ehRomA247n5p+tHWvffXT0x8Fqq7RSGrKUTYSQALM3rR+KLL3nzNWQO7aT/Ut4MUkzcfE6JzFyltfq5X0ftHLeA4WMl+pW/gkl97Y6W5nkrcOxiDBd3lp6qUdzfyiclEVz8avzeH/lcTO7IhgSKCS2MeA9KnS8hfLjrTKX3RwfKFcjMuEzWJyZAjcTjFix3fu7fmCMipJ7i8kCf3fx7kCQ9X5Rp/5d+v209c3yJ/Sngez1Pr8MFs0f0y0MIXaBMhgBnQBUQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MasterChef",
+    "ico": "https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsvRpzlxf9FxI4cCcW3ixJyF6MM58klZVgUmLpt3HiYySI2BaUipJKluhJvcVrXb/lspaDlV6bJaSP4yVHZMw79+BY4XV3qQNg6GWPS/8I2hnMMDQu8lQaOuFCwWQwiEZMLz/n5eKRPIJqC70772s4/HAd0nGhARAPk5T27mBg9nMXZNxo99+/0+7UBQb4M9lDMksQOQvN2/5k5qm2ZKUv46iCbQwmN+7b0xF01uBP3hCOnzfq/gNkHyaL9licOhs3UtlkFQ7L4aQuITU+MhAVnGwF/RSl9m+NFsq5VMrV6OU/sujEyD55oYaRHHKTQqX3BngwnHXo2EBDIKQ/UrcGJRlImyodbGJqT9g00WAuT+QjPRPWUcuRemtwUpEoidiWJWMivpcCGCB8phejAalMNuVUAqTmsNPzmzJRdqV+5+Jz5giv3Xq+zirkqQU8u0QDfmtSN5QoBXpdLrNM6MsYeeh91uWRhAfYcYcZayroJeNgUqC2Uw6EqK4OFPUrnb17wjT4w31XhpIvy5THi8Gk7g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MasterChef Junior",
+    "ico": "https://images.pluto.tv/channels/64bed7005dc16600089b84e9/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsIoBwKwtgc2b2BpfBjAmHGVwArmoLvfAfGz1FCiRkgM7zh/yRBl3G0nWXDkuhM9fGpXA1m34E1kjWlGiWRuNB46K1rjDhHVL/+Nsx1CyZ341X0EI1PZdgvm72lImjqn372dJgfhsiXXdxyxqNQoYou1nRKI9dEhtEyGGOQAHej4EU+l1PoPDXO+3rkX72BnikRjHH6OpShL6x2/lqtVgOPdrpHzuuaeDeUSJAP6ENnLw7x3TMnNL9AF2z67UYkcqCexp0ipNBuIlj4dUU0m38gBm2d1CPMIzeAP9BJlkE+iXL8M0yCcUNCgShWcdPjry0RnBVvNMLyR9mErSQ3arbzmkaFNoGkHhXCSQc1LrRRq33Ow6+y9jKl245fPemDLQz+hsAE7y/9g1Fyr1U5/yPrfnNlnJ+oG5vIgxoVu37mis6Clr0C7paQL/GkfJAHej+oKB8EkXwfRFsno8mBAe5il79lg8YGi97CbYarquwOgo2sJpf7hoNNtEBMrL9mgzxTL1CgA3ojjHgomSCwGRCUg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hells Kitchen",
+    "ico": "https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsDWUGKc4fGhciEek7cnq1SwLs7qJNWp6OYfVUI8L/7Wl38q+A6l85bpoekwrqjIzSH/V8UMHeW0FUGJGqaPJIqJ30l4CXn0DPI0KALUFsR/5NxkVaLbrWNXSYhvhhJz4BPuHBlKLA42SGX75GEEnZKkVmOcSDGi1oqmVzPzY9+RYLpvXqzD6Sc5MNT+hzgj6CJiGVEwVTypMj7fNK8O4TyQw+IBdMIdGr6xg2oRsbqL3aoScUxBzOsVEBnRRI4yAEGXOHVd0Ms1CXepCr6HWZuQ8AaP6Dd608GTzeeGFV6BjrOSVv+BYD9fFS0vR9PSF/6U3iCiFwm8vejJM7dSEg5gbZM/tfKGdP+weg/sgy8oYq7kg5valBOqGMlNLoQF7iuNyIULO0gjwzFDUbNoIP0R01kxdmygIiznYmfVWrpBiBT8pDiUICxnhVse0sLwe54xWTj07eyD4p/6VLSugjGrqEbjOflKZrKvhhqeXC/C0ydjUNPcui2PIK8gtdxBvFs7c5+RllvXa7sDyilxRbLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Minuto Para Ganar",
+    "ico": "https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs8sgtM9qI9dN2qhwnZOT7n89QO/uQFDtA5tvEfXGvGiBosavnSvgue0IrPGKOS9mqx/QKkv2u1ml+dhfmbmj+aeg83YWdz4j4Pjw3ThC3rRvQMSk2Shxelg9GIshxY+NQd+ykbuVtO43yh+34v0oSP7AtumN/qf0wZtaFzTz5PbcUeBNug/I1xNA2bt2GXCuDNfKY/x9pqNVcNG+c64SrW19N6RLL9YgYgRkSpxgevD0mOQ/gMsiFhclCW7DSWKbnQVZfAVAzHGXWNsbBO871Is/3MDOJhloTbx5Dl7kchiMlu3hh3WOT8SCIkLPX0fFpKtGKfBX4rFA8ErKcpOAdhN0I9qGqxYuD36Kif3NZw49f2dB6vxnH67mxHMGgwJfc+sTF9czP8R5f37m+HJau+rcxGi34YZajOlrCVvLJn8EaXqm2rBnnNpREsZGWLj6chcwAfb+H9iE6ct7oy50w1Y7rbgj2eTaGe7gREwB0yat8+VtDf9Z6kXMR62Hbc5W1rMR/7oFd8jOcFYAoRD2emA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Boom",
+    "ico": "https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsZOhaa27po+KbLzbj6jkGx+H+3Vb0vZaryp/+lBJriH6d+QfHnETLtF4/M/Ix44ZUrWyrbVqr57kyAWRqypltvnWrMeVFVUM9eiT/zT9eGUBpNuiu7fHBHA5v79rj4/uJSkUmo3I7vqLWon9Eo0xoxenhMUfJ0g+lgG+vMlD2rjssWjsSdur6tS+GFrgjiG0L4GbjFjlFAco6LXTeZ58zsdPhUFlnZLqruBdFVUmaP3VwMoH1Yp0maAzlc2p23U6j6pUuXIwdft+rKwYdsfpuf9aUwklEi0UbjGZzSSPkn2csZ4ICbuY0fMrtUuybcEM9UqMnOKKZ+knu9LeuWyrl2Nvu7QLVUysa6y01OwtlmXYvzZybub7Gi6DjQNiWZKv8UVafzn4pXo6MXBC36hRyULhUkMkl5oQ81TS3OaSeGvHKXYA7TJmdQgZPbYuWDAvScEvsYS4jRADZklBLdwRxJE1Bo8jrclo6Gwl+RiYLKseRnATBOzAu0gKF7vXtrN3Dq7B+gi8uwL+0FCKJ55F+xg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Wipe Out",
+    "ico": "https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs5GshAZO2+6OIj8et9AcAP3FuhapplbrTKY+Qh+V1AEF8zexT1BfMevLvl/hPLR3ZLNEnytErbuLZuqkZZs/FmSwLZOWoKG6W/+xBWE0+P/4mEAx10cMw/etY3scYA5xO0TAp9F130lHXM91rkG047Hv3PYLDoDlddcE/8qJGlgs9k6S41XTUpsbamqqyvNHjNHd+xr85zcsuzrKh1jXhh7KT2rbfAzT+SarOdHDGqXl+vHNPvdeEGPsjenoMfDxbon/pWcrRqlro0lhL5Eh8Kd8CcO6CmU55HgWa90pclo00DKvTGVV0OJeemBlx2fEImVj3qRAZkupzETaEXG6ikTJzbxKO5eXALp8/gR+VoDJUmnjFyyx3OTuJl68UHdqHLMKTfcJuPEB8vUBePcV2tjfWZ6tV7bN3hmScMKEybTtZnOUvk/xyrAypw6LfjW8TGOcEeMQLBF9lytEcVT71euNuvXViymyxgLPhxDXq1hxGlax1qBll3AvU68MFzmDPvQO28MkMDLkPhgy51qqpvA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Desafío Super Humanos",
+    "ico": "https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsRkF6blLI16N8aGeVuPnxpAVZ5KY1QLKok7srU8Oy0aZrcd50m/D+WjwVoQeU5CFNXydb7OpYoo+1K5oKw5WAHmu2Q72xfVquooxjxmwZBKF/CGpxW+NRFyYsBELMtdTt/U+YzL5eUeSFyVasQBggzrip4lgi8qgzaFJE21w7vAgKvr5C4c+Mi60mVHmcOMCL5yggan1fbNkiBLcbOHTL+u2OyVyq4zkuv8HzLKNnUnAH3kiiuf9WW6y5AfsZdI4N/MlLSBOSQ56l/M9Dku6gjgag1m4uEbHjNhNLMPcrz0E6ruOeYsB0zl7kKjueGNTmKLza7g42eJWURBjmNJATCePMR2vAcA/LQZ3frTk07OpIE6FQpG8jQBXe6UtyzRxZnVNnMizMppwCTDssLGzU/WX55bScKsSygPzsq4BIJdCQR8KReerh2uHwsxxwa4x09vqJY9ofkSccr6ocx2VnK1/JhB0L96Yh2MK59Ibfl2ajtbo0XzjTmZBjWGz2iOtHltQN3nbxKaJcu3kQbvAusA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Naturaleza",
+    "ico": "https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsuNElnRpYB5X+436hNg4jH0bBLLwib9t1SHULnW1+83QVApfPa3w+4Fb4Zyj1To3J/gCNSiHvvU5yWD7tsfEPNC+FogwkHlsJONV5wUqm1tMrYttHOD9MZoV8XX55+W4gvGaA2KOz2RkWmKdbjIC4eeG8jpcdCk24dlAOw3lSN6aaZTjhFcFbUGyK0FGW0WP1lvqe7HwY0JvG48HaExog5BjFlkSU/jw8uj5EZ051mbSQIJw5epu0EWhZOGb9RufmNebgPNF1ej5e6IOmJX4eojV1Vjz4QDXKAR226pTwtT7Uqa7GPcWxSlzDAL9V5Jpb5KaHW5/5yoYt3s8nzAEt9EghjSb47mWPGgkd6lKdKmnGuoN41g9oZ9Bch5oJmJPqgEk7T905YoLhZ0E/ETSjqU6XKyCfLwtnBge7VaE3y8SDizBBLoN2GqptRp5LWe8XdtUPeqpSNUkk6SNI2qjsKTkjtvxXgv8s2o60mUGfUQFeVMue4gbULbdPnuYUvvz2gRf64BqmOe1fLvtrk8OLng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Paisajes por Stingray",
+    "ico": "https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zseF+KmQVkENkFEs5e17/fepBd5bW51dauIJmvwfNWNRgNkUaK1FipT3RiIL7qxuXEyXO+us5efIg87QG31cYu13c0f7t/jIiJMFljYGIDEtz+LnMkls6AVEUTPIjhKWN6oLvpDtM5/X2QdkS8/y8KTvYESjL6BDtdLSxUIK+rVx2bh5s7CHuy8nx/YQdBPvZkX297jv0D6rFucmsGu1WA3UzWkWUc6HkufTKZHLu3uJUiarQYOZLOoud68k01psC5FxRYrYrXIIbhkGJ7f55aG3SrP2BDB2nA7ECjMCc3Kh9KRBcfq7ezYDnQnuR/eL1XgaLau28udKavAJ4oWdYgeJnb/6sYDQwWlWXJ5aTn7P2WMMB+4hW4ciR/Rz4VSXIV9mOD0oAfsVTkdvUi+pl2xcbFFGzW8BMu9w1tB9LfDjdGiwO0el8AlyOlHH/kbAg0mLZd1JyJ8pmX7kTQgnzzVLATGOoyseK3NyxC9IDwsUKbC0CgaPHVQ2/6Td3HMv8uEvxc5nf2Of7H+tOJnL74lg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Animales",
+    "ico": "https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsbY14O2gTnAJkOUJEIlDIrAz/G9605kIEArv6SAAV1KUe6A7sGPcMyGRRFu/w8G3KobaRk6HcJOStblaX5zofAHRukvV2LUYxk8gOHZPhdTMPRSmdHl6K4GjvdbeTdzA3RYn6FTe9g/ldO1dRraTNir/nSd0YKTeLx6Lenl7o4MacyZ61mlodjT10e8mUSSTQCh7pmmJkhYExwWFFVHxNiU1hMPeSSvKvfuoPmCCqO6yVSUtqa4YKpJh64ngl/cVR3ALqTaXv4+6pjzHki97CdQDSMre9G96Vv+4C887RIa/uqwGVNjZLm1mHkvHy+mi5eqYwps9bv1fEs6UJp08kbAtB3zbpsxdCKNzuC1SS1PRxm53Dm0a+Q5oOghpCadjUU2Ts5Pf7xll/BRgmH+32ztYSwAhs8uBkFTOMO08TqGUNMWoXMKz+0y+jUNmdYOBajceSxwiQ16Q7jA9T6yDDkxyTwyvfJS0N0oizxba1ojOboYF4b236P1JY/g3wPPHcaz1EAxXXTVbIGch/y7p5uQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Encantador de Perros",
+    "ico": "https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsVbsB+dnPARXMnwZJz3eM2Lh/QMkwPUfGYEjG0AhB7Vwyc59P6oqZJ15YECN0Ko/p0Maqw4jiFyWMUeXmRSzRq6mDhJttpHDIMw9+HYM66Lx1mSoZxU7YAH1hL5aPzSvkXOL3tsTDKYNmAZBKI8PX2JpS5xbkODZIHs9VqoXrSp88+zZ5iT0WldTGylTJAgOR9fxnzyKlrvo+pHZprbui2darp3kOoVRUFOrowl9xXb0Jgl0ZFWQP1uMqqAJ3VqvX86jHJiQhx5aFY31f7tNALTFRPzquz6hPkUoaEfB/QTFjQgPsR8pyZ62JUy8FZ2GyEpg/hRr2a6KetC2y1iGaLj2Rzb4c777WU9ljNExDlGK3cdKgmjj9NuhELIx06a7tQ2FttAr6NexBSs7oeoWOOuyI6/Gc7mw8P0cAobR13QF0MlocCKPUiYrZvCOt13wwPw2+PDLC8p+tVviXVJihl1koMPMzTy60tdS/xb0x9qmX+uD+H+FW/KJaaBAwLRrsm96k8IoanBbqDBgZHYu1+Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Aventura",
+    "ico": "https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsFAuRvwkcCssYg6dbq/ObB9D7icWkL+nSxZXe2h3Hrj3HQ4TZV/HnW084iFYsnPEGw2xpbxtkdYPXasOTPnBQC3GAL0aoHExIzRyCW2NvLIMNG88TVhtcsmjBnez+HlkUfe3VKNiGi3pUrwKbTFM3+7RXbeqorLeRaZbct+S5kfS8sRdk7sHhJPrZD0xmNS6bVDXcoAOndKSkUjKB/7LHPKyA5VEpR4aDxujXy/yptHugalLkrN/+houqDM76u7zYhWi4kH7hoeUXxMA1xGmqiUfL73K/guFHNOUyYY4dDQMotYVqws6uLjP9j0xltDgvTLRhXoYmakhTgw0m1938Tq57wfp9rQ/RAprIsUglJI5RuM5Vg+1Uhls2P43hF4RtPcRS5h01/H8kleQX3yj+ZcHRWRzh8MJzhLc06r2Q3pLg+60bnP7r6ppPvNpQkqXPZs51g5bfrmNDXkIvG9O71Ew8FpLu4grV15IL8wHi5A3ovTlKRoBCCtSIsjwnbsUuc2SJhsAf9S6jxcZyiJULvQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ice Pilots",
+    "ico": "https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsoxBgk5RMeOKzh43aonJSg1btHYggyUHKSX89J9Zzhvjparci9MqCAUk7N29gP9DT3c8hRV7uVNgxjVMnpJ78repDi+wbbeIBBDDoIRAz9uPQe71u5u/vlFXgaEz7DSjaacH6b8IwVsD+N2L9ynS5Y7Fl8d3jyouPTyPd1EbyOUb/7wzNjo5d8l3XVutkmC9vLjLoWaY5jGJMtbiQvApi+gtv/TT4hBSiNGnmVib6GfbBzxgXlK3/D8PZYWQEZAK7cF011+3lcIDeBMKfUSiAfmDlFk7hTb+E+fEwFSNRTBj2w+gBvuQItUroAlld/FPxCb2LGH0dmLQfoxzi+novKpXWhishpbao737hvm344wkfn9fbUP1JD6kLqqNHA6RCyOFnyFanwGfj7XW/nCo0Ka8hzPAKsc5BAZAYFDCnTEM5xUpwpWetv+2ybh4RVogoMXDCVnDjiAvsNMovX4W/ngcLcyASzoU+BQXYT/aTYLfUsaeuee0x+ExlqpjMqDYKwnhlls/N/zR8hjKaGYwB8Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Velocidad",
+    "ico": "https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCgfxmp4b7/ObJioD50gH6P8eVYagpd+sZD/IsNpR3V+k4C4y7dIsJXTeWz7eod1M+whxsw2lcOwkVYJAc+kZ2uyp4xO+EB9SNuejCAb5YVw8ZdqDMUTMKSxKkL3SD/a/8Vr67o/FyWT7J/8fC+iUKQ4KX9wFEoiMDleBOh2Du8n6yyUnp5mzLFqX5q4wgvk7ZCbTGLapoddGx77hbq3csUA0c7OlVPC8hJ8hK9jSSA3RfDP6OuH+QkgfnNV/LHswzrd4bLLQVhp4oozR0DjLmQXjeLhOa8wnrBcRxQTFUotwU3Dfi64kLd2zd13Z3RaTT23I9Tts3zS96g3CoZD8JN/6F4XmiPX/LFF4w+jJhDvp2QGMf0GU5fNTD8KIsnN9zbiiHoDmiJvrWShW/5e5F1wbvPR/+NNcBFXFf23ot2TD3E9lxp1eWvErz83gkLb6NjmZn3Yy42ccELc9A3TiTs/WJWkNwWaSgoYSArrsMszjIq5uVTJwXvkpAwU1cBlG3lyjI84OCmX498i8S97OnQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Obsesión por los Autos",
+    "ico": "https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsiCFknHoISTQmVtDAABAFgr4g+nlbybmwrsWk2WiIENrbEee3Jcj92IuXZGtvvJcYFS5zFEnDoU74X4wp0tI0uwXUBjnecrYrKDnb1WYFNEm4bMtgFzuIpw+CFA6dRMduOTq8B8UYrC8FxCEOOpHPSFA0s/P0n4OkoU2DN6etCHhN147+FekwVIKLSv213cKWe2O7BRx7pwUU2pfhxTRfrLfz96tZHHQinsE75z9rbEM/gSp+KchwgLtWYz6ZF1qWd0DfZwC8GDg5ntEhPQKAYAMWMoHZpMjupACjBkKcAcgJuOeSk+bCXFoow6ym3/ZIZcmYyu1kZrGorbZRROU4+nPxZvjxfckw9X5DQeBURF/Pyq1wFw3SZjJsh34fZPdGxsCKT0rMML0jSCBtcL4mF0vA7BbNopz0RHonzalXWVZuGicvTSPs9O+LpgirqDhbHzkcPOai1UtZFuDXNDfHQ2XZI1PzlowylykHDJ6y1qci+Y7SGePelEe9rQToAYrK1GpStKnVvZZwPkGJHqbeyQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Motorvision TV",
+    "ico": "https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsbYOXyPmnIkuxXDi4OElxpUWW5HOsS0BAwleBLjPhbtToCwtcMmDzUrlEDXnbSjCQYPlF4jJKC8uQ5ynHf1h/JRE1Vg6pDimsakkjd8HNWVkVEnm4BvJTt7fwDi56oXm8oUf4BHjHVTaHBNN2GuTGA0dQsl7AEqKEpnGHoHE0veHUMMoYdq+JwKW+yJXBxT/VXG5K9Y2NO+Qz/aNorSsKNfJwB44D5axYvfrTLAlwBal+3N42qObuHkm+4d9YFOX7H7b+pAKh94P6c7zupBqL7tZQtsdKVYq9dKz4tbhOD6oA3AgqiRHyhAepvNJZeQq111h22PVv6KFfkh0u/ZxPvHql6nOTafa6Ihs5Hf3BP9fAXlle3EpYjKC+hFlC5P0ZM82uGVjO3485coHwsR1qNGLxzQJLiXZJfNLDTF7nZy80jarRyyUYUDv+8ed+6uDjzETC7Z0DsdBvayYJTC+B8IALKZH2JFkbSwmuIkUzkfqXuU6yPQYiRtdSP2cxiAbGAYaa4y3Q95sRznor95WGwg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Vida Real",
+    "ico": "https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs2kp/Mdq7kvJtoaUfzpMCVJgpcP3fLjTaAZ1C80i5qDI6n2JzbkCkZvzghxEWiPqVyY6BcjN5Aa6crcNqALbRLb89LDN1lXosCFpAXu6sNAKVH1mMOrj0GDJZmlko+6jX4C4K45bKyemEeZVdG9zd2wk7ym7q0jKUqiRDFv03C+O9r5wrRjfZoLmyQKUAAVaf7jVZ/u92tr/AMKEp9za18j0Qpj6+jii3pczZMfRb5BUplmLO+d3eX7TD2+GUcKH/Iu/QRlcPRPl+USzLNk6aLlEGhK/H+qoyeOvY5znJ6wW0Kyp94Zw1QyZqC6D97t7fDtVEOM+lNgCwlEmkurhkswlUsTJkQY+vylehy/ciPsRjGaj24jUNFpltAHEllS8hXZB2APBmq+R/a3/GogR34IatzFNaudvESKOdX+dVvl210NhwdiN60b6tx+TFcQFAwvwJIS1Ne5KMnxG+8huWYvaV9qWuR/f7BN3SE/isQW56csLD/r8XeiskRYEydH7zq1ra2bgP0vanbTM5KUCd8A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COPS",
+    "ico": "https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs54mfeZ0o9OLICkaJecVeq+vrj03bL+YVi/1LJoqXWJp8zHSx/Xdm4fbySark/oopa34oyO75XbfowgDd2feen9IYg47C0B1fJlA/aSjly2GV/eQP+ODiUKjJbdeZ++1Imga7SktUwclymDvBCF0q2gwDunGkrLQ2cMxstyN/GahEeCQL9aioif8vnbARm2RSe4dcNd3hxo4dK6ibCHlXDuAdiYcyrcicklnkPDaBltpISlQ3pQY3iwJudCmlLxF9Fcepkm37NuM1fi4i3N0JCZzoXXIlwEvjPzPtn2sE8IJ1a4FFOwTm/5QOfGCJ4BK0/jgCRANQTj2xPjcyGmOk0D1xihuXQHEVgaGkvS+aIhOPl3OHpS/E1cEUiCBhMTSrMkSUoFIWrA1GhDghMVqSxcx52/4Yg//uUGQsjrI5+p/7M5UhyAWdLcNIM4TIV/ddP5VFLW+iI0RteHnqOxTZ0/FOrvfrM3MvJLfQqF2I2OKYsahXKxbmlVtkxj0IeVSKLtAOBAIKQKcrVVl2P9DAzg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dog el cazarrecompensas",
+    "ico": "https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsYkD5xN4yIs3ClsAFK4u6Xk/peMHa06ZMsPk2YAn19FGnsyfeuTcfSfDPxEWupJbUZLX3K4DVSmDwWvU/HiSD6xqWfDcZZYsqFTuu8zNM2C9TfOEvrYFA7yURPlikBsfIK5GtenJasenppfPpCDgbMyu65PnbwDPuq2t4zBCSxKWJahml1DPgAlYyZZzXp2c6r1k6pXGKkGR98tW+asv928basSHXhIvErmIwFEdbZe9W/J9fy4NRMbEnrXRLJe72dM/vkjHzDsvMU7eRQKtO4PEPqrqe3bo2pgSKN4SxYiRXdpaHrOHWdK1xqYaOv3uD9bDy5Pamy9Kf+DngGyvIX2/ZfxgdurnkHWMhVOABe2rCmoa29546f/J7e6u2lJX2TVgn9bZNjPwQQYdud9DqXALAgdZFd9VcNHe6r1wfDpB0c3+5Rkb84i0puq+W/9Z3sNEgI2I9HdRcAHjeBcX+ImfkMc0j1s14bDGQDmgz1szr8IGQsCguMQTPIObVnNbdwigTy2rD61dPV9CGdo0FTA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Empeños a lo bestia",
+    "ico": "https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs1gHW8A0E1lkANW/PDFtYAsrqds2dhZB+Yk+3zY2mDvLn+yTIAkvOiRyFLZgyDOeitE8v5NybTD5SBuaIjhlCHqCHEWI3LjlYDBRLd1JHsG/6XwoZEfaDVtsYWad2Wfku+f7yxNg2puz427PlQP954MYYzQTPuONGT4UxSysMTFswAVEJVxJ25bzs1XqzrXmiN99mXAXsx/ji7W8vKqqUSKs9inKORvCkj3bGmIyUnkzXHYvyXOhxkmQPM6fK1s+kyjPrmeQCH+9InTBJ6nGe0ehkx8zI4wZj3HRAmCCadGkX79ubRH1jFKvEayHPu6Jd7xXL/mHbYUC3MGt+8DlGgObpFfMiEo4MaTk5WeAy07b9MzVI6HIBS1Bq6+Ss82j9Ur29psOM0YYn2ftpoe6mNOkoPrpjO23aVFwNd6obfaLPyS/3GoUT81WlNmGGJJ5+2TbnyH/rYt2cMg4v5D+1QMYZyE0plyaiYh/SEYJbdF6WX5VE7kjX2P2tGCuOxULSebSih5/AcIHNPFX9zQc0Dw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mi Obsesión Favorita",
+    "ico": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsY8GKaV1GMtl6T4Whq9UeM09RRwpKRiATlLndplXMzx17ebpShbiubCwbtYJtrn5hfL8b+srMNLsGQkK4nKWYFI6w6Ye5o3/G+vViLJ3TLdEO3auF3PLct7TU38lLKAHeelQtHcqwJKx7oQn2nttdHQLoyeqzUVnOA4px7yQbPDTbGyKShZVyPZY0kkDMsZPfMhPuE9eWO6dU/X/LIK33/klX01Xd7MS7467Yy86mC6E9JX720c3qqWfgGARHUjYwCTq5jIVnGcy5/+R44N3hHJl6LhD4mBMjXlDrYeL6OTQaPV4EITr6xvatnhBPhxK7aOs0dNdil12KC47nrZJaRI3YLlipWHvmO8UtMs7OHVB83L3+LyXGuMfcF+xbbKz81kV5FfJXooqSY3vjT0I9Pso9uVSHttSxyOz9X491sM+YWBjXhQCEpc8jOmLpgcBOggoUuREUPGz3TfTKXLgbFOu7H1haSh5pxTUQLy205Z+zfXMbL/yxDQjItXHoL8eQRJ+jb3X+1AvterlCE4qYwA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Misterios Medicos",
+    "ico": "https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCAEvj1oBbcyRbkG2DkcZ4CAMYHI9BZS0TQ1PCm+yZHM0lsywXNpy6IjG+MuJpZc+9XgQa3M8Fg9KI3KBy12/1H1yWCDYoxFCzui591pMAHkDXe2uYLb2CxZ5/2fp5TNf+S+Pnryy3JVixyD/Vx5+DD86N2REAXAbqwqVnXHEmqlfokRYvakhrYx42ShXsaJF/K54Zi6UkXTdI44yZTsiAZV9Xlw8U4brF0/S1bXnJ9qYO/eqYS0hzmTIRrEnGM/f6ryFrvQGpM24o4ArfwBJ9zjiXiDbvDwY18KGSPwkG9llj+4BtLosTltGkIAhS2jHIdZ+G7amrD4+cAG2ApL/acXYzDiImj4wPsb4y69dxdCOL6/0hey9S3obIyvFZkaXdRxturQKq1lwnfKQ0bpiSxt/swMVlyn+cIA3EGlxU3+4opRHG4xLrFwHFhX+I9qovA0aJZkJ3Slq5W9ofqWS3SIzMT+7stWm4s27rHgGX6sBhUZwE8AawqDpJRairVvLBbnAvVTOhWtz3SKYiQWRIw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Misterios",
+    "ico": "https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfYdRE1ldpHg1bxZIkqENaV40ENuqmCQ37FXZC9GYODFxPe6bYaXKHJYBL1Mg94zmwgHl6LxDSHFqnltjmm8GXiIUFoglrjIEmCUIt236EEogu/JVdgpHnDEQLjrJrh/iWCWeghV4aeLUzzBc3dXPRpOJpYLZNqP4T03urnTG8LbwBWhOB+17I4Iz7LXxo0w23Y0jONLkU4BI3dy4iE4yG5/IuUfXC3cQYlmsdEDcAFQIBo63IpnUIkPRWQ6nyn5nyLHt1BLRhs/ecgYcdJxGLGrT7Ou+GViy8nnsH83YexG3oxIfGBwuV81g8fckDj66InUlcWvf+qhMXbuZU4mfgBsWzNErEsHcqr9+pjg2rdOC2mrzN3LBzgxXVVpEiSOur2BpkN6XHIOZS3/7pXmT/cCMshSpDwMSBv8Fu6wa8FomU0zu4oAep4GCOmw0rVwHLQ7Wi0CsaDJJrWNQ8QOuot6NCNWbHpbvjRqWx5oWYbi/b/Fcip7dGx9CgPeTxm/f8g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Historias de Ultratumba",
+    "ico": "https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsSmnSe3Xe19j1Lc6qmDs13nw4YwXagX2d6Lx8uQ2jA5TK2XsvtFe5se6kb8jrq4BsfwvfDkCIUQCrrbQ2h30uX90xjd14V6rEJTodArXcfCRnFD5IuayF36+1w4V+5H8zonmxJ8QipLLZea9PW2j0FwVgbXfEFyp7sRwYLRIX2sqi93ksZ4hmG+LUWDUgvYMoZOjQXJ6kNMm8eaX4XZoMOIfde1fPNPeXnSOyu0bgfIoSsJbN68EnuGf8rmKvf8ggR+X1k7u293x79AfC8U51eSYOWaL0cc+WOiz5ryQvksNQiFOqfjFsduInjq9g94IkQOTrNjOD2xq9UE0t73ctYxU8m6F0vT4ar3p6ON2ycP07KQxWc4vYdgknHHcoleRhtGMcg7QudKnsj98rCNdF7woROtPlyEOO9D/OXhabNWUSe8tI/P6c1YcktHrPKO3DXJicw4KSUA96hT8Jsy5JdE33QYUE4yRDFx1ZVkIyaC+94mEVOS/ms8Vr6zVo1n3TMMfYMbudesIKwWCrMZo77w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Archivos Extraterrestres",
+    "ico": "https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsrCPsyxHzaGBj9p5bp56UXfQQ1QzojiBLJ6h9h2jiMRwePPhwfzbOUQEt49uJWKvFxflmbYJyeHtvGOV8Pl4EhgXYcwOPsjdGtU0tNyUxh5qPHRDGh6GnDse8OKzi8yac7LWSL6IXD5CtQJVb+bWN6gOx5jrxnnTlRx5SsWMmLdo1EvKsmWQDub9hnktVmoctWzxk8Iigx22mhDGRFddgr+CEIMENdmFi36DVgUialsL3wIsuR6XAeqzLSHbtCr6erQQC+bAKEwn4ig1dxTX3fYq736QYAtFowAviGEMhFNNXumQUTLbvbV5oq0uN/AG2J/I1M0T1GyflrT6GJsK1jGRt4gaMIhzXeu7MJeKIccSscE2a46b57fcHPpRZt/VR5PtMXZjgzz2PY4xc8r/hXc8DrxMi06m46U1ftXkD2idHulii2Id4sFro25PBlKFmRxLk8jAwfG72mMKuXtCm6GafyUBUsccUPrEAqkM7LkBgByZhB+t3K0j6W7pKUNOpoJjiVTUsHyzdCXNibcMnlQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Smithsonian Channel",
+    "ico": "https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs9obeTC596zEOSXAWLmILTyNO21liEzyZkiimiwb8osZiFZfLvXAMM+vYhKWTPV5o6zxMSgckI1TOMPb+Du7zuoUN3pgV+oNGr2d+0bJo9MiYrp9D44eG7uuJwIvJuykcxU0DqGicOdiiWoBwO2K2ioauyQWQBPPLIHqtxjq37b798nZkG37K9ySOkBm3JrK+QD2ZqSy2jkURTH4aoRJofi0NkZdZqcXTNFe2rPittRwhZxlzyhaGJD3EshOByLAJczaYITR0i4nxt5q2zZ6krGP8oQtiGCfKEXUuzl5+S6ArgO8ZizSimkizJcVHvpTSoFZuy1cX08ViLWmH4ofb7jncW0AyC4Ucuvj4dk52L2VJeU/ZqDGKmvCYvqi+A3FuI86Q0xlpwgAmZ+lUlJDtbgVn+2Pfyd5OeeLYeWgyEOEFErzEoDKapLK2rDDl5EH33W57+3ICB7KjyLS+j7zl0Y6sFqLk3qKuIrMaJ8mBmW9rr/pMImcOIs7r03W07W1D6lQmjKeaCixKHFHVjThrYA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Historia",
+    "ico": "https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zskr95wThh7Pw08QNRus24MdyqZiU9gm3EoQfPSoaiN4u/VCY16kh+zMfq7JULXFvXXacHmh4fgyQ+1Le+4kohANHKEGZ+eLsbuzOjm0dppGszeZ5/m4rur7PL8gRLlSv0UGp8oYB1w4eY65TcypsDix2q+rQqf9FvpyD7rk33FMxX5ajE+Gc1PitWzoYEf0ygD4VH68o+Wj8iAY91QuN7WsfNiyJmMYI48NUnm6k3ddeJcSkyZh77DlflJzstLkpDCSy+gwkPkqZHftVf1ZndrpFAwVyXanpuAxhPSKSab1VsglN4Vs8Cpkg1LNoQBT49NKGdvtra8FtywuIokgdweTZ/8fME0CQqPunoRK7wkPpUj3SljwA9qMnG+pEz96NFtRRCsBLnXjKZCip2B3IXLQtrPAqR/YMxvygdqFKSv+xffu4vPpmSaokxbL3Z4cfycb2KNOQzsB7W6TvshtDWWUmmtciQB0wRgyj9p/Lx+v1g/3No0aVJDdaClGmSdldsAS5PogS1eOf90lI7qqsnbA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ciencia",
+    "ico": "https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsbY14O2gTnAJkOUJEIlDIrICJYbo5jTJsoinazAsrAneF8Xflo/SYPN+u2GxmmvCord/ZrJUPUNuwAK6pdU8SWtThVgXOOt5cf9exsS+v2ZTK+GoY/W4cZniuI6YP67sP4eMrR27Ki2BDmL2Z6izIK6roAdyuCYv0P3dFMAwfkkalVIacxLSgJT3aE9x5qIfgbxnACkUPf7O5oW7oWIJRtmQn4xosJdG4VeAt1btNEhiIQKA/0wHwd19KoVifErliN59mkq9ZRq/f2mGqp1cOzjt0tzA+T1Atyl2y4VKseW5dD2y0hnHNswvPj+qkOW96N0mhpXtEAbb56RiaBc7jTassJqlRTRVWduGUb1k75VggKWhRPxoUr+LroyPPprTLQm5TVOPw66QWTANKTfJCENLs6Cg0iNLNcOZmDiHXUZC73CDYjdG1+Oqv8jN+72rwYhXEghVphilHPCJP8Zkvh3hYKbUmWFQQMtViEBdnLzXIhzO0+JY/tiGK4ldKOKdw9WOJsR7WwygtOybXqNfyVQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Investiga",
+    "ico": "https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfb/FMOWARrHYCJ31VsQfWVyfS9B3PjVKamDcdtUWL+1GmVhzUXdrMMxZPNk+5TkbUB9b6pGaj0q1VsD94PJZhGEmh9c4pgMI7xiBrNFvmO2Y//CqMz1CzsdDFqOTybYcrwHARfyeIS3PP3lJpvikKxV2PV5df4Ik4m7IMdpIhat89PMg+J2ttFMlAEvDKmN2Ad9aUPmklTgHxgzmueE5XXdNT8zEUfTLc5FQc7fqHC5aYH29dn3CWbFSwIJMd6nVxxfRXW2MFCd0mjDjvKq881REKEgShrhk3qAjPBcUitsN2MDRkZwZxuthKb72TO4Dj87yEXX4VEoo7mUQPKMml6fXxAIBqPUaAkwYKwgPEuxUrmOjp59WJtq1Npy5NzgXOHj803TECpRIX4VJXPe9TFep1CuxxVO4CjiLk24YlGIOVaOOYcSpK+tfwuT5Lu3HQKx6t2PLRYZ49bOCvYQYOiJzH0gotQrjyTpH4+TEzTas+94sTjoQEM/trjcfn7GXcg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cazador de Homicidas",
+    "ico": "https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsY8GKaV1GMtl6T4Whq9UeM95a6EjC36izwkZopICxitPsRH554QwvIjJlLulvJyB9t2fZOZMawyJ68wqLVg5ENHm+aTSSlM+VRx331decQq0GOuMW1DzTPzpq9gtp4QU59mjut8c1rrebJ0S6usPquTUAgRvJTApt7AErUa8QhW7c/CCF3xwDq8SvN0s453r3emkRmwz3jY8Rqn4HXVvYl/WsHp9g1RyATzNWmYmAQ79whlgzSqYuYKiTz/98jCl/meExdRjnwxnRRtq6j9b6ygdMCGR83y5iv6RTcuydivt6YiUWl7CcbN66XHKtPQgjRgfFJJaqBpAYv/Qglg8Pl96h9MLYI4R1fHWNB0Vr7/DNuuPrOeA9ItTXriufeWocE8pcJSbozcKJ3RpcyC/pVHBF0LIlG36h0u1G+NB51DkrTHc6dpHFyXq6p4f2meNkOOWugVgybEjNRApuPkuNB7KC5hbNtqloyDbbQIRCfhlnWq5fyXYA0/KjL7m3yoA21ClcJ7Rqv/SVKTGajTGorg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los archivos del FBI",
+    "ico": "https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQC4d3duswft/eR/hetVm7/3Ih5kvYRnd7XfREP5Jy0sU2/ehugtLlhqYJT7mjGjbJYIzz/VNYNZcTO8NBx8kz0zlaUIZK7ZCvJ+rU2fD1dj18ETX0B+Ls+Ct+Cd0pfqNFQmAplsNtA2eHINk8orEabrDY5Aa+5P4xMzvbYDEoKySnNUSwXEVGOJu3qQKKJdf9GDlvhj4gWMH+svZFHbYdwB4rF2ehWY4/mPTzOL7QZPuTIhRpf+jjyNIKKmTZs8Pkcg9lROl3DkS+QCw8UZ3zC0PDCFfX3RVM4XaKJFmHWxJlpZGiZ09Jji8Yh1lhtftjt73IEoXHCVI+OT20xdUYUiTlWBZo7jjPQOctI2ml74W3Q1W1h1EDGqi1MTRcf3Mu7c79b70uU/us7MSivXOdmSqkTmMvamWV3H4fYdNXwuPJx0Yv/zQHqsdn2+sP/PFcMgSecvxiIDTq/tCi0NYmdJ4xdkIOiM8miVLQznnDTJzDA0kYZcSmMTEGrq3lYRndT/D4ShTUavWQGUtWZUN6g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Archivos Forenses",
+    "ico": "https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zssc0NaMeu8f9hytFfujepBhzYRI9jlPhSKhQLk885jUmpIi29LsJtGxA/sE7xFvif1C8MA0ZNqe+mMv5v8mbjGIAHtR5eZphbX4dId7HjUfDVUAT7GEekV5ZHf9fuK2FE8m7T1spTP7eY/ER7plAdO0E08ZKePXwGKjL0+SOsCRRQG5QLB38hY1DDiw/YnIgoS0duaPf+MlK3CX8QeRyWNh8mLxPWA6yGF9ABAekSE2Fpa6jUrFleO1wITMRJ6BikGA2t+mzO306QBT9aPNmNkr7qWx6sCl7PYt05Wt8Ns7hySK4ald+u6KL4pTKa5iPqDkfuJggRoXluE3Gm8cNzikNSuBwKk7y6woeZK28KF+gAM0T8wd3fof56LFxcpEu7LWVaBsuWBPoY5KHEsvFjGzVHUryWJzX0KBUgxn/hTzuU+Q2TGCZk03mxYHwQyJctjAs7lJ4YsBRxSazFzJVZkCpaKja/r9YFE3FoUYBhwupI32OFkIoSJ0vrMvb+TJ7xttLATfpx0Lf74XckpvPQVA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The New Detectives",
+    "ico": "https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsxeEW4RDYDW/Z5gCLMKamcxa++/Zcy5j6evBT1OPnZRBB/TPfOXuvXcb1iNdDUbHpnc94PV5Zkdf/CEG4S/RM7LYCdb/wYGbt96+EtH93LYvUu/+uAlswHjz4CtdF83C2y2maIpiuWjMJe0UfSEO6xEiiFro+b+rrz7LDlOvT6JEx40Knrk+RFSud0IMqJWIiuj/DvHAmuPNELD0wkx4VvgZMsElP5j51adZRg+zOSJ+Ho4LRSQBeaOnbsbP133zgrbC+nY0/Y8dMmKFgHmQcAk2Hv+4oCDsq/1H6lnfRVYOIKKWy3K80axrBU+0Ye/67pjyCqJfN6kXnJKRGVmCiIv84f/+e66WeLvPUAVjkG9D49kswyYlWgfGD/75qGdH/a06q6A+tRv/3sQ7zWq6mI/kCD2i0hgyLxnz1VCj3+GR++E4CaI4CimPOU5lIDZu7vpiY1ADGtW6f4qjJwd0ar5ceX0Z7HfN0lqthUTSeYxmlmsL432mal69Z/qEiEttFUi57Lia8P0gItnVOqeKv2A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Misterios sin Resolver",
+    "ico": "https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsfTZPM5BZHCabgaXfPd4rQ0smmhQrZjSadyyvNSN/UGicxWEDParc+RRTdJDOhfEfiioDpDVOG6DhW4boB0zFaaPPPKrrC2XNC4nujquKC6xJfS5DqXiznh+B4uYNPfWd5RpAQEyGrX62gqVDM7j2/ejWKFG0vTtlRXvktQy1urY25RUT9awXmMdMQke9bGFtualDsadyqfl51H49EqdYpNCiHlm9WZXsKSb1/PVuuIj3M+oGaLZdLIfKkHGoOcszWrxD9GZIJpjWTvFWZvmhU4Jua9bcsw8T4ufZHOqmjQj8YI7K7BLFNOdACyR85yasm9Iw+cKcCSXhGUUgFIP3zlaL7TnJ2Nn2r2n7DuKq97uLE/QdEFJqksv4Onb2o6GXl17zURYPZYupK1RWKC8HwOO8PETN07C7qxOXRIjAFdPQlQQ0hBgvdJcLeMCQz1wVCSupZKg1Wp2Yyc2UM5Kf/GCv3xy3sYtMmHUdzRS64uxRiyRiOi43jUjItYmHrIyf4Eeb2LExxeiq4yRFLtfRqQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CBS News",
+    "ico": "https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsRoxXipUx5lFqGP12hflS+Kpz0mdndsyepghHpLMKfdOx+/9ulnJ0fniF6lhEUyY2seolK8OKdfd7C8uHu5A67Rc3HRZo/eSnZWBCn/PRQYr9HsEvGI4Cmqd3RUeDQv1dudY4x2Qxl6RAb0ogLJB5PIZ8sYaMiE5Bxevc4tfGavpLvuYh7XsjUNaz61F4jeHHmq4KvvBrGiKIB+GyPwDDGT/76Gc5f1efPdNg2U7Z63kTZsauqM8YVWGEoi3NKTJ1VA1ydwUx6pVQKeDMXqngFQ8bKtoo4SOMwespBqoa3FWVtKORwHiFn2I4WH8Xjh5OPngL4lDHMSM4V/sGMfm654Zt3D1TVCpXxeJZaMBcEHDRiFOT/7vDe8sHqTeXM78ChEp1CZE9qm2n6gi8035UlLDyqi4S3Y1l/opA6fDNB9XGVn1vUPGkNpp8MStUPZwTxsjVLZA10RZQBV4LznVeGLtsepXf3GHKh+UkG2sXlvxcXAKXV9sUKn7UedW9rvgosGwg8PWk+ew4gdI0L4fcaA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Euronews Español",
+    "ico": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs81DdjhhjhCehlQmiBUjcPQueXMmtRekere61PfMsCAZtVuM7lhRzo8zEhUMsmloJyrzpPjaTBdwzaktDq3+KVsiuM2XMeD9q11rnhEISVx2C89Kbe2BI1YtM4r5SyXllrRXxfKdAmU2+/xS4vmzVUb46zWJ3Ko4ooTl5nLcva9tY/zkI29NzljSBH9F1gFO21zpe2jQkieOLyaVzCzF2hTW8fOFj/sf2/MVIflLT4NG3ANcBxLFInpXBENbD6bzailGhOHCHHgRkapJ8GMKMU6suZlWqJdoUIDCsO+JflKHHLbh2wm41zax/UAYtLWchrQxhgedkvs4y1eGVYk1qmmJS6QqVxy1Wusa9YJ+Op4w5oJhUrF0Bs8t2ShHlRtvZp+qu2KQ9JzRm+mr/4XwvHZWI4hRcCcivcOoE785ya6Jl8GYa4zNXh9EEjZLxF4F6+AKd9o13sGocKtVpnCdMeFVc9n6uWo+8q4kMY0raVPrntH0G5nLeSHb5oAr7J4FfXcAr85r8rqGSBUNpmEu9Jw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TeleFórmula",
+    "ico": "https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCQoLuY7Hkc1uryPeqCKz8pqM/5ziDhCnqSR4Y1mXy5dL9jP8tG2CiBXzNU6AmxbVxLdRA5K/TNpnEiuZB/02CEdveKOtttsa79pIZOjnGxC2sivEsiOJu+eHnaKJIMdHZAHdPMPGFjZMMoANaoxTiOnnANMKNfwd7VuUwYRvMmddynoIMFEfSa4hNicZdxV2UyiBoOzk5Ixc78Wqbc/lrScPMrF9ZWMoze28A/PfUjuL91QnPBpGIk+GUUSBv6l7KX1Lv9IHYXh0tQB9v0RUc+bapuLScfA3UhODdB35JNlBiYQqfnTZ/AkbgaNFyKcn1fbmEebT2rAZWvw3QGUWaWM5huo5icZ4Q6ld40H7ae6l3OOFnidG+jZX//ZUN+vmaDqgu9umVT6RUdMafN6tykgrkPU1PBxHO+9zXuwlR+UdbUmpj+US6BRE/FrMXZn7P056iEOt/sSSeO8o0ctmXvimgorKXiKxpYAI+HS2qmwH4x3fpk6p1LW0omfMLX7kVRfwP2Ad5KQOiF2bm+hvuQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Claro Sports en Vivo",
+    "ico": "https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsVwxddhHE/NjCddv2T039mTnGTlG9rZz4DqB7+naemLKmajZSZF5A4Px3gvloGS72RqoBv6FloA8of600uUliJVMWImlCb5wNzOU8761viTCbAMxtWXe9MfU7jii8yQWSrIXLk5W48Ho9qFiS8RKSFAMdcbfGfZZ8WM/sQ8HH0AjH3vAHnLq6SYxeDYfdVmHXP43ZRLUQR0SUDnASpuAAsP4SQrih60BcSjhH+8+VVallj9tYaSUqQ5w1G9+sBedHomUalfkak3mlbcVZ5wJmTGx2I136MX8OMxYRmHcH6iLiVDbXCf9LSzEiwko7pPM3ctDA0l6AinJIBGvU1/+zPTmqsW58oDo8oqkHZeZWTZMYgwVaO1loKImLDo3HySR71CL9GPBjop/aKX81pBWS0Q5J0LBlRl9dvW5cUK/tyhG3RC3RvUedTSJ6Hhs8tdACr8/q1ute4n7xRDIdPDRlAC8ujOY+544IOpykA/J0eVFaRtQM3thWUeU0Nall/mUmt726FrjigNC/UQfoWbeskQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV Azteca Deportes Network",
+    "ico": "https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsvPG+5AOy+dkXaUZpxrUaBwT2drFWrIFWXkOZIj+lwzR9dnAKPXyabzT+cUQRt5pFWwmhkP/MOV0wNcblJc9H73naro4gfBeUkoJ0vbjsT2nhXdYpOKEKcE1owEsJPX7Knrs4uNI7Vx5TB2ygkBKJQFJsZbFmdq70NgOHtlNFBhnVlUuSXYDqTAX9rQVbjUko7MWAqVefP246n1MMXf8AoHh5frBCO1CooJhl08xuPHVBNg1AdmHS6Ei5TTbvLsXsKjVQkq+EUp27c1jdDp9gfRNYrHqKVltpVqiIRdOu89rNJRNBCX4/8B+noIwY0KnTawPUPDCsRGsYhNDwPU3vvWFCgIy5KUhKGokmUGNh6BgetGZ2zLD4c1Lc1PhwCTixtUwtJf2AaeXYxGJbpUty3vXP/rmDzU+vFPQshIAwki0soptaqLbTWVLhVYVNmIms3HGmszIO0PYz5dMMQ+UX4jHVKD0p0LpGtx9LKEyBMozbWXmAnVR0Wr0RvNHxRYpTwmNDWxAc+leaBhjFnfB7CA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Deportes",
+    "ico": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfQ6wqe6mvZaxs986M1iN12wNSTMxeS3D4OestissxcuzPseqDhYuasOioztcHz4XuENTojaMSZOD792ZnZMeVGBxswo3s78Veh8C/vA+AttNEFWytFAe5N+Xbg3/EcPiUKtW14MQ1xeloU7PZJG5HA4AiUy2/6YtM5QCRfULeww6FXyVwGU6mIlhT1MQZYqZzpsJSHwUDOpBXwX9/LC3G8up6g1M1wESnS0K69w8V/m06lub59CScMOKdVkFK/dI3zE/PiSQo86amcSRIK0UGK7/kvhMBjhHUtkSLgzMElFBZvRwN1IEZGfd6872rM6GAK5zNE0wAcEk291kTzygt+jnNVsXFGJqxDc1/UXrp1Z6WAhgnsLGByvNkY8Y4bEopRpoWGG9inENSsxXo9UA7R6MKgtbkx+SdPxw8J7Tf00PDpcQvz2HaRhhra2l8f/JysSuZHbfFbjR3uBGH+mH0SXWoMWE6mGkSSpIKZFa2N8sCNGq/zzri7s6JDTIBulR4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ITV Deportes",
+    "ico": "https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsPn3Wkpx9RW5fDi+/Zgu+8bxvIpKIVbH/XIVBNyu3dNtmzPLprANoKNAvweFfgelYOEU9bInqc+w8KjSttFF7WhsBB7Qq9uTVp97o17b9VY03Bp2Ff2La9dNNjm4XchsSWp4zneg5LFAzBPKbMgQ+DLwqniKXdDKM6BDmh6cR66KGOrKQmTQrljEPvkzvaeMLta+JO+bfUGT6xfv814XE/UxVLgw99BknaYRaQk20m5F3LIpGARpOC+2JgdS3FHBe6wYjgx5roKX5EUgrjlr8NoZ6sBqj1FyZoBmxwBroq/HSGBS9XTSyp7yw5LneqzQZfVyTIkzdRAyhSNpqwbQLVARTG0SWd4L1PNlCPet7yplqSSZj2KOrM+8ZewnFWAPB+Fl0wszBwZmEJqog+hN8A2QhdMhmqvHIbqSXDf8G3aotQz++TZhZSCUMn79GcRtGgrUzN0ujw5dsXHRPsQ+MSty8crWtg/FyMBwfPumfQytxvyhDclnleHo3ISVnqz39OXHxmj30q0gRzMrHWxYsQg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FUEL TV",
+    "ico": "https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsB12MRIY1YM94S7uPfCpwfaeIYgCR2GEZBB5BLwSt+2bAGS6wJZuITHiQcbWW032Qfbxicx41+DUsWHLv6fSXoNr+nRCRSTGyUCkw1RBZLpEx+Y5z4DDfvst5N6ejO3cpxLByAxsbjGYy+ijHmGNCQ0LmVVkykXsxDcF60qsNOhRGv+wERzBo0MZffS9h/MC9if4rhZoaMY3BIpnIj36seWWNTRanWVgv+LXmM/MHlYrvQV/Q7aSvdoQsUtp0EyjMUJ+Dyad0Id1atjEFizbAy/sOz+vTq0GZqpLhhb9z3s3f9pfu7PUTCBiJzgFvQmpE58kFH+J+yqrQD1N3kONQiyRz02/rLrGU27vTgjLHFlHaURKtn/2mjtQ3bpr1voWu+5pHDchyyzrMPojaQKh6I+BXJEbUxmRUYRnIhNE+KhEQPG6uKIQOoRPWSqBNG9LiYl3BB+hv3Dd2eOTSZvk7t15MBPJZRnj/M6SPIX3/BeDbPk40hFKeDtuXIC3IvQlWuM8oEUCo4A2X7q3kpzMSEA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Peleas",
+    "ico": "https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsXuP7Ee6zktNP2ktorUpuCBtDpOunwfUX7cztWjthSIWLB73jAfr81ve79HdLgas8LFx9BaLy2O/JEyF8koxbldAWqh6ALrM7lZLpVj30qqfijdt+XbLvy+FwqOf4Qujo97ezcjxTUOsKX8gGcEQgMpG3j7wHR3O0nwJBrYSiqWAxQDof6+qUs1JsxwKdMH3W+KvOWVTO1Qjw/9QLMKJgYnmdBTZ36fNoMJCuiP5BpEaQKJCGDWkj+bmU1iaEHgEsr89+fNtu65QSfRD5VaaH1QAwm5ccFMRLPdVuLyX33UyAPpUZT4mhEIUY0M7QskrbzIjktu5c9qeztsSbDx+W/k77YyHC8begy6YkNJxnuNVx+G3PLoKzsfGywLc6n6msCShkvbB4+itqhy+4zU3vJt2c6+hwzHo25qpVvHLskSSyXUQMjjcJ3Ub8kYpRAvF7gopT9Y0IY9YPp3ITSU5BF4hdDH14wLy3FyJ05Js8pVnwLkreNuiVz80AjccrhCj6RewGgDu9253M+pgWjdn3GA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Lucha Libre AAA",
+    "ico": "https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsVPsH3G4KV9oPnQvbpf7VaZcI5LA+2sKioLniGyW/uMjGYO4Aogsz4Yd2LMfm3TsQIjG2yviuFb7xSOhStsUyooJMb+6W/C7QeCegtFkAXkdEeddYVgE3vdSISEkbTXBJg3a/t/dHoW1SSgkedLTSignPeWvESJVNnC6GcgdK5EKELWdXXvnIMFft++jra10sDlCKzmWF4o5R0ruE3kyJ96NIREQp3cu3r+1mLNMHYrtjr9xl6GgO71pB67ZKk5EKAIw0gPLguMgpxkdYm5uyJ9Cfw4qekSgZl1eRlDCPSipf3M1cBeaOjg13on3yez+jQHcgHXpcrigM05/NXCfUSCesI6o5Rdr8gS130Fqx5NpiVpGGUOaPXmBAucmB6jFJcFq5/eCqFlhCa42K8qTYk1OjfFBl3tIvJ9+7ayW1juEVMAHssTheb3fk8UCZlVgB75DHlT3GtbkNRKjH+J+I5dm8jqLOVKRVCTyTp8dV5zT1rNu6pEYIE+EYyRGJKkwZy8mG4lIUkxb/++R3jOSETg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Comedy Central South Park",
+    "ico": "https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsuOEApGlJ4cGv1AhYHjkKmURttJEbF58BaPJ3vH7bmzkSuF7JRICWEVtFolxYvmsiDo8LRZTgaEthYHD4jJSscnclcOO6IUzegXOkXsC0iuYbenekFkf+RKi4JO73WpRB9bY9c0JFgHTPfATta/3BL4XTJ1giz9zqiTaK4rxAXPTCOrCf2QG7Rf8+yD6dId9AZcmOw70XLVxcyjAp9HymJ4lCw1UxJM0e76TRXl70k7Mfe961sVTAJO3CPuYsC/4Nf4+3o0x7FcYubKNUloJ0mJJ+3r8loRYQUNxtRjg5rvGowzy3raPWgm+DXJxGgw2sj1TzXSOf/snAa00rbpqiQhnYgwEArwbR6p0zv/Ckgn5Pt6S/ExJ2rHftdkdZoKbNWHlPN/8CYVhoDAqNs2Gd0KxsyBwZP7WyruaP1ApSCTE3qQnA+eo0zMS8BpntdaJ4dMnIQEAUZp1E0aNn6GG0TRKgMzrZ6eaWkkBVk+PrNf6dRrlPO1PDrvC88NrXdyI/62Mv+hCA116xOKUOpwMsYg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Daria",
+    "ico": "https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs2p2gxZSNV0UG7yrWAox5FUuMdbSYamFmBowtAEgoYFjYt3Md3YZfJ7Doypl5ut6ievf4FlwWwjgqTz2/HOEFDeBxpge5CuucsuwSB2x2gHLMyUqljOeq5NpCyeUdPD/wpr48EQuYp1jvzTHn6kMWMlVhiB0ZcXI9TSB4PRqZlno4sSZqoJ1gNgaliSw04/7d+RFjAdSyHTuF96KqPa0/qYZru+BlxUbD+vg6g+vGKYuYoMXNqStvjkCROWYamQG3jkhQTlZvY9Dnr4ea1vHeN0sB6kuzdA05FgzXeTHCp20g9G3pcw5cdbMeHs+/K7yfC/LckRCRbnciJAqf4xrZApwMpXhaBFIkrQS9O0IWi2x+vDh0yqklTKWv+ZOAaeOge0eaymjtCOUAbXaHB0od75B3/WL9b+/QVxiZx7s+aMlxSmiKoEpHZbk7tgqvKo5AbW7aKS2LFuILhEM0ZEhIBNDrA/m0XRQAci7UwOOwexFe6Gap7UwEqISwpuF7qFk6CXkk1elDl7xDAp9e66FL0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Familia del Barrio",
+    "ico": "https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs2p2gxZSNV0UG7yrWAox5FWnPvU7CZBVF/USI1oBT/3ysEeoLQjIYrSCXwz9oPYFx7dgdQf6Sl6oYOmQ23Vo3DCAe05GBQBoF5OZ1xRvbxaVX7RblQXkYU7fQwoH5f/bfpsrBpJ0Yf+hkk9UmsprBcdYIt/uLeM/+ivbGKUCpH5FEPnUMppJKjILHusE+8Vus7HTJKR2xTGoPsfF+H/Ww+srt1uSSIpryeu5HubLrkrd07yw3UcBTqwtRTva8qxJDAJmLcDEeA7rUvrC4eHBUZ4zqacwTbP55KpsaAqQVnAnSJPr5B5nszHwvCmWLuForzIr52zLjdDfNCa1SCIa0grCOZeeDuJbAfb/eNw3ia+GDGLVIjwK237POWrLniYFCFDyjtg09beixH8Tu5zxKTokRtoMb1gL1lyRIaMlVh6T7wtkvMitOdeBBheCoJk9vr/c//9Ufm6Z7ajWxHpxOENveR1HeTsfhYkDPxo1GcD9Jkg+NYwzx+OanqcvYpJkrJFfYOMsdFiESF8m3OxY3Ew==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Humor",
+    "ico": "https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsHX380tCs/WbUGzxPIT9/BbBpAcnsLQIFeLHnOx0o8akQRRhA3yFrMYdb6znl8LflbJElNx31s4jzj7Nl3oQpWXqtHyvV0MON3LzpCZyrAe+diFxdcrIQxiTsmjM1rsywE1U+uXeMefHCYt76PzcJqwQjxAkXu6gdLbGiZsxv9ThB8WSYrqKaSTdPXtjAl7g959W61IE7HLg33gRsRMK1SiiUJUG1MiUr87c28hryGYS7IMcv9Ox1BgTjiZ2b7pRjm2FnEP+ff8K4rp9BWNbrSTFLW3zcmGQDedSt5aknJH2qjgn4cf9/1XPWbnWas0x+IQblI5LI1Ve/1YMYowY66DzLT+iebn44LPIYmEhdsFhRh1/wLt1C+VXVrtDkc532Z02ttA5y2znXly2qh0uzOp2q0K6KKS8EMumn8UybphgJdeBhX+IN+kxI6hNcw0q/tJUPQboaOnPPDc+2V8HH52jPV9YvTgy7M+XfnaLMLAaLX/I5xISRAhKwsdJbsuc8H5DioykIHHVGb19aYTWyPQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Comedy Central",
+    "ico": "https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs8FE9OsR7s24xr0dKtC4NrF+qxJoyvlIIiM1LVpCwR4mcXYgytQTPkUjHb8RP7fFuOrO+K191IXIaOiZIa1CQ4j5fu8K46uy3MlCk/iOZgsnki01+7Xh6DcogOi0rVxl1/p0nv8xWtsq2zuwLy0h4FJxziBD6jHkYa/eEGVXx4f7QUpwj2UQu2xxhu42gKEWHSGeWNjIqdc7gf+ndODMBGu8rL3KgxFBjY4u3I/aluI0TfK5NTS2Tei+ClKXJrGkbr/jIsT+c01vD5p/JDjoC/4lT8tWWcxfHAfwaQC/137COx9d2x3UcL5+K1Knc0jQsTUBgmZd/aRHWqCex5UIui2rF0UlUTWReMOdQukGhcAExJtlg/0oeZ1cmBDz/qHkjAMnz7A0OOfIGxmhoSFTRw+jC62bfrPf0l1zxWneuh8peQjjlOh29lNyuNMPn6huAIoA4UGFQYO2H9QiELt4gf2bqytOapnLf2TVOfQ05l1zvNiDyRiLsdGaj9JliWEjCddB5E9TVjsK6zsNoLo4L7A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Backdoor",
+    "ico": "https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsyji9T8yYeus+VfBRb7KJ6qNodSsJDFWjJqyAMInEJz4dNTvkO9a6KJhOe12nVglZZu0IPZ35omR20OaQP/JfSiju+S6aB/L4XMORNLPwIv76SzB3eXDXzZQVCIErAHyeXXf/xO/aYzyI/huNqLipKlenQ6W2ilje3ETeCHG4VHVtTqFcJv85cK7S4bPdNF3Up2x0twjm/3P1GM8GWy5ZS0OzlmTYXq6GYRKgzl60t+SXUvU0/l/NNRz/LSJ7wsAHNs3kGn7RGTbwf5VSS5qpA2Tb7WtVbvyICBB1oC2umOlAIGsiS9RhoR8gSV+WzZ1W2QKPYD7MdIt7juFVzA5sx4vEo21rR9Shqm7b2uiX8dcdA5OcEEjGU5cmHvWQix1TIXPhQmGQSbVsp2xICHlauZUYC8205kiMsawxvPy4SejS6MlauHHlJYFS0Z5x/+lhuOfS3vU3xPVRtRnrUa1WoVTShk2exXRzHUs954kErBHPULv2bkZm6LnZ//y0By47pgLdN8M+umqzN4OWJQAnOg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FailArmy",
+    "ico": "https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsUQ+TeFpCR0nUKLVqV9fhxzTtm9FgzIoO5Bk4SbJQt8kJgJHAiwFbFCZdccu7Ogr6mKjR9viltjriCp2f1KBqfCah+26Dw50ud7krMVqaQpj69XjklkOslI7rnSIXxrqHMYgYn+4Bznvr6lNEKuEMub3zA1+x831Mxgs4WmdXE3G2gyXitFxlHL3kYGdBFrRkv2lrI3AeWHr92IGH1hDkhns/jhtOAt/2LRSFLZ7QzV5K2uAC1n0aADXCHtE58zc1JNFSIuysTGU+Q0mJrwTQmF7BWzsIrAqdU8YmIrJ/7ftmWv7E2KfvNtavT66omvYKsbjkvvMea9C/WVu6P13b0NtBz1YoJdbbu2Gd0isQKiydbXwZZ8yhbMaeGhMR+IhVERDFOFmUm4Bli3qy7nDA9aThkEkqEpz/rdviIEY0t9DQGgbVQCY6zhhwkOUZngICpzqZC6M8CvAJGZO/YXjFVkac5sGUnlVJPlLVSLzR2h1OQ0qF55S8KP/nHdpP9ajUNPT07Fpv2jTfb2TQgpCLLQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The Pet Collective",
+    "ico": "https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsUQ+TeFpCR0nUKLVqV9fhx7NXTyUMi1cIqa7A46+0LnJX8Ak+NM2XWwtBIKEi2DgS/NiaUV2atAleevewsHmDy+DREahxg98lta060wKQUtcT3jl6gp8bMmqakPk5dXRh3z4LFxRVSeUpu0Mru+Ykr3m9AHu4MjQT+tlwW8PeyyVygTXy4/G22ZUuwIomsCBShlIl+TcmFSQ71DEgihTAV7YTJl+mhZ7Qhtm/VzrGg3ZkTgN/+JUGq2xafh1egQ088OesTHcoTHM8VV2OuDVnuL8k3WA3Qlu37HBzIhqpxSrT4riBJb9gQ/ANhwsOsTfl0rSXvujalM/7ddUT2sYALjcfFKURBPxoWdKRHtg+hqSxezm8Ufjjah9rSIIYQGQstAOHFsgjzynbbNknD/BkH6CCTIZGa6Rp+PaFk8WuYfAwEcWjZ3E+28f3WoUE9wxpa2vI3nUyYJsMxWpdG3pnBGk6C6C3+QZcd0fGYVkkCIqynm480Fxkz99fmn5R/hhFp/kpWsaC7TnuGLeqsTMdvQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Best of The Drew Barrymore Show",
+    "ico": "https://images.pluto.tv/channels/63eb907651f5d000085e4778/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQwD72A+4WkABedyPUDCzYcmz1IUIwJ5JU+4Lt6+CSlnEBrLm4hKp2t3r1Fa4IpVQ2cUVhIkfVxlbM0os+2Pdl+jG8qRTbCvr/GRo7+IREeYQQWxv9ScwDsyau9Td4UvdXcTBxk2S4xz0ZFgfdNMuPVfnLrV0qvNF9xpBGlyj8XBTEXpYVVeRtRKVap1lSmCdu1TygGzI4jhSr4yy3DY3SGqy3x0ASNCPRPBKSNlsOJ5dybMRjewoy5fgcxeFfY03rusU3818org7KCb9fW2eXH3LGVaTBiiAycEvAJ4xFXZ3Mp0dpo3I8PAIIAHDYRkviw7DVjcQDWlKh+Uv++UoEYXSEp/3BU/ChSsZo+O6x0wHxSL5y/4KgDyUEhD3AMlib/P+/21Rz/2xkxZfV989hv/IRKrV6pGn0SZ1iVF9VhRX5LRHraU/9PLnxxT45skQsM4LRuChaPCd1+0WCuveDPbleOyjzJTMSqwvt5JJg9yI61TKJLqStq5KPjMxD5e6aDAa4vd0DYF/KMeFWR8S7g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nosey Escándalos",
+    "ico": "https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs/mk9w2RYvVWAyEn3wh9axSnVkAeIqP0VafrS9kEzntupjy+UMoJa3DMZ3tZXr5Ybwf6/MLNiLskdPy2ueZHuAqHgr0EKoxt/RexkMFZr3wEfCg44+L8V3xBtnmhTZIVXjhO5fxYGmb2t3KRPAsWt6Vps3c/7UPphkotkd+kdxMo8hIytf6qlvF5BjF2mG4qXOOe+BdljTAC6ohy4eOWhIGRwxfLHwmGBFNn9bsWmvQsd/Q1OIGPMrBvF7Ni5HBNeUWJ6RreIBn11MxsiaeCyf/5LgwtHoQDDphWHKE0OwZoX9PV+7DsTTaqioED4vfbCx1vaEweyYzm/wA4WJya8cNydlcMMhZa+f/k9WaNESealUeHv17MrDuKoG6kYSrz1boAv3WqHHohgwO4p/pglJwSRdTUR9lBzaixin1P0IMwbGllBYzmgk0dPkIYbAJfhIEVwcmcjeQfHwRFrnKtlC+y3oyagHx5k1AmK5SJuWCQ9UO3y+ls37LbWS1c/QpPEc5xQPGJYXMn293RmWq4fhw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Teatrix",
+    "ico": "https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsLLoM3Xih3zaiWoQ9Le2uNC6fZGOt1GdGO10gJsRFLGcyQRERZwg295Pmz+QpZp0glQpGRhqo+ggo0H/TRoLB72iubv1X9rHl2yyupToTdnZzNCm1rsm/BHmf8Me/QV7s4bcVabRrA3CH6rzlUDtOCzwvrQbZFEwLe9RXVkKz2fLcUxlPUTfRor/VXWnin7arNKq+vYjybFlwSavmJ2RGCOS0dW2fEoUY5Hfk17m1TBpV/Hndew+zmR9nQiaSkxplOg+bNjlpk5HC4lTozWdzowEnwj3UYjOQO1iV/RTcrkqo1eefjjESVBuLz7ncLDgT/cRBAwv7/F9zBxIt2kyAZRjSEmfkg3qZEIp+mqgP+4w6lzLKZRqAUJ9xwSq1uAoTkY6sfNHp/T3MnsLXCGvTGTFVKtkb0pBqjbfXQzitN9+aoFzjTiMKaFIjKiCe9xxGJ3Vdd+WixcSzu8RJP4C9rmUujHQi+D4bq1dUG76vD4Kos9VYA3nggpLdxru0zkbAr+geStFigbJGxjhSOf6HuQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Telefe Hits",
+    "ico": "https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsaF3SVZZxFfFZz5VyLohFVTdO/cftOdOe0C9rvLtU/fifVHhRATxgeaDQMo8TKfXtuxlbeK/BNozPc0iHd/J+/5mSyn8etQIDmccyCthxm1RwJpjHUsrCijxPR8YUobIE0UVrYHNGYNcV1XlL6ef5gcIiBWAQDWHj5KjHtpzq68mOmVUIofffznlN6OQszcHoRm9d/Jg9v/xwgNEAu1kWKXEHoKRdZfHt5L58i0xFVvWpqqWhI7Y4qjiAyQnxfsyMJEnIaYtojpEN/K3Fsmm/i/04S3E97363AUQzKodvTs44oZF/zbrEKFpFeTz00N//dgDHavVH8hxo4gB0wrELVP2dfoRLk26wY27tZTDo5Ame0n357TgqPu2/WYcCuSGXGlZn1pPopVxr/k8mKoHb65UvB0pmUkbJDUjlGM81gdcaQzNWdOokmlda6RzTzT2g9GcwxpbwyfIzCRhoIgWAYlktB0rb7TYEETuZLfMpe+rTm7Na4NJPLFQpcz/X+eCjbFuOHA7NCbl2yrjqPklaJQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Chilevision Contigo",
+    "ico": "https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCUro9LeutWEJH0rbqGlDRNknhuXf5fjSjFsDBOzS2+4WnL+j8lNzQC9YSVd+vbYRpvy7EkmVnjdexKyxeiqPc3IWXlKzfjbiBi8vPLgfD4t4dD/SDRkgCXdIgSIiP9tSWDhtyIEyebCaGnIecX8eRQAUJC5/3J5uvULea+WedmmaRiJz9nmcZLNLEMFmzYdQbX38nYaR4NUegxViXJMm2YDYGbollsBKpetLmKc8uzPe9WxNmGP6eTkpNG+s33Kwky4gy5qTNxAo531iKEu6vQ9uA4u7zwRM5NYQOWJ1n1wlwy7CIGrBp1DqBtrhhuQL/eKbUQTc37FgV6imtcRPNz+hvS0+blBOdCN2auLDs3S8YyFMawv8uqL0YdZWV0RsRDPXcCn/pAgPJuX30bvZ6wuSJpRHJa5CD5XnrTyk3D11nrwTzx8mmopbok+rKteg4KojGVVv4AdojDMvjODqSHCDr8RqjHKqX//fSF6STyci99UP38/vSx/l10FfFJQrGvLDu4OTTomr+jqfvcQN0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Viajes",
+    "ico": "https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsXcOXm5JaaNBW0eaRlU7kT5PCfzoGMbKoS0Z9tcqwa4OIF09q1vW5Iki/987lYTwYdNsW3+eLyzvt/oMlfdb5EPo+/QkyKbL4pZwjjSCOvKa5ouLJtAoCeN9d26nZkpXptoeZxcfTXOFIuQCCD5yHADz/KkP5Z1/mtIp+fiUiVg0j9LQdtv/XU0Qx2TID0+0uPvDRYm8X+Iw83W1dlMOnbOoawpfpQ6bWfieYsxKYdCKs0fHKVLoLV0RbFfkmlxT3BZhREZxOBFB8lSmVa1UJ1HSU6GLm4TbtsrBWZeBnJp9YTG4KfCHSaxq8K+7fA6tNl8mAlh+UOvBnL3CX2aHzTDlBm8Q1K6yrrNkE7+pyQQ/4MuQzlzn2M3+9RawgEhvF/lhMXpTRZXswTnV1BUbNmufNinyrNO+q+4wpLJ5aMBYxNdff877hmz+kntxuhIdbi7PBrWQcDe1j1mgUPdFe0+6PoKM4r3/f43lUKgGKnEkk+gJG22tLV9vl5xZwV0hTjwd7q7KU9ahajyUuhQN6zw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hogar",
+    "ico": "https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/thumbnail.jpg",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsQ9ju+n+H2ItUN83H+hOTn6NRddtpUSgGBJGyt8yov4SwovdCirmnqGT9JY3zfhF8y0MocWVyEqszo0Gddaj6JCFSh035UrAMx50wU4qnK4O9GX7HZ7BKFPCxnzjUJDBZNUgwN5inTkp5aXOXmBTqttzUbMrkiz4NfZFHMzvFevazKqdgRVsaV+PUYYOYhc82VZnVVtrRE7CWRx2MK8Uksy9/MfvHiaxJadt5MVpeeZroj/kBbYagYBBa4WRCJuUd5Z4MC9JMP3jsJL0D7fYAM9rp1qy97/S5QQl0Kgrc+z82LhIzgPNqwgqOpFRXfqpawrRThTxECMxGtUaFUXeVFdrsmgOR7wmmVvuRRhTsu9+vSg+ccoQvj1PxFpiME7dhgAA5JcfYNLcEKSBuLgv7mWHt0ij4yJIxJoeMTc2TR2EuEFlS5U8s+P1lJXIoks+xm9sF1aFpVcRsAPRzj5qOOqKMqBORdrc0cai1O6PhckxylNe/pX6YAFAqhrjawx32JFnA8CYYQBrNffjuFFXOgg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cocina",
+    "ico": "https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfX8nquoqr3z0+88cg42/0o0BQBHZLakASoo25uBbNqVa8aEVZd6nNdcuU9+19noe9u0trW9/1eHAdMXMh1NHd6gJcZb1c4UgRMLDX+2P00bnwATUgyHAPpoxPpDbMwOC6fnaXpqvLQp+SwL6ckZs3yXIfeMDejz2UyYzaarTtiKm7C/HT71DyZqmDPcMWmk0/Z9BzP05FXz/EpJWeX6D/X0StQfdkwH5rSSD0cagmqpO4bIjhFiJQQNbHw5M8Wkl3396N5fpLpp/YAo8s/AICcLKWbPG5AvvxWa0yCEPgl2ACuAfNY4wEnCLwEhU87fGhsZZD4l21t2V/yTVo9RLs94axPuHGlV/OpQgZ7+yTRPxzB/GeH+l12G49VCMk2ME0adK/vTOBcQpwPtiVNDWr9FR/U6bBKR0dlDJMhgS2+Yo9/+zxIxVC/rUk5O99UdsAQEfvqKRLSw+2NzU/O1SJdMuukshxWaPjH5NtDT83v6U5pIfYXAwlRUfVHwwceFk5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Recetas",
+    "ico": "https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsNuNxFQ8K2MAUUqcFkaClS5JpSha9NBvxLnSAlEEgGfNSmj/4HyeaVUjMRwFBTNAznxkWwGZ/FRb7c2aSmIj8TPqOUuiPUvcm2XAGGQ21lDpg/8a+5P6sbfZu5T/soUZFEYN+yrzpy7GCWX6Mz9h+1edu4+kkBxTQmZdMRvrjDoKHrvpDP03UUqwvYmo/NtQwOdN/S2Oa1IGI3nkKXR8YLuMlMMCKcT8xkurR8oE0ylUMgSU9z3CLEC69Vra5czgaasksuNdH/beH4RcHqqMAYLRUXtBblCAsyCPdGRluR0wfuML7ay33ZwS+E2ovr8iunuVPW3SxF2ZhcnOfBuxxCd0cXGhbndfoq0kD8HpETxN9BzasF7SsKjf24dz1dz2yFUqDN3XOvROAn05HRXRg6xI6yGHihlpXMjGV5aXNTFjOwtQrAJ8U3bnQJFyVccxZ9IBekzOwely9SBi5V+jWuCxZfYrl33lQ1snUTWcw8QZwrCYU30K6vujSDKUUOefLRDHCsQZAYmY/r0YQPDfQNQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Tastemade",
+    "ico": "https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsFVB0dtMq+tI4ds99aARtofF4F1Q1jMNwAfnYYhAoEVntPWtAxsw7iwTxLfYYI6ZadzoiuKkCeLkF7+wK8ddiKmPyfoLxOnVJKUULT213wzG54lpUc5nueBGMOdX2/3peehZoCmm8tQbTH2ixMs6ETkdaGz3bVU4eAE9Xdu9s2C7ACgwotFwSVJbPaxL0k9yNPi/hQQP3tf0DS5jAOSGXnWs7bGR3N+OD4XW3aneHPSvfwZC9caHxj5tXUIM1dDwMQLN7oyuXkX6X0j71y5+KrxHhDT9GOa9moQvPdAaJHavV/i96jBfy0xovcUXoC8/BpNKTHkQBbkn6VgsPU+yDZrlPT+CD4H50B/zDIZBmlm0Xsle5y9dalwmWgdxvlJqVjAk7a9075kOm2jV6DA7QuDyVOsCyXqafYjrAjDtbIS9BNQSmKk68SKKywLbnS48PodZodvzx25VrRnVBMqddnDtR76Lstd78z3xct+RbGDTqwN3Ynk6W+5Dstyajz3nb3AGv8ytHv2I3SlLXnkJarg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Fashion Stream",
+    "ico": "https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs9LNjtfpfmXlOX6AmMpMhhVBeGXkGOecPyNPYnIwAPdx247kZXEXiaSgndH1OqNBPl2Sx5rfJkHYP0LUprsdmDLrHKYsNFFFFL3dfveGqcGqTgiIXz7IPW5MknDkFy0Z5ximXydgxgpOal40BI4yXjdUaoONXjhSuiTyuTpPCki3pwQGKiyz7+kTD6ZuHmeW0WPjRVM7x/3NrFdVh9eVrjFKyzs1LRnAIx/RA+WPEEBlwO3+IlwL9UwYeUouuXSMMwHXprD1d7VbE0Wv5Zyy3rnsrivZTkwKXYDZH3QyB2oLgf0LemxaGvOxn1NxbYGrgfhMdSWsqKJnWEHWupKfEimkGvhAqlKaDpwPLrmXIXPXO/NDglIh4RtraLc9H90iKWtgrdwVdkFKSIioQtKxcaMwi2LF8nhBssyS9WjX+ilkVqPAeRqWaFttWXoEk1s7AyLKrhoNKjQNR+1UPZiFcr0BUCbttITVa2ZEqC2x0r+QCzEDZB4/6P6xto1ulcZp26kJOoECXtYAyVn+hgBdWZA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Fashion TV",
+    "ico": "https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs+Wtr+Bm4P3h8PSMyMwCd4cq33Zkxbob/g4cfWMjrYUPCkd6cS/42h6Z8wxpe4Nmq96j0sP/h308mErM3eRWJc3uL82mYgOY63PPd2qTnTa6cYOPKEnHyBLMjTke7YUFNwplH9NEXbHcwx6K66WpX8nlMb4RTQBfZpCNZoiN359nb+u09isOyhpa5KTJ4FDGO8bgMfvcIbrFXVooKt/03/tRCWAMEJdWWk25L71mk6tdbrKQtDHsjTnjPGMx5ueDZdWejo7H7tR6Orqs2eWyP7TqinbRcN+IHFvolRZUR887IWMaB5GrIjqTn/X0wXBW3psPYsAdhKPn/g30s0+CxCNTtajJ0GFI3/fSMK8rBo20luN2o4bv8G0uu5HHnsx+V2tkzxglnIiR1Nt/VjqqbKf2Ep0Q8cTcKPuv3QBSczAeUUTj+9jGxjXRsa+DLBPnwzT356xlmA0e4ijg2CCfXQKuvk2GRZV22f1aZEKW3clqDfQNZWolMOAGb7v0u4DYKwdtzYPXfsk5afuXcmx4t2A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Anime",
+    "ico": "https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfS4KTELg6x7P5C/5sXSCk3JZPMedsCNy+QKikleX8LGmkH5eA4A4Mi6/KNs1RJewdZ8AfJMsKes6VQV1ldsVUFDYjwnOLb+tcJmhRcpvZByVaHexJkwoceYDvWBpzcCvK/LAskDY8Ctj33fJB5WdDqUURtyMl/hv8BdXplB/XgDQ9CX9gI2wGdxagYRciVqNSlnmMqjw7GqSFWxLmnjQUrKtlyb0Wwr4Z1EKXzxplROajs8kUYtd3t/xaELuNZiYIZfTG7Ug+HEw3tRxnxJa30mvDI6uWiji/8t/rNU+UsQHeAZ0vdab12kyFl8N1LndxhG4VqS3GidJvKQImGJaBzhVw5c2rY9YepgPB1WSalZeCT4MWrRtEMUoDboqllWymFF0i5GE4TqghUsMEsuWwtCy9b742gMAZ8mEFgd4d4VgcKEEhMyR3jB2cUPL2+yIDvKVASlGXHIT6eKKi7/DcSpcXMW7KFpmTJ1DfJSVAzrAsyudwPindRXzlJcOhqrt0w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Animé Acción",
+    "ico": "https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsANVdlUlT7tMDSkSx6bClEgjtj6UcivLbpMiNeJN3PzK6Y7VBPiG6uxK35XN72OjLpRNLswwi9xI5eQQMPUXWrVlcPA5YCRIc6yupciOe0SRazlW3ytYUPzzRhJiMwyK3GCUb1y24RGMM3r6KkQ0puBucZBc7gSQRu76upD5J+bx5gFSAYsv6zSTkL7ZvUr7mDQTt0iPYBfPtALErDMDK5F3VKg0Fxc7fvoIlxJGNWZx6PoEas7OzgVw7ksMOj4icZ1QZwPKj68JCAHe3bD8+d3zWjooc6jrirSAkgM9/Z1nKP8saw61ZT9mINb4ROGfXlA4RzpRvETMh0loAKStbapQ3lvqnAlNqr6yPhS3OMRzV9+NBVkvCLuHlyjlUuFVUiIbS57yZ9Dgwbr1h8N1O8FA3o7uTvFfZ1GDJl5htQVPiNhTuE64z0v1msdzE+J3R36eDzp7Xts3uVHaiRKQDibNuyJCo0jSdMSVuhgoTMA7XLUhtslFtmwxfRc+ydichSsTIGCd1u0BC1F6JzXI0iQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Naruto",
+    "ico": "https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zszBzc6fXz09UDg4S8YpHMzg2pg8NV0nnHxa4vfKUHaJEGETScL8fl6jhG2RqO0VT7lveOJgHwdHxxABdolUbFeO0eu0lGgw2ENdvGx3/exFD/ccGlMTJcEQOw5X1GM1ZuZjbs8vu05WodAZ3mKWWmGAnFFw8E0NrksbFWKSnXRdOlxLAySNkezudwO0nrvhZJgrcR9EAzw2tU8jU7gunLMGQc684VUOA1+a0CM5Np6UnmD+OpIvbbgmJmT91MuJq/lPYzrjLr7BW7NHOdlep9WYE9UBN4JlRvL+iPB2z6wvwwG5Uc/hPhS97OUGY8sfR7QDjvSSPs08YJ8Ukc7/a9ijcYYPCKHs2+eQwT2lnNaeFuVDABdbrePtmYXHUrjz8Ui9+VuxZpcshznnkvpWRnOTqODdXuEcFgvKRn18UIeitTWAHZFWtWMf4kmCaPyMDo4EeLUQq3mMWVq4iP4VIGSaDiA6oIdsx8GvPPxiylfo9h2CPulJPJRTzgtedOiJGMFuGTapo/HhntXdvCTYt9iA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Naruto Shippuden",
+    "ico": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsBPnlySc7u0jEqQIm1UxBSCV/Z/Bm8meGOF+2SvEb36DCTL+RXuexV8b30EBr0DLhA9C3A2mGhHFLnKco4Ktc8Qyu9mQ8vcaU0qKZZEjvEqFnkvVmW4S6pHi4VcSoAC8yU3XBsvo0MAhMxodUERZIuvpByR238ieBhwBzdlQxQEypKqj4E+Vqokz0M0+TDFgrpbr+TjUgnBWtxhLvv4KAUM/P/3u2k1qtkEpeD3sF8LLR+gtXCRj+sbT5+G8i408cHEb0JTd34uTyqFwWUPpYXXbXc9uuair2zMKtPUBgTw/rpyc+bBk45EWYU1Ck14di0FT0bJ2BUri1OuVTtkMIfbapvCHaIpino6+7GEpD+t7Qfwp8tmo2rcMS7NaPMiitkDIeAD6/R5p8cH11SBhdyNg+PeMjXG7yh5SPEeqoJtHKOv7vgXC8HMTZROzbqhNq6RAkJhR0Jzdc2MXr3w0Bx4E3qt+PeoPQzkQV6XK/EXo/rkoIsEjcD4OkvGPSPHORXs/bxtRLHXezBmWooW2wGg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Death Note",
+    "ico": "https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs5z/d3WPYfBvBFZKAxvFSy54xQXCdmOfK1bHeWQshWVb11ocqy3FtbfB9GKqsr6HBsPVnoDVnprXSixXnXdJrQmID6ki3XFNwbZoZamXUQgFnZyLzQO9lPjv5G4p4at4IKdO5xKCfTNduCe3lqrd7LVo/p2K4pGUf9IjLCX81PMrL5qswVkoOIgg9qDbO2YC1du7x4q+AP2TGsk9zgHt6FxZIdcTvcQdFk2l9Q9bl4UZaDK8MUkIovN59TP98TLCqJeFjd0Lwv2WkAMSxX2QZGb4ZCiKRXdecEqHhczjWWhBO0OzxjHPw58BIas3a5n7YzsKjwDMM4KsQS5l6zrDwYD+gQIbs+qelnTK1aEEbjEVHK/jSo3CP1qA+donhwbCzQACts0/NBROF5cWO3txtnk5ptdQoy9Vwpf6i/awM9PCEZr7XdmJL/nnn9Qr9hLMOGOA0Efw8Pb0v0PBy/aYdrGfFFVLkDer6qtiGxoSG6zNnY5HI1VIVor8fM8hTXKyUSDYXWGkEY1a6WlDx8Bj8Cg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Yu-Gi-Oh",
+    "ico": "https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsqKVRwYJE/B2ILmjFLv4XWC+1q9PfEdXcOB6VZwyEEMHWbOw6vH1gskc+8vJ2uUcmtGMJi0d3UFXj9po+espOGLUo3zcBhOLlPmHV3mP6CQhSQfGpUXgH/hRnHTwgxE1rhMJnZ69BaX9qg2/Mcq17mEfuwhTsd4RrQpkbRWOf3TuIrfOoEaNnhNMNJJiTLw/kuP5cJQUF/Dn+ft/kcJN/dBSsouco/gSNXeKmK9yvZxwhdzP6CzIUBuyL7ZOZN72lYrVgtfc7uYqutscYBMzQvw2fmAVT9UcHbPlJxJq2s+nEpF3tBP5pgdzJqkuhhvUM7RuV6NnATwlN1EaFzx4APbo6PdWgGKyey3/TranHC3v4rQfG7kEfIcNITktnvUEyLS/0bWDFUmKQvl4KN/KmSVmlxz9tb2K1zqeAqen0Nw/mT6pYKcZkMI62sLsyrfRPEIafRj2J5C4Q0PK95fsPjGIk6o7t2r1yCuJJgzZroUwvyEizg4S9Epxmg0iRQN4dDMViOqmuN9lHQOm9WdLZKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Captain Tsubasa",
+    "ico": "https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs0Q3vRdzfr9m/mjZAZeXmRZJixvgwec8IuPGI62ZS802bKVve1UGubJcPbc7kK4IkyV+h0xKvxVzMjXR3Lihzng7q1LrPX9IEblzgKF8pWRfQs02gg+lrJbDRVk1bP0KqUetBv6nBucqpnwaWIKbNFejmyjlXnWHVPwjbsbvnu9vd0/p/5IKjTOhQ1P51MehhJNUSBUcL7XRMEgvc4Wk22MLPwm30YlzOxPLbrjcYM5GfBv6p5kJ9sH6rD0Q9wvmd4i8xcos83Gle90W2cCfBbkWm0/LXk8NTeXMLYxdccn4vhxufDircRwgBiFf0CD6xmUBD2KHldH9oweIhSdrBH9ku5+N6014IebyXEoJkc4599TXjCOLBW3/Ug5IWdXXwqXFiaYTEKxxJ3NjzBLa4DW0aT8/STYjTdTlJQjD4WbceqvcXbPvZP3IKvBh8pvpXdX6R0qyyAPb3qh0Vy8h5ybNqXxWXL14F9OrfB60L6FGX58kUK5Sx92tKp5Gk6gKvvzOGmtenUJNo64/57Qqfmw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Beyblade",
+    "ico": "https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs7zeh3ZcxbTGFCsoDwQY4RdTzRjnKzFoGDLhbPJpRv6jWSqAPao/8oJ6lTuWEZF/aPIKGkDwZj73T2i6ext6ItrIUsKyfgsLYJUITh/Tnl4F4zkYeadE1U0yliMhtKkR18rJpvVVIOGvD8fFumStgDrA4sCRpcYUWhsm7CU4lKP6yBdbD3U0sMvLp1d/qrgS0qspUbrczRKzeUItJjY5mVByAsBxFkVpxwcNwHHarxO3lJq1zJWEc7wI5k11UrUQFVXVBahxc3TMSDZo8TQE0pxPBBeE2nb6/6CF2ZeK6ge6B7TXasbx0NcEUciSwGS2eiH5C8480kpyo/WTLPA6Fg+oanDtbxkyzvXw3lBAk/cYban84wWje6xWIzSwnfNdCVrC4dXHAoFUNNzG7FVeJ/ZretNUxwXKy0bhfUA+dabkCU4ZgqZ75oStQsYoRGz+qLrSNtsRK3ymSuE1UuLdxCGK1nmDMkGjqhaCfNvzMXWl5vUZ6mRWw4HgcfgoojK0G3yi7CF1C6CyLwZGfmvnt3g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "One Piece",
+    "ico": "https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsqDJ3CWG5msNv7WqnAr6Tj8ppUgQHBL13EYRMNrU15t8nHK38S9XzxcARa7aD2UkKGstYoCQJ47R21m11Cf8Tl7+gFfl2IBdJMx+zz2vIZaeAyHobvArZInoHYc8Rr7ozBX7HnTchXuG6yCSiRL427gMFAPrOdIYyJ1BRrvKfd55n4tzopxiW9uZIR8Syc8jiLTH+LxHNmI/Fz/yLb+9vvYNuItwt4ue2/Rp/CNO3+7tmvlAxM0lVL5RENdQZmnzLx+4Fy5mx/RTWZvjI+p+TXVDM3YdAIKGzRlfleuXB5yLSe07Ae9SZtcir4oTJvYhq/X596f3iyVSZM/tBFjcyuP/Gv7s+SdZ3a3tFza5aEPlmYeAQou8F8omqA3BPBy9+eiTlic0yXW29boyiuCnfnzSGKATSaDwQdwwR5k4wJE3ARsf9QanQJ5LfnkilxHj2Khe08tQWiYItiVGhgTXJNcmcdibZmkAb0Ntvtp1ZZznxTWP5WF4MbW5paw5tEoLILyvv917nBInZCd+AkF3BDw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Tokusato",
+    "ico": "https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs85IvvY8U4I0fJUxb2yRSedWB+FocsM+Dex6e9JRxVQZV/fukPcMkThmVGdZKVsidGHMuvV/PEkLuj1Y4fr0A2nwrwSrE5uBlbvFUltzLKKW8miRTj6shmcH2B2sZZuIufqgFrycLaxaIAI2drGBnnPFzP8EOI6hGhgvw07jJ6cBQOwt2ClWe/uMt9aRBDoinspXSANqxPDhM2C1LvDpTin0AxVwLBDtdXsmqnXTjo+L7DquQMJERZad1iGfdybXzqm4Ss75iOKw3fvUnJMcSowKuaNfb7x8UwLznQ5c7OUyFp3KbC9mrOjUmbkkwe07HP2QdkknBKpj0TrLyPtDBMTykS3SIufVbtnY0TvWAparCm4zxXgQE8CQrO2awEoietkJpszKVVQjEiunOPWanTdMkm6tB1jPO91I8nGJK+c2z7FOS0ZysUKL8Ju4LD5PscQnluCtH3u0BYOb+3dz0lXfCAJwhI/yrzgkJUhz9+ColYkjgIpXyHtBrWHeKTUkA6tJFHSLrEUMb/T+LssXA6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "E-Sports",
+    "ico": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs994IA9GF9kL/xtvkWyjpCHVuTiBfqVuqblSiZi4RlMm13UsVpkqQKO9seXsSeEm9QDKSRmMGDF6W6w0FoLDDXUJf7Y20j2PiZnjN/ru168wIz/FW+slE+lfo2G1jVynDAekIvGW86KLzWqSH+GoQvDZ3mJtVaVzkrL7Ps+61zYs8xwlp73QqTfYFU9mBxrczE4tbPRwsDjcFqVgD6sqz68nzOVqaGXKiekZdSlmdEC/zKFBGfduLrBkOe0cCR50bfWPYwAbymPKlDnGl+tXOx5f5UIHvNarA8HYyo9qlBBiSXiCotzQnUjHIQ8us8XQmNW3FwAU/46ZQMA65Rwy6QJ9KMtoWmeIqnTMSA76rf0ytaRp29CaLCxg7gjsELUxUTTJlhKafWUJb4PtTKztIiIeh7YXXagdRRg6FB1FL71p5RlE8Ny5CsVTgczmWG5t8B1Boj5wxGVjlc3hHr7+86TFmIJHRGardygYffKkx8f0a0t0UZqGnhSBvrrct3TUGuzJDZsR0DHeAWkbb5+OqPA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESR 24/7",
+    "ico": "https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsaJ1kALz8x/o2iy6gGgyJuBoB9Vi4smL6K6+IhqWuKKIFXQGIt3MdNKrooVfgkwiutHEyCJs+b8VnFTolL44cYwf9sA6SH3s/6qzwGx9NMaWAAPlkbsSkVn71MyBdvY1UjgUesomcQORbps9hk7dRHOwbYcn7jem0SgrNn5jZ+Ag8obtwTEcc6vrYGt8ObMUmDJGQxflS+wdLicCURJYckAJDBgVcyVkWGWm5hFeljIthL/fSoDQ3zTgdAsHwrd41Cqq8Pz4nvWm2F4k1EL4mUVjjGPrya1iUppf5HsN6LY5tBvs0kY66NgiZPpWNpQoXDDGpTK9siWJAIR1voGwzphf73i5pSjFOXPVMYnMDg0t8Jd7h4tsVf5525772VbPFLpEmrtDobH9OS6DhwvTIq55vscicMx5MOOHJMv8HT99hePA5ZSWghiHilKOfWSaIxMVvV9E0MSb2Q1bXFFDpaGSmSYzRd/ctJSgO5jdSaj3ELGIKXActkO28nkt6YtuHoplsoWzOgt5J6Kro1C/FJQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nick Teen",
+    "ico": "https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsIR8pBP2FwYFv6GIGUWCHh2QpN97PId5GM8RoKzVlNDh74dKWVUhfC7KeEP6LWuvCuV/yzDVn13dTmSfjLk82ZKv7XV2JSFSzCVPnG3RGvMM5SOjIyTij9BW5FHsAxFuLeFBUbX9AEl5Egf+A08jmPe+Izlx79Peh3f9wbDsUqfvx6Wjh9QzxrkOSSIzTxZ/pRkYnTLmsEskNqFKbb8XT2LFsbojtTRd//0dIR/W8LwJu9+mVwuKmh5qB8+0I7yTsIu69hSi8rFWuYwIyDbXcFJAYAQBk7bmpQCjOYjus8RZkl8hyW+Qnr+TISvgGxFpehKpUL7jlkCF5V9+Vs2CPPfVoVAHdmMBD+/wZJR0v6Btd00xCeP+sGr0tjToJvydpgs3BCIBjNakSznJfvdWDn1ZiI0su4gRYgnEwHJ6vROQNGxeOz56dlflp4t4nectEbsYOHKyK2WeBere1GOiDyvQOXBQZu/e5IjTIEaCc4ti2OkTsIeLx8IXqWhSl/A1HWsBiYa73gjYesBinxwOr6g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nickelodeon iCarly",
+    "ico": "https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zso7Fexe2MCu1ktvljp7+mlRHHxN8f35HGnTQJIQtrYoGcckCAYgQifZbToO2IDsNb5Udc6rejd+k84YIOJpf8mzoYmH5/fAiyUuTkAx7mByKqaN0BuqCympgKTWCeMlfis3yEF/dot0xELTHRexCncGcBtRs186PmMU1gBxBI43AnuzaIFSLYal7oRKHDGrz/6WySY0hP4DtYxXF8UlP4rBFjRGgPyCDr7QJtCaHJEVSPiHAdahSaO75yVHtwdhjjsJIXgQl/cQ+0XMYDFNJvyF8l7IWKwucSUcqSi6dOxYr6Wxz8zAHxLnKAAUSJTc6sxPL3KUeiH69RrWQFDdjunfCHiCWemdUpFz1QXcNhyCG/ABGqDann1EFjVpUpZSu5WOn8/dYH/M79XsCfxPpfKSOGtJrHBa1sGz38hXUE02SBtJmZhschvHHNdtyj0QohZnGX2hdrgPh/cAmLaFhDU6dLj57tktkcxMegwFSVZZ1qN0IA7KJaD/AUH/g8bKdxIqqSVP+ZDDA5xregFhw+sg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kenan y Kel",
+    "ico": "https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsqKVRwYJE/B2ILmjFLv4XWPl6TexS94F4ix1Zeii7pNwBkms3o97KWvIbypRheKtq4uKOjczRnUOA/z+0P7GjmWwRefnkh7VpELDAwWQKqVoeJbwqLXo1JUrokCi5dpMFAN6+qdFM4OPaouStdSfFstF/7GxZIPYxPyLHg0CSCOuQIV+gsMA9Wphx1N4n2dvRuE7MJQqt3NZu0T5HWazNTkgT4rG9e3eyMY5MU4FS709TWsddPigNDfzgzWXAnpdY8gnV/6eEa1JWHrdlM1QlVWpBCIhx86m63CRzHRe5SN9jtKDwnuREdjRomb5LptVSRYSGszYLjwYE3H3tPs9aSyg+nvxtlWf5YLyhCtVzWWqIl84Ki6KAX/CtnVvUGYXXVSC57VUp7uij6HDLuekNunnkYFiHuk0Shlb+7rl32djxGnuYlZRazSlEr38jSY8JcnmOK3jrQTdNr+tW+1h/rHEqhi+m4LdxV7JncwIPdccyx5cxojzNFZwVsMdyrYXjDxpSOU7FBCZrr+KKq6HLWQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Teen",
+    "ico": "https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCgfxmp4b7/ObJioD50gH6Aix1qeXcwXNf6yhc9iH09e1LsqMBMna9JAuvnapDh8McAtYqsAMejsILEUAjALcm1XqdrkXavFPI0Ls+rCpYT0+MOl9YH8Rrqdb66aagM8yaYiHRiQ0qhWp+P7BfZzrds6msgOHDZJh4/YVNxYXTeI+1WdG8fDooiC7e6kmFExOFXPkksblqb2B1+fzzc7uXCr+NDdmJ9XwgBd12bHuY40KwoD7s3Usrr+PBCS+69//wDfNTVcQMtRAekn/nSU7yivPz1InbFIbHdvWzex3obfY5lnbtODlQQbGqa9BrhpvkP2plPp0z35twVG0yJ7LJC00n4Ag4gZtlolVSHCQB7aTiOH3CMxhUMmya+db8jLnXt+I4gqmRcmuGKWBTZ57UOBvnXKkY+KJoOIy4cxGsjBH9l1DBf+UQnQdrpm8SDXZz91/YnRnBoABufCKjZ7K31LvynJhCZgCl0qRQE1CsgTHebEb1C1yXygCrfLcTbmWUxSvgg+y/SomA+JuSJzuBA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PAW Patrol Patrulla de Cachorros",
+    "ico": "https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsmM/i7ZPV5PeM/j3EndsKWdJGjTc94TFiUKC/eENLqaBhSF2xiWuRnpMmSAhX1G8hVRckaIwXJHBB0jWanuOvh4XNTrpcCuUVDBHQv8+ZPQp91LZr4jRQvAmJEdXDRJzq2SFAPXVaJV2JX+2akhpj9S5BG2mhT7LpnsOeXSkL4Do8i7ReXemUYzLYN+iV3p2StKK6/Xwdxu6gwFHSLV0yVVexBnILT3okAL7Zw7LIWwIuhklamEOV9gEUgi8ZTMYI/7yVsSo1ydGs6btunxnxpaeFgcI22x0OcYPZtj9TRjM+ihcVWCEXHXm8e1DGW/cX86Zg6vnSM3WeMY+UEO9waO1ANajj+bre0f0DOVNciAj54uc3MHQlIAeDNykcLr7Eacfr2IQ6hgJn0rVScUJuXaH3dWNiza8zp50j+9aBlEz2TY+PRaIKxPNQtYJwl4LJZoOAydsyFAxT0dwzeWXEFp+UGDhg8DLaJXMH1k3ZjSim+vT5HDoB5Dg10P4mYvN8Xsalfcc2wMfFSQL4CZ8B4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nick Jr. Club",
+    "ico": "https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsaCPgjeBOekzumtZmQXCOGQEwwwLXFS1inpFICpYesgqHuvyVPoQKiixQcItLrNQcNPkioIFpOYOv/cKcAC/szQrz42cniop1yYc+JZtPdBzXfSPG6TdvOnIFdyT/qL8kSoow04mPtKxF7YItgHAmarRDW8nV3Jaslp+wgH7ycU+GHocor4KONWqtzg0dzgjVSJAqcvjShTxAmaH+2A7yhkahjmSlBJ55b5/q+2OlNwjacDZ2e3lWVrD+pRno3qy8RjaaDZVEa4V0jdpKHN53pkQvQt38gSD6vTJHrVhdaSx09B60wOGNYe+3imlXjK9G+8m3g7tBXDng4hQd9rI5uVtwITyMEl5ligxxrycDyDkDqwHQKv3ndOux7dpIC1WLGQjxCMLCXZzrw0RoQcMzNqMdsoVDQ4tWZ7Bgele012Zmpx21weX+bOCf06IeGj25vCM0sB2zk+3lg/qQN2NOJa6Y2dzgooDy3+6llwX9sdqWHT7ZUtDQrby7LrCYa0G8CZlVFWVMzCkQ34/3SNhjUQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Las Pistas de Blue",
+    "ico": "https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsYkD5xN4yIs3ClsAFK4u6XrnM9YAs7Y2WRlztT5OWZOdQ4Xjo3IKx+Uf94dLZsosQpkYcxrfIPlhibHUXmtQOpmzp2J6oSLqTgQWXRY/NnPkKXMoKPODgYl07XcEG7zQ1Gj7WtsfL+9hWogt990uKD4kShptxo7T6KXrl59pTlpL5IDiEp5ykym83el4gMsE83xOUFdwzzHWEsLD9ajEHA/dOLJF7qX5/ma/DHVLuRpFXkQNl0H/8Aq7CpnV4yKSKDN2sOSQlorKQWipHoEH1dby71txn/bM8z/0VWMpdE2nHVCbDkGk8eI+Mu9RvYEUNkOU+aqWBp5Eeu/0Y6yytqv4mTzgD7jhPRaT0S4VDWJbsB+cjWQf3eXno1JMgE+Y+EEEzWCxeylbyFg8ZvMZ8DV56QqazeFhEdwVKVE9CG7h+rxG2vgk5dXNBxccvwn6LDxTiWu5c4jUZkHuN4720yYF97BD8D0GWhqftOpYeNIbCamhJsPGJ+UBfXBP+IHEtSZs9ALNoMV146ELab5Dk5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Baby Shark TV",
+    "ico": "https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs81DdjhhjhCehlQmiBUjcPTAiaM6adzOh5w+65Tc1iMPud1lCG2oJIDrHtZp3At6Z87HfoQhyaD4GBHek5ldNQU3zpzUW4Fdbq2d2uzNWoKFE4FnY1Z3dUEYu5xKRIMKpFKI2k+u7f0A/apyh43OBWJc6Ic6CMffSpfn84vWH+AzX/egxjI02ma0wqfIIlQI1rmEJWDg3Y5KWzR4DnZS7wiwGjcg7AyRK3bGl4rjlUFUjUX/Ra+uAgovFsusXqbTH14CniW6ZEtnybSGzll/Gr2JQPUwsjj/LQo0HPMT8gl49cmkYakmn+dME46FIO6BJih/11NNT52OHiOV5LIcWBlwCor98b4EU3I2CUC/vIRiXvCXFXSn7pxw58utG0F89rJGX6PCoHdZM7MM0GxIfgOP41n8Bm7WVk8NaCNH9WXdyP/NnEdlnvXAe0grA6+82cgG0qsAO5x9DcBpy5icZBU9xB6i+vlk12FJdWYLrqYwZL/H2VtywJIsV8640zPDPcB6IWp983ZaCVCoEu9I/XA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Babyfirst",
+    "ico": "https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsUQ+TeFpCR0nUKLVqV9fhxyKqMzV0P5SycfrsiufG3MWQL46+qOPMSakzJ7rS4hMA63lSK1U/QasiZy/WawcyRqPkZRQmV86xenC9agV6xs7/KE75RflgiWGmPavYh2hhcZTM8//WYj7n/YB+n6oKs/lrqHTSllMv5f9ufVMFJ3qPlSdsKVoHvXsfrps5Ah0IyvLa5zMi6xxlSyHkqYVPLBOJAb7gem4BfJSGa9lW1wjTlQcBiKzZge0zpHGz0J8+s+EWdTeHkk7XrBgzl/+SNr0lnS6NCFlxXyK/vq2J1NwGf2x9ezgjvWBIw0MHtgrdHJ3bmHtdWmV6mAxlAs/mq5Pc3qoG4Hrakz22a6bPI9CpnN9aeS++n1PS9YEJc/YUSN/4FSIo+zOuu8SjmXTGQZvq2vVUMpk0XTOEy/iqluSaXmNwFgfdy0YRZ2K2ov25jqeHDEeacz5MxI8qG4Oq/CZ1ZjN8Tq6l9msvHvJqRLMhCX3fCEwqGONdqEuJRq4HK1EUs8V0xk3j8hwV9ZROvA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Junior",
+    "ico": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsA4pfKWCJh6hi67SC08eOfbd9uLi8nJ1pOIPT5bbOBeEysd/0cIMVq6yPJ4SrjtBQehmNUNz2ngguqx+bxxT8l0SG8rJXFUSVEkYtkg8ifYKougCZ4GQUZBE59vdZ1nkRlAvpMk8tY3BWBEUK7wJesMXsOClrYZINZoMvgb+k70EcCE/DqmUCRHkwCJZg4FrYg8oVje7UjZ+Ss9Mpm0TvnvoeC/fL4/XdWg3+RxARAaK+xMvEuJaAdbJ1SXPJREukwCoiB0ZOiaYVlWYwvcEREsB9tzHg+JZJXWXyzJ3m8yVqMae1pYySO9z70YhwIIyhzn3XVvTBWaZz9qTAjD7NGKoVg4Rl8HoTYP9fofgJIsa01Tzq59CjC9EbhSWY3D2MUW2ZjqyaxMvmpaL/wYIjmSsssGO+bLCfcyBZ+WX8KNYcxAqmMxsIc2AzS8ZKl0rkyVDLFucErXqxBTYYzOBLOtK/TWjjG2H7BrIiZzKeh8TMJ8sQ5oUdWTe8TYlqaPAuE2O+6nA3bs4nAnVRnN/erQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barney",
+    "ico": "https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsb1h4iD+KHivJzw+wjsRQRucgFs8gkTfnOWWSZLkZcZmsKCHaQCnQjKTPskLE1TbcY4X9j+oTSaybMnJYa3lDzRxiwhqBKyPPLT6loZrVbOVEOzdKbPlKFz7Gy/psE3VA6Ot4s3m8Xarj8GiyuWUkKKngLUYZZJK8ihNQuaFUxTKH/Jy2jG1w9ogVTF3nzzhPHXN8PAA8dPUHSstrYu6+J6ix2g7GP71/T29xoml1Q+257zKjr2TASrP0x2mPsW0s7ROsZ5RonONUG1XMNf7Bhq7MoiPjGOYLFADIlt873NGMRrLAo1deVnV077bq9dB6JfQpT7Nv/gujBx40iikfqn5N1tZi+M4qjgkSMBJArAYHdVt/vOmNC/6BwUx0+Q6d3pMuFzgG6SVSOycUmALH4Mu0e8L7dUE6d6ahmiQVwvb/Qz/wmIrYu95LUOV3QuVBIi8dBsLzYf9WuPEMvaIAV3u33R8aX++LbqSzlE5uFwx36gTlntWUJHYdaGAGvaxBr7vIudmXFXNq13WGZNaESQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Babar",
+    "ico": "https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zs63D4QmpVHOgwhOEUqfq9fmT7gXnb6Twlbubz8a0Izc8BgudM97MO2gC5ZpgfJzbplB7dDrR9u8Y7RS6rXvxcCXScebMSBcrSeWyokZSi8nfrVIOHZMgBn6gqP7h7tj2Ji4ObLfyJILJuCq5sIg6cgbx5hS5M0B52889/Zt2SGauJh0w3mMidnrKdixs3dAgpJsdu2OBD3Y+TyGkbTANND42HoWdYEbL+MFB3lOHVG1zc4zSlCgh8WbrQ4uSfWnXyon+IlxPisN0LCZAXKijsobBCzvG8txBo1j0Byo1kJ1JQk3fgcNcOiFYMByfxkZFkgafPrcti9Cnfurl+lxIGnVLZ4ssnETipBH3Ck9lSSfksGxk3W6EWITliPyLJ4wlIeeD6/vDuFTuwaNG1lAyQklYNEIErSxPCziOd0XK0NxXNyvk0CDDVH4unfgPj9LVhDKE2U1YP8HiN2T2hB1lQk2cw85WY97MqHDqyNILjT9N8QqrcEOvsu8M4Iyu9MQ/ifKaRhtsYPvsU5jZKBe4UmQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Reino Infantil",
+    "ico": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsSmnSe3Xe19j1Lc6qmDs13ozuDyM00xDdewv0hCHLQu5iWfhG9aZ39Pwnl/tD0t55M95q5efnJNuwUWHswaBsc0e8RDu0tPTQsLJgHW2Pex+JdQq2Z5AYRbnWIJxCGru/vC17QA5NWV0su9NyRmTK5zW8wfRzQbqhSxORrdFYOz8JzkW48WBfmEAPAnwBWsrZoP/TBRHJBSWkF0m7mKs3FVhDNTMPVCoGX4OemFxfl80kFp1Yk1wt98/4eIcfWZO5HvHn+lXsHFdMfViHNhqjAmJYt8JoFExqy0yQHLmN6I0beF98JsOYJHLV7bkoxGG3TAQYI291lFJNCTnkD4iouVhQTp8gK87+ElJ6/u0IB4CwuR2FOLBixirzCtxrGEuudE8v1pYatebjXmGSTk9i4BD4AQyk7Y+JCGf4kCTC3X/cyUHDVohcvQ1Zv9L4z5/9ImotX+vC1RBPzH2abLmxsk9V8xA0aLsV2jEnd+qJeHtz8KF3op67GLuNMI51j/bNBcJ4zpGmCCnfm52Vm9g4kw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nickelodeon Clásico",
+    "ico": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsaCPgjeBOekzumtZmQXCOGU87WCH7S0qJeENl6mqZytgLHJCRflsVO3UrxlCbUKkHplMiB019IcHTu/lT86nuHb7Ioxh4fZXNUFmdQ4ROahJCVR9aiOYJVutKT8CwAvgPBSjQsBJj+sGl54B9FBqto/Kx3msEVNdvfjNrQXLCQoWEiKpUv41KDIw8kcMg5GGMBkgFTyy5XREk3vrid4ApYtJgbTcKcAkEnEtkJmy3fIlfcwjfE0eSPenWg8VxNjxLp93tImbK6rNOcD3fefDHuaDOdRPngBveD8bi0+/lBZi8QR7/M/xGScPmJGmYmHXxgop7457rrdvKbDOeaQRe9rTqEYpBB3upF5iYfGldtAGnLVOFLLF04EzPNp/w7G+Qo/OMVye7L7pjpoSbOfKlil9TO5qs7A6JW2hwMz9KCHBKyaFkLIEBlcBCM8wParzxieDkkNwpqQP8eaR7fN9zRkG46ElXL4fIvY5h0B8Hei0Mo7tOO5EVQF5/EHBJzmrEzNZwNBIdQruAsqrC4EFiHw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rugrats",
+    "ico": "https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsqzn8t0mxeNSRhswgS/TrXo7jvTAPJUqCSvYE1R1xYJZVyCvYkwAuk46i9qVhnsqEusLa3jZEpwonGJr7AoUfgo9xnSqevQJtYMwOol6RgjHpJtvl+iQP11bNvepAGi/1ynDfbz+IsT5IMz4xsBTbl8A1PzcuTgW6IRdgPFL3e6QmellVVVZZqQJdgZDUia4SJUSKSY+5nVjYxRNoG0xU68WqVHpwVb4Y3zpuSGOA+KFW8HRwfUJIun6h97zO5ZVDkVJ0uscOCY8nM89qgQdZhOjDjv4+4jlrgTPTA59TeSBkvJEnge7uz5VIUWcu5gVpng6X//4aOQWvR7Nx7Gw3IO6L0na/brhMRjy8j1Han0PtFZIf7eQkSO3IRvjTOkFsP6S+Z7aSBq5GW0fqIuRwwFk3g2/Ru5sw3K5hKbSNaJI0Uyxr1F55teehNN5JopsF0md2fWkQ4spLBmSCFL0NVOzWKTmIYYFK1+HPqpjRh+yWNNCMWzE57mhr0sH1qv44V6/z6sJ4N4+0keOcmyMNmQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nickelodeon Rocket Power",
+    "ico": "https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsIg6c1W4+N2qrMtWhb7ic4lL29M//+Qdq/NyE0zlvzmVIZQHnqczCcRaCMpt12LviQHe23ePBCHEM0XP62Hrb2wMTbRBCIrJjT2skByYksz/64r0G1NS9fRGwwnQFDYHm8sAu0TlkaE/8C7sEcgvB64DpKAGbHqFN4p7q+VQnFYVWWH8Pjrpq6SHdVGGJMnHEOgPBnz/BlUnN/bj90KLfyhFftnumLGpR1DxydTVsBTbQHHbHsy8W64M35EX5boFHKhulCWBlyIGyIawMyNA0ampThLVah4Q7XT4aZtjjx8+AVaOO+yw1cygBfWZSitnv34Sn8Cim2/FBEpRSRfdSgW2buodsGbVAeuYreN1CMKDnLYmVKVjCL9VZwsEojwEw+AGntvpRU019WcbbIQmMgMOOynDMah0//5cOu21/dGdvr4TXVmn9IYK/1XpDO6tla0RYt54/hJcGLxog9DFF4ovG3/90Da7NmMkbBmM84w2FeSmrUYF9f1uoGsU0LM7Ol7B7o7BqNbL3K+pUASahbg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nickelodeon",
+    "ico": "https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsUGRLCzDAKIwJoNPcd5jv5HhyMW7wXAIwwwpZXRkEUgqd+520SUpOTL2I69mS+6XRLbRA2xDhul+ls8gaanUJsj8S9YhIjsUkCnqk2HUYP5JwY+PKE3lN/dcmGY40DhCfPE8Oyk0zjd0hYJFXCWaJv8357AIL9gpZwEfPtm+zMvJpqq6YhpoGIsPAdX0h/hBn4Oc2+h2utttxehyPxksd6Zl+EFQx/bAXoE462VrrFmzerzHOezS6ALVUlb6ZvVvJ/LSArFI3rzuZSJPrvlrzzjv9OdfOnugZB9N/xLcF88a+j88YEvn9tguWhXWiNmXQGmcQvpB4BueHm9JXb6ez0tOyUs0yyg0OnGJWhsR+tQGemgnFEgjxTZTvyFD3W3139xmyjDwgIuIyyEDmYNP/1hvEw/FX7NOyid8HgetpvnFG96VhlxmkYkItrC3zsQHG/oCKOrmCwV81WwynK2krEhJ+LrPNYaKeFYNNZ3q54twj4NibXE/ZzCdGsCICUSR33OtCcbVuKSDmN1OMwtGzBA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bob Esponja Pantalones Cuadrados",
+    "ico": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsn7tZnXD8a2lvCpLl96yiza5foyYzRVD7Pa+GB3d5R/zi+v0ufFu0MLqkuv0tfbZ6IBILx2uoms+CA/QwfDfCgVfFnmedHImf9BJWVNZxsabp/SsR8LGMSQAgQPvzN4HkaUf2lROx8MQ5aVaGhH+RV5+OH3oKhFVxNvZrv6CDpdf+7BCtFDYQ5wPRGR6bKdZS6AIdIZMDeG56CCvDXXnmwB3pgaUjCHGs5F/BDRfCRI8wUzg28m5cY4vqjvkM8tpv8PM6bYK9HLrRQC6DdmuEjdmI+NMcyYiR9KxMoIgA+q8kUaoedK98UBSaG26hkbdNgdUzorgU7n6YpsD7zS5Y3WIRmszqnNDNud5Mbpokx3J9Ew7KTl7lki4S6McEyT+BC+xof79LkUAhE/NLWWQ5SjI/PY4kSd6COBTFXMjReyVR93V1xqHlL+DFX9AlODC45Au9eQonEos5ehRY6EeTtsCjShuwh77ZmYdnQNJ4Ya7kAZ+lmZ/3hw36QzpvHfLgsUBL06IAnlmuoazLorAYXw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Padrinos Mágicos",
+    "ico": "https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsMKsxU+chD7k/mCBrR/uAlO7PJr9nZQpRT5lQ/6LVkUXsALceFyMmC7MnFZslCD5+C7kjjQURsF2FMJNsIOdSOk73z+jNQz8iodAgfdyGTse+rU7f4W1LmYngiPHY0Sw5FJRYw0a1BLiqKiXhVLRxdQ2fHhvG1Me7FArkNSTWbwO0NXb/pjFCgkYy0IqooFbwNnP6Tn3uG1oGLxvq0RUtCQwBs2gm2wlO5GDbfAdaoVpisNHSXCeNMEzAUCuOqZDqHvRoEJb5YUAiCPU/+biElJSdQeEYZbhsiKSeYp9zlm9A9hUWzRrFYPZJW0yPPgfAjBcd5M2QKk4Akrl/UXu0LifdB9qLWOQ4Adn8QCmut/rOUcTQ0UoaUSIM1C94AVlkb8dX6SriZ91iwl/xY1GlWigQ+hrzfHJVDhqOcuI9kNk3pTOAR+MVhl2i/Nh8wOQFRjW9zAGmO/ZcgR1ifqANad1vVCrFheDD42aRjUZZGGJePnWHuPahIgwpZafF7Yb8NanAJAZ1ndicvGAavu2X5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Las Tortugas Ninja",
+    "ico": "https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsoZYLO/gcCBkat4GQ5i5bwPkSm1jscSRqTyQG2SkXShIQWzwOU1Aeom9Ao3ONqo7mqRwZRh7tiENmSkjCGKS82wXJ0SK5MNR716g5w8XIqumgjZeOF2nw3AZ41Ck8M8nXmDTTcQDW34GNclKPMGRFTil98TxSbOxL9dq+SIWPjRDZurt0mbmfuNgxwQQA1phAv6Dv5rhcCFQzv98lJa2PQRRPSxnJ2o+jaPqcPQDa4Mj63p2j+p6XkLbixiRPWMTopm5p60yO3RFv6Yq/RBaSzc42MFiVbuhpARxqWy48TGqubY22qIBHWXPzNVHk7hnpkMuaw61OQjx/QcP2d/zrJNt6f4xN58SSf23TWahfW99aF4J4S2lF9Z6apq93G2XhMpHRjXmkHk+vVlMTuFvsMK0qqSbQNXEGt7uQuG/UUaYWZXrhkXesPfzJUy0IJypGBaUrwmk+Xc4362m3F8M+MOKbxaRMZ6ukSqvQIAgd1IlLZIdbradfVJ/+PzAN5W9VmyZc9VMBJWdV8aNDW11CEg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kids",
+    "ico": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsCgfxmp4b7/ObJioD50gH6BcEI59pgHy/9gQQn9jNN708NSberUiS1Ik36pjQnsdp0Gw3p3tz2KPZPpTOLNW1Wp6ELPhJDBbAJAAmItMjUbMIZF5lvm4hS8RnBDsZoNAxWfiVB8CkUsu5pek8i5k1A8HUlkzSC34etieez2Ldro5RVF5WU+MMzphdb1/+p45Vbvm6lAARt9QhEPraHATuX9sMGOIIMKekw51FZxdEw0pXkVaMHhDkJ+ZxpRytxvsMeN75TtE+IRUr/S4aSoagcax2w1Od4gheHxyNeXDNd4TYFR7ai6Urzp4Gr1+D0ABAhfRFYafPFCCaWWl2QgyGRDgSfjd8jk/YKEMpQ2uQeMZ4W6iDGGmRQVG891wO6OtCofziIP5+WLlBbpBcbxG5rPPVqrZZOnXd6HHlEX+jRPqbiO89aHLyr9uaod00uPpF0mFnviGSNOKVHZTpcCEq4WHho+nqQ35Td6o+Y4PU/fUzY97TMj0o/EuCci6jK2ffeyVbyz/UnQfUmeTVfbq1LA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Anime Kids",
+    "ico": "https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zszv2d1fO7vDf4cWr1pmVLVhrGImP5PuN4vhUaUBh0+mQDBNyVBrHU5OJ0DtQ8sgWKmxcpBpcCqMuQgVFmLoq3f9DXEiLvF24oQp9yqMCdMTcDGw2IWLUfkcDNpZy3DpX6AkXf2zkCCman2zgVz5WLVOma43IPoMksQRm6JwltLM5lGWT80c6JKC3g0I/zU5J60m3soK4UPZhcDklQ9IqhtLW9bWbLpyW6nrVqltoKy5Qw8d84k27UJ8lWBY2HPfmu6hMLcRyPy7TnSKaKgzVr+Q0OWloGZKcRoMpbR6OVOnOEZqppYQuiTJ/dD/F8YuXmLKUzPurwsQW1ukPN0uoCyb+L20xgiW3QTiEgKwsuk9tlMgxK7XJ7L/95/WXFRD1pgUQUHPxEFn4N5djg7lxd1DjeqLnFo65PUFzWPA1x+zpcKt+Kp6c/ttz142Yq+c1TtOB2zk+esbyFW5Ihq3wyfReORtfWv8riF2r6P8WRZshgtmWi0d4qjVhb6M1kZ4nvu7MQ/dpmOBZ0YyX6tt5YHg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Biggest Pop",
+    "ico": "https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsm84coFwCgcs49ZcsJwexETuPsLGVXYpTiO3vaCejV22xA6w+ZGvb3tJYtbAfwrMVttkuNNp9USXBftwSNKhWF42HbmteLTs1tS6jg0jMLwODQoebfyc4tZgfDilq9vO/4o59w+QvDqe118QZ6CpyEVwffkQAVwryHZGs6dvYZslKUfd9MiLj5CSvUhbpFVPkTdWlhgIidMVeEVa2QHY+/zRLwMnOHDlmiaVLPMaRXOWKjyn6d0joVr7Qq9RGcgYbvnyrk0NRVsXv1kSVnEOgS5Z89qd450n/2qfVWTkqNINKCEHaC/Y1VDHPI+WZflXA1LpL74s/EM7B1SC/M7uZTcbntmuUy4csN+Wwt1ARFQV/aAzGCWAy1yjEtRsHf2u1u4sI5byWQZtr2xttKXyt8KygXimZG73VHEiOdODQWCzSMNrxX8uBY0RcGkS37u/e+w2unHe2VKC0veYhEYvf7utG3b9xEzOe/LECFElTTslhQwG5uyNKXYiR4goz5dmvsNL2yTRkbI/TdcbQ3TX7oQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Spankin' New",
+    "ico": "https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsm84coFwCgcs49ZcsJwexEU85qbxsLxWdVZ3waKpXHOQdlc7JI3kc43dwi/jqz5DPTb6IcUuHm6ixQQ/5yr6KeKgK2VuOFWjmpvdrQ+U0QtBPVP9JjNGEZArMQhSFqLFzAgKol0ZOsJXgpiQViNLhIa4hknkXwR9rbBr8ieSY9/majTeDt6T+9z1OhP9vdeYhFqAvhHw2PgUvEufJ4OHbuAXissYbki+Fo0i3Y+UKkLJXLOSoVENjdNet0y+MJL/k5j07ofdVgr+NIYCoH4eQNKEpzoXaJTCsXLVV+QDLmEPMrh0R5FfCeKHiOZgK+4hBObP+imCNFveaqfOzxi3rb6gPknRteyfLjKq159yb9xJuBRd/XpS+nIrcvOMVAMpH5iSfwBKjp6/kZ6tBH8BPpkwFjJnOvHbwhsloaReUgQ5wr4mtSympGeljn9X4FNcgxL5qnCqNwAsp8mOFIU+Wx8lQvoBuh3dSjyI++h9QnE+K8EAsCriY1KLzMBxgEliOfD29rSXZbzD6Zs/rYh7mTQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MTV Flow Latino",
+    "ico": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsJclMKUNXqRtzS7sCE885/aD4HIvDSv7YVnIvBD8eSTSZzsWQxEUJdQ1hD0YOahGgKHrQF0ZNRnOXTV+tH+BLJnz1DUHXtWpYXZ2tMCjnK6Pu64PhGqIxwPyxrznKeFdc6JRbqdgws2E+wihZtgh0GTGE3phz+N20W5iw4Zor72afaMZOexceq+eyvSHAhhetMAwwj00DwRAAyDArpbmsoKSTqDySw/Ao7/0TMVwAkKTmAABoomT4ghWHLG0kgs9ZrBth/fVQaf7wFatzibBUk+ULF1W77VzdS5pW/ogDbBZZd63rix66fcRHWRKkv1p6Ubopp/B0moIvv66sLGZZjrp2Wz9rmKLd42YuB9tlXg+euHSIJQExZQHnQQORtEIuHkpZ2zDkzDLNWXHT7NlmrGbQb59B+xNtSROsEB0pEl+OsbLUioQVqsKuTYCjJwGORoQHp16xBmQ7VRDtu3HGrxiUPTlJAEQRjk4mYVjgCfiaSR219DUDurou55RfEcvyhJEn4joEBYohrqRW7TerBw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Conciertos por Stingray",
+    "ico": "https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsllYZaaBPM7iBbuilf/2Xe560j8nnAUd6aXuYR77OZ8cHwIR80NtAc8Mw3nBYfNBE2jOcG5mbYlgbp0G0yx4tS2wNwuH0Z877kD2oHBEq5huOQWbUxLPfRhg9mFg3WrsmV1vrzENMWICxowXhP3h2tpRKGptksJ+/7V7VD3bEUYZ0U7YWfXh3cCmLz8+Rxqya+Cr8kqGhMcYjsMYaJxjuiefqFu8wr+X9zFKPPeKxcoz4LdqWL1+kEPOYt5dfYb3928B1a0pz6qw6jdWLa0CSBTXWD8p86j+aWJMMgRTAeOX34mqsKKatNXGj6yhdJV2rvjTyqa1Ldd/+yY+8CVY7CKeAV9vmeF7cBYY7al4xLIDA0E1OatmZUa9doA8yt8RsLJ3YsFlNkdxqxGHqvwNZkT7aWk8MhuCzX1EVKV4KxVEov3voaG9G7+2L8TsC4Wb/ojrQ202LXdeufDB3o1YvB+8eymIq5vkjm1w2D+7pKWxiLEueOywvbGiaY6ON7cQq9w07ILpMi3G214dqPtm+5A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Karaoke por Stingray",
+    "ico": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsllYZaaBPM7iBbuilf/2Xezdrt0UidFv/gD+flWh6XlN6Z8UKrY9lLlGDiKEN34QywXuVrd8w06GrDtt4YWBuPWpA99xtXyFIFk9f9uKPfdgAGHmPIoxknU5V+GC/rmivvjtDuGxTQlvUquJmiH7ba/D+XOxEaPCvmuIQYPWEOhQ93CSP13Kh27HMq5Uwq0SG2VkArPJR5sPCoUMF5T8cQz+3CN/367P0X/SrykksD7Vj7Hs1uv744LE4IFh128c9Dk0pZKOWP8gkRR8FKtSeecgjPb923iRjaloM+8h0xdL3Fd/1UY9QrRwJwcM/rgQXU0H1rxE14cw6O60QFZzJJDkWCE/Y2Wm+NrsLeI+y25oZROcKlp6gnuhq58DOeCbPkhPPNeeZ0o8u4t5DzCL+9zA+bMZXfmKuEyJW6sgVtBA7czdPhfNUjYVOBMvo4u0uEemiwrcTNNsaa5yx4vWRlwNsHXpQ+3eDKn7Vt41cpFciRsXaOynLs8yOWJ72tqDZKVZNQm6jOYzRaM2cfxUvHg==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
