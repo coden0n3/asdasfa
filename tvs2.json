@@ -1181,9 +1181,171 @@
   }
     ]
   },
-   
+   {
+    "name": "▐ INFANTILES ",
+    "mode": false,
+    "lista": [
+      {
+    "name": "CARTOONITO",
+    "ico": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCLFp2zPzYEs8b0GLlpimqV0uLK1J7waNKU9X+P13pgpe4gFfrhqrD5ZcImXJ3VIWLvwc87bB5dhdRKFVjlOmip",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmtWt+LscnqPCsgSd6T3uGzd5QSxmIDQU8HYVcGjhVe6A==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
   {
-    "name": "ZAPPING CHANNELS",
+    "name": "DREAMWORKS",
+    "ico": "https://i.ibb.co/zsj3gBH/dream.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBAYrRBCAh8ZDq1pmfpfeBv1EvV2+c4cRPUAsaMyzsQmAE2kltIMfZGsx0JKiJyDHz45xNoQsH39HmJUjXGDIdr",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhcF7s9f8rIaIK3XeZuw89/LHxR4hD8Pxj+zNjak6KU+1Jd2ph0/HUm7kFbPlHKL65nyicyEMDNKj0QCB6QOP+FniU2EjXOPirn30LgB5l68B3eMJjnRqZPckvi7DsM+dw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "PAKAPAKA",
+    "ico": "https://i.ibb.co/Jr6CSxw/pakapaka.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCLUSjWveVICU+ZElYtxeLvpxEtm7EVmkcXVeUHMiZxHgofyQYv9m55KB5suszeGilH9wKokcZCtOkDbsTu7Y3+",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmPQ34VVOJJhnjStkMYgrUj",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DISNEY CHANNEL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAf1QeVAYxEA3Rmf2toLj6rKWWNWbdtVS/i8rV2qKJY/v68Ffr6S7KT8QsiduvMYRW9CZUxrylLnK1618I5NY3/Sw4fBEy5utaHPbD12J+ivA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglfVdvZkHJNx9t1U4ZM3ovvdIzOshfx5QmsX9igTPdvrA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "NICK",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZADK3zyxvARXEjJHJ+UsQeKUfOofzzJTi/tFrpzaensXlTE0hrpkvDZoFceT7JK0NJuvdSrUj52tvkqskfRPbI9",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmgtYFEAxJiwLILFZu8ryQg",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CARTOON NETWORK",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZD1K6iSWskQ+QyrbUXgwinNIw2XY9SrHHaUS7+hroBv2cd5s1DmHSbYaUAba+npabCeFAx+uA3paPvaDvf6VFzH",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglvxLC1kuLWzICieE9X49vNw2H/OtDvsPomaeMTKkQblA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DISCOVERY KIDS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAbtB5ISNKyRdnGiauPqFd51OZZWTA+ZdNW7Z3A5Pgi6BCqf4Cr6rqmvvNqVW+Px0k9EEgpR1REmzYshEJcBnrT",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgnHCY7hRT/3LpdgLozfSqhaj3GGB929wh2NjaVKPzJ1Vw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DISNEY JUNIOR",
+    "ico": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fb%2Fbb%2FDisney_Junior.svg%2F1200px-Disney_Junior.svg.png&f=1&nofb=1",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA2IDgX21pt98cCpmvEbpYGSc6TQaFUxghqIVXBa7eP8LPpbM1V1sRi4gcg64VPg/dFJiYMwpGRcSNOHcQTzoAf",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgnZPeAjzyPKdu+JHd7UFpie6IKOGNL1o05/IK5tD5fFyg==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "BABY TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBKoSk9fmTZHuEXW1lyT6io0HxhErZHtC/dLeIAPAlRtClegWQy2Ypks0+YPS3nS3Y=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkg4+m2AA38d9KxyVUDNGcB",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TOONCAST",
+    "ico": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Ff%2Fff%2FTooncas_logo_jpg.png%2Frevision%2Flatest%3Fcb%3D20140720173926%26path-prefix%3Des&f=1&nofb=1",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAZJvl1ZMFqBWLYkVqp8o88JTXb0kxPvCzs/Dfmq2p9PXoO2Pa0jMN7Fn0XVq46+TnPYAjF7GaMD5sp7x/uRryp",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglTy7uHP+N7bMDWM00FXFYM",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "NICK JR",
+    "ico": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FNick_Jr._logo_2009.svg%2F1280px-Nick_Jr._logo_2009.svg.png&f=1&nofb=1",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBxWBBFvqxMQfK0hDEdFp0IEfTazxNruRgGbw4xIMdpuYjS41PZcq3snGsA/xpABXbQBuymQ0qMJ4Uv/teaUkVe",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkvnK5XS3m8mdfXVDfIzqp/",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "KIDOO",
+    "ico": "https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTsJ5kZuNwDbxiow53soyJjxR09kM2XGckqvZp72P3ghWI15WI/GtGiUHREOfWrEzY=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKl5wb/2dyYbh6stJ5/8fmioHiDGbhphpPWQ4RO+OlRh29GJfzsmh+jx1C5+NidIg4oJOgMLm1AbePdqdvrZKj1+N8tfVB8s5KgY6v/lILH3PHS0wuNpZVJCKhF55ydss6w==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "PLIM PLIM TV",
+    "ico": "https://i.ibb.co/KG2cJ5f/Plim-Plim.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAfNTSnB39TKIf7xychJ/68F/hS6dSOG19Sh6+btw4w7NNh3mIVEJ5fiwIaFSLw1VJ+2fNJJOHtGkKJqULnlMhO",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpGTTuLk5fDcADp+x+hZckGB81pJTFDkGtYRvWQFOOoheCML99VinbRZTDl3GST0Sn8uAMnMzXralFUI44eYcbH0lL2RycKMyjfn4nFHTjcrGor3Oqw8/FHBAK4NJRl5Rw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "BOOMERANG",
+    "ico": "https://i.ibb.co/9ZGy20R/boo.png",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQHW3Gtmbc4TuZKU1twI/J3ERvXYp0Q0HZmvRRgIX2LOjlFJsMsFLat8FMd7yhxzdzm74nJM6RVwRaXIxEzr2S1",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKq+GwdQeyDX8f6TCoSgJO9XTidNR3IZAza29oY0Q9HSXY29aQHYxsievwtP34GdKIGt99xxFN1SadDTLVKbMLSlc6f642keLgeFNcl4/HrsFjoBWtJQ1bAwpzMeEgnB5vw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "NICKLODEON",
+    "ico": "https://i.ibb.co/pd1CTgq/Nickelodeon.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZADK3zyxvARXEjJHJ+UsQeKUfOofzzJTi/tFrpzaensXlTE0hrpkvDZoFceT7JK0NJuvdSrUj52tvkqskfRPbI9",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkNxjK34/sPmg0sLOXpvql6YJvWEjbY2mOdhJTtmHv3pxLfpjfidEWoVA5T4QCDA0qSuQOg3exuxHW+67qEKJvH7Af1C48/vsHdivuIaKsEbUs2reAWpP40+Nu1krQsbIA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "EL REINO INFANTIL",
+    "ico": "https://i.postimg.cc/9F5kSn0V/REINO.png",
+    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsSmnSe3Xe19j1Lc6qmDs13ozuDyM00xDdewv0hCHLQu5iWfhG9aZ39Pwnl/tD0t55M95q5efnJNuwUWHswaBsc0e8RDu0tPTQsLJgHW2Pex+JdQq2Z5AYRbnWIJxCGru/vC17QA5NWV0su9NyRmTK5zW8wfRzQbqhSxORrdFYOz8JzkW48WBfmEAPAnwBWsrZoP/TBRHJBSWkF0m7mKs3FVhDNTMPVCoGX4OemFxfl80kFp1Yk1wt98/4eIcfWZO5HvHn+lXsHFdMfViHNhqjAmJYt8JoFExqy0yQHLmN6I0beF98JsOYJHLV7bkoxGG3TAQYI291lFJNCTnkD4iouVhQTp8gK87+ElJ6/u0IB4CwuR2FOLBixirzCtxrGEuudE8v1pYatebjXmGSTk9i4BD4AQyk7Y+JCGf4kCTC3X/cyUHDVohcvQ1Zv9L4z5/9ImotX+vC1RBPzH2abLmxsk9V8xA0aLsV2jEnd+qJeHtz8KF3op67GLuNMI51j/bNBcJ4zpGmCCnfm52Vm9g4kw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ZOOMOO",
+    "ico": "https://i.ibb.co/XZ6FCBY/zoomoo.png",
+    "uri": "fgETw7XcbFYiVeUABYEPG6hTrpBGGCvrqe8+HZl9niAW8tqSa4dzNbh2l/qQwDmU7adZjq0xeTFqZm63J68s1A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MOJITV",
+    "ico": "https://image.xumo.com/v1/channels/channel/99991687/600x337.webp?type=channelTile",
+    "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJg08Ot7zQP1CsLiCMdEGNLQm09eKdk4aBwjm1e8tkxaqguakIqT7c1MtyBIIAZHw0KP/N24DUzzC58iihDAw4m4",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+  
+    ]
+  },
+  {
+    "name": "▐ ZAPPING CHANNELS",
     "mode": false,
     "lista": [
       {
@@ -2664,203 +2826,7 @@
   }
     ]
   },
-  {
-    "name": "REALITY ARGENTINA",
-    "mode": false,
-    "lista": [
-      {
-    "name": "POR AMOR O POR DINERO 1",
-    "ico": "https://iili.io/dbRAHdB.png",
-    "uri": "dez5A4z4WD5QF8gm7PEZMHVwl5LjfygNvvEC2P+L5+NesvtQJJah63+NZw47hDOaTEXtIIUE/t9I1yad5AMSS4v28EWeG4rbLOZCS6YEVdCZ8M+l/47+SyUhDR8dnXJriJU3CX54AEz2eMNtvbqbIg==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqo5blcEcGz+E+MTJYN/uiFEMtrcQ1zHHMhdGsLuSlHlNjFTpfklSUpvbBpEghwCHe3xoTzeJwvgpk5pZ/b//gJUqiVe6Kdf4GBiIeDvlzim7HL7agDYf/qgzhq9oFe2/w=="
-  },
-  {
-    "name": "POR AMOR O POR DINERO 2",
-    "ico": "https://iili.io/dbRAHdB.png",
-    "uri": "dez5A4z4WD5QF8gm7PEZMIAqoxOmSC45gy3cLTfnbVWu3dj6KCdvhtruuJfYnESYvek0J49jGzvP99WFyfx8x6H5V4EG3mHFpdSDBrLQbkJmIOfnuXozJ1E5JCo3DGcyfk2pcLCMWHvPGMWuWM2jBA==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqrE261zByTpxROthUuyGtoLnUwVNK/HdGhc7sry7crzP6kaMdmbz49uMuqFA5LFiiV47DdDDKX0kNZMpo2+BzWn2rnJgm9x/Qcw8Ob/dquOMs4oHb0hwyVqDPISuj/jwg=="
-  },
-  {
-    "name": "POR AMOR O POR DINERO 3",
-    "ico": "https://iili.io/dbRAHdB.png",
-    "uri": "dez5A4z4WD5QF8gm7PEZMHVwl5LjfygNvvEC2P+L5+NesvtQJJah63+NZw47hDOa2r3PrbWSZEwO2nEbuQEOviu3h5SE/LZfa1AAON4/tT0gbgdedAStn936jSjP3WDZJERNv/1is6vNoulzUgCHNA==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnLAw55jdix6GpRIaP8t1v32vW1LzWPQLJly8wXpmEqjIn95Z8ukQtYgonoSqZOvdVDoHM0rsJdnHwiIe/l4xQNylrFD41VyschpLxOoh1oD9BxdcqASmtEYyR8Fl8by/w=="
-  },
-  {
-    "name": "POR AMOR O POR DINERO 4",
-    "ico": "https://iili.io/dbRAHdB.png",
-    "uri": "dez5A4z4WD5QF8gm7PEZMC3Vpk5/scohOnRA2EUHVN1KLzUjcDSm04ATexUjPNYHW61lX8fd/Z9pcF8wL/52YieViwEFHRvoneKdmcwRrzHmWg24pCtA8V5Ypd6hjVT9hm/vpPFOTeSkVMC9iLT8Xw==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqY8asgTgdBr3iKKnWyTEStqRsGQmL0Q8DC2gvENrl2YJO3gPRvJiXMoQLMFZJokEjukYRlC5uQadMco3pPSP2t07LSXvTuPyaUipyQu79dpV1mn3U9D83WmE3JEDzHtiA=="
-  }
-    ]
-  },
-  {
-    "name": "▐ INFANTILES ",
-    "mode": false,
-    "lista": [
-      {
-    "name": "CARTOONITO",
-    "ico": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCLFp2zPzYEs8b0GLlpimqV0uLK1J7waNKU9X+P13pgpe4gFfrhqrD5ZcImXJ3VIWLvwc87bB5dhdRKFVjlOmip",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmtWt+LscnqPCsgSd6T3uGzd5QSxmIDQU8HYVcGjhVe6A==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "DREAMWORKS",
-    "ico": "https://i.ibb.co/zsj3gBH/dream.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBAYrRBCAh8ZDq1pmfpfeBv1EvV2+c4cRPUAsaMyzsQmAE2kltIMfZGsx0JKiJyDHz45xNoQsH39HmJUjXGDIdr",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhcF7s9f8rIaIK3XeZuw89/LHxR4hD8Pxj+zNjak6KU+1Jd2ph0/HUm7kFbPlHKL65nyicyEMDNKj0QCB6QOP+FniU2EjXOPirn30LgB5l68B3eMJjnRqZPckvi7DsM+dw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "PAKAPAKA",
-    "ico": "https://i.ibb.co/Jr6CSxw/pakapaka.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCLUSjWveVICU+ZElYtxeLvpxEtm7EVmkcXVeUHMiZxHgofyQYv9m55KB5suszeGilH9wKokcZCtOkDbsTu7Y3+",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmPQ34VVOJJhnjStkMYgrUj",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "DISNEY CHANNEL",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAf1QeVAYxEA3Rmf2toLj6rKWWNWbdtVS/i8rV2qKJY/v68Ffr6S7KT8QsiduvMYRW9CZUxrylLnK1618I5NY3/Sw4fBEy5utaHPbD12J+ivA==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglfVdvZkHJNx9t1U4ZM3ovvdIzOshfx5QmsX9igTPdvrA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "NICK",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZADK3zyxvARXEjJHJ+UsQeKUfOofzzJTi/tFrpzaensXlTE0hrpkvDZoFceT7JK0NJuvdSrUj52tvkqskfRPbI9",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmgtYFEAxJiwLILFZu8ryQg",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "CARTOON NETWORK",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZD1K6iSWskQ+QyrbUXgwinNIw2XY9SrHHaUS7+hroBv2cd5s1DmHSbYaUAba+npabCeFAx+uA3paPvaDvf6VFzH",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglvxLC1kuLWzICieE9X49vNw2H/OtDvsPomaeMTKkQblA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "DISCOVERY KIDS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAbtB5ISNKyRdnGiauPqFd51OZZWTA+ZdNW7Z3A5Pgi6BCqf4Cr6rqmvvNqVW+Px0k9EEgpR1REmzYshEJcBnrT",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgnHCY7hRT/3LpdgLozfSqhaj3GGB929wh2NjaVKPzJ1Vw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "DISNEY JUNIOR",
-    "ico": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fb%2Fbb%2FDisney_Junior.svg%2F1200px-Disney_Junior.svg.png&f=1&nofb=1",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA2IDgX21pt98cCpmvEbpYGSc6TQaFUxghqIVXBa7eP8LPpbM1V1sRi4gcg64VPg/dFJiYMwpGRcSNOHcQTzoAf",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgnZPeAjzyPKdu+JHd7UFpie6IKOGNL1o05/IK5tD5fFyg==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "BABY TV",
-    "ico": "https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBKoSk9fmTZHuEXW1lyT6io0HxhErZHtC/dLeIAPAlRtClegWQy2Ypks0+YPS3nS3Y=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkg4+m2AA38d9KxyVUDNGcB",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "TOONCAST",
-    "ico": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftvcable%2Fimages%2Ff%2Fff%2FTooncas_logo_jpg.png%2Frevision%2Flatest%3Fcb%3D20140720173926%26path-prefix%3Des&f=1&nofb=1",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAZJvl1ZMFqBWLYkVqp8o88JTXb0kxPvCzs/Dfmq2p9PXoO2Pa0jMN7Fn0XVq46+TnPYAjF7GaMD5sp7x/uRryp",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglTy7uHP+N7bMDWM00FXFYM",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "NICK JR",
-    "ico": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FNick_Jr._logo_2009.svg%2F1280px-Nick_Jr._logo_2009.svg.png&f=1&nofb=1",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBxWBBFvqxMQfK0hDEdFp0IEfTazxNruRgGbw4xIMdpuYjS41PZcq3snGsA/xpABXbQBuymQ0qMJ4Uv/teaUkVe",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkvnK5XS3m8mdfXVDfIzqp/",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "KIDOO",
-    "ico": "https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTsJ5kZuNwDbxiow53soyJjxR09kM2XGckqvZp72P3ghWI15WI/GtGiUHREOfWrEzY=",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKl5wb/2dyYbh6stJ5/8fmioHiDGbhphpPWQ4RO+OlRh29GJfzsmh+jx1C5+NidIg4oJOgMLm1AbePdqdvrZKj1+N8tfVB8s5KgY6v/lILH3PHS0wuNpZVJCKhF55ydss6w==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "PLIM PLIM TV",
-    "ico": "https://i.ibb.co/KG2cJ5f/Plim-Plim.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAfNTSnB39TKIf7xychJ/68F/hS6dSOG19Sh6+btw4w7NNh3mIVEJ5fiwIaFSLw1VJ+2fNJJOHtGkKJqULnlMhO",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpGTTuLk5fDcADp+x+hZckGB81pJTFDkGtYRvWQFOOoheCML99VinbRZTDl3GST0Sn8uAMnMzXralFUI44eYcbH0lL2RycKMyjfn4nFHTjcrGor3Oqw8/FHBAK4NJRl5Rw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "BOOMERANG",
-    "ico": "https://i.ibb.co/9ZGy20R/boo.png",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQHW3Gtmbc4TuZKU1twI/J3ERvXYp0Q0HZmvRRgIX2LOjlFJsMsFLat8FMd7yhxzdzm74nJM6RVwRaXIxEzr2S1",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKq+GwdQeyDX8f6TCoSgJO9XTidNR3IZAza29oY0Q9HSXY29aQHYxsievwtP34GdKIGt99xxFN1SadDTLVKbMLSlc6f642keLgeFNcl4/HrsFjoBWtJQ1bAwpzMeEgnB5vw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "NICKLODEON",
-    "ico": "https://i.ibb.co/pd1CTgq/Nickelodeon.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZADK3zyxvARXEjJHJ+UsQeKUfOofzzJTi/tFrpzaensXlTE0hrpkvDZoFceT7JK0NJuvdSrUj52tvkqskfRPbI9",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkNxjK34/sPmg0sLOXpvql6YJvWEjbY2mOdhJTtmHv3pxLfpjfidEWoVA5T4QCDA0qSuQOg3exuxHW+67qEKJvH7Af1C48/vsHdivuIaKsEbUs2reAWpP40+Nu1krQsbIA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EL REINO INFANTIL",
-    "ico": "https://i.postimg.cc/9F5kSn0V/REINO.png",
-    "uri": "SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsSmnSe3Xe19j1Lc6qmDs13ozuDyM00xDdewv0hCHLQu5iWfhG9aZ39Pwnl/tD0t55M95q5efnJNuwUWHswaBsc0e8RDu0tPTQsLJgHW2Pex+JdQq2Z5AYRbnWIJxCGru/vC17QA5NWV0su9NyRmTK5zW8wfRzQbqhSxORrdFYOz8JzkW48WBfmEAPAnwBWsrZoP/TBRHJBSWkF0m7mKs3FVhDNTMPVCoGX4OemFxfl80kFp1Yk1wt98/4eIcfWZO5HvHn+lXsHFdMfViHNhqjAmJYt8JoFExqy0yQHLmN6I0beF98JsOYJHLV7bkoxGG3TAQYI291lFJNCTnkD4iouVhQTp8gK87+ElJ6/u0IB4CwuR2FOLBixirzCtxrGEuudE8v1pYatebjXmGSTk9i4BD4AQyk7Y+JCGf4kCTC3X/cyUHDVohcvQ1Zv9L4z5/9ImotX+vC1RBPzH2abLmxsk9V8xA0aLsV2jEnd+qJeHtz8KF3op67GLuNMI51j/bNBcJ4zpGmCCnfm52Vm9g4kw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ZOOMOO",
-    "ico": "https://i.ibb.co/XZ6FCBY/zoomoo.png",
-    "uri": "fgETw7XcbFYiVeUABYEPG6hTrpBGGCvrqe8+HZl9niAW8tqSa4dzNbh2l/qQwDmU7adZjq0xeTFqZm63J68s1A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MOJITV",
-    "ico": "https://image.xumo.com/v1/channels/channel/99991687/600x337.webp?type=channelTile",
-    "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJg08Ot7zQP1CsLiCMdEGNLQm09eKdk4aBwjm1e8tkxaqguakIqT7c1MtyBIIAZHw0KP/N24DUzzC58iihDAw4m4",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
   
-    ]
-  },
   {
     "name": "▐ CULTURALES ",
     "mode": false,
