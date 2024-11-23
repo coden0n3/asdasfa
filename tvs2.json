@@ -1382,118 +1382,20 @@
     "mode": false,
     "lista": [
       {
-    "name": "CONMEBOL ESPN",
-    "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTRz0iVQuxXk0LfBam89Gmy+w2H9wqgdUmwWL2OGfus5q9eQT5N2V05dgxHfDTyWyrkUMO2kisfDWjN3CvsN5xN",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqwmsgm24Ik/rXKXMUSVzDO2QQOZEChkJUzV6r1f+f3zMCDmsHTq/9GkVLDiXfLn3qiiYucgWid0StEVZDTHBJ99nOuC1dxYjwcOg5O/RtorKUcO1yjZ60N0CpUpBrFNRQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "COPA ARGENTINA",
-    "ico": "https://www.thesportsdb.com/images/media/league/logo/65t73z1563098226.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0fOpe0XFDA/CSMRnsX8gYevC/Gcj7j8UKZaI3InmfIq8OXHke2c9Fatj/QHrkKNvIKstrPjtzpxZ5hn8GLqJL",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi/kxbF66U/NX+R5UFpcdB5oESjXxlbZKp9r+zB20nvs8Iea04v0lG0T6NvD3ZiwT12UCZqJU0UUgJAZJT7F3MR7GCacCedn8SXNmD4DSrv1xWk4ryCTt7DHrZ5hwZHIJQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "DSP AR (HD) »1«",
-    "ico": "https://i.ibb.co/F4Y92XC/eventos.png",
-    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lgAOziVccmg5EueQCq5MRZVfQMFTxPTGhQiWpVcgYkxvA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DSP AR (HD) »2«",
-    "ico": "https://i.ibb.co/F4Y92XC/eventos.png",
-    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lg49AqEgnEtn3I0GuzNX9ZRy6gUn0aCpDK75PgJ4OAaec=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DSP CL (HD) »1«",
-    "ico": "https://i.ibb.co/F4Y92XC/eventos.png",
-    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lgQPkwcF688bDnCy4H2FB+XMb0fNWf7Xs0c4qNwyxOnbU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DSP+ AR (HD) »1«",
-    "ico": "https://i.ibb.co/F4Y92XC/eventos.png",
-    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lg7ozoMwhdo3XjIhLk9zugSLBlfYtIsTx+RGwGW9gbmJc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DSP+ PE (HD)",
-    "ico": "https://i.ibb.co/F4Y92XC/eventos.png",
-    "uri": "n1/7AClyax47PJv3v2w+8HY/kHiV9Uqv9yDZfAcWh4xDR09cMMICqg2W2Z+7Y6lg6D1BAbz6u2bMZVit15R4RkzGdgCN1DkZuZHTwJcVbaw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EVENTOS",
-    "ico": "https://i.ibb.co/3WZtzG3/eventos-py.png",
+    "name": "EVENTOS HD 1",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAgNkB2xvqW0U2/S56O5ZuEbc5jZM0FwBRakpj/PGTqt4H7Vbj3BD0dp6Ec6utesiXostjY0mef0G3eRVKARqCQ",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqa1adHFnL1qbfy+wf9YuI3c6prjBlAePKHtjywb0eXuGsieSySX/67D0d4DKdvMPuWASYYHSnlij+aze1zMOPmExRErn9/Ww/fzE898U+mTY6DSD3TcmNUu0Vdxp9eFJw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv+Xq2Jx6mhkZGXxbbwnjk6ndMy22LM7bB5LMRBzm4kjd82ZO5tSdRWEyy4InZcdWfy96J+S4lcqHnIpXCAXWxK1f1OLfR1IHARDA+XmI1CQtfUN/Ustdt9lhMxktPTAVQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "EVENTOS 1",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAgNkB2xvqW0U2/S56O5ZuEEG4UPSkHZ5WbtT0ut9P5SEc2GfDTH+Zmj3HI3EBCctYX8kafztTzFrQ0kEcH9dys",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkwgMGjEWewpIlyHncY+RfLFwPEkyUM/soAtOusTe5IvYzQS2gQuh3tbluT/Id8VRWL8XN4ZYag2hwVKq2GZa+rVKdnA9yUlykyVMNW8uKwNfzBgEMCwOEGThwpnLTvgzw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EVENTOS 2",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBdBn6+MBmwR071JA/o/nvKuTWgdKHRLX/482si3ku2p5dP5vOhE8NKRdoaxbw2bpkOsD3N30SA680+EdUMYsI4",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi7qNu330MBH9ZU84FpcYulF5cD+hmFY1Y4ej55kQdn5upiu0NBuysBtHIxMi9EJlYf+f//MMJffmRJGYpeF6HrGEi8SPNxFihZACQWrQe85JhdyfwRn8/1jRL4SfFKo8w==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EVENTOS 3",
-    "ico": "https://i.ibb.co/3WZtzG3/eventos-py.png",
+    "name": "EVENTOS HD 2",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDx1AnvCSFIMNhNM3zPyFpKZSr+ESaJdXC3rI8EAFE6h1Z9RPksGciC7USQyPXNO5oDvp8bd0loDDd/CJt3pkZd",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKiM7fRIBupwK46BVDSu1W9OUPctr6LNmv3ig7zLSTzcxudqwszeh5EPFoRWVHBLUf1YGuFHzgCrZmjStcn56Zp5zI/NeUSkAUZnAKoNEkeM00D4ZBNcllu7+ZIonHEZM3A==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EVENTOS AR",
-    "ico": "https://i.ibb.co/phVwTdN/canal-90.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKo//72D6XuvPk2EB8vs0Hnu2kRl62F4TAFqXTfEuH6C/PPYReD7k5e8/bmw3BmdH2ORBYPOv1/WYQLBbvZhbX",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnd5+Mar6sDQcEwe2SG2rfARaY4aGrvWUisFGwWp2UwtpuutKtZIgTKgcp77lm3DAAioDDiT9wijE7X3CgeyVArwF9p+uSfMpkNnFvNdMM3FtIKwqVrrAFF2sun2GwnNDA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SUPERLIGA ESPN PREMIUM",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKWb/ocX+fj38HK8ADSqdtYvjHzEQCrmnxv3t8k9hQWhRAqUbdK+0tPMVYxGG8j9c8JbAiTROkaDdnrKjmfE9Bg7vnWpRZSM5q1cxs7SLX7Q==",
     "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkhxBRYe731EXIafSzapl7eHjbFYD6DHyRUyFAbT2K7WDZVXj3mLt+kSQINtE8c/VDqW5IBawCFE+Nr+rkIX5YMT0tb5lGcil1JxOjwr3zGWdzFqw8F7SNwlFZ6nGPWL+A==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "SUPERLIGA TNT",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDzEBTWItgsI0adTW0Qf7Dn/EBVyRHqZG8/kXR5hN5dJ35FNp/Dfp1huQVczyTF6PytUgSweoPw+S7qspBocV9C",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKj22Oou2mK+ZkKVc0BEtgVIdNTOQqHjLDOjHV/H5Gk37HhbBBnfbydymemq+PAb+sD0AkwNZinoNVTWru9TAkelCn1mskkaN4oZs3PO0GdTTFQUbUZ1Mm3/edBapR/Hvlw==",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv+Xq2Jx6mhkZGXxbbwnjk6ndMy22LM7bB5LMRBzm4kjd82ZO5tSdRWEyy4InZcdWfy96J+S4lcqHnIpXCAXWxK1f1OLfR1IHARDA+XmI1CQtfUN/Ustdt9lhMxktPTAVQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
