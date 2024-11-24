@@ -6,6 +6,55 @@
 
 	    {
      "tipo": "serie",
+     "name": "Ciudad de Dios (2024)",
+     "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+     "temporada": [
+      {
+        "name": "Capitulo 1",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOVAUaDj4Rr+QsFna9urGijQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 2",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOMG3nlQASwR9qdggf13S4AA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 3",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOV5HUPwo6MuxISYf/2wkXhg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 4",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOz9Jnry6hssgUd8u1n+nOxg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 5",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOevTnh+tJzzFl5YZJTcfDxw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 6",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOsdHB2ELNqBU2hb038megxQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+     ]
+       },
+	    {
+     "tipo": "serie",
      "name": "Bandidos (2024)",
      "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
      "temporada": [
