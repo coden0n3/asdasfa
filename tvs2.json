@@ -158,6 +158,15 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "CANAL IP",
+    "ico": "https://i.ibb.co/GQ6LCnV/share.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDzCrkDinqEANGxP+nyZT+HTqwDmc1WFuR+3Zjva0orhl3vDWeGnA6ifV3avyqwqoI5Aud11eQWUOEepeQFah6JCOmdLjoFAS8SUXqRCItyuY3ZJpFHIMx/A7x4N0kv0ww=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKgB5pmy2zY0bM38FF4ZlxWcyyy/xTc7KCj0z0GNj4/2D2m2ipbEBsZzaELmZknHXXIZnxCRy/llZ+2g2CTE9BXUVAMYM+JL/Pv3QLtqO0uTxqoDUqUskEUFoCEhzU8whUw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
     "name": "INFORMACION PERIODISTICA",
     "ico": "https://1.bp.blogspot.com/-fURoCNyta-A/X4tF-EodlxI/AAAAAAAA7D8/YhEm94a3IM075KPbC-p1TYb3SQ7f67Z8wCLcBGAsYHQ/s357/ip-2020.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDzCrkDinqEANGxP+nyZT+HTqwDmc1WFuR+3Zjva0orhl3vDWeGnA6ifV3avyqwqoI5Aud11eQWUOEepeQFah6JCOmdLjoFAS8SUXqRCItyuY3ZJpFHIMx/A7x4N0kv0ww=",
@@ -220,6 +229,15 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDnJzrpiqiyI/o6LyHe4nbRjzi6/DlNSj/WkdhgmbsgPXgYO7fFiX9VqPbr9IEWGHKbmN1mOvsBvezXbgrdR9jT",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqOyPGeDMrpqVSHRU9xNl2PU2v4Ce+sRtcSEVXBV9HmvQfkgKm76QpavfNeorrc75WXPPAawz9tXO4z8C4Sm0Kp0ZDiN1+wSzCeLcU/nfMCGJRSYnQaODvnKaT2z3szPSQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+    {
+    "name": "Televisión Santafesina",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/2/21/RTS_Nuevo_Logo.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKo//72D6XuvPk2EB8vs0Hw9YDXnp7fC9kJTlymfA2j5RPeW5w0HO8rGZCmFqK4u6tp4nGM8ze6s4b5tVFr73/",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlSzO9KYetAya+IhgkSHirFL4UBrosZJTg8j1j+xL/S6gV4TWcEdyO2vXli874wUcVs+oTwaM4PhJn5mpgzLNa/LJ3LfrFNqd73XuP08Z9YA7xP9ljiqr2ARWUV7HnwBDw==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -641,7 +659,7 @@
     "name": "TYC SPORTS INTERNACIONAL",
     "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCxvg6/SCZegYaPvbKFs5CoirAYcBgkuZR/5Lf5R1Eg5aKouhaYaTasCBl6oAkHM6YEe/urN41mWU/SBBmd1Ux5iUVuDGTA3Z1QiJvcZofMJA==",
-    "drm_scheme": "ClearKey",
+    "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpIUKkVkDYIRft8U4tElhfA4fQhV8Q4qLsrJeyVh3LCK//NJJkJS1MJzI8phTdl92kIVT09Iai9bIsT0h5Bm0E6ze47H+38pttmL5VcId0/XvvTsCexXslUj0FAU37Ed6A==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
