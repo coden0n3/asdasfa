@@ -5,12 +5,26 @@
     "lista": [
 
         {
+    "name": "Blitz (2024)",
+    "ico": "https://i.ibb.co/41rHPGj/bae.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Gs6dWB/KOsYL4krjTROYVbtm/9poQxkMpbkfxHydcXA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Joy (2024)",
+    "ico": "https://i.ibb.co/jhqcbk3/joy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U19Vnmd9D+KkHzkHVqGovPGkI/3QPQpJaFzUa+u2lynmg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
     "name": "Wicked: Part One (2024)",
     "ico": "https://i.ibb.co/SB7D6Rc/Wicked.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1LF/U5B2f5RqEPrWte4a8hyg54L5ym+OJA6clee9qd6w==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
+        },
         {
     "name": "Fuera de mí (2024)",
     "ico": "https://i.ibb.co/G2MS8XK/fuerademi.jpg",
