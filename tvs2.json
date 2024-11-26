@@ -666,6 +666,13 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
+     {
+    "name": "ESPN MX",
+    "ico": "https://i.ibb.co/Xpv2nVm/espnMX.webp",
+    "uri": "fzqB+g6iiz0w8PLxkrTP4HiE/bEB4N1cPkAY3h0u4eU6mJFCDgLbKvrJSneDtMQutO2RJGOxae5DFOs5AEcYtyvA5FhxhU6djV8YUt7wxVVL4ShNyrsTyJyS2fQHSr/hhj8aGcB2/q+4MjBwhfs0eCAQeDEzOR1NnAuH1iLEnNiBZtus4dtzA+l8dt1CaNaa",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
     {
     "name": "TyC Sports",
     "ico": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
@@ -827,6 +834,27 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpEIRfLv1gYmP+0qQL1H20rlPD7Lit8v0KHY7lhGUxJC3FeO2EizDD+VVAfW5tqNONBi89QnNMj56UzRCrciCj2r6T5Ct6fNJ33fmVsRPABwIdn+rKDdM4tDyIrP2npLYw==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Movistar Liga de Campeones 1",
+    "ico": "https://i.ibb.co/kBPS6b6/LIDA-DE-CAMPEON.png",
+    "uri": "2UI7qZW6OzahJTW5eKnAadbJSger+8a70HhgpM6gb6qvP8EXkX3MeeoQjsLcHPxolBxpkIJ8ugnhdH9MmZamP/ORRT06i1GohYVsRq54bXlfiJWC0V3kMzaT7NFOOVpEqa6zrb0JP2AXDbmJxrwzkSfZ9yJtGHXx+VsxjMATyqXPxtTTCWM7E70UmL5YSSJMSNVin/vm2XrVpF9m5jwYFw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Movistar Liga de Campeones 2",
+    "ico": "https://i.ibb.co/kBPS6b6/LIDA-DE-CAMPEON.png",
+    "uri": "uFqfkxGCHlNlIxbkg3KzjSVhipy598Pw5f81CHrWg53bZqm47BtgOMO8RWMr8qDlshfrqRqfAKvDf9wZcjtO/35e+/d6L84vek4aloBlR2+tMMCACjgaF4owoVg5h2JEyMBSF7wjkqnVIV0v0SRL1R0JYkq/JSAmlomDWjnVLtGiHspcvqSvzhJ33b04LRkL4yYqsqmoTbiA/avVao6Cog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Movistar Liga de Campeones 3",
+    "ico": "https://i.ibb.co/kBPS6b6/LIDA-DE-CAMPEON.png",
+    "uri": "9UgJ6dvXDdiMWfzIf6Dz+4be9RtWsqe36zAsPeAMksm5F3daN6VZJiJaeSsYs9hIi451w1oHsgL8uRDZtIXhlheWLhEiVyVJRT2gEYIToH4V6GFVc0dR2egkpnhmMDvZUO60gGPCZmfA5DWEUUsGF6DnEymWxwSN56Oov68CMUAcHT/bmpDyVPBufpMTsI/8PMJX9MeeN0/v0+lpd1iQAg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "GOLF CHANNEL",
