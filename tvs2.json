@@ -514,6 +514,13 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "Fox Deportes",
+    "ico": "https://i.ibb.co/ggx7f7m/foxdep.png",
+    "uri": "pdwZHOoYnm3Cgj9O84a27FdmnrEdvVAgwTkuChMAKPpfUvZWsG5UZWET+hezgMBpWWvPwm2wUgExEHcqY1acFk5LV49KJ5ybtRJEW3InHPzl/56a2aFdXYUIlx6mvNuB5vH+O+1QgKHXzyL8OYU7oUY4E7OUyBB3XlfeX3v9QSq3OYclyhJB5lpqvAnl7L0ziCFBVAZ+jcrC9jjU9QKLnQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "TNT SPORTS HD",
     "ico": "https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png",
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwRzNNvUiNc+Lx7a9cGOPbaud6e2jYCGpodmSuH1lZ2DyfDquWn3+rpuvTGFM9lq0tPdswKwtlOMAp+mApdiWQuX",
@@ -794,9 +801,16 @@
     "drm_license_url": ""
   },
       {
-    "name": "DIREC TV",
-    "ico": "https://i.ibb.co/1vNMRqG/Direc-TV-Sports.png",
-    "uri": "T9YphKZJo3LwINtP4uGKu9JIakfJO6Bbq01GQzcG+3aAiOaF4awMZaHC1yEOdcRUKE0qhL+QNm9mpK53/ZiX0QDOdaKp2xz/lE76U4v7mg2epl5MfWsDlH/wP69HynvofCXPruyj+khap86evtKnwII+PyyXN4VjhklW9buzuDs=",
+    "name": "DIRECT TV 1",
+    "ico": "https://i.ibb.co/Mp3jzGc/DIREC.webp",
+    "uri": "AiO8h1E6caDqdp3eBhWOlvc2T15bicklG8odclN4PkOuBWBL+Jnyc3bnumKifdtYPncMnIEwxeKl0VmDtxwpHw9ip0k89QvlignzeNSLtFE8rviMPyqYMmmK4Nx/axdhApMYq+vaZFhZuQmE/zFOPcNz6BPFhDCm9ydizvKjvisNX81nEwgz816HJ59h7+gQ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV 2",
+    "ico": "https://i.ibb.co/c6w3WPs/DIRECT2.webp",
+    "uri": "AiO8h1E6caDqdp3eBhWOlvc2T15bicklG8odclN4PkOuBWBL+Jnyc3bnumKifdtYPncMnIEwxeKl0VmDtxwpHw9ip0k89QvlignzeNSLtFE8rviMPyqYMmmK4Nx/axdhApMYq+vaZFhZuQmE/zFOPcNz6BPFhDCm9ydizvKjvisNX81nEwgz816HJ59h7+gQ",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -836,6 +850,13 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "Movistar + LaLiga España",
+    "ico": "https://i.ibb.co/gWSQYNP/mlaliga.png",
+    "uri": "0Ub2GGLee0sEb5xcrMfb9HK1jx3HfWSyLWDjSg11aQl9LdIv7B2GNS8yTkrBuIELxYWFRpNTPpr75JAV4tro0Xh8ImcbRFfJjzglWyFnIr2IKygPRMMNyXtyKRTV6C8R+h2VnaQkyZLqgjmctoqvA/i/QzHK+RmEV7EdnZed0DznVWf35UQMI8bG/YnumLqj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "Movistar Liga de Campeones 1",
     "ico": "https://i.ibb.co/kBPS6b6/LIDA-DE-CAMPEON.png",
     "uri": "2UI7qZW6OzahJTW5eKnAadbJSger+8a70HhgpM6gb6qvP8EXkX3MeeoQjsLcHPxolBxpkIJ8ugnhdH9MmZamP/ORRT06i1GohYVsRq54bXlfiJWC0V3kMzaT7NFOOVpEqa6zrb0JP2AXDbmJxrwzkSfZ9yJtGHXx+VsxjMATyqXPxtTTCWM7E70UmL5YSSJMSNVin/vm2XrVpF9m5jwYFw==",
@@ -853,6 +874,20 @@
     "name": "Movistar Liga de Campeones 3",
     "ico": "https://i.ibb.co/kBPS6b6/LIDA-DE-CAMPEON.png",
     "uri": "9UgJ6dvXDdiMWfzIf6Dz+4be9RtWsqe36zAsPeAMksm5F3daN6VZJiJaeSsYs9hIi451w1oHsgL8uRDZtIXhlheWLhEiVyVJRT2gEYIToH4V6GFVc0dR2egkpnhmMDvZUO60gGPCZmfA5DWEUUsGF6DnEymWxwSN56Oov68CMUAcHT/bmpDyVPBufpMTsI/8PMJX9MeeN0/v0+lpd1iQAg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Win Sports",
+    "ico": "https://i.ibb.co/qCBbXKw/winsports.webp",
+    "uri": "7bo4NzOyyno9VRKHDbMOtawTIvJn5qHoEX/EniRsgy3VA+kHcdwNt1tFAJ0AZdo+7+ojP7/lnW6exuC4sDVeQxWXlF6voz/lpHa/m4H3InTUwB6xfnqyHgHASZCccfqvMyxOyHcY0k0XtKN56Vm/Xc1AgVMXuVV/Dp/2lLRAykI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Win Sports +",
+    "ico": "https://i.ibb.co/qCBbXKw/winsports.webp",
+    "uri": "9MvGS4imGApP5yJYvBvxO72cB7+mU4jWwpbSNvFSoDDaEAUP7FbqHwvjf/RcI6aH5eSEM7lOsIwC/gnKXVBaFkjxcou5wUY31u2mNKU6hcTT9515b3rZEzL2aJGCVbCWaIYYnjEC832jx2jfxgyuopupJL7KZHZnZ6fWRY2uh0JG2dHTEQE65hTcAxQAn7ai",
     "drm_scheme": "",
     "drm_license_url": ""
   },
