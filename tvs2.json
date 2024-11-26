@@ -733,8 +733,37 @@
     "uri": "NOK/6LW8akHjiIJ7ZHlY4KML/uCZLm7KdhT7JZhlzH/twzHfRClJHTtOcRjpXWtoyt3JG7+jGkm5c6EQWUSAGqt23MnVuExjxeFsKP4C4RBEKAf5tJsvSxC5j0mXASzU",
     "drm_scheme": "",
     "drm_license_url": ""
-  },{
-    "name": "CLARO SPORTSs",
+  },
+      {
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "VB/flduNTQJZBytMt7MwA49ZsY6oIcptXleuGCTOh/zHkYS5uPwkKASuginPi6lBy96wRH7zRwOxXGskcYI8Gg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV op2",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "+x0UDhPqKA/IPduHvbHzVd12d3TuldDa5e9QmqKknEsW6VK3I2C7Fx7XWOaM6/FmoXr/4JW7CSXm/7wejtWXMA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV 2",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
+    "uri": "Ozl8Yuy1g2OTPcyvYjzVu0LHaiH+YTIpyMx8GVEON6xSf75Hb5YCDxY7y98RRr3yyUsba+DtrL7MUeCtR3AneQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV PLUS",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/1/613_blanco2.png",
+    "uri": "Ozl8Yuy1g2OTPcyvYjzVu0LHaiH+YTIpyMx8GVEON6xSf75Hb5YCDxY7y98RRr3yxGsQCmdTG+CrXFjlbdLT4Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+    {
+    "name": "CLARO SPORTS",
     "ico": "https://i.ibb.co/86x7qSn/clarosport-Photoroom.png",
     "uri": "AVOCG/dqyQC/mI5F1VzK319v9Xt95Jv2I2y183RLAcY9ljoBv3cos8Ew95EP9BHL/YAa5UzWLX51m/CEY0uEz2yAD/G6gOMux+Kl97KNH/c=",
     "drm_scheme": "clearkey",
