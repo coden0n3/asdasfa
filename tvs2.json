@@ -1259,6 +1259,54 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvQ1eFIJtufdYP8xRGFJkSGnNhtpNxvuMm0NIGGOjnU14dF4A8iXZ/lVeAsjWnmtMBXyYE6W7Y18sM391sDg5f3wb3YB/TyTq8DEisUmFDlojkAXZdVC59XYD3dcqg+3yQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CINE FAMILIAR",
+    "ico": "https://i.ibb.co/G2tc27S/cinefamiliar-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK30kY3anytTCPp3tahbr5X/O/rzQwTTH5yoDG6UekkPTLKWokTq8OCEbYMPVxNdmuabzy/+GnPjdIb/onDCBd/oE=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKoHFZzP7wPvOFhLwkvs8Kemkimkq3f6Im2aHeLL0L6O6lO61VhNT1UttZ5yERbPxL6sCTMBFxmBMPuBmnGobCcI5bqigfA0nsePxwp7G+I9H+zJeqH6q/RrEbRAZrlOp/Q==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "CINE PREMIUN",
+    "ico": "https://i.ibb.co/68RWdxc/PRE-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK30kY3anytTCPp3tahbr5X/NnOk3xM/3Iq5UR1l1/9KekdgvbQpCWI7SuoXwfdZEC5Bl9y96v44szsyTS5qYYs8c=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnDVrnFUwPGJ6R2Nn64mgdT8uHx3N1N+aY+98itBqueC4/nHrn8oPOt79pC0mwjdo6e9FzA3k2b7ZITP6k0OR0S2c7T2XZC/Hvt4r183HRbQQ3/59f+bS0DsEuyq55HAJg==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "CINE HISPANO",
+    "ico": "https://i.ibb.co/PgsXhMV/cinehispano-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK30kY3anytTCPp3tahbr5X/O5QP0YXw4LnUCj6YINew1BVJC68NMJNbg299aeGk8wsFK8tmu5/mm8YdsIVaDidiM=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuoXo8ylakya6szJJtvsOcrlOcAJCfNLSL7xyxk6tJHNdH2hhJ7UNEeRNojtUkDz8Ig5WoCkBW5jT2s3zXWRS4p6sbPDAFq2roBR+qk3CjyNUXV65f1kWr5+t57eV5sJ9g==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "DE PELICULA",
+    "ico": "https://i.ibb.co/WGfm9ZV/depelicula-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK319v9Xt95Jv2I2y183RLAcbUxMh3APpz/OxXfgQFJMvYKHwwIstbYjn+ed2cW1KOj5CaHOtbfXpZ1bZe3Ws8ZvI=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnLmvNYVfpeu7sVDfrzMiWrOpIr9CbTj4apVJkCrbLOqL37zp3QfnbpqivZXuDZgf56jYh4YwkQVy3Xc0W1jKuE2YbSdcBUGQMCc0J2GdQ2wwZXDRhcgYogjDDeVZvutCA==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "GOLDEN EDGE",
+    "ico": "https://i.ibb.co/fqqy7yY/GEDGE.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK319v9Xt95Jv2I2y183RLAcbeVk29fPROpL8IYfADtuvK1p76YQ/DD5UYyKrQFl7onIdCEmCSu0ZFFG92tmsQLu0=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvMjrSSDv6OznUBRvV2MrrCdzYq1GTBSrSgOnkDsj+nffwRkufAjfCfXMxgSWB7WzIsL3zumycujfE5e6nWvLmCddADQon5anygI/kFRCydsy+HGAjuLa/IUfdfUjc9CgQ==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "MORBIDO TV",
+    "ico": "https://i.ibb.co/Ms4YG0v/morbido-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK396/idiTLT7mveQMAF+7GELmtGqeB3PlW8t6si0xu50uHj8m9TUHi0QvTazrTCKGlw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKniHq1TMrPusT00mG9hfUZtptD6FtcAlSEI4ibjPdx/P0wAj/WCEqG8fViapesS1V3Xi3iIDRtVT2zdxNpOXmuGTOxNbfBctQ5i6TTeVOOXHKJjsgcxKDslzj0jundonww==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   }
 ]
 },
