@@ -1280,6 +1280,15 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKniHq1TMrPusT00mG9hfUZtptD6FtcAlSEI4ibjPdx/P0wAj/WCEqG8fViapesS1V3Xi3iIDRtVT2zdxNpOXmuGTOxNbfBctQ5i6TTeVOOXHKJjsgcxKDslzj0jundonww==",
     "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "GOLDEN",
+    "ico": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+    "uri": "/cIq2K6hixvgBfoSvtInKMvH9HmZcGADGWckvXZbdIE++/GP0GoWVjF3Sg8jVkjBIFyixnQnDHJ0v70wUGL3YTapPYcvkFKrfKh4AqVxweQ=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpinYdeikdEnI7Ukd8/riGJcMGwqUPEkkTZvjLS7oKmIRVXEIFg9cIFURS7/6V+04tyvh4bcKhpykSFv8oXgAcIa9h+LaKaF08YmHJ0D97tyD7leA6WVd5/G7scbDkYT1A==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
 ]
 },
@@ -1452,10 +1461,10 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-  {
+   {
     "name": "DREAMWORKS",
     "ico": "https://i.ibb.co/zsj3gBH/dream.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBAYrRBCAh8ZDq1pmfpfeBv1EvV2+c4cRPUAsaMyzsQmAE2kltIMfZGsx0JKiJyDHz45xNoQsH39HmJUjXGDIdr",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBAYrRBCAh8ZDq1pmfpfeBv1EvV2+c4cRPUAsaMyzsQmJ+8WGrc7XU6w4xsDNsz7mzbB6ECHTzN59cW/RelucaX",
     "drm_scheme": "ClearKey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhcF7s9f8rIaIK3XeZuw89/LHxR4hD8Pxj+zNjak6KU+1Jd2ph0/HUm7kFbPlHKL65nyicyEMDNKj0QCB6QOP+FniU2EjXOPirn30LgB5l68B3eMJjnRqZPckvi7DsM+dw==",
     "origin": "https://web.app.flow.com.ar",
@@ -1967,6 +1976,15 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkWUGEAaIWloav7PCfgvWDYGr9lEqfRHv5a+8l6guMuOy+6z2uhseZGPyW7IYg9uI9EE8TIjXGwGEfRN5veNN+qvG0vC4+t+XH8Bca2bI7XPGtzN4SZdgPO2lTcZ/LbEQQ==",
     "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "EUROPA EUROPA",
+    "ico": "https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBJFcfyJZrZn0oY3qE3kCQqKh2rO34b4AFr+iFK02zgt2COt4Ltx2FS9BMRSr8O2hX+32b3+J8kToumxa42/1bM",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnm1hS3KTBgPglzMq/dfXapN6JNTYuANmG/K6RfdVpGChh2ljh/OndrufKB1NGgX+zF3ppRAzDD4JNCg5gu/WG4=",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
     ]
   },
