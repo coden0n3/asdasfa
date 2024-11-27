@@ -42,6 +42,15 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "TELEFE INTERNACIONAL",
+    "ico": "https://i.ibb.co/Xk2ZFyC/telefe-internacional.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDJ15zmY2NFzPawGMaou95ELYtb4UI18HUTMkp19eMvoLA1FPDYRUJc7yHS0DUoRvT/Ks7OlOD9zFFGdv1kdXW/wSBhULXxdm0UtQOb6Z7JEg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKoC+fvUqUlT3DFyD2KlfwifUwdAw75L409dljFdOydk+RsYZJA7Gzft0WrugtpxYLFgRCGF4HqMb14xWB7MHgYfwyQ1HhcMz2b2fHKgFRsHX3IGurMFmXi9Xdu2RPRM1aw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
     "name": "EL TRECE",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTUyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400201780",
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwSrlLDvCT6GbljPJh/yS6cNfVhwTxuAFqTuLbPgJU7TPM4HMrfnokKMIUimhSBWPzr7QewpMYSWms4zSs4pxBvs",
@@ -207,6 +216,24 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDzCrkDinqEANGxP+nyZT+HTqwDmc1WFuR+3Zjva0orhl3vDWeGnA6ifV3avyqwqoI5Aud11eQWUOEepeQFah6JCOmdLjoFAS8SUXqRCItyuY3ZJpFHIMx/A7x4N0kv0ww=",
     "drm_scheme": "clearkey",
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmQI/CfM2bIlyGMg9BLF3SKIgr7catKv+3u4ATIEKDmg/WsudDL6Sg2v3OSfH2lJNc=",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "KZO Entertaiment",
+    "ico": "https://i.ibb.co/mBHMgZ1/kzo-2019-removebg-preview.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAbyT5xg4pOxjPzX4yfrzyaKECeO8q5CqeE3loVoY41HYk4spLYpKDmS6aA7TzLcXM=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKto8mYJbNVW4M4HDCymQoX5wZZZYIlPVQkemgTyfDsYJHpFA1roS+dn2ARE1/842QquZnQwyDO51lecRK3MT8B7eZ8HdrLa0iZ/8GpTEbAargVU5zp80M5l6UmrplVm8hg==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DIPUTADOS TV",
+    "ico": "https://i.ibb.co/s3P4LcS/HCDTV-removebg-preview.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudX44oxL7mdPY6wyOOKTS5HOdCwRp6tMsi4BF0esZXqNCLAA6f3v+QBd9pM0MJ3NnkDEp8l/WXt0stHWno+NQ2nh/mGvBZJg4UuYV7Vz45fz6",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvZyV5dwlqtkIgafsyYBJ98/x54S5f3UhBiZ7FZ4mSpw5SYwIubMNEzdttwft/iknZIKzzSqJ0ByNZmpEMeF56CPtk5Y2PXx6kQ1CYZ7b9Ne+pl8Rm9uQ20Rf0E8LJmM8w==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
@@ -1072,24 +1099,6 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "STUDIO UNIVERSAL",
-    "ico": "https://static.flow.com.ar/images/718/CH_LOGO/350/500/0/0/358638080777.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCGsBcoOUK9aWsAQQFiaNRbsyrVFqSSJlY+FbGH+flXTjXc61PCwFDxtZL7ky0FgArTXSKQvm6TdMAlAAoWi1kYH5YWj/AUjogUi00212YpfA==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmd/3pDo3Ai9drrc8YjILxxnhDe6mO3tks9fZO4i7+7zQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-{
-    "name": "Universal TV",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFxGGTMJOSYXd5uUUWM4of71DUcI7mI/3tsQdL9wMRpNJ6vijnUFcaBw8q0sKsvFUW/6ABPQecly4aU6HEzAn2eg==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkN9R9jeGUjCsBmBWlQwvV9ff0kaCuM345jY+0ySUlyocG3cmLov5v/pBvFL5ODL3g3QVsPSVALKdw8BGSnmMFhqHvoicTx0DKGgvTaXsrfvVYQqEBDjE2zKwqjdxc/XUQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
     "name": "A&E",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710418040312",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBs25AR3UYrorRDLZdyBZ7BmdRcaXQgbjQvqj5Jf74uS1YET0bALxc3X7MrjqrDB60=",
@@ -1158,6 +1167,15 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBM4H/bVmr5GWVff1Y/VrPhN8NttB+2dy+pCf2QN8Idxcz0g61Ljfa1pQxF/apq3Zy0uZFhB+BeZwRfr9YwDDoO",
     "drm_scheme": "clearkey",
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgky2Vpe5My702Aq0akNhn2RkE5qYFFh9kcx1jaLQS3W7w==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "[ADULT SWIM]",
+    "ico": "https://i.ibb.co/TKWcHLy/ADSM.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0JMjRP4UdkETCJwzw8Q5t1Bbrb4MQ1AmMaudAFo9hvNS8X2te9oHelkt/UbOug0cAHpWScUJoP+qitCqihjVm",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvh5MF5+jNNQqtHRoVlgrkQDCgHC/0ulWY4cpYma2I3t/NibobSD8afSf4qxlB4DDw29EpOvofuN+jrIcljEkA8eL+MkZht0EiviCRMLfZeL7bt9pwURjqWIIKtYcvvjlw==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -1306,7 +1324,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "HBO Plus",
+    "name": "HBO PLUS",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAeNgvy1xmay5Oy2ZBkF645q3HwMlIK2ahvKDD4Ww3Sa3CV0ykZFeRfXIojmTE1VfBPDGuhh6cEmAh4fRnzupL1",
     "drm_scheme": "clearkey",
@@ -1315,7 +1333,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "HBO Family",
+    "name": "HBO FAMILY",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAeNgvy1xmay5Oy2ZBkF645J1Jfkp7/RGrdDfTJusuMG9Qcvxbddi3EdViHTlSHyeQ3iPyjSpwNTT/bCovUkuFQ",
     "drm_scheme": "clearkey",
@@ -1324,7 +1342,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "HBO Mundi",
+    "name": "HBO MUNDI",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCZWy9gr5+UB8JA9dnC1z7bWJ/G/YdcwCx+1qPg07Z0F+97PHgDecBhjoMZTHlLSPqnBJCbQSAjeXy9R8iZuvuH",
     "drm_scheme": "clearkey",
@@ -1333,7 +1351,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "HBO Pop",
+    "name": "HBO POP",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBQIzqCzMJ9xj7CGe3ENBuxhbS4HEwN/2Z+tc+2x2ecQ0YfAlrLR0iW3NPnPhFUZYlXmyCc9IGpxorR+TBlkcdM",
     "drm_scheme": "clearkey",
@@ -1342,7 +1360,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "HBO Signature",
+    "name": "HBO SIGNATURE",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCZWy9gr5+UB8JA9dnC1z7b3VxhDz8pM16ZqAXMy7fPJ0r4yU7N8GF69BdAp12iyyEQZhhzyfHHxRG0KhPRH/LF",
     "drm_scheme": "clearkey",
@@ -1351,7 +1369,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "HBO Xtreme",
+    "name": "HBO XTREME",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCZWy9gr5+UB8JA9dnC1z7bbDt4ROfSbf6DUd1k+t8E6f/MjBR55gfeaFJUtqM6AGbUTW5E0Wtra2oe5Cq3/lOw",
     "drm_scheme": "clearkey",
@@ -1365,8 +1383,26 @@
         "name": "Universal+ Pack",
         "mode": false,
         "lista": [
+          {
+    "name": "STUDIO UNIVERSAL",
+    "ico": "https://static.flow.com.ar/images/718/CH_LOGO/350/500/0/0/358638080777.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCGsBcoOUK9aWsAQQFiaNRbsyrVFqSSJlY+FbGH+flXTjXc61PCwFDxtZL7ky0FgArTXSKQvm6TdMAlAAoWi1kYH5YWj/AUjogUi00212YpfA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmd/3pDo3Ai9drrc8YjILxxnhDe6mO3tks9fZO4i7+7zQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+         },
+        {
+    "name": "UNIVERSAL TV",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFxGGTMJOSYXd5uUUWM4of71DUcI7mI/3tsQdL9wMRpNJ6vijnUFcaBw8q0sKsvFUW/6ABPQecly4aU6HEzAn2eg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkN9R9jeGUjCsBmBWlQwvV9ff0kaCuM345jY+0ySUlyocG3cmLov5v/pBvFL5ODL3g3QVsPSVALKdw8BGSnmMFhqHvoicTx0DKGgvTaXsrfvVYQqEBDjE2zKwqjdxc/XUQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          },
             {
-    "name": "Universal Premiere",
+    "name": "UNIVERSAL PREMIERE",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTF0h3cm0W46iHDBUZcPov04NIKwAbgS3VChxzIVu8Zthd6/KfBZALI7Zu7KyV5MiKRUnojpJdSKjByzv8jRcLFIw==",
     "drm_scheme": "clearkey",
@@ -1375,7 +1411,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "Universal Cinema",
+    "name": "UNIVERSAL CINEMA",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFNBdn3ehPJt4gHTm4IYCiaio0r5bPvevtEs/uW0BL/dZLE3iMm2oHy/cWEZ/ZGc3qWjFQvKfH1KDUe8L5bx4kzQ==",
     "drm_scheme": "clearkey",
@@ -1384,7 +1420,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "Universal Comedy",
+    "name": "UNIVERSAL COMEDY",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFWgZ7yznYQ1Odhd+WRBahJdVU9sIH4YJn2h6NyEPrOrKNpeYucs3q6K8zsJz5wImPKgXWAbiD2sGMtFHWfmAWew==",
     "drm_scheme": "clearkey",
@@ -1393,7 +1429,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "Universal Crime",
+    "name": "UNIVERSAL CRIME",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDzanaab7fNk4a+sGW4ZfdFQyxb4Ufn+CNTRjl+I6gpCcxGtr1EJWTN6SbydcN/roUnO55PKqzbefhIIu5trThJdRinOmizFK8Y/MnklKso5A==",
     "drm_scheme": "clearkey",
@@ -1402,7 +1438,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "Universal Reality",
+    "name": "UNIVERSAL REALITY",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFDzAYkOKq2T0ys66MGCflIOtK/SWtLPzf84MJw9+sEPTJg6rBdxL4sHxYoerw2eJ/9d73QWaIoifp3OGcsZcKXg==",
     "drm_scheme": "clearkey",
