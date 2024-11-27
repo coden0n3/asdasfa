@@ -1072,15 +1072,6 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "UNIVERSAL CHANNEL",
-    "ico": "https://vignette.wikia.nocookie.net/logosfake/images/8/8e/UCHD_2011.png/revision/latest?cb=20140429100918",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFxGGTMJOSYXd5uUUWM4of71DUcI7mI/3tsQdL9wMRpNJ6vijnUFcaBw8q0sKsvFUW/6ABPQecly4aU6HEzAn2eg==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglJGBQ02dVX3Ir5xOfOP0ChQQ2Eb2dM6PEnmhrCGsUnhQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
     "name": "AXN",
     "ico": "https://static.flow.com.ar/images/263/CH_LOGO/350/500/0/0/92889820071862.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZB1lHUd9Kb3BI/sjH26BqSCdZI56UwMFo8IKk+nzoyVeXQlC7p9fdjTimHVpXDT4lc=",
@@ -1207,7 +1198,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
     {
-    "name": "Star Channel",
+    "name": "SSTAR CHANNEL",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDdwGmLO7IsiqvoiS9LACspMNBJTKp4dpIX2m9XxcrDor6yb2Q4JHcdr8HXjk4ZtDQ=",
     "drm_scheme": "clearkey",
@@ -1374,6 +1365,15 @@
         "name": "Universal+ Pack",
         "mode": false,
         "lista": [
+          {
+    "name": "UNIVERSAL CHANNEL",
+    "ico": "https://vignette.wikia.nocookie.net/logosfake/images/8/8e/UCHD_2011.png/revision/latest?cb=20140429100918",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZARZ7HYkI9j1J0URhd64nTFxGGTMJOSYXd5uUUWM4of71DUcI7mI/3tsQdL9wMRpNJ6vijnUFcaBw8q0sKsvFUW/6ABPQecly4aU6HEzAn2eg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglJGBQ02dVX3Ir5xOfOP0ChQQ2Eb2dM6PEnmhrCGsUnhQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          },
           {
     "name": "STUDIO UNIVERSAL",
     "ico": "https://static.flow.com.ar/images/718/CH_LOGO/350/500/0/0/358638080777.png",
