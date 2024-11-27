@@ -459,6 +459,14 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnD4P6TpAFJ4ruAHC11jfi6R3u+UTH9qvNm65H856NP1FcAeogun6BOjoieSA5kaMJZYBK2TRe3AkdoCz2yP4rfs52GgNcZy77go2bT18NEMCiz+RlY1IKfIwu5BA4nCyg==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TELEDIARIO TV",
+    "ico": "https://i.ibb.co/5kG0bhZ/TELEDI-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK3+GeoRVRKEp8V4beTpV30A9Z/webF73u43jXU55WhbqEDic8fYuBR7uRDQKw3RmrwSj6d5/srETTXDa/fuIMJIM=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKp+IBvA/4jJ8rPBecPghaageS880zg6C0Cr6xmN0L5n8GqJu/TZY5fznwkIW/G9ZfsP59ErBnnNzvCOMlJ+g8mvwjJBLuSHUpFN4iDnWximGAns2ixDilIJ5lc26A8j4aA==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   }
     ]
   },
@@ -2674,6 +2682,14 @@
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglQcLaD7yhzJiMlWUXin4G9",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "MTV LIVE",
+    "ico": "https://i.ibb.co/31Nzgnw/mtvlive-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK319v9Xt95Jv2I2y183RLAcYJRHmKN0E7oPl0zmumSMTUt0CGjIYyBYPD7mwsUNDLI7VCIQCWUGIM1labhM2s58E=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKq2C0Dw+zDE4dth09/dNOmQ9Y3LXH0yrScFvLCecZJd4dwKmYNBOMkH0/Qrn5qXjFIrGhwXrLkLs/EDt6wlGZeIHJ3xotG1DC+n/lAD9AzlXQgrUJapZIlh4l0NC8/ISYw==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
   {
     "name": "HTV",
