@@ -1550,6 +1550,22 @@
     "uri": "+kna4RNmGOBoAeRaPyAHmKINoSmPkQeuAgrHas1HdJg08Ot7zQP1CsLiCMdEGNLQm09eKdk4aBwjm1e8tkxaqguakIqT7c1MtyBIIAZHw0KP/N24DUzzC58iihDAw4m4",
     "drm_scheme": "",
     "drm_license_url": ""
+  },
+  {
+    "name": "CANAL INFANTIL",
+    "ico": "https://i.ibb.co/RvJ6dnP/canal-infantil-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK30kY3anytTCPp3tahbr5X/PLQobINiMz0YkBZ4wd9R5b8Q7I3uosecMqDU3P6QOzdE00eycm8togpsnbI2YGxLW0oiLDVI3JXu83/5sdrVcu",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlzY+5fEA8gISLUX5PKke7DkTSlm8pPjmUiPRBybJEiq3pLbxThCkT/vJXDoC7qaRk/qtXyJTJkOJQSeHhoNr6G+ZXpKxozzdz4b+k/9gZy3aBO6PQGXJkk+0AtawAV5rg==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "ZOO MOO",
+    "ico": "https://i.ibb.co/p0zzc56/zoomoo.webp",
+    "uri": "AVOCG/dqyQC/mI5F1VzK30kY3anytTCPp3tahbr5X/PtvitwDXZAgw55LDLKp5v1mIdorx2x4J/bn/1WkCt6TfM61B+FdhgknHGG6t1uEPs=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpEA7OVsTd977m7JZdf+4pG7MjvLD3uQUnVa8Ek0n0MY4/NiLU78iXcm6k/mF8G+ijT8L1KmOFV+08XS7CV7UpBSqljHthSrexk8nrtZ9rCtupmwqdvAWMZVyZGe7DC6Bw==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   }
   
     ]
