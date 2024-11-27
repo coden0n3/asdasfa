@@ -1106,15 +1106,6 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKjFc3+L+Wtz9geRGICv3PojAA7ehzbjAVV4VESIL4srgpqijsB1WQRA0F63up57bK+GeLSk8OqaYbdlfiJcPRtdyMPjVBUp3cbAaC+N2SuwpRt3QXPQDiMRJxHteyHjyxQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  }.
-{
-    "name": "[adult swim]",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0JMjRP4UdkETCJwzw8Q5t1Bbrb4MQ1AmMaudAFo9hvNS8X2te9oHelkt/UbOug0cAHpWScUJoP+qitCqihjVm",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvh5MF5+jNNQqtHRoVlgrkQDCgHC/0ulWY4cpYma2I3t/NibobSD8afSf4qxlB4DDw29EpOvofuN+jrIcljEkA8eL+MkZht0EiviCRMLfZeL7bt9pwURjqWIIKtYcvvjlw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
     {
     "name": "Star Channel",
@@ -1152,11 +1143,8 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
-  
-    
-        
-    ]
-  },
+]
+},
     {
         "name": "HBO Pack",
         "mode": false,
@@ -2600,7 +2588,6 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "prot": "1"
   }
-    ]
-  }
 ]
-
+}
+]
