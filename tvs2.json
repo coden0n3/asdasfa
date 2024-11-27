@@ -132,6 +132,22 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "T5 SATELITAL",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true",
+    "uri": "AVOCG/dqyQC/mI5F1VzK39wvlq50s3mPtoX0pEcsqLhejnGGkojoBU7Nxeppaf/NpUfyTtMttM43ZlyvibSxuQ==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpSP+rLW9Rit+YMj/1enthwpG8h1mevrjTF83hAwtgWIhzOVgaFs5VAmqu3h6WNp5UXR2sOF/FHAutwJGnFSh9PLf0UFBjhUkjDjBY7Rt/34L8EcUsWNDqA4cNy28guYTw==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
+    "name": "CANAL E",
+    "ico": "https://www.perfil.com/img/minisitios/econocanal/logo.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK3zEvO2074ESHWshfGLPgMin8dFXOMmzFr41Ua47ZuKj7I1ARqguc/Id6Xrefq9O7HQ==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKm4xz5IYnthpEQ11VsnUqQLYJ1T8gBvUjnrrjalZwbdWRD3i0RzbjQWj6zUx92BiBqKX3s//hleOKxVPSAz7EW7AyosPE62UsIYGPYNBjb7Foy0aFem5Utizx1w1q9Bhfg==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
     "name": "CANAL 26",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZC/FDRSQM+I6+4cLDWQMIpgFOkudTs+IszjHkWbhLyuAus3lRJPl/j4CmtM+lK60cADAp+Pvo2ZUD+0G3NA22Ov",
@@ -293,7 +309,7 @@
   },
   {
     "name": "CBA24N CORDOBA",
-    "ico": " https://i.ibb.co/NW5NWfQ/CBNA.png",
+    "ico": "https://i.ibb.co/1d8sKyn/sda-removebg-preview.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBDsvaN2RXGzjBcx4Q4IvugqeSwSCsgCmrmwOiMOgKr4qqPCXzAE4LAcclUjbN01tU=",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKoTyVsUV2ofEH9SEpuDLtHYJt77W5qyvPEh9wADTsEYryj5aEKSddEjOgfs2+xM538bqPBf07msb4F+fefhdbRUG5HtN4OAwXgHWfSb0xN9jJfIXKWJWUtRQ06apBwLxWA==",
@@ -639,6 +655,14 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi/kxbF66U/NX+R5UFpcdB5oESjXxlbZKp9r+zB20nvs8Iea04v0lG0T6NvD3ZiwT12UCZqJU0UUgJAZJT7F3MR7GCacCedn8SXNmD4DSrv1xWk4ryCTt7DHrZ5hwZHIJQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TyC Sports 2",
+    "ico": "https://i.ibb.co/ZJMgxxp/tyc-sports2.png",
+    "uri": "xXHrJxnr9suRD2+8AXFhOWwV4tJSFp1kUpkcMEZEiuEtnWbbEhMRiA6m80SykNDiGHhaQ5QhEuddKyACGo22LA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKo70crvH0aovmbwGE0ewjGXYxw+43Jf+3GSt//7/6PxS+EEP1fy4TeQZIQzs1Pn/CJCBwnDEJxENGfcDQCvEHEsj1v09brCion+bA7Yjh9RFtMsmAsBVk9ljo+8BC1RyEg==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
    {
     "name": "TYC SPORTS INTERNACIONAL",
