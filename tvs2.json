@@ -4,14 +4,7 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
-     {
-    "name": "LOVE NATURE",
-    "ico": "https://i.ibb.co/mNFGzrs/LOVE-removebg-preview.png",
-    "uri": "AVOCG/dqyQC/mI5F1VzK32ml3n7l/rnsWZZj1eYylqcNus0sdxsLQVQWa6CEf4W8BTQdTrlpHIsuE2LmGzLpoQ==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkWUGEAaIWloav7PCfgvWDYGr9lEqfRHv5a+8l6guMuOy+6z2uhseZGPyW7IYg9uI9EE8TIjXGwGEfRN5veNN+qvG0vC4+t+XH8Bca2bI7XPGtzN4SZdgPO2lTcZ/LbEQQ==",
-    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
-  },
+     
      {
     "name": "AMERICA TV",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
@@ -1966,6 +1959,14 @@
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKglXfA3G65mT4RxGiClFMcuj",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "LOVE NATURE",
+    "ico": "https://i.ibb.co/mNFGzrs/LOVE-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK32ml3n7l/rnsWZZj1eYylqcNus0sdxsLQVQWa6CEf4W8BTQdTrlpHIsuE2LmGzLpoQ==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkWUGEAaIWloav7PCfgvWDYGr9lEqfRHv5a+8l6guMuOy+6z2uhseZGPyW7IYg9uI9EE8TIjXGwGEfRN5veNN+qvG0vC4+t+XH8Bca2bI7XPGtzN4SZdgPO2lTcZ/LbEQQ==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   }
     ]
   },
