@@ -147,14 +147,13 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-  {
+   {
     "name": "Golden Edge",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true",
     "uri": "2INKVfB7C9msZPm24XxiC7d7lkKrjdII41sKis30XU389mMKaiSczoBuL5sokc3k6JuQ9u64eNqtPtWQy4sF5n9BLgfAierjL9CiyquwdZA96ZmJr12DJoo83+7iavOG",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvMjrSSDv6OznUBRvV2MrrCdzYq1GTBSrSgOnkDsj+nffwRkufAjfCfXMxgSWB7WzIsL3zumycujfE5e6nWvLmCddADQon5anygI/kFRCydsy+HGAjuLa/IUfdfUjc9CgQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
   {
     "name": "Paramount Network",
