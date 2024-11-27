@@ -4,7 +4,15 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
-      {
+     {
+    "name": "NOVELISIMA",
+    "ico": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK37TCZOr+HgHGtqv3Yhs4ce1ZQSpEp2Sf1G1PDu7e9JssUByaLzVh8gzhqnoxE3594w==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKiv6R9k4VUb3WhAgFdOoOXhuUphFyTKsDV+iNZ2WzCi9LJ2IRciP3UnEYtYBLw3K/Ey5uBfFL15Gnpv2RgYfzfLTmFbT1tzHNWqd4/sTOBEe1KGpNO0QAf9urpdEkRFYyg==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  }, 
+     {
     "name": "AMERICA TV",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZByr7dsAUhZDg5XQ+V5LGYm390RBlDidoO9J2XK9qO6r/Ldra6ZVGqDEhx2nkgzdFa1zO42vdozbx7E8KFPzGju",
@@ -350,6 +358,114 @@
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwR70IZSUgFM4MfPp8GuhVZ+ppvdXRP8SOGYLsBO6l7HJIFLf+UtH/UaVRvSTL2Imqq+wHHfL1CHzo0qPHqmdUgT",
     "drm_scheme": "clearkey",
     "drm_license_url": "LS6qxNscpFe9rDy2K+y73PRrc7/FsC3FhXgTgx05oimgLiiFPPruVmfYI200KHnYy+Wzt33PBu1HcO9qq1x6yg5aU/fDOjv/qWhMvQhnkHKXi+H1XVkM7QxQjjb7a5Qj/Wo9htPk31zyLEHj2H/loCzMtzioogc5U2XM4hwwWZc=",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS SANTAFE",
+    "ico": "https://i.ibb.co/jLvNjBM/somos-santa-fe.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAxa4lGuzuUEyKvaznAD7q+OOYpoy9caZGSos9v5dOcJoO5hdIPIZ8AdoIuoT9/r2GHuUu6305xHLr7HpMbAuER",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhV2eh+ODhK+x9s3D8OsiD85V2laCyZmjAvpICSKARlxzMftrVSgVarNup4f7u5WHBTamUkyPKVlAMLCLGdmbEUlA7FNB+unuwUeJxQIIUIyH9cELjcKA97Ll8SoUSWBew==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS SALTA-JUJUY",
+    "ico": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwlDQMXitcZbcl84VHSlf5ChHgsrTlew16QQVqgzjB49ZHZ9cedb8VYHwH5qKGJ2+c",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqMTtL0W2XCpwBeplCNbla+hRYebqV0iSF8u+KX2mVAsx3d9/7BjJ+uhW7JlCeJjr2pSJuqzPPwBUY9TOL0RemX5gXHjkU9YvjGmyHFFxQgmMrP7db9nrRXDUwwbwkdzdA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS ROSARIO",
+    "ico": "https://i.ibb.co/BCtZVZT/somos-rosario.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAxa4lGuzuUEyKvaznAD7q+4O2wPWMwahjaAaWLgHTkaRGAyIMbE+Fi+g35l+t6dgdpoqnFHtvPhit42CfKBuR9",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkVF+zU85m0j76RnAl5Xm7/mt1rirCBQ1E06FKB9jR1m4WQCS/F3+cEUbC/rdIcEHgUqUKnqy74yx0U6CsVxuZ/S7Qt8btuWDk6P2jzvfZDpV+Fpyt1/HBLeaeXdlPXY0A==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS RIO 4to",
+    "ico": "https://i.ibb.co/h7VPs46/rioc-removebg-preview.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwWQmGlwADZ2hBsrBMp+AWeNlxz4AD50rrFKsiEvu9JtF1gnnKAjkrDBV8wRyYugxL",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlPIMwVYNHPwY8bLf5rW5yLehnvJs0Ul6DAQYE+F2NxOSwWnMxfvdww1mHQd2TjQmziSawJdx730M6bUBCvaYmSMlxXfaFszi/CeC71X69m2Xh70Ce8SXOVY3m9z380WCA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS RAFAELA",
+    "ico": "https://i.ibb.co/b5KqPnJ/somos-rafaela.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwuhRoKGoMchHQ8L5XphrI+5QE3iP8OQC4gD8InFqvdrfSp9CCPJDExjduuoX7gRjR",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpPJ2iEfH0+/NM4bLuP5L6QdX4Uzqc/WcBE7PCfaJzZ1fpGTO36RqOdhs0/eIM6IStUT+ZlMdHIctVsXFtHW//SCgWUqJ5ng5m81sCoKjXR/7SDI/b1vuizEed7c77x9Nw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS NORTE",
+    "ico": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCyOZr3cU+t8XA/hASN1ZzOuKOuVCkgEfgAaT7Drgf8FqGqjVmib5nnpuwy1LMdxVwBHUpNc9gIwQphAIvllvhh",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKl2wgsgtcbtYM2DVvSBE9WzDgmk10Kl5ixeJPtUnKMU0d8whrOoa1MwTJzz4EjD1OUV8MWf/ari1g8QfnFQ1DCcgwgRhyR3DvufrFSC+aixHIDX5Kd2A/nC3vD1ckr9jKQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS MAR DEL PLATA NECOCHEA",
+    "ico": "https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCSoQNFGTRH/HMajCREiLe2In1DIWu1WPOPWBhASJNUHZqrAQ5dWgudhCwJJ4lViNF7X8aPl0oDs/6Idt4Vv2wmbK2yqxUdnJWpH49W2RiP+A==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKs2hOxr+8ccn6MvaF6AxbRkJ7GLYQPDw3Lvhta88aTUz9ZMh+3BuXrQozIEDR3libQkpOGgzW4INxe5LZTkGKShUbBazmjZDJ2+XyVb11btJbPZSC08exmktcsJzmDgqQw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS LA PLATA",
+    "ico": "https://i.ibb.co/vBWtKxB/somos-la-plata.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCyOZr3cU+t8XA/hASN1ZzOe1gQA3DkoQks/SFfxJvcfstRe+fNfvWoiah6JJDdR/KtyWOygOJM+oOdhTAA6nh2",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKon7sKf01f1zBuAiyJGxWfk8jJUeFDX7i8xe9DRmAtTx3tuVzYLGzCTUOpdBwEZT9n8bRQsL3KPRecg3Si75e4WumzxIKHzhnk3YvCGtuRE7vRSRRCxoHg8qm0oupD9fTg==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS EL VALLE",
+    "ico": "https://i.ibb.co/bdxBzMQ/somos-el-valle.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwF3QLnvYkGEWdSDHvItoX4fFX8Grxe5vKXSBR7thAEybtdQDk66k/78GY4xjV9vX73nsiUCtyRBOU66vhb2m2/g==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv9MQ+JukwGD2jKIrNMjbDlrK1R7vMJF0IhXaddjRcGJvUbQB0TlOMo0d3h/Q6HmLwPpq0Uyzj02V9LMCZhFiAnee8PM8qwzDvznOIrxGnjfL2KX16DNBxM309TbUBRAqA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS CORRIENTES",
+    "ico": "https://i.ibb.co/Jy849HS/somos-corrientes.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuPXYUSJPgj4eu/Ytlt4jwUNqaCnzWfdxhhHb6DzYrnYqp2og3Km+KyuBDYA1ZKdz/qTWcz0Zn5h4lPGLIsy1/N21FRA+QNV5rAI/W1oL2Ng==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKrCwbrdh+wEYEE6etvOZzEWr9e/PZ7zIxeA3mytWKVyVlkfXEK0wdP3FpGGIAulBlT54kkNC9JX1Zdwf8pglgygT4VDkvcjsKdWAUoZlrEMOS3wYIzzMHsj/aqOdIiy8WQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SOMOS BAHIA BLANCA",
+    "ico": "https://i.ibb.co/jMD1ryT/SOMOSBA-removebg-preview.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDJtI+WiS7TgXsoQF2isawaZsM1avBcYwG3lCYv9Y0Ep/RpeolLJDv5rwmtCScK5exy4PSH0U8YvAMfmS0uDjilhrlE3YH0QzZkNtHI7FgiuA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKsY83SvkKkWbH9K5Yyr50wxhrxqPQId9mW54KuI7PHnmHwjl5Y674E9dTTfBqwpaFIaGxbacuk80Pr0/yoXwCWS6PhigTaZNTxZfIXwbIJEULoeO/PKpnVj4mBoDWCXABw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CANAL UNIVERSIDAD LA PLATA",
+    "ico": "https://i.ibb.co/xHqzrPV/canal-universidad.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA6zq8aTzemGw6xUID2dgrRdmZs4J2gAzIlpsooeJ62532naVzDwucf9mj5ibI1aWu85cQJ10GMTxKDBzDxWMjBPn9FwCuDznnW1oryarzWUw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnD4P6TpAFJ4ruAHC11jfi6R3u+UTH9qvNm65H856NP1FcAeogun6BOjoieSA5kaMJZYBK2TRe3AkdoCz2yP4rfs52GgNcZy77go2bT18NEMCiz+RlY1IKfIwu5BA4nCyg==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
