@@ -2111,6 +2111,13 @@
         "drm_license_url": ""
       },
       {
+    "name": "FUTURAMA",
+    "ico": "https://es.web.img2.acsta.net/pictures/14/03/19/13/26/032947.jpg",
+    "uri": "x7nZHOKF8gpOuy69seEHY3zoQIbSE9uVWs8BHKwGVuV9MLzelHuQazGIn+bPe28B+lRAqNwL6h+0d6MSENDHC9o5ltM+M7udVIljBI2DJiY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+      },
+      {
         "name": "ALF",
         "ico": "https://x.playerlatino.live/alf.png",
         "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGnNpiyfWTI2l9kj+t8XVguw==",
@@ -2233,6 +2240,20 @@
     "name": "WWARNER BROS",
     "ico": "https://i.ibb.co/Hpg18GV/wor.webp",
     "uri": "6n1Rt29uo3cbR+mXU/FF5FOl3YiIjFbZOWp+SewPMj7+aYqfacSuL5pAQ0T69Oz2woizei6g7Roe6NLqCDlihvoAJWYqBU26PgAbjtETp4bcMCumbZ5O8DLp806i76LGWDcgBolSL+2tvrYT/7RHKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "WTV",
+    "ico": "https://static.vecteezy.com/system/resources/previews/009/019/719/original/wtv-logo-wtv-letter-wtv-letter-logo-design-initials-wtv-logo-linked-with-circle-and-uppercase-monogram-logo-wtv-typography-for-technology-business-and-real-estate-brand-vector.jpg",
+    "uri": "b9Y0S6A5LGZfjHKCrYfpwKJiXH9JorWZQtmz+GkkwTim9C8ippfaX3h9Bzr6vXjhoAvgies0S5RlLK9O2wShow==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "TERROR TV",
+    "ico": "https://i.ibb.co/hH8Q8QV/terror-removebg-preview.png",
+    "uri": "1z3ynUkCPsPuVYF+WMcKc1wVX9qWLYcHGj+2P/I2jdQL9aGE+VmgyavhtCmHIxCZYIEqFmBpt+Fnxb5QtuEAGQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
@@ -2496,7 +2517,43 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "GEN TV 2",
+    "name": "MEGA",
+    "ico": "https://i.ibb.co/hfFmYXz/WW.jpg",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA1thR6E5hD2H38ZrLU+RHezWw4liyUGlf3go3ludxYFrx1EqvHDi/HonOjnBdp8pb6eqS7uHVHARHtuIAQE+Sm",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkVSMaz/yd3yTmfC0fBtIGF37ClZizwm1U1WK+yWAjBdsGcYX9BHhgkk7G29DUdQZyOQUs4TcHt285m2fD/XHhBakpLfdhW5QnURvKLaJb+QLoWXeN+XX7f0Fs4AOfAaew==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SURTV",
+    "ico": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDZk+R/3PsKbIYqjCwYDt5vhobKJyLOrOx8HsWi1tR/xD6qVXAvt2M2qkpMdMAqzxwuP9l0YAFMbI1ChfFZeKMP",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKgM6UYE3Liup/ckCReF8Mq/k6njCDzZB9hdqRoaclpM0WYWNmW5DUjeao7Xu+M5qmGZmXdcPHXr+jqNEMn/m+U6HAd6tXpSWW/+U3/eJjxTKsOFU8F4OCetvSdCM47pPAA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TV CAMARA",
+    "ico": "https://dl.dropbox.com/scl/fi/ga46lexm3rzqs2fczwf08/descarga.jfifrlkey=0vfg3r5viisf2h3pp5gpwd95b&dl=0",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDTeNE7D/0wK4TyH8flE/Sq8iLMLSWAsyvwbq/ASEX6Qd/rmfnBfceNDUWvhzyin9XAvKws+AcQWnR+SquCzjq1",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlbj+ThFlDPwzYAUEkj89P81OwGGYqQQVpPcAfmux29N2RQYhBX++oKiNtIcr8MtSe8hSeieIYt/T7ZW5grXdRkogimUnF76tGzZXSso0ro3B21x3XjqZXBTfZ96mCV/uA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "LA TELE",
+    "ico": "https://i.ibb.co/R7c5mZN/latele-1.jpg",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzVqHkH7+WEFrrrulqGlttpuf8kZfgx37vX2CCvdbdrafBi+E0vkFnWFo5DKo61x17E50FXVEOc8XjSr0+VuOD",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnKbP6kfo8XE4S4N/GfUsXy8Wn5pUgvusJvAUK3iGQfwi0syHyeBRPHH0RUaYptCNqpo9auMt5pC6Qz1P2Te/3zFrrD9aWUSs7KoMlmG8IRbi1AyGP5sLQK0r7bApggajA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "GEN TV",
     "ico": "https://i.ibb.co/sJ50F00/gen2-removebg-preview.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAMscz0a9817ISpDOxJywoy2Bn0/z0+cUaDAtOI4EJqk/WCZoASVSB0duuyDrCI80E=",
     "drm_scheme": "clearkey",
@@ -2505,7 +2562,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "NPY FLOW",
+    "name": "NPY",
     "ico": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
     "uri": "fU93h+6A4CpkhlDtxeJudX44oxL7mdPY6wyOOKTS5HOwCYQPp/bovgVXx041v0VbujSTEYCZMdTgAYpw8uwUZaA7zNeHHXX5ESR3SWTE14Q0a75z9MY+JFEOU3FVcwY7",
     "drm_scheme": "clearkey",
@@ -2532,7 +2589,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "SNT FLOW",
+    "name": "SNT",
     "ico": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAeetbteYHLFH+QPJPVpO2M+kQQchskMYTN0Uj/9zbZYXQDiLAGJAOTflzKedvLaW4=",
     "drm_scheme": "clearkey",
@@ -2541,7 +2598,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "TELEFUTURO FLOW 4",
+    "name": "TELEFUTURO",
     "ico": "https://i.ibb.co/1sBtkS9/Telefuturo-en-vivo-Online.webp",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAr9YeYhb2tWw3HP/yzoYnuuA54zn6MGV6xT5VXJ2/QTP3GhwaICeZhzXp88+iaSuxAK99JAE1M6uxKLzT/qi9a",
     "drm_scheme": "clearkey",
@@ -2592,11 +2649,11 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "ESPN URUGUAY",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZALdC9+CIXR/WMfYNwkhdn4TN4v536HE8mZG0pwt+RhKTXTYsUhsx2d3xWOJvMWaXPiqV3UWTkVmD/d8dZuk9hF",
+    "name": "VTV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA+6mnVWiaiU/q/LxdDqBrSocSoweEQpsro+JjTfDhyi3PGDH2BEgXt3on3WxQhL0E=",
     "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKiQVNhdcrT9w5ToIpVRJPBbepW7iUrHUYlaF/FuV+raDgv2dqb7XmeI23/pvG6CtyKhPtZmP9B/DYOnUUJQfvvr0CPLaTZiqnV8CvM1dnS9cpcVcOZCNd5tX11kEHgmqag==",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlga+t4qmUEBxwJsOz9u4MCJuwHIfZTcWtsM+vocqULnKXmw2X+W8WEKtfB1oLsD6qplrm8N7Vt5hpVBcs4dLh9trQNib637eARYaDo04FASwb4Uw1Kh142DZ3BbSHqNXg==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -2620,7 +2677,7 @@
   },
   {
     "name": "EVENTOS URUGUAY",
-    "ico": "https://iili.io/298whep.png",
+    "ico": "https://i.ibb.co/55KqkJQ/event.webp",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDx1AnvCSFIMNhNM3zPyFpKjmhvRhDZmSxwBZpxffR834OJN1tv76cWm2wQkJegPEig0jai2lhxs7F8TwJbup8H",
     "drm_scheme": "ClearKey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKgBBY/PXi6efEaZMZE8/RxbIMkDzpuPO7wzEZmme6XE3IOKEbqAANs7xxlr89yT3aqwAnXvUWjDWjCnZtNsQ4pgOcYMrGs0Sc3hgD25FIXe0TAYSNdzQvzqoWFrNp2TjvQ==",
