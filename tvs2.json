@@ -234,7 +234,34 @@
     "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO",
     "mode": false,
     "lista": [
-      
+    
+      {
+    "name": "CANAL 8 TUCUMAN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBBH+FpEYtUf8fQ3y7wBOhCyFQZxgh9C5E2Q/tGZ2kS/WJthLtzTyiAKJhm8ZBoIXB5/xAiIO15JYLrWqAVNMVO6IsSsOLTVGdG4cKPNlMyRw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuo5i9Yx2ATcuiUJoBL7FFPRUTLJOB0iutSNLYWZvti95iw8H8aLn+3JauOjQbArX4Zw6RnjyWQFki6XrDvldmAVDGSG5/JSaDtD5rPQ21s9p8uEwwCAmJwx8jfNMNL7nA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+    {
+    "name": "CANAL 10 TUCUMAN",
+    "ico": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuVqUNi259JRgJ37s1mtYElMiU35uYn6OCKx2Qhv55KzhORS1PXriv2u/x+PyqkcPOr0mz2G7f5eSG1SWJdthy",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqCty20nVY9SMmq7/6afKcyXMWBW9Zavj+eHS51YocIY1MHG62Z+NoLMMKMyQJThowW66wqSr1Mk1YxkldSNZsfGYaict9CpWPbrrpKU+HaWa7fNr6ocRzOJ7ykinOI1xQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    },  
+    {
+    "name": "América Tucumán",
+    "ico": "https://i.ibb.co/Vv5VkwN/AMERICATU.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDl7HI4UnLQQ+LtjdOWJpx/1H/IfbJBSqXtyc7xh6FDXXnGcupRcVq/NNqj9FRwnEGmy9kbTteUr4KZj+Z6Y6Qku4CevEGq6AzYLytaAKI4Wg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkBii87jzj+tlSKv7DWS/KDH4XL+MhUw6WyfwsKAsRW/TF35gCooxcjnELnjHAS0uTdqpIkZTyZjxqOMTRV2YXggzj5tsdaFdgv4nlk1HgVWtQbWAmfd2PgaCy223tICWQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },  
   {
     "name": "BRAVO TV",
     "ico": "https://television-libre.online/img/bravotv.png",
@@ -263,29 +290,11 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "CANAL 8 TUCUMAN",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBBH+FpEYtUf8fQ3y7wBOhCyFQZxgh9C5E2Q/tGZ2kS/WJthLtzTyiAKJhm8ZBoIXB5/xAiIO15JYLrWqAVNMVO6IsSsOLTVGdG4cKPNlMyRw==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuo5i9Yx2ATcuiUJoBL7FFPRUTLJOB0iutSNLYWZvti95iw8H8aLn+3JauOjQbArX4Zw6RnjyWQFki6XrDvldmAVDGSG5/JSaDtD5rPQ21s9p8uEwwCAmJwx8jfNMNL7nA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
     "name": "Canal 9 Litoral",
     "ico": "https://i.ibb.co/LnXVbDd/mi9-x1-175x130px.webp",
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwR70IZSUgFM4MfPp8GuhVZ+mJsXvTizK9I+ihkN51YmUl8s8D5oXVYOzkrI2aSI9A7rcWZwySZasTDsWim+mrnl",
     "drm_scheme": "clearkey",
     "drm_license_url": "LS6qxNscpFe9rDy2K+y73BOqfI2ORDWN+8Ra7QshCgDiE8hQvBe/OLspSVaHl1Ya/r8VoHQL/dEM4i43EUEizq66KAkR8u+V2Uk2HR63PCOwfzpKM1Kx6hlx+U6+XJozC3rlPiQsrAzTsX/WG8DqbyGdrKxXN3toQeSezBB4ttQ=",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "CANAL 10 TUCUMAN",
-    "ico": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCuVqUNi259JRgJ37s1mtYElMiU35uYn6OCKx2Qhv55KzhORS1PXriv2u/x+PyqkcPOr0mz2G7f5eSG1SWJdthy",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqCty20nVY9SMmq7/6afKcyXMWBW9Zavj+eHS51YocIY1MHG62Z+NoLMMKMyQJThowW66wqSr1Mk1YxkldSNZsfGYaict9CpWPbrrpKU+HaWa7fNr6ocRzOJ7ykinOI1xQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
