@@ -2268,11 +2268,11 @@
   }
     ]
   },
-  
- {
-    "name": "▐ 🌍 NOTICIAS INTERNACIONAL",
+  {
+    "name": "🌍 INTERNACIONALES ",
     "mode": false,
     "lista": [
+      
       {
     "name": "CARACOL INTERNACIONAL",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/CCINT.png?raw=true",
@@ -2280,25 +2280,7 @@
     "drm_scheme": "ClearKey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKrRsJh3fX5VRhie8Ki/bKULOrgrZ7BOqtl4oWdnXYAVvLyuqmTOn4wd8U3w+VbHou3gkNfHNr+g1gS8Q2GodJv1VPZPzuRlKnjwcIkzjsq9GfsvQEq5tDpAQ727AJzvbag=="
   },
-  {
-    "name": "CNN",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBfmh/134PjqM9ZZ1Hogeyo7f7hZUXkA+hwMdCVhhiwmZRMrX4dau8Z49T2CqUz/kt9vIq6OwOD3jS9lOfyyVDT",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpMLeqgH/8W2JjvvitUwfTSSNjofArrhrj6GNJ1zIKHZn3Apr7e5pC9iEMhJ5s1/Y6dI+zfq2dJ20OpcZYax72B5Y0BLornzi+r80dtyEnleleIMDp8jAO3BOtANPrjXSA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "CNN Internacional",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBfmh/134PjqM9ZZ1HogeyoKxUeL3MKZhXZ8TpIf3563ddk20/F9a/LYP7E3JiAXpldt4aIFX4KHidXCBilObFG1eqmfgetZvruwvZdxRWuOw==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvqMXBpcES2nGmk+wC2fTh4ZMubaIefU0QY/IrEgivxg6tbRLA+sxNgIKfmIn5oCqHTX5ZKqJ4IKIsI9S+Sh/WoB4gzAQbY6VduGY1tNXc8zMGI152INxn7XnNHtenrUew==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
+      {
     "name": "DNEWS",
     "ico": "https://i.ibb.co/gJL91wN/DNews.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBJCZYOq2jtFc6anNZts4chjTBCr0B81kpgKsCDwz4szQTBV/cdyNBcQTjndA54XTg=",
@@ -2307,7 +2289,7 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-  {
+      {
     "name": "DEUTSCHE WELLE",
     "ico": "https://git.io/JOTLM",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDJDrB48mklQzFBGoYiy2GA/1Sg5/A3y+Lmla7f0rQfyr/IET/1cYN8VvfRvc5S7wI=",
@@ -2316,30 +2298,12 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-  {
-    "name": "EURONEWS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBJFcfyJZrZn0oY3qE3kCQqE+niF6hE7o3ybm2V7vPQH8+MUY/xfxqoE6mdQbHJKMcJo96zHudswx9n4gpktCjQ",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhsw6sNxvXN+ABQLbahpyyGdYomUwjPZMutRn0Ap87QGff0Mr6kWxxD52bxdd01mJ4hel4Z9AnYdt1Y8cig3cUxpq8QR3SYfZz8K26HLb7xxEJv/KXHn9epqADDoITnKbQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
+       {
     "name": "FOX NEWS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBjs3HL9PudpvYfKzx5Ka/seq8Cv3qmmLdUx/zw4COVVmtR7PywsVy0bXiYoJ+1HP0h67wHnlTEYsqz404JK9Ym",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnUvhEyc8SVG+3RK9AuDJK5fhSNRPSacKo1iTHAT6XsxkKHSOuoHsiqmqnJCY7MocZfyjINPwTMtB3N/7S3HoS+iKW0IWRYQJM6IxV7V5DUiRvnPzSf2QCzTYt/Rn5Lc5Q==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "PARAGUAY TV",
-    "ico": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBM4H/bVmr5GWVff1Y/VrPhc4lqwQIqKrw26q66oFvkLgyvvC706D4EAPkXeA35Hn53WUwUfmfxyd6WReMWbxin",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnbotLdt0/nNYfR9GbwbvdIEIVYv+thrZeISD9WcvFucWnFXPM79+MyQ5LPX5ccRCZj8i2NM2Ju5OnGWXZgQ/ujHwQTPe+bmMh9RvB0hUQ97thuVh8xuYxgIkg4NmW4c9g==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -2352,25 +2316,7 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-  {
-    "name": "RAI ITALIA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZASXlxV+5ijXjW7mvcFVpxpGvrg1n6A3hLRJ4uzHiK7npgNkziu7Vwx63OaDroDfNk=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKoN61kMa37dYYaQWkXbkxmWb/SxDr/4bVIuYiaBMj29u6mwyRKJEl5zDxflJZvZYaH1nzvOxtvoLAvwKikYh5FvQ4oHdfmUsCBaR95L2lJVbngSQvxBSDZ0SquhFqHENcQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "TELESUR",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzNOyHqe5EpNHxEWmiJfzVcVJT2+WkerexxQnpzEYFhsaxOis45H9JWmTEbXuv6//oT4W2QKnwYuSob60lmtGN",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKnGdM1aAKqtTlT/wxpN+vC7uhaC/lz8+HsiWQCJZoxb7qKcyGkb9PG0hqAkeVwPwe8wi5RgDwG5YV0SRM6dNEhzFpJ4fh+GHINDiN7ZtNP1pILT27gxVa5M7IbN7BpUeRQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
+      {
     "name": "TN NOTICIAS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBG9/BCyIwilbmZtlMlsUvG5rD2RmRKXTxjW9409DF0kJur+Xc7X3/pWHeO0i/1wHC110BRJJQYuyvHxgniBNfM",
@@ -2379,30 +2325,129 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-  {
-    "name": "TV CHILE",
-    "ico": "hhttps://i.ibb.co/FwB7TSz/TVC-removebg-preview.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCMGahkJnunVjw2ETna4m1/eUfBvYteSD03910YZA4IDh1s00H8fI3/J/yhjPu8eMMjDmiwV/k36VS7kgLKlngF",
+      {
+    "name": "UNIVISIÓN",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNVSN.png?raw=true",
+    "uri": "iLtG1LaCxHu0MheieGB4kYl1s48bmLrYekyEsr7vZYA/wRvCGRybpWvVAvvud/2Hr1+MpTCuvlZZfb/ysaIr8hFwJbC5p5zJK+qCosrNRCVKYlbOxmRL4qjWSqFMXu/w0aDhyQnYcChv/LkpVzoY9w==",
     "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpvguIrLBVwjZKxNGnT37vPyg6PJOCHgK59gLVxLRaST738IS2HRzgPPaE1uWTNSeiKxUkonIZEfi1JyB8pkG7IO7QN69rXjUQviND4kGD9MCY3WzeB+4VyK0Hc7sZ0U9A==",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqI1qwmn0D6RcaZINizvzCIAtaJS00pxsS2+ZaEJI90F9yUfWBMxvfupbqJhed6s8Hgig724iIWjL0x96wgJKzbKQkE+CC1nuOfFlgnf4GL93HC1XDRvOsgpOHpa+sIg0Q=="
+  },
+      
+      {
+    "name": "BLOOMBERG",
+    "ico": "https://static.flow.com.ar/images/666/CH_LOGO/350/500/0/0/5518044607730.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDNo4UZKBwqcP6c0qA/zCdydqUWNCSKVt/lkq1HtWshQfh625VfKk0YN1cDpd1pSVSfESjGkc3HX5ldN4ETmf0/",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgn4NNpvTLZUDrTV+O9tP8xMMILsQ3QOetgox5hgzMvKCg==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TV ESPAÑA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBZQeKZhBohyL6wccMFJU72kS0L5OoUzTbxd7toLOaQhM/stIDFd+ChvFyUo4S1KcaY27i+TeYSWnlZbfT/JomL",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpNOTuj3ukY9nSzqXoy4zDbBN+j1Llaz6OaJtskgw/27d8gZuEwZnsMKQnRQkl8DyOWFXg0fe9ixVGbrz0pUOSRUJOtH3kKPwa9epqvhJtxhjAQjZprNkOrz6Zay6IT5PA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "RAI ITALIA",
+    "ico": "https://static.flow.com.ar/images/716/CH_LOGO/350/500/0/0/577119940729.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZASXlxV+5ijXjW7mvcFVpxpGvrg1n6A3hLRJ4uzHiK7npgNkziu7Vwx63OaDroDfNk=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgnwwTeC/6vXKcPMial1W1Ehl8Mf4FuY26DePtHAU/QlpA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TV CHILE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCMGahkJnunVjw2ETna4m1/eUfBvYteSD03910YZA4IDh1s00H8fI3/J/yhjPu8eMMjDmiwV/k36VS7kgLKlngF",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkq8sK+bt+YVCBDY+7kDaFg",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TELESUR",
+    "ico": "https://static.flow.com.ar/images/724/CH_LOGO/350/500/0/0/2237715507388.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzNOyHqe5EpNHxEWmiJfzVcVJT2+WkerexxQnpzEYFhsaxOis45H9JWmTEbXuv6//oT4W2QKnwYuSob60lmtGN",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkiCbatLBjSwVzg9FZNbpg6",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CNN",
+    "ico": "https://static.flow.com.ar/images/677/CH_LOGO/350/500/0/0/920134780713.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBfmh/134PjqM9ZZ1Hogeyo7f7hZUXkA+hwMdCVhhiwmZRMrX4dau8Z49T2CqUz/kt9vIq6OwOD3jS9lOfyyVDT",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpMLeqgH/8W2JjvvitUwfTSSNjofArrhrj6GNJ1zIKHZn3Apr7e5pC9iEMhJ5s1/Y6dI+zfq2dJ20OpcZYax72B5Y0BLornzi+r80dtyEnleleIMDp8jAO3BOtANPrjXSA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  }
+  {
+    "name": "CNN INTERNACIONAL",
+    "ico": "https://static.flow.com.ar/images/677/CH_LOGO/350/500/0/0/920134780713.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBfmh/134PjqM9ZZ1HogeyoKxUeL3MKZhXZ8TpIf3563ddk20/F9a/LYP7E3JiAXpldt4aIFX4KHidXCBilObFG1eqmfgetZvruwvZdxRWuOw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmSpbJLjW/T/AlsYJ46HuzsqPp6Ay4SAwgZJybRocRkyQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "BBC NEWS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCvbdx7b6VjXYD7IrnlLilNiE1OgQ4i/8bcWExpcFTtEi0PaigrGOo1F+Hu3NJj2cEYkjCApy9NjxB6VcgjleN0",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgn2tfGVNFhzR28IiEUmq/+i",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "EURO NEWS",
+    "ico": "https://static.flow.com.ar/images/688/CH_LOGO/350/500/0/0/6473888207962.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBJFcfyJZrZn0oY3qE3kCQqE+niF6hE7o3ybm2V7vPQH8+MUY/xfxqoE6mdQbHJKMcJo96zHudswx9n4gpktCjQ",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkrm3AXG/FoQ5KUqGKpeJTw",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DW",
+    "ico": "data:image/png;base64,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",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQXbWqps+6vr3l+JzR1YA/3o8M6gzFZU0D+tq6NQX30rIQoSu1AllsFgAEGNTMGoUc=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgno+pQnOxNONdjhrF45AF9T",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Ve PLUS",
+    "ico": "https://i.ibb.co/qYvDVgC/ve-plus-removebg-preview.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK31SyqxZV/qRgZQ0YDRX1G7+++EubobaOcVyGrleUV4eXewVIZKUcfuOWFj2jnGQdyg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlNRSwQxxM0GuwAn4vfv+C/MdzvvojkTis35FBgF5TbMZuCJPYqYEl11qn2rz5cDWZYfyZcFO6akm91Ejf4dzz6ghDLnH7A3mKneZkEYVpk0B3JeKXal4quxt8GVXJ3W5g==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
   {
     "name": "TV5 MONDE",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/798px-TV5MONDE_logo.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZC+JyfeCU5WLNwzHR+pOra0l3C0SIitN1beH8OoIyOXOnAb3XPB7QAISVC7vZKFXyXwNekfwac9FAdvGswauySl",
     "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhLAMLK0fZATQyDJp1USWRxz9rPpanIyp5/XpOJdWJ7kiWMZwU568XgCx752k9g9EeLv+bM1BntjZDEIPYXDEGvk8V53D64o1YkEP+OE1KBGAP1KdZItBZyzfq7uGbjWRw==",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmYOTgRVWJKbWZvzxYg+Mp7",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "UNIVISIÓN",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/UNVSN.png?raw=true",
-    "uri": "iLtG1LaCxHu0MheieGB4kYl1s48bmLrYekyEsr7vZYA/wRvCGRybpWvVAvvud/2Hr1+MpTCuvlZZfb/ysaIr8hFwJbC5p5zJK+qCosrNRCVKYlbOxmRL4qjWSqFMXu/w0aDhyQnYcChv/LkpVzoY9w==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqI1qwmn0D6RcaZINizvzCIAtaJS00pxsS2+ZaEJI90F9yUfWBMxvfupbqJhed6s8Hgig724iIWjL0x96wgJKzbKQkE+CC1nuOfFlgnf4GL93HC1XDRvOsgpOHpa+sIg0Q=="
+    "name": "ANTENA 3",
+    "ico": "https://static.flow.com.ar/images/962/CH_LOGO/350/500/0/0/116715800761.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBPc078IfKKnILe+UqU8805gofHBZCu74IQmJieMc9vBOttx25NZXzDAL+Ri6ZZVtXDDkC1hrMSlrHKmJnNDYrv",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmLNxvP1Of2S6ax2pPC1Mh0",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
     ]
   },
@@ -2540,119 +2585,6 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZByvoEHYzUAZegKvbRUyBRgbcrPY42LZd3bDf1K3Z2Giepxt3YeSiimK6zspGYG7RBXmgN5/UdNG8HEsa3ehUjr",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKiP0y2qp2PG23xszv6usUNatkLwuF1rVmMZ2e9q3szqgmIIojsa1VJze8ZhxJlIsnMtowNOlY7IT0Ro0UXXvmv4du+XNDU3k6tl5x61ou8U6bd75U3D3+Bx/rApZ9y1VMg==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  }
-    ]
-  },
-  {
-    "name": "🌍 INTERNACIONALES ",
-    "mode": false,
-    "lista": [
-      {
-    "name": "BLOOMBERG",
-    "ico": "https://static.flow.com.ar/images/666/CH_LOGO/350/500/0/0/5518044607730.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDNo4UZKBwqcP6c0qA/zCdydqUWNCSKVt/lkq1HtWshQfh625VfKk0YN1cDpd1pSVSfESjGkc3HX5ldN4ETmf0/",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgn4NNpvTLZUDrTV+O9tP8xMMILsQ3QOetgox5hgzMvKCg==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "TV ESPAÑA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBZQeKZhBohyL6wccMFJU72kS0L5OoUzTbxd7toLOaQhM/stIDFd+ChvFyUo4S1KcaY27i+TeYSWnlZbfT/JomL",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpNOTuj3ukY9nSzqXoy4zDbBN+j1Llaz6OaJtskgw/27d8gZuEwZnsMKQnRQkl8DyOWFXg0fe9ixVGbrz0pUOSRUJOtH3kKPwa9epqvhJtxhjAQjZprNkOrz6Zay6IT5PA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "RAI ITALIA",
-    "ico": "https://static.flow.com.ar/images/716/CH_LOGO/350/500/0/0/577119940729.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZASXlxV+5ijXjW7mvcFVpxpGvrg1n6A3hLRJ4uzHiK7npgNkziu7Vwx63OaDroDfNk=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgnwwTeC/6vXKcPMial1W1Ehl8Mf4FuY26DePtHAU/QlpA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "TV CHILE",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCMGahkJnunVjw2ETna4m1/eUfBvYteSD03910YZA4IDh1s00H8fI3/J/yhjPu8eMMjDmiwV/k36VS7kgLKlngF",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkq8sK+bt+YVCBDY+7kDaFg",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "TELESUR",
-    "ico": "https://static.flow.com.ar/images/724/CH_LOGO/350/500/0/0/2237715507388.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzNOyHqe5EpNHxEWmiJfzVcVJT2+WkerexxQnpzEYFhsaxOis45H9JWmTEbXuv6//oT4W2QKnwYuSob60lmtGN",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkiCbatLBjSwVzg9FZNbpg6",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "CNN INTERNACIONAL",
-    "ico": "https://static.flow.com.ar/images/677/CH_LOGO/350/500/0/0/920134780713.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBfmh/134PjqM9ZZ1HogeyoKxUeL3MKZhXZ8TpIf3563ddk20/F9a/LYP7E3JiAXpldt4aIFX4KHidXCBilObFG1eqmfgetZvruwvZdxRWuOw==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmSpbJLjW/T/AlsYJ46HuzsqPp6Ay4SAwgZJybRocRkyQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "BBC NEWS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCvbdx7b6VjXYD7IrnlLilNiE1OgQ4i/8bcWExpcFTtEi0PaigrGOo1F+Hu3NJj2cEYkjCApy9NjxB6VcgjleN0",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgn2tfGVNFhzR28IiEUmq/+i",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EURO NEWS",
-    "ico": "https://static.flow.com.ar/images/688/CH_LOGO/350/500/0/0/6473888207962.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBJFcfyJZrZn0oY3qE3kCQqE+niF6hE7o3ybm2V7vPQH8+MUY/xfxqoE6mdQbHJKMcJo96zHudswx9n4gpktCjQ",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgkrm3AXG/FoQ5KUqGKpeJTw",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "DW",
-    "ico": "data:image/png;base64,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",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQXbWqps+6vr3l+JzR1YA/3o8M6gzFZU0D+tq6NQX30rIQoSu1AllsFgAEGNTMGoUc=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgno+pQnOxNONdjhrF45AF9T",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "Ve PLUS",
-    "ico": "https://i.ibb.co/qYvDVgC/ve-plus-removebg-preview.png",
-    "uri": "AVOCG/dqyQC/mI5F1VzK31SyqxZV/qRgZQ0YDRX1G7+++EubobaOcVyGrleUV4eXewVIZKUcfuOWFj2jnGQdyg==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlNRSwQxxM0GuwAn4vfv+C/MdzvvojkTis35FBgF5TbMZuCJPYqYEl11qn2rz5cDWZYfyZcFO6akm91Ejf4dzz6ghDLnH7A3mKneZkEYVpk0B3JeKXal4quxt8GVXJ3W5g==",
-    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
-  },
-  {
-    "name": "TV5MONDE AMERIQUE LATINE",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/798px-TV5MONDE_logo.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZC+JyfeCU5WLNwzHR+pOra0l3C0SIitN1beH8OoIyOXOnAb3XPB7QAISVC7vZKFXyXwNekfwac9FAdvGswauySl",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmYOTgRVWJKbWZvzxYg+Mp7",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "ANTENA 3",
-    "ico": "https://static.flow.com.ar/images/962/CH_LOGO/350/500/0/0/116715800761.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBPc078IfKKnILe+UqU8805gofHBZCu74IQmJieMc9vBOttx25NZXzDAL+Ri6ZZVtXDDkC1hrMSlrHKmJnNDYrv",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmLNxvP1Of2S6ax2pPC1Mh0",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
