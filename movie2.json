@@ -3,6 +3,26 @@
     "name": "▐ ESTRENOS 2024 RECIEN AGREGADAS",
     "mode": false,
     "lista": [
+       {
+    "name": "Conclave (2024)",
+    "ico": "https://i.ibb.co/JpmpKRh/concla.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2CIyR+oBRnjnMm1WaFvnuDf/r9JDD/jXRabgyNDC98ZA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "1992 (2024)",
+    "ico": "https://i.ibb.co/FgKFYxz/1992-437288628-mmed.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0Op9EppHFFGCfs+p6egSQrXvhuPxfh0ieQU8lSMrY1kQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+ }    
+     ]
+   }, 
+    {
+    "name": "▐ ESTRENOS 2024 Parte 1",
+    "mode": false,
+    "lista": [
         {
     "name": "Elevation (2024)",
     "ico": "https://i.ibb.co/jv6wcSV/ELE.jpg",
@@ -125,7 +145,7 @@
      ]
    },
   {
-    "name": "▐ ESTRENOS 2024 I",
+    "name": "▐ ESTRENOS 2024 Parte 2",
     "mode": false,
     "lista": [
 
@@ -314,7 +334,7 @@
      ]
    },
     {
-    "name": "▐ ESTRENOS 2024 II",
+    "name": "▐ ESTRENOS 2024 Parte 3",
     "mode": false,
     "lista": [
 
