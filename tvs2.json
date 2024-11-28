@@ -281,6 +281,33 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "TELEFE SALTA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDJ15zmY2NFzPawGMaou95E6ASapv3qijjNET4VrAEdphutNwMpMDXbSTPNdNsHsmwCr2Wdwt2p0tFpulP+p75g",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKmIiBYlW4m/YbPnB7je38QvtAfk0rRHVZN3/+D0FYUMhK9YGWbb98yMANijAXUjRZuoz4rtqgfTg/Y6T85M0kqzntmxVht4FeXfYzuw3AeeCN+leh7DF/4K1zvWSXaHgAQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CANAL 12 CORDOBA",
+    "ico": "https://i.ibb.co/60sFBfY/og-image.jpg",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKo//72D6XuvPk2EB8vs0HzdNtHbvRxwCTTsqnEUJkNIZsYHKs2I/OZvsui27fqLfj3pADbMOQqneU3nej4LdO",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKiJsxAmsFLnj78wP2jhHR2MpgmAGM+n9eLK0Fg3y/NTUyJnf5ZB6iD+0MoADBArHFRuPeoY1XILcsZFOrqn3JD5MgMk60WxI0RyZD6hYhUoi2eFzRk3yzLhhcbJWGNzOEw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TELEFE NEUQUEN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDJ15zmY2NFzPawGMaou95EVH3ad94zqe2zz90SbkHBtS/sJigCi3gbfJBoUaHJyrHgxpkvhl29OHnylVHU/ZB7",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlTZEqeIdH/zRZgRl93mqRFUsOTgQt9QtiTtBeaRXEf8F8KYA6TrQYEGJ7waWz7i3vzUfX9/JPD3pgQdMx3Hd0KVIwx9/c/UniEy+53FoKpEWBQz9dkLbXBzW4Sc7pG3Pg==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
     "name": "CANAL 3 ROSARIO",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTj3vR2QczToHQjfO3ym93scOkg5wf9iCd6m1/qFcVQFJnV/NQnuA98BM7z8JjunYw5bNt2DtEzzuiKnE6cVIxt",
@@ -511,6 +538,13 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "FOX SPORTS 1 OPC 2",
+    "ico": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
+    "uri": "DbeggH+ga0UD49RvRZWaGCMD+1woPQHaDQX6xZJWLJ/c34nnXddqnOkdTfy+nRI8djLeZ3X1cCdvHjmgN2v7EJgqogbcgASW66ih7ce9TXY=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhgwcruQC1/OaRun9SiseMnAAxAejfbIbdggYIEMhZqenndTupeDVE65FUe1/TiBHOIcegzmQlYbxSB/LCP3sbBAydWM/pNpxT0ulNuzFiXxZOq0D4B7Mm52tLzp3z3OQw=="
+  },
+  {
     "name": "FOX SPORTS 2",
     "ico": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKrMWz9+YYGWSo7y/3Qq205BlUy+ZD5FaZe1Un1/fSeN0Xy4R6Jhqm82X5iaaBzlE/vlAUvkH8eAEHCObPyOJE",
@@ -520,6 +554,13 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "FOX SPORTS 2 OPC 2",
+    "ico": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
+    "uri": "DbeggH+ga0UD49RvRZWaGCMD+1woPQHaDQX6xZJWLJ/c34nnXddqnOkdTfy+nRI8wANVpYS8fZm06d06Tvi5RqA/cyZMfsOXIgMRvjrPjaCB4mooYvyt0RRlYYj3dZ8K",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKojr0+vugd7jAjEMG/+RprieZ2xIkGB1SwnXQ2mEWu0Gz6IOuhqKUnC7GljjYBEvPm+OSdqnpyDvfOjvC+5BO6QVrJTbgUd7QzkfUzrX+U0I2uLxvvKdIhoNyVlIc2f5cg=="
+  },
+  {
     "name": "FOX SPORTS 3",
     "ico": "https://i.ibb.co/v1dVGND/foxsports3.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKrMWz9+YYGWSo7y/3Qq20byj6lFDP2nlSxlbltXAdGEjY1XdSj/c2k2xSjsl5mziqMC7fKwbSuauusRvnO+tt",
@@ -527,6 +568,20 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKn+2FGy4CYUVwvdw+5mp68vBYFuLv8fLTEG/gV7bUZJjERHvLVD8T1SUXjJ4GBKJWBzk88lx9c8u9Z2cjfBBSkdaRv7hjJfgG0iJhVEBx63YId9PYHEgd3caONN/HGzddQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "FOX SPORTS 3 OPC 2",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg",
+    "uri": "DbeggH+ga0UD49RvRZWaGCMD+1woPQHaDQX6xZJWLJ/c34nnXddqnOkdTfy+nRI8hWJSN/guBiEW83KCo2oK/2MArOkJGTnbrl+9Is4T9jXqn78whPuknLb8uBZS1dxh",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKghpFEfhldAAK6lcRvycP0YMU2TgCOzqqhyHuLT4tuim+iiG4jcN6P9Z915TTf4/BRJTSqXhhdfdTezJ2iPO4g7TtX1D4LoOY+Hxn6MeritcNxwh6JP7k106tQKE7koZ5Q=="
+  },
+  {
+    "name": "FOX SPORTS PREMIUM MX",
+    "ico": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB1u3-4ngo1qfaujbtapbDdV3nexMx1AaNhNOcOV14Z6GoPuG5uB79_zDIREFVkPN4RokXkf6AwRMuhLyw3gC5qLBFn7pjVYe0JYZN3EaFX9BopSnVFagnLkgkwA8MIaZlLdnfJdBRPriEsjhq8x28SwoPHTRXrpOoOIUlLsy17L2oDUPVR52sWJWs/w640-h360-rw/foxsportspremiumtvlaint.jpg",
+    "uri": "xJsJ5k6m9broVKm3zARYLU88SNOu+lb/c8lwErBufmwVcVfGmBiC3gJHQJLr4d2TruZ9eJ6pE6uTNl0nYCoE/8zZoBUfF4f9FlZDZtZFn74UkG+DS7WUcGrpbnzyfE61jktJCCDL2y2tSyaZALH8BPUKtgOx/mXLpMotNpHNXnc=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuW7/pwvCmdrdc6ZxMgOjIItW4b8Ph2pTb62fIrHfW+grCaMTxAhvBR3hP/j+jhLj6yKrTOTsfhYLIfRBpA4BrKcDSyWDG5wjF7PIvh2QUijXYy9skxnAxwyqczNPJKB6Q=="
   },
   {
     "name": "TNT SPORTS HD",
@@ -2500,6 +2555,15 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDNo4UZKBwqcP6c0qA/zCdydqUWNCSKVt/lkq1HtWshQfh625VfKk0YN1cDpd1pSVSfESjGkc3HX5ldN4ETmf0/",
     "drm_scheme": "clearkey",
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgn4NNpvTLZUDrTV+O9tP8xMMILsQ3QOetgox5hgzMvKCg==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TV ESPAÑA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBZQeKZhBohyL6wccMFJU72kS0L5OoUzTbxd7toLOaQhM/stIDFd+ChvFyUo4S1KcaY27i+TeYSWnlZbfT/JomL",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpNOTuj3ukY9nSzqXoy4zDbBN+j1Llaz6OaJtskgw/27d8gZuEwZnsMKQnRQkl8DyOWFXg0fe9ixVGbrz0pUOSRUJOtH3kKPwa9epqvhJtxhjAQjZprNkOrz6Zay6IT5PA==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
