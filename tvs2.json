@@ -2860,35 +2860,35 @@
     "mode": false,
     "lista": [
   {
-        "name": "PLAYBOY",
-        "ico": "https://i.ibb.co/CbcmBJ3/Playboy-TV-01-removebg-preview.png",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-        "prot": "1"
-      },
-      {
-        "name": "SEXTREME",
-        "ico": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/1000?cb=20130927203009",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-        "prot": "1"
-      },
-      {
-        "name": "VENUS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/1920px-Canal_Venus_logo_%282%29.svg.png",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "https://aqfadtv.xyz/clearkey/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-        "prot": "1"
-      }
+    "name": "PLAYBOY",
+    "ico": "https://i.ibb.co/CbcmBJ3/Playboy-TV-01-removebg-preview.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBcR3lHoLQLVUNGsle34aspsW6wDws5zYrprGdHguPeqQzy+m55suyIqkDu6AaFqVobMyEyNh0Qi27QskXuSpxS",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKujeRGW4BgaruwV1jqJ4J2cSxLpP0wqeWZyEJOdmL0RKvcLsSRp4WZW/NjNPCAYa1AumFZOmGyM4P7bjvUB6crjPtFzGvoMAlo/rMYiAPxEG2rZpbkn3DBSazc9XTxE78g==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "prot": "1"
+  },
+  {
+    "name": "SEXTREME",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/1000?cb=20130927203009",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZC5G1d7hn/QyUHSUhQGZYbW0zcaaoVRyrHYs64yrFBIIlw/Fr9kn9g7ZkosrMacUMK6jwpTPEIdg/cOVlFfrgg0",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKtC/X9f4HOp6xY8b+jle3O27caX4grMgq1XG9uut9lAPqENzrQo//q5m1r/i5XhKH+dIe1wxwR2DLpO6cCu2YGgCirO1Pg1guN459Odo4tgC1yZJ7fik4NGqKQ3jXgybow==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "prot": "1"
+  },
+  {
+    "name": "VENUS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/1920px-Canal_Venus_logo_%282%29.svg.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA95VQ0TyKxIwLCwCUu0xFDyBd5ikDrPDDBBobKDXG/29TAHmgEKSkOd0O8KZuMvPs=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "odEOLBXC7YTYCsbiifUPOnXiWVBIsg1YbEvIW54lXiIPbYKgjyz7KrUVugNuIRXYzdBbhVqsJhqgHJ54SmD2w+E/aXa5FemB05fy2JpuwnqUBtpz83+L1nPZBKycmKK4+cKE8qPtHLy/jdbhnhYCEA2e8bOB7GndpgHedInq+i0=",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "prot": "1"
+  }
 ]
 }
 ]
