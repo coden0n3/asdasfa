@@ -474,6 +474,226 @@
     "name": "▐ SERIES NETFLIX",
     "mode": true,
     "lista": [
+	    {
+     "tipo": "serie",
+     "name": "Arcane Temp 1 (2021)",
+     "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW9tLlh9NRkVEWefDTanu9VM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW5qGvax2dAXEjLyosQvbrqs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW+pEF4FZeRFcDCYMJ2h+OwQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW286X7MuUNqbNixzt1FKtp8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW83VODGWdzI4iCBwqADC8Tg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW/uBdJb7a4Hs46Nd7OB/NJ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW3BlhPBGjQofII8uRekR2Q4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW+H2OaeuP+40B/tIrXNCa2g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW1eX8hva6egbKhiUyRL8NP0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
+ {
+     "tipo": "serie",
+     "name": "Arcane Temp 2 (2024)",
+     "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW9jlzfIezidEp8JXGED/bzc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVWx/Il8TZCJiRLM8gpXqFw1E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW3hagy4f4cVFqp+WrxDIZSQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW0pDS319q+Sh1DBljREQPww=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW5LclhbfGWNBXXYz4oaGHyU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW5ke/+gvLbTWyLMTIDueMig=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW6gyzXCRvtCWwcwweJE1PQ4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVWxcAOsfDkJrZJMuQmbVfjc8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW4BvDoVBc2q3U1Jy4C31Oto=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "From Temp. 1 (2023)",
+     "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCfmrpKF9Tix6P91sTO1nLtaWIMAvvefUBpCi+wvckylw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCNaMZySJOtm4QjRkTVkPBG8E3T36/mcLisy0lQxwXIVk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCH/38qWr+fEYxR/jlV1540KrFPJqUH/Y/6Ii9JYPgbDU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCCsbyKGrlS9cavYb3Laa3PzpWLUrSRA4NMA3M23fReK0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCPyOCwOfp6GRIXCEfkNcZ+OI/B3/xrcE2Qv8sd17p6uM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItC9JpIe080wE0DmtzTjxNiXkAZLXZkBxOYOdL2YaeUBxY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCDosWEF3+awXa/Pe5aX9Bu5DN2yGkJQgWBtfqBp2udrU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCWnnq7MFTv+i0Eb9ZWlfqLYkbuo6tUV8/OkY7gAIUcVo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCdVyxXOPQNRTqLalFBHtGwnb8HUXIE3/Ll8sJeIoY31A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCN9dNCmhRHXktUOswhUGhay/zbb9nqr8jEg9kvHAqYHc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
       
 	{
      "tipo": "serie",
