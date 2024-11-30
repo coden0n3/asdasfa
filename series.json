@@ -3,6 +3,70 @@
     "name": "▐ SERIES 2024",
     "mode": true,
     "lista": [
+	{
+     "tipo": "serie",
+     "name": "Dragon Ball Daima",
+     "ico": "https://i.ibb.co/4fpqx1M/da.jpg",
+     "temporada": [
+          
+ {
+    "name": "Capitil 1",
+    "ico": "https://i.ibb.co/K2gwKrx/cap.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyG7e6gwDWGSN4VR/hW8BkVg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/d5RcXrr/cap-2.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4FtSfnKSIoHITrjjbdAa5Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/7Kp3WZv/cap-3.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyC4bTQ5tAqtok1PsEIpFSuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/c6BYFTH/cap-4.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4G/hZ0VMAa2wPJFSZ3Im6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/q9rq626/cap-5.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGycmMXgpuEzlaPlX+oxgkmrQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/B4N0stv/cap6.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyb8KqNQ8Eh2oGn+SCgK7jlg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/PQP0mxd/cap7.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3CIzyxRTvf6jqR6TorRnBc1auHz8wlyFSFj8eyFWIy0tOB8NhPCmlG6lVND9Y7HuY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/jM8ktZf/Whats-App-Image-2024-11-29-at-23-31-06.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HcjcyxWTF9SsmcI1WGhVukUl7A54wjaRyUmeDOIkGbRQQbvAG4Llg+ABDQ88w7QJw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }	     
+     ]
+   },
           {
      "tipo": "serie",
      "name": "Detective Alex Cross (2024)",
@@ -228,63 +292,6 @@
 	   
      ]
        },    
-	{
-     "tipo": "serie",
-     "name": "Dragon Ball Daima",
-     "ico": "https://i.ibb.co/4fpqx1M/da.jpg",
-     "temporada": [
-          
- {
-    "name": "Capitil 1",
-    "ico": "https://i.ibb.co/K2gwKrx/cap.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyG7e6gwDWGSN4VR/hW8BkVg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 2",
-    "ico": "https://i.ibb.co/d5RcXrr/cap-2.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4FtSfnKSIoHITrjjbdAa5Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 3",
-    "ico": "https://i.ibb.co/7Kp3WZv/cap-3.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyC4bTQ5tAqtok1PsEIpFSuA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 4",
-    "ico": "https://i.ibb.co/c6BYFTH/cap-4.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4G/hZ0VMAa2wPJFSZ3Im6w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 5",
-    "ico": "https://i.ibb.co/q9rq626/cap-5.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGycmMXgpuEzlaPlX+oxgkmrQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-{
-    "name": "Capitulo 6",
-    "ico": "https://i.ibb.co/B4N0stv/cap6.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyb8KqNQ8Eh2oGn+SCgK7jlg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 7",
-    "ico": "https://i.ibb.co/PQP0mxd/cap7.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3CIzyxRTvf6jqR6TorRnBc1auHz8wlyFSFj8eyFWIy0tOB8NhPCmlG6lVND9Y7HuY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
     {
      "tipo": "serie",
      "name": "Teacup (2024)",
