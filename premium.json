@@ -2738,7 +2738,20 @@
 
 
 	
-  
+  {
+    "name": "Spider-Man: Sin Camino a Casa",
+    "ico": "https://i.ibb.co/h9DLYyP/sincaminoacasa.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1G3FiylEzjSgiIzEmuXywABkzEU0JI4g6Aw7hq38JYO73+wYzLgPjCtIAdFjiPKyk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+		{
+    "name": "La hermana de nieve (2024)",
+    "ico": "https://i.ibb.co/k3CspFR/LAHEMANA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3B9ilww8Oq0SFi3OR+FEFGbK+HcnhqVBug5VOsDHhSSg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+       },
   {
     "name": "DSI: Departamento Secreto de Intervención (2024)",
     "ico": "https://i.ibb.co/9ZNT8bM/dsi.jpg",
