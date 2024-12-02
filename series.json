@@ -168,9 +168,9 @@
     "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysExcykELO1MkH/dvuDHd5niQWEQ0eXp/e4mfN2ChmVtNwOKKkVqgy62xmkU8XgSbd",
     "drm_scheme": "",
     "drm_license_url": ""
-    }
-    ]
-   },
+  }
+]
+},
    {
      "tipo": "serie",
      "name": "LA BIBLIA TEMPORADA 2",
@@ -259,9 +259,9 @@
     "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysy2GGOTPH73XCkwK/6CwFCOR/hPuMSGgqm+/tQbrfO9rYeRpiJVJ9wVsReQTgabXc",
     "drm_scheme": "",
     "drm_license_url": ""
-     }
-     ]
-   },
+  }
+]
+},
    {
      "tipo": "serie",
      "name": "APOCALIPSIS TEMPORADA 1",
@@ -428,8 +428,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-     ]
-   },
+]
+},
    {
      "tipo": "serie",
      "name": "APOCALIPSIS TEMPORADA 2",
@@ -596,8 +596,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-     ]
-   },
+]
+},
 	{
      "tipo": "serie",
      "name": "Dragon Ball Daima",
@@ -659,9 +659,9 @@
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HcjcyxWTF9SsmcI1WGhVukUl7A54wjaRyUmeDOIkGbRQQbvAG4Llg+ABDQ88w7QJw=",
     "drm_scheme": "",
     "drm_license_url": ""
-  }	     
-     ]
-   },
+  }
+]
+},
           {
      "tipo": "serie",
      "name": "Detective Alex Cross (2024)",
@@ -723,8 +723,8 @@
         "drm_scheme": "",
         "drm_license_url": ""
       }
-     ]
-       },
+    ]
+  },
 	    {
      "tipo": "serie",
      "name": "Ciudad de Dios (2024)",
@@ -772,8 +772,8 @@
         "drm_scheme": "",
         "drm_license_url": ""
       }
-     ]
-       },
+    ]
+  },
 	    {
      "tipo": "serie",
      "name": "Bandidos (2024)",
@@ -828,8 +828,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-     ]
-       },
+]
+},
 	{
      "tipo": "serie",
      "name": "Marvel Studios: Legends (2024)",
@@ -884,9 +884,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-	   
-     ]
-       },    
+]
+},    
     {
      "tipo": "serie",
      "name": "Teacup (2024)",
@@ -948,9 +947,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-	   
-     ]
-       },	    
+]
+},	    
    {
      "tipo": "serie",
      "name": "Cromañon Temporada 1 (2024)",
@@ -1012,8 +1010,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-     ]
-       },
+]
+},
 	   {
      "tipo": "serie",
      "name": "Coppola: El representante Temp 1 (2024)",
@@ -1061,10 +1059,10 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-        ]
-      }
-    ]
-  },
+]
+}
+]
+},
   {
     "name": "▐ SERIES NETFLIX",
     "mode": true,
@@ -1137,9 +1135,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-	   
-     ]
-       },
+]
+},
  {
      "tipo": "serie",
      "name": "Arcane Temp 2 (2024)",
@@ -1208,9 +1205,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-	   
-     ]
-       },
+]
+},
   {
      "tipo": "serie",
      "name": "From Temp. 1 (2023)",
@@ -1286,10 +1282,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-	   
-     ]
-       },
-      
+]
+},  
 	{
      "tipo": "serie",
      "name": "Ángel Di María: Romper la pared (2024)",
@@ -1316,8 +1310,8 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-     ]
-       },    
+]
+},    
 	{
      "tipo": "serie",
      "name": "Las hermanas Guerra",
@@ -1462,9 +1456,9 @@
         "uri": "nnQ4vk+dR/V6QKQ9uqk/lRGww0y0cwW+AfasuVXjal5td2jIfKxf/9QzDX0RKK8EGhmCOoDW55d2baVctD9lug==",
         "drm_scheme": "",
         "drm_license_url": ""
-      }	   
-     ]
-       },
+      }
+    ]
+  },
        {
      "tipo": "serie",
      "name": "Desprecio (2024)",
@@ -1518,9 +1512,9 @@
     "uri": "nnQ4vk+dR/V6QKQ9uqk/ld+CiZFCjI73o8GlC93LWBzBdiIl1DEwmoLa2/AiAlU2ZP3TNhxEDIakb7V4Du6gwg==",
     "drm_scheme": "",
     "drm_license_url": ""
-   }
+  }
 ]
-  },
+},
 	{
      "tipo": "serie",
      "name": "Nacidas para brillar",
@@ -1611,7 +1605,7 @@
     "drm_license_url": ""
   }
 ]
-  },
+},
  {
      "tipo": "serie",
      "name": "La jaula (2024)",
@@ -1651,9 +1645,9 @@
     "uri": "nnQ4vk+dR/V6QKQ9uqk/lYD/rFR8JjJiXykf4kS4rQLPXdNDNmCwRoBiyma2FD8a9sO3d2opAqZA7MRA5BcsD9Rt4ooxUbtMOLoSmL9/il0=",
     "drm_scheme": "",
     "drm_license_url": ""
-  }   
-     ]
-       },
+  }
+]
+},
 {
 "tipo": "serie",
 "name": "Asalto al Banco Central (2024)",
@@ -1694,10 +1688,10 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-        ]
-      }
-    ]
-  },
+]
+}
+]
+},
   {
     "name": "▐ SERIES DISNEY+",
     "mode": true,
@@ -1741,9 +1735,9 @@
          "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DdGXVOvlcYv3S1x2oAl0IiGPkYt/zjsYLIiFupy1Jxfk=",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
     {
      "tipo": "serie",
      "name": "EL ENCARGADO TEMP 1",
@@ -1825,9 +1819,9 @@
          "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HD6T4MSlFAwxGTA3t7tHf7mVH0qezprrhu8BFRFEmdHDACxhkJabiBJlGooSlqeR6pbGdAveF9KLZg6EaGkhIc",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
    {
      "tipo": "serie",
      "name": "EL ENCARGADO TEMP 2",
@@ -1888,9 +1882,9 @@
          "uri": "2tUqre4Ve6UnTDqhbnokh/JRzCXafSlLUS2BNULa+O+IqqeNtczi7SJ8oUeqV+SLTJPNYhgf2J6qu7gYNEwXMYm9hai8Xs2sLPKQ3LpsrMZjv4tnMtU0u+VOXnc86xSffqysgvyKE87jBqN2JNvszw==",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
    {
      "tipo": "serie",
      "name": "EL ENCARGADO TEMP 3",
@@ -1944,9 +1938,9 @@
          "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ydd8z09xFgcwff8acO/0wJEvElK291SIVfdqZSfI8Cyk=",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
    {
      "tipo": "serie",
      "name": "INVASIÓN SECRETA (2023)",
@@ -1993,9 +1987,9 @@
          "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D0QzAGPqkMIT+oZHngQ3FMdVC3AdK6XuZaRYrrWiJm2o=",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
        {
      "tipo": "serie",
      "name": "Agatha en todas partes (2024) Temporada 1",
@@ -2064,10 +2058,10 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-        ]
-      }
-    ]
-  },
+]
+}
+]
+},
 {
  "name": "SERIES-INFANTILES",
  "mode": true,
@@ -2125,9 +2119,9 @@
          "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lVcKKCCHoIkCQ01qSNZyapzLGyOOoSVTTeUyHGQrowgk=",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
    {
      "tipo": "serie",
      "name": "RECORD OF RAGNAROK",
@@ -2216,9 +2210,9 @@
          "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lRPmaEh5S2WOJ7gC17UXyqm+N4vbdERkypgJgMwuP+BM=",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
    {
      "tipo": "serie",
      "name": "LOS LOPEGGS",
@@ -2279,9 +2273,9 @@
          "uri": "GIrU6PBIehQ2wyl37NFJ7w==",
          "drm_scheme": "",
          "drm_license_url": ""
-       }
-     ]
-   },
+        }
+      ]
+    },
 	{
  "name": "SERIES-ANIMADAS",
  "mode": true,
@@ -2325,9 +2319,9 @@
         "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2SKCie2tZoqoMx9nesF7Tg7Z04lFLrCizTa77cbhCHe8=",
         "drm_scheme": "",
         "drm_license_url": ""
-       }
-        ]
       }
     ]
   }
+]
+}
 ]
