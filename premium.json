@@ -1605,6 +1605,14 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "Kanal D Drama",
+    "ico": "https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/165/165/0/0/91513859074694.png",
+    "uri": "http://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9cab32316b3d8aae0452755cebdaadd&key=35e61869849168043a44045f2d7ff842",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+  {
     "name": "SANTA MARIA",
     "ico": "https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA6+GZlJ5EDvjnUFZOCtA5PUbB21SCxF4LvK9MwJGF882cG7foyi6rbvl9SRUyMztHt/4I1/CpYIzC7uHBPnlKv",
