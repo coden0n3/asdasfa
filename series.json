@@ -781,6 +781,85 @@
 	   
      ]
        },
+	    
+        {
+     "tipo": "serie",
+     "name": "From Temp. 2 (2023)",
+     "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzSnyiF7WqxfYVICsJIOz5SF9bHbAmuDHgiBwKsKzsgqA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzciiUZf15QEeVmQG8zlvjRdEloCIUdbbTtgqWObD7D5g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzd5JJKLpuChZlqnIQskwX6+9P/7aznW0e/hMZo6eO7Rg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzmiUf1NtTu8fChPMYRmaamB5NuasnQVOmNXZ6AgLIO3A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzf4Bd5Nflh0s3+bB1Vip5SujgPZIC/RUHRGckhNGJeDk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzSx/2skYXNBFtib/hqmbDhdEkr43gDGmyxxOXd/jK0Rs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzvoo1wRPmOiuQm+CdQPguKIuSB4PSozBrinuw6jQOmNU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzO9Y7dxNvJSX6ZA8boUtzPnc9CyPnDoopCMkyr8Bv0pY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzZ1O5ae071Xx0J59ohJrqQFDPSy9kypoCzV6mfOq7AC0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzRGsleWy9MJBSgpNWHsEvr3cHHaTzOuxp564pAZwCGnI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
       
 	{
      "tipo": "serie",
