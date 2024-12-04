@@ -4,7 +4,14 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
-      
+      {
+    "name": "Kanal D Drama",
+    "ico": "https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/165/165/0/0/91513859074694.png",
+    "uri": "AVOCG/dqyQC/mI5F1VzK319v9Xt95Jv2I2y183RLAca0SbprOEibzRcclmWaunH709BLDQgnz/bUM3EDotq2eMuCNfhYpMg1fDfqxm9LXSU=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKurPzRcXTCzOv7qiiEv9cVATHfNxLMsVpbHhOtahQLtGB3IsVso4bJLDzI9jkEEHd0/IPeI6IlH7bHkxusidQzEdJcU2G7KVtrEEfusUA6QfJuxxWeGLke3JrekEbW7enQ==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
      
      {
     "name": "AMERICA TV",
