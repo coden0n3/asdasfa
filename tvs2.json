@@ -877,7 +877,7 @@
     ]
   },
   {
-    "name": "⚽ TNT SPORT EVENTOS",
+    "name": "⚽ EVENTOS TNT SPORTS,TYC SPORTS,FLOW EVENTOS",
     "mode": false,
     "lista": [
   {
@@ -886,13 +886,7 @@
     "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri0DtrMaeKtqcYn9jxf5rIuyGe6dhjjvCP+jmd8vcwIU/DSe9bBd9I+h8UpxTUEUnYTVWfvLQYtC9iDjiXyOyTBs=",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKp0sb+/FSv12O5wgJZihYK2uV0PpexD5DUocO7Fo7+WBBOCg85FfRHO68+VVZby9BNMLnGvE06pgoSG3zNBYWmcC/+HuiJs599YLeHsGl0LJoZc8lMIxPJ6g18hmcxQumQ=="
-  }
-]
-},
-  {
-    "name": "⚽ TYC SPORT EVENTOS",
-    "mode": false,
-    "lista": [
+  },
   {
     "name": "TYC SPORTS 1 SOLO EVENTOS",
     "ico": "https://i.ibb.co/CH4FW4q/TYCSPORTEVT.png",
@@ -908,15 +902,9 @@
     "uri": "AVOCG/dqyQC/mI5F1VzK39wvlq50s3mPtoX0pEcsqLiJ1mxfsGDNpSP7upnWcVsgicKo+ZaeWQ1F6Qh5J9w7vw==",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkwgMGjEWewpIlyHncY+RfLFwPEkyUM/soAtOusTe5IvYzQS2gQuh3tbluT/Id8VRWL8XN4ZYag2hwVKq2GZa+rVKdnA9yUlykyVMNW8uKwNfzBgEMCwOEGThwpnLTvgzw=="
-   }
-    ]
-  },
-  {
-    "name": "⚽ EVENTOS FLOW",
-    "mode": false,
-    "lista": [
-  {
-    "name": "EVENTOS 1",
+   },
+   {
+    "name": "FLOW EVENTOS 1",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAhKu64KHooyeEhnSaIBqfAfT/pMukgeAOpyIpwB2kG4Iu3wgh1TSUNLnkleuKq7k7Z7ruv7ygGiD4UYVHhJjYU",
     "drm_scheme": "clearkey",
@@ -925,7 +913,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "EVENTOS 2",
+    "name": "FLOW EVENTOS 2",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDx1AnvCSFIMNhNM3zPyFpKWGaHzLhiyRCNz1mR451Irrz57VZPWGPiUDjJLQQAWMpxmRfYpnqqcv42lisxnNEm",
     "drm_scheme": "clearkey",
@@ -934,7 +922,7 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "EVENTOS 3",
+    "name": "FLOW EVENTOS 3",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDx1AnvCSFIMNhNM3zPyFpKjmhvRhDZmSxwBZpxffR834OJN1tv76cWm2wQkJegPEig0jai2lhxs7F8TwJbup8H",
     "drm_scheme": "clearkey",
@@ -942,8 +930,8 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   }
-    ]
-  },
+]
+},
   {
     "name": "⚽ DAZN",
     "mode": false,
