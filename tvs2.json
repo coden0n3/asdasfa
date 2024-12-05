@@ -2244,16 +2244,9 @@
     "drm_license_url": ""
   },
   {
-    "name": "PASION DE GAVILANES",
-    "ico": "https://i.ibb.co/C1CzznL/020246.webp",
-    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntUkmiBuFgNVKcnsejL8rIbPg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PABLO ESCOBAR: EL PATRON DEL MAL",
-    "ico": "https://i.ibb.co/1qym6Ts/pablo.jpg",
-    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntU/5wNYCDCHcBtAKfsssNszw==",
+    "name": "X-MEN 97",
+    "ico": "https://i.ibb.co/S5yW6Cb/xmen.jpg",
+    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntUhQAZaBCIG91+1bupLtyG4Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2279,12 +2272,33 @@
     "drm_license_url": ""
   },
   {
-    "name": "X-MEN 97",
-    "ico": "https://i.ibb.co/S5yW6Cb/xmen.jpg",
-    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntUhQAZaBCIG91+1bupLtyG4Q==",
+    "name": "PABLO ESCOBAR: EL PATRON DEL MAL",
+    "ico": "https://i.ibb.co/1qym6Ts/pablo.jpg",
+    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntU/5wNYCDCHcBtAKfsssNszw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  {
+    "name": "PASION DE GAVILANES",
+    "ico": "https://i.ibb.co/C1CzznL/020246.webp",
+    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntUkmiBuFgNVKcnsejL8rIbPg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA SAGA CREPÚSCULO",
+    "ico": "https://i.ibb.co/r50Gv7h/sagacres.jpg",
+    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntUIIg5P2/L5NKzi+JScBf0iQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MARVEL: ORIGENES DE WOLVERINE",
+    "ico": "https://i.ibb.co/9W69WJs/WOLVERINE.jpg",
+    "uri": "n3WZ8LR50M6QDm5Qh+vLj8HERSlT9ZYROEAIavd/hgsq/VRDr7OheLz2mUa954q9AYxhhj5aanZlR1Zys61fsQbhuine1YW+TKMf5Efyb5MuyKYSvcK/dKUWnHP8UntUsi3SVzHOYGXCroZizALO5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
   {
     "name": "SAGAS RAPIDOS Y FURIOSOS",
     "ico": "https://i.ibb.co/V01gddh/SAGA.jpg",
