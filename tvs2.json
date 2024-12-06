@@ -4,7 +4,14 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
-     
+     {
+    "name": "Arena Sport 1",
+    "ico": "https://tvprofil.com/img/kanali-logo/Arena_Sport_1_MK_logo.png",
+    "uri": "GcIPzKf1n7XxJClzfIOwn0gdPpG98QnsKBbYlb/xmjPk+NsV5/cArqQHboPjPmm9CDvN5p18X2+tWyaq4xtB/A==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuaJLgepckjmHkMFTDRHEhv+Yf3AWkmf1GX85esvMKXGqeXegZhjfqmxLODAep2NI6RF6cOeBXWf5MDj3NEMs/CETXskcRO0E/aM0dtA0AD9f9JbGBwC6kkXKVRG7xOj/w==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+     },
      {
     "name": "AMERICA TV",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
