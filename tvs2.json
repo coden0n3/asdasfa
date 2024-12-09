@@ -561,34 +561,7 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-   {
-    "name": "TNT SPORTS 1",
-    "ico": "https://i.ibb.co/J23H3DB/TNT1-removebg-preview.png",
-    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri6bT6ZgXs15ntRAcE7fQCbVJy0DxSMI9MhAqaZTkrOc4pe4PF11VOAio6wN3EUWG7dH6dLOInoAO0NcbgtGyQ1c=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhi8CAfA1G3zPKqV0NI7rOjutyoTiBep0XScuvRWrzRSl2CDtug6mqQ/JSxnSiJuVvMYFQcCuyMaPIwx5rdPC2X5cXbLDxgg0pYmIwwskyZf8Ucz12YTlmDq277U2aQq1g=="
-  },
-  {
-    "name": "TNT SPORTS 2",
-    "ico": "https://i.ibb.co/tKCYJT4/TNT2-removebg-preview.png",
-    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri6MVLiDuqZE8prN4OcnJe0h42X+xzfbXU18F7304Z96ZWAH3FXtePAQac5RQn1YPlQ4/W091N4I+0ARB6VfbuKo=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv79LEK7gZvrwgXLlXVHUuVIp/u87YUv99hPf6aMmo+UtD2oEvpRzBS92TNXbY1dfet0C/SVBfja064Mcb5+W1ywJtl/Nw7Iby4ev3NKcOSPLDOuH/kll7JJ/HZTgBpjXw=="
-  },
-  {
-    "name": "TNT SPORTS 3",
-    "ico": "https://i.ibb.co/9cphzG6/TNT1-removebg-preview-removebg-preview.png",
-    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri6flXxC6muRO8wrvlLfOlMKINO2AHyV0jPmtbvmdsiQk1xJDoOHYIoessgewTG/XErOy9bYDYm5FpVBLo44XUpc=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvRS6XzjUxRiAWje83kUD/Dx4L+MNLlT3juFhyQdNXIBd1Ow8LhytaZXjJroE8QEEdgPdz5wiYY/txOvzr23Gp/hCvChIwDWUPixgosDvEnvjVPklHyytyfDq1E9qE790w=="
-  },
-  {
-    "name": "TNT SPORTS 4",
-    "ico": "https://i.ibb.co/WWfCt3D/TNT4-removebg-preview.png",
-    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri4tDcktRFIaU4Aw6Y1GhKxykN4iXVcn35/QLVLyy1tPmO1OwXDraGwIOZjroGPM9A0gyFS3e7pw3lmhdrIpeP7M=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKu37n9HNdZr9KGkEIRyOTmcXK8KVRfQ8XdLV9D1AIFOLp+ipjGJuu5AlF/zwXlsWnnI9EP8eykOieRasMvbLb0Gi+FUskvYPh9PVqFbgfjsn6BIhS8Vt7OFkI0T9A7MVZQ=="
-  },
+   
   {
     "name": "ESPN",
     "ico": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
@@ -935,6 +908,34 @@
     "name": "⚽ DEPORTES INTERNACIONAL",
     "mode": false,
     "lista": [
+	    {
+    "name": "TNT SPORTS 1",
+    "ico": "https://i.ibb.co/J23H3DB/TNT1-removebg-preview.png",
+    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri6bT6ZgXs15ntRAcE7fQCbVJy0DxSMI9MhAqaZTkrOc4pe4PF11VOAio6wN3EUWG7dH6dLOInoAO0NcbgtGyQ1c=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhi8CAfA1G3zPKqV0NI7rOjutyoTiBep0XScuvRWrzRSl2CDtug6mqQ/JSxnSiJuVvMYFQcCuyMaPIwx5rdPC2X5cXbLDxgg0pYmIwwskyZf8Ucz12YTlmDq277U2aQq1g=="
+  },
+  {
+    "name": "TNT SPORTS 2",
+    "ico": "https://i.ibb.co/tKCYJT4/TNT2-removebg-preview.png",
+    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri6MVLiDuqZE8prN4OcnJe0h42X+xzfbXU18F7304Z96ZWAH3FXtePAQac5RQn1YPlQ4/W091N4I+0ARB6VfbuKo=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKv79LEK7gZvrwgXLlXVHUuVIp/u87YUv99hPf6aMmo+UtD2oEvpRzBS92TNXbY1dfet0C/SVBfja064Mcb5+W1ywJtl/Nw7Iby4ev3NKcOSPLDOuH/kll7JJ/HZTgBpjXw=="
+  },
+  {
+    "name": "TNT SPORTS 3",
+    "ico": "https://i.ibb.co/9cphzG6/TNT1-removebg-preview-removebg-preview.png",
+    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri6flXxC6muRO8wrvlLfOlMKINO2AHyV0jPmtbvmdsiQk1xJDoOHYIoessgewTG/XErOy9bYDYm5FpVBLo44XUpc=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvRS6XzjUxRiAWje83kUD/Dx4L+MNLlT3juFhyQdNXIBd1Ow8LhytaZXjJroE8QEEdgPdz5wiYY/txOvzr23Gp/hCvChIwDWUPixgosDvEnvjVPklHyytyfDq1E9qE790w=="
+  },
+  {
+    "name": "TNT SPORTS 4",
+    "ico": "https://i.ibb.co/WWfCt3D/TNT4-removebg-preview.png",
+    "uri": "qi0hiBkq4QLqcvD/DPa40AfRxuOkJ3A0bR21iqy+Z0UhvyPpOsGi8DXm6swkNYYO9eDlq8WTrCZyKydf9KRri4tDcktRFIaU4Aw6Y1GhKxykN4iXVcn35/QLVLyy1tPmO1OwXDraGwIOZjroGPM9A0gyFS3e7pw3lmhdrIpeP7M=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKu37n9HNdZr9KGkEIRyOTmcXK8KVRfQ8XdLV9D1AIFOLp+ipjGJuu5AlF/zwXlsWnnI9EP8eykOieRasMvbLb0Gi+FUskvYPh9PVqFbgfjsn6BIhS8Vt7OFkI0T9A7MVZQ=="
+  },
 	  {
     "name": "ARENA SPORT 1",
     "ico": "https://i.ibb.co/kqYNfYh/A1.png",
