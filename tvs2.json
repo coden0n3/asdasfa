@@ -2639,139 +2639,6 @@
     ]
   },
   {
-        "name": "Flow Radios",
-        "mode": false,
-        "lista": [
-            
-            {
-    "name": "Flow Music Clasicos",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMCLS.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QfcjibRyog4/DjnzT4ZJFqa",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music 90's Hits",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FM90S.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qf3RGGKCS0MFvVdbYRc8qX7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music 80's Hits",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FM80S.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qd6f7RdkWR1fHod+r32V1tN",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Grandes Éxitos",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMHIT.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QctYKf3J2HVM0wox//4itP5",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music 70's Hits",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FM70S.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qdi8mON2xZxCFgl1q5jChvO",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Disco",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMDSC.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdOI6GqSIfL1dELu10jWfbT",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Retro",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRTR.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdlXiWRYLRdEHRcKQVrqH4g",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Rock Nacional",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRNA.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qc/ytjEsfHj2KpGWLmWQyjV",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Rock",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRCK.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qf53rkhdqxUtaHoR+TVnVlj",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Reggae",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMREG.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qchpmqt/17EZOlCCsTjpVcr",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Cine",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMCIN.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdqegLwl5691JD/Bvq7eo9f",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Cine Clásico",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMCLC.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QckCAagC5LITOaNSIC8m+ls",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Lentos",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMLNT.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QfcQK7RIkV5/er3oB7ZkIa7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Reggaeton 2",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRG2.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qfx5/vUP9mpXvd+d1Sh9kGm",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Reggaeton",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRGT.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QeNC+dH7eDPJ8f/OrCAlP/3",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Latinos",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMLAT.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QeQDlbIVWIkxvYBop1yfPSY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Jazz",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMJZZ.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QeG+0GtIt2+Y73p65kYAUKJ",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Flow Music Electrónica",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMELT.png?raw=true",
-    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qfw2j1MNdx4LMeNUZNQrNkj",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-  {
     "name": "🎵 MUSICA ",
     "mode": false,
     "lista": [
@@ -2941,6 +2808,138 @@
     "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   }
   
+    ]
+  },
+  {
+        "name": "Flow Radios",
+        "mode": false,
+        "lista": [
+            {
+    "name": "Flow Music Clasicos",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMCLS.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QfcjibRyog4/DjnzT4ZJFqa",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music 90's Hits",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FM90S.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qf3RGGKCS0MFvVdbYRc8qX7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music 80's Hits",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FM80S.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qd6f7RdkWR1fHod+r32V1tN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Grandes Éxitos",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMHIT.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QctYKf3J2HVM0wox//4itP5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music 70's Hits",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FM70S.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qdi8mON2xZxCFgl1q5jChvO",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Disco",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMDSC.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdOI6GqSIfL1dELu10jWfbT",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Retro",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRTR.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdlXiWRYLRdEHRcKQVrqH4g",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Rock Nacional",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRNA.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qc/ytjEsfHj2KpGWLmWQyjV",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Rock",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRCK.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qf53rkhdqxUtaHoR+TVnVlj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Reggae",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMREG.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qchpmqt/17EZOlCCsTjpVcr",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Cine",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMCIN.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdqegLwl5691JD/Bvq7eo9f",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Cine Clásico",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMCLC.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QckCAagC5LITOaNSIC8m+ls",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Lentos",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMLNT.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QfcQK7RIkV5/er3oB7ZkIa7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Reggaeton 2",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRG2.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qfx5/vUP9mpXvd+d1Sh9kGm",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Reggaeton",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMRGT.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QeNC+dH7eDPJ8f/OrCAlP/3",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Latinos",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMLAT.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QeQDlbIVWIkxvYBop1yfPSY",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Jazz",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMJZZ.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QeG+0GtIt2+Y73p65kYAUKJ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Flow Music Electrónica",
+    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/FMELT.png?raw=true",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qfw2j1MNdx4LMeNUZNQrNkj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
