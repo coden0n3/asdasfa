@@ -1908,16 +1908,41 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkWUGEAaIWloav7PCfgvWDYGr9lEqfRHv5a+8l6guMuOy+6z2uhseZGPyW7IYg9uI9EE8TIjXGwGEfRN5veNN+qvG0vC4+t+XH8Bca2bI7XPGtzN4SZdgPO2lTcZ/LbEQQ==",
     "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
-
-
-
-
-
-
-
-
-
-	
+{
+    "name": "ANI RETRO",
+    "ico": "https://i.ibb.co/nCB0DGJ/images-removebg-preview.png",
+    "uri": "1z3ynUkCPsPuVYF+WMcKc1wVX9qWLYcHGj+2P/I2jdT9D1xf+PCV9EH6KgNfgzHaR74fVlvoXuoagbpnh0AU5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "INFANTILES",
+    "ico": "https://i.ibb.co/g3SZYZ9/INFANITLES.webp",
+    "uri": "b9Y0S6A5LGZfjHKCrYfpwKJiXH9JorWZQtmz+GkkwTit+YBEnZkgtZbm/jD+i7UHV5Ozme+E03x6MKolAKGLxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TERROR TV",
+    "ico": "https://i.ibb.co/hH8Q8QV/terror-removebg-preview.png",
+    "uri": "1z3ynUkCPsPuVYF+WMcKc1wVX9qWLYcHGj+2P/I2jdQL9aGE+VmgyavhtCmHIxCZYIEqFmBpt+Fnxb5QtuEAGQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "WTV",
+    "ico": "https://i.ibb.co/FxwK33H/WTV-removebg-preview.png",
+    "uri": "b9Y0S6A5LGZfjHKCrYfpwKJiXH9JorWZQtmz+GkkwTim9C8ippfaX3h9Bzr6vXjhoAvgies0S5RlLK9O2wShow==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AS ANTENA SEIS",
+    "ico": "https://i.ibb.co/h24PnWD/ANTENASEIS.png",
+    "uri": "b9Y0S6A5LGZfjHKCrYfpwKJiXH9JorWZQtmz+GkkwTihWXDDf9G1sUNwSFxr2cnrmeLH6/vWxyd7UKXiZUpG/g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "CARACOL INTERNACIONAL",
     "ico": "https://github.com/masterentertainment/listas/blob/main/logos/CCINT.png?raw=true",
