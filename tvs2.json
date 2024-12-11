@@ -2357,13 +2357,12 @@
     "lista": [
   
   {
-    "name": "EWTN CATÓLICO",
+    "name": "EWTN CATOLICO",
     "ico": "https://iili.io/dblYQJn.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZD2nZd88Q8baNt8GyeGkcDsLs0Ut34UIiLyMyl5E2/TwW+2IRDn3VANe+HGmIMZ+80=",
+    "uri": "AVOCG/dqyQC/mI5F1VzK319v9Xt95Jv2I2y183RLAcZnwdQmLln1Wvey+HZJyhkMUY6SBCQAiEVDb2L/dSO0hA==",
     "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKudzk5hE2BUoPEg3F17wZMzjv2aW/4MUNuz7WlW/jlgahoLOalD5tNEcfDKkHQDNq2kdlXZoEpkNDXzNZvSeq9LJJnmTsebWvoWmCblboSF3ZnPLsJ/fpRSSvZsMEE26xA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi+WWCURrc0QudzpeDw5yX8aqTt/lq/xZiwxV+gci8In2NmEbptgK/r3jwF9ZObDgHe1xpWXD5oIiAhAtFYwyk6S6Qa6LMnW+0v321HOOWY8brQSt+DZyRTi3VaAQGecRA==",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
   {
     "name": "CANAL LUZ",
