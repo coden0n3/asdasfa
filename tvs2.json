@@ -1814,13 +1814,13 @@
     "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
   {
-    "name": "CANAL LUZ",
+    "name": "canalLUZ",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDlDWQjneejAb5ubM9NMXyyBmFrXrGpd9LjK48+2GWfBgoZHvAFXbtAYn2ULURSnBozzIAsOk36lwGE6YSD+yu3",
     "drm_scheme": "ClearKey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOB/Cmc3GhtLTn+QpULPFi1aP6rpmQ3bkuXnMcUITTvc2YcJcN0jRZQKK+At2gjrsRuw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlDFasXnxu1w4QvzWhZNfLnP1fHQ+a55fCKoybzuNQz4lxpgI0p6FFHeZpKlLldXSnWRM78G4xCXqBMeQkJCM+8J4iqMpOBHOQI2ateRbRwySCpbTm7bI77n/nYBgdsYGw==",
+    "origin": "https://player.sensa.com.ar/",
+    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
   {
     "name": "Kanal D Drama",
