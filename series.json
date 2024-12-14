@@ -5,6 +5,56 @@
     "lista": [
 	    {
      "tipo": "serie",
+     "name": "Como agua para chocolate (2024)",
+     "ico": "https://i.ibb.co/R0jbn46/i.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/R0jbn46/i.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HqtGrKVfmQuYpG0KG56alRgtJuiwoyJEROEElF4pnmXQUw/QFk2wkp4EL+7cG/7iA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/R0jbn46/i.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HqtGrKVfmQuYpG0KG56alRgtJuiwoyJEROEElF4pnmXQBnYX6UGJOu+rqcUfEjRWo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/R0jbn46/i.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HqtGrKVfmQuYpG0KG56alRgtJuiwoyJEROEElF4pnmXTB2dmZatjW6pd58imIicqQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/R0jbn46/i.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HqtGrKVfmQuYpG0KG56alRgtJuiwoyJEROEElF4pnmXXi5D5IyI32GAVc/EQ84O2g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/R0jbn46/i.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HqtGrKVfmQuYpG0KG56alRgtJuiwoyJEROEElF4pnmXUekiL/CTuwcWjb/wdKSDNE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/R0jbn46/i.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HqtGrKVfmQuYpG0KG56alRgtJuiwoyJEROEElF4pnmXeSULi2RAo5PJdAKvj3ErYg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
+	     
+	    {
+     "tipo": "serie",
      "name": "SECRET LEVEL Temp 1",
      "ico": "https://i.ibb.co/G0gbSBv/SECRET.jpg",
      "temporada": [
