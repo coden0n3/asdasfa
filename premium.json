@@ -1596,6 +1596,15 @@
     "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
   },
   {
+    "name": "TL Novelas",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzNOyHqe5EpNHxEWmiJfzV56ST8MQaXhwh/kOZcFsbb19CytI8iw3As7oakw+j6bX52NHxfy9bqr2Ghr/ppfiH",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKp0sb+/FSv12O5wgJZihYK2rv6kW248oOYP/WlZC7K9RVBZUcW8avB94koFSYzllepSZ163gcvesJZKQcRtM7L3sPaUO26kHH/ggrXBPHyBJC9UZTxM4N69TnzEvBtmGdQ==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
     "name": "CANAL LUZ",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDlDWQjneejAb5ubM9NMXyyBmFrXrGpd9LjK48+2GWfBgoZHvAFXbtAYn2ULURSnBozzIAsOk36lwGE6YSD+yu3",
