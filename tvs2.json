@@ -5,15 +5,6 @@
     "mode": false,
     "lista": [
      {
-    "name": "TL Novelas",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzNOyHqe5EpNHxEWmiJfzV56ST8MQaXhwh/kOZcFsbb19CytI8iw3As7oakw+j6bX52NHxfy9bqr2Ghr/ppfiH",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKp0sb+/FSv12O5wgJZihYK2rv6kW248oOYP/WlZC7K9RVBZUcW8avB94koFSYzllepSZ163gcvesJZKQcRtM7L3sPaUO26kHH/ggrXBPHyBJC9UZTxM4N69TnzEvBtmGdQ==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-     {
     "name": "AMERICA TV",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZByr7dsAUhZDg5XQ+V5LGYm390RBlDidoO9J2XK9qO6r/Ldra6ZVGqDEhx2nkgzdFa1zO42vdozbx7E8KFPzGju",
@@ -1788,13 +1779,6 @@
     "mode": false,
     "lista": [
       {
-    "name": "TLN NOVELAS",
-    "ico": "https://i.ibb.co/bvgpSt4/tlnovelas-2020.png",
-    "uri": "PCwXiEhS3WaZ8WsDC8CNTYPn/Pi28y9q3D8MRvVVz1oTTBXJiJqCcPyw5HZtg665LPmxzVsqNfJdAze2Gcr1hQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-      },
-      {
     "name": "BRAVO TV",
     "ico": "https://tele-libre.org/img/bravotv.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDnJzrpiqiyI/o6LyHe4nbRjzi6/DlNSj/WkdhgmbsgPXgYO7fFiX9VqPbr9IEWGHKbmN1mOvsBvezXbgrdR9jT",
@@ -1818,6 +1802,15 @@
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQAtt6Y9cQbkFovdy6EPLpT1UFoNUr1bnICLHuT4Uy3W0rppMGzQWcje6ILpFKMXY0=",
     "drm_scheme": "clearkey",
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOBzaqTzR5/mHo7WC5180rKuvM9vozLBHPUyW4kA4TzTSXgI3/mS6mSNI3otMph8jLJUWabpIy7PBtdvmmaeUHZiw9BFwqpQeaai8ni/O9MIkcCOA9VBUwWuV86bOYXNgu/w==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TL Novelas",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzNOyHqe5EpNHxEWmiJfzV56ST8MQaXhwh/kOZcFsbb19CytI8iw3As7oakw+j6bX52NHxfy9bqr2Ghr/ppfiH",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKp0sb+/FSv12O5wgJZihYK2rv6kW248oOYP/WlZC7K9RVBZUcW8avB94koFSYzllepSZ163gcvesJZKQcRtM7L3sPaUO26kHH/ggrXBPHyBJC9UZTxM4N69TnzEvBtmGdQ==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
