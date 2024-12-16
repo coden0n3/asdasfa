@@ -2193,12 +2193,166 @@
     "mode": false,
     "lista": [
       {
-    "name": "el chavo test",
-    "ico": "https://i.ibb.co/Q8WxMs1/el-chabo.jpg",
-    "uri": "evzXdriFrEGI0G1LtqH/xeBPj5XB1nuB+WCh3ez7FiE=",
+    "name": "animaniacs",
+    "ico": "https://image.tmdb.org/t/p/w300/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzxlMltqhMRO0YXs+EsHM00Q==",
     "drm_scheme": "",
     "drm_license_url": ""
-      },
+  },
+  {
+    "name": "ALF LATINO",
+    "ico": "https://tse4.mm.bing.net/th?id=OIP.oec-w58vnJcSM0t3P2oUygHaFj&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzmRMtgoZkDp3iYZk4rfCThQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SCOOBY DOO 24/7",
+    "ico": "http://3.bp.blogspot.com/-0OKkIhiIX1M/T0X1fISVAGI/AAAAAAAAEj0/ypzZwODRw0A/s1600/The-Gang-scooby-doo-the-mystery-begins-8128722-1280-1024.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzYOO9tDSsjlUgRW18/Uj36A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HEY ARNOLD",
+    "ico": "https://tse3.mm.bing.net/th?id=OIP.f0pk3FEc8svgU_DuFltH1gHaFj&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzVoSJ1agOvdO6kTHU46rL7A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BOB ESPONJA",
+    "ico": "http://www.gratistodo.com/wp-content/uploads/2016/10/Bob-Esponja-7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzVLTWpmpO72sPSMVif8VszA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CABALLEROS DEL ZODIACO",
+    "ico": "https://tse2.mm.bing.net/th?id=OIP.f_J2LHyAjf88WlmjuvfS8wHaEK&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzlnn8W4jlNA1pf+/pHUJ0qw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL GALLO CLAUDIO",
+    "ico": "https://tse2.mm.bing.net/th?id=OIP.EMhJaHUWUB4w_AJpnqzdwwHaKk&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzhJ26C6S/PgXGgTPNYGlK+g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PAJARO LOCO",
+    "ico": "https://tse2.mm.bing.net/th?id=OIP.dljPN85xWCK7flPdW5Hz0AHaFj&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSz3NQ9108MPa8WjilziJozug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DRAGON BALL GT",
+    "ico": "https://tse1.mm.bing.net/th?id=OIP.yHoDgzf7j4q9lfByGwwNoQHaF7&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzmSa4ut4/tKoApEVerrcAdg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL CHAVO DEL 8",
+    "ico": "https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSznNpmTGVzH9jZ45uvWsLCVQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DOS HOMBRES Y MEDIO",
+    "ico": "https://pics.filmaffinity.com/Dos_hombres_y_medio_Serie_de_TV-390220233-large.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSztvv9vYs3jHkJOVsSUa6DkA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RANMA",
+    "ico": "https://tse4.mm.bing.net/th?id=OIP.XPjzKBk29yZffPTB9ORvhAHaFi&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzuF7zvTlK31tcMZ/BPAOdXQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TWO AND A HALF MEN",
+    "ico": "https://tse1.mm.bing.net/th?id=OIP.Y4buR8wB_7Zz0CrjpU4OrAHaFj&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzEUJw7r3Swe0VKkOC0dYx2Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PRINCIPE DEL RAP",
+    "ico": "https://files.lafm.com.co/assets/public/2020-04/principe_0.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzjJyJFeC08WXbGGpQ1DvoVA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TOM Y JERRY",
+    "ico": "https://2.bp.blogspot.com/-oELMd_VkE64/V21A19S62EI/AAAAAAAAEWA/8Tv-a7ap29gvjemO4BeuY0SWvEtZMNMfgCLcB/s1600/tom-y-jerry.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzotD29OJtx6wfZROpDVKD5A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOONEY TUNES",
+    "ico": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39f8cc8acc30d50c46963dc9c2811afd9d7f3d58f75a9e9848b96e072fbc241d._RI_V_TTW_.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzOflhr2IOc3xZYdGc8zPElg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SAKURA",
+    "ico": "https://as1.ftcdn.net/v2/jpg/05/27/43/20/1000_F_527432004_Ib0J5S2UjfrDf0CYRybE5mJA35xF2t2W.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzRtq8+dVaC4YyJgX11jHGBA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS SIMPSONS",
+    "ico": "http://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzStrYsIoTLuivsT/X7n4F+g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHESPIRITO",
+    "ico": "https://tse1.mm.bing.net/th?id=OIP.hN9BXVMt9YV8IVd4YRr5GAHaFj&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzju7T652CSvda+nbPAQT4ww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "YU-GI-OH",
+    "ico": "https://tse3.mm.bing.net/th?id=OIP.9CYFNoLo99kVWSYIGWeuDQHaD4&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzePVNhWjU0QP2Wfm19r2t3A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS PICAPIEDRAS ",
+    "ico": "https://www.gratistodo.com/wp-content/uploads/2016/08/Los-Picapiedra-2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzuKMeZwsAuEE2NiE4K/yTEg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DORAEMON",
+    "ico": "https://pixahive.com/wp-content/uploads/2021/04/Doraemon-Cartoon-Illustration-410092-pixahive.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzPmxE8qLy1LPfs3Io1GQgvw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA PANTERA ROSA",
+    "ico": "https://tse3.mm.bing.net/th?id=OIP.VErK4HoRWpfEB3bqEGloRQHaJ4&pid=Api&P=0&h=180",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzPWVMNZQT20y4b2Oz4AsB4A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
     "name": "ANI RETRO",
     "ico": "https://i.ibb.co/nCB0DGJ/images-removebg-preview.png",
