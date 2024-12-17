@@ -52,51 +52,6 @@
     "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlbO005QqjIV47n7yVMLC0uE=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "GRAN HERMANO",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5YejNuBtelwEFNiQ/yyV/+yDk",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBwp8uW5nXRJGK/XCTY8FwOvSL9dYvEtFIqephBVoWDsOSU6GF6Op4r7rsrVteYCdBA==",
-    "origin": "https://clpfrprod.directtvgo.com",
-    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-  },
-  {
-    "name": "GRAN HERMANO Camara 1",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5YejPY8QGcCznWSns148mk9x9",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBwp8uW5nXRJGK/XCTY8FwOugS4RuDJLDZwC+DWsCqSmKM3Q5/3x3qW5xyVjAf3FZQg==",
-    "origin": "https://clpfrprod.directtvgo.com",
-    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-  },
-  {
-    "name": "GRAN HERMANO Camara 2",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5Yeiw3VaQ7U1RRrGwnlFOdSAS",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBwp8uW5nXRJGK/XCTY8FwOugS4RuDJLDZwC+DWsCqSmKgiYQ+TDkLhqOpZmLVqXvTA==",
-    "origin": "https://clpfrprod.directtvgo.com",
-    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-  },
-  {
-    "name": "GRAN HERMANO Camara 3",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5Yeg1HSDwDknD17iIsGPr1gIP",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBwp8uW5nXRJGK/XCTY8FwOugS4RuDJLDZwC+DWsCqSmK11FS13P57lhKXD0ZuE1NvA==",
-    "origin": "https://clpfrprod.directtvgo.com",
-    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-  },
-  {
-    "name": "GRAN HERMANO multicamara",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5YejE7MYFqxVe34rBptM7r9dQ",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "/OENOgf2kRIyAnzHIFyOBwp8uW5nXRJGK/XCTY8FwOugS4RuDJLDZwC+DWsCqSmKIr2pksWXo+8RwlOXZi9fuN7R5IT4eziE9bVzX70eMb8=",
-    "origin": "https://clpfrprod.directtvgo.com",
-    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
   }
     ]
   },
