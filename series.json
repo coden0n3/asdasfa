@@ -4,6 +4,54 @@
     "mode": true,
     "lista": [
 	    {
+        "name": "GRISELDA (2024)",
+        "ico": "https://image.tmdb.org/t/p/original/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+        "temporada": [
+          {
+    "name": "01: La dama viene a la ciudad",
+    "ico": "https://image.tmdb.org/t/p/original/xxDH9CgYp5oVvtV0NxcWxOlXIfv.jpg",
+    "uri": "RVjvr91OySKI/Z2BvL3VD+sl6bxMIUO4BAIzw7NJ5WUbqU/AHtGeGUjRrHuFB+gqsQifzyZ7mK9aFHqc1kzRXw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "02: Los blancos ricos",
+    "ico": "https://image.tmdb.org/t/p/original/7Z7qbB41AHpAgebhT9XB6VDx25R.jpg",
+    "uri": "RVjvr91OySKI/Z2BvL3VD+sl6bxMIUO4BAIzw7NJ5WUbqU/AHtGeGUjRrHuFB+gqZt7P8MIh1IA8RxagNCaNHg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "03: Mutiny",
+    "ico": "https://image.tmdb.org/t/p/original/463RHPPJYe7v4Y3YrYcHyv0HYGq.jpg",
+    "uri": "RVjvr91OySKI/Z2BvL3VD+sl6bxMIUO4BAIzw7NJ5WUbqU/AHtGeGUjRrHuFB+gqh1WFZb6xrkEqI7UgPH3F2g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "04: Gerencia intermedia",
+    "ico": "https://image.tmdb.org/t/p/original/ry7SLjjFi3BqLiJTgnGlscfpcu2.jpg",
+    "uri": "RVjvr91OySKI/Z2BvL3VD+sl6bxMIUO4BAIzw7NJ5WUbqU/AHtGeGUjRrHuFB+gqlz6AD6mw1la3ubaqMFvZzQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "05: paraíso perdido",
+    "ico": "https://image.tmdb.org/t/p/original/q32mLZhJnRuHjDRIJQ5OVaM3m9b.jpg",
+    "uri": "RVjvr91OySKI/Z2BvL3VD+sl6bxMIUO4BAIzw7NJ5WUbqU/AHtGeGUjRrHuFB+gqdNdHjzFvJlBt2SpR9Nk4UA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "06: Adios, Miami",
+    "ico": "https://image.tmdb.org/t/p/original/eyuPr2Bx5P8l3SlWaFDcnxw2kPr.jpg",
+    "uri": "RVjvr91OySKI/Z2BvL3VD+sl6bxMIUO4BAIzw7NJ5WUbqU/AHtGeGUjRrHuFB+gqZXhspG5dlooqE9kc33RgpA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+        ]
+      },
+	    {
      "tipo": "serie",
      "name": "Como agua para chocolate (2024)",
      "ico": "https://i.ibb.co/R0jbn46/i.jpg",
