@@ -3151,8 +3151,9 @@
     ]
   },
   {
-    "name": "🏆 CANALES TEST",
-    "samples": [
+    "name": "📽️ CANALES TEST",
+    "mode": false,
+    "lista": [
        {
     "name": "DIRECTV",
     "ico": "https://i.ibb.co/3rCx43n/512x512bb.jpg",
