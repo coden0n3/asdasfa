@@ -59,6 +59,15 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
+	    {
+    "name": "DSports",
+    "ico": "https://pelotalibre.com/img/logo-canal/dsports.webp",
+    "uri": "UQ2hoAXgz+6vEw25V7aXFgU/K5yNqMfuF5AdC41jxwvZB2dHYmJnE6eXjM0Efp082IqbP/W0Q+oh/Ol2S/OnAQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "origin": "https://topembed.pw/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  }M
      {
     "name": "AMERICA TV",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
