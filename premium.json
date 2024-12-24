@@ -838,7 +838,8 @@
     "uri": "NOK/6LW8akHjiIJ7ZHlY4KML/uCZLm7KdhT7JZhlzH/twzHfRClJHTtOcRjpXWtoyt3JG7+jGkm5c6EQWUSAGqt23MnVuExjxeFsKP4C4RBEKAf5tJsvSxC5j0mXASzU",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
+  },	
+  
     {
     "name": "CLARO SPORTS",
     "ico": "https://i.ibb.co/86x7qSn/clarosport-Photoroom.png",
@@ -909,6 +910,20 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKhBZRy26LvijmrikzfZa6j7VfoGzuE+gMPYDTVbNrj8MyoFBM4rBDzlCxQqEeOfvoNiegoxGIysouUr5HDXHu3JKIlzdSqpZC8uS+jumZnFeRKuyXoFFN8hGVgWgZCumsg==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DirecTV Sports HD ARG",
+    "ico": "https://i.ibb.co/dM1CSPC/dsports.png",
+    "uri": "U5oWy5JBYlNaGAm2hwYa7ENQqvOVed0l+8PESvIQXAfL6FYQGQmpTK5eE1h/PSEJ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DirecTV Sports 2 FHD",
+    "ico": "https://i.ibb.co/6Rf6CRJ/dsport2.png",
+    "uri": "U5oWy5JBYlNaGAm2hwYa7ENQqvOVed0l+8PESvIQXAcRuBZvAodCi9hZvBQmffcP",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "Discovery Turbo",
