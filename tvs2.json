@@ -273,6 +273,15 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKto8mYJbNVW4M4HDCymQoX5wZZZYIlPVQkemgTyfDsYJHpFA1roS+dn2ARE1/842QquZnQwyDO51lecRK3MT8B7eZ8HdrLa0iZ/8GpTEbAargDKJurvKXZYaf4FY9rdB2Q==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+{
+    "name": "EL DESTAPE",
+    "ico": "https://i.ibb.co/yFbrg0L/eldestape.png",
+    "uri": "UzWpJBKhu8ByyGXQLDZn9A8C3AhAGBeVCigteCsRs06jF0dLmc8uZdO0uymStzOjJxLIlICbbn8bj6/ZxwyyQ4DhUGJPQHTveGrKUjqIqGZ6JE46jKzSfTFOi0OeV6kl",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKo9heS4isZFaBxc67QlrDuFLcdLrOlxpT4INjVy5BMrGcVzO8G0dQLN1Wb960gSp87aF3DTUcD/3bUrGM1MQsx/Y6/r/raFnAo/Wx8FSP5+jPD0xD5LutdOWP1+nrREXng==",
+    "origin": "https://www.telecentroplay.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   }
     ]
   },
@@ -3185,42 +3194,6 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "prot": "1"
-  },
-  {
-    "name": "EXTRA TV",
-    "ico": "https://i.ibb.co/BLpHBq6/extra.png",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9PEZTuiW6Bq1n22LrIKjeP+aZ2mjtD+XZM0JPyJfmUZS2eDg32/ALfElFkQMH22TkpU4V8w7WBTKQJOmV3PTam1NqEWC9qaHSL73oNlxUGsx",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpgrbyRxWW6RQJR49dHaCJ/uekP2GoZk4j5Xeyrs79ugxv95nSXivAv29HIYZSAgYCZuaHs4hkCeiZ/oktI6+60/03NEkjsw95gd1J8G48+/WdmA3/j2Fbrx/JkJJ8XEzg==",
-    "origin": "https://www.telecentroplay.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EL DESTAPE",
-    "ico": "https://i.ibb.co/yFbrg0L/eldestape.png",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9A8C3AhAGBeVCigteCsRs06jF0dLmc8uZdO0uymStzOjJxLIlICbbn8bj6/ZxwyyQ4DhUGJPQHTveGrKUjqIqGZ6JE46jKzSfTFOi0OeV6kl",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKo9heS4isZFaBxc67QlrDuFLcdLrOlxpT4INjVy5BMrGcVzO8G0dQLN1Wb960gSp87aF3DTUcD/3bUrGM1MQsx/Y6/r/raFnAo/Wx8FSP5+jPD0xD5LutdOWP1+nrREXng==",
-    "origin": "https://www.telecentroplay.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "D Sports (ARG)",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5YejzWu7BqFcSTemZYGjkPxJZXewnvLkhvWhprmIeKPhKWb2m63wBemiZ7tsIpjRk3ucmN9rLBWBCZtPqMlmBJtR2",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjPMXMHvauQciytjfA/RMiw3byZ7gATKW2KB20MWPICqfcpYhP6oSE+YLYngnkNyvhmG0AenmZ+0nWa5pyxTLliSzIUggaE/hPlabNkdCvV7c3CiTgB8lNTYqK+Z+tUC/6N2M1oGsVBqRtiIVVSXEYoUmMpSZKds1dAFZtqszqPlOxouMAoqgNYs5WUNf3SEGbkR9+WzoiI1xe7OIXD9wXOnOmyuT9fqc6oNLLbK2bsPJrK9leAqP0GhGeQQ21rnwm8xe8rzolVYHqwR/hXdvPdbSbB9H+UHduaWodFQRQh7/4OFZMhWa9Ynjj+9BE+wGIBtHuVSsWhRsgBAQ3f+LonTFOLWYITtaY0AAeSOk3B4+uHFP6+hSHHoCOhiltD9j3o",
-    "origin": "android_mobile.directvgo.com",
-    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-  },
-  {
-    "name": "D Sports 2",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
-    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5Yei28Ye65n+TwGOBgYG7KyjJyk6rXkoKcmGjTrZwttkJ8wISKeVrOP5qYYSsdf/AUhBYuXR91z0ZLxVpQtbyzkFU",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjPMXMHvauQciytjfA/RMiw3byZ7gATKW2KB20MWPICqfcpYhP6oSE+YLYngnkNyvhmDX6rVs8BiRfszg7l6wismk+/s042cd2FkS7O2ZaE0IP+x8qNxlzK5sE5Q5TrdQSSVTEZheoegX8Y/Va5alh9I6Cb2pHDToWG2RcI/PsUoSL1DTZir6kiDAJe3s4gh4LKGGGkeKVXB82XBrwkU4r5kx1Bel6z3DNJFyKjxLjaSRJvzV7SAFN83UpruNvefJ7IlOOqfJ7fHyP92N4eo5tfpYyc8qJqZHxgotC8TZfUFsZ+jqtXAh1cSuXWzvKa/2xhbQoj6hZKotgwRAs6jecKWQRW7zpjDHaCQjYA3h1jXUoxd+Vo/t789CT5efp5BbRx",
-    "origin": "android_mobile.directvgo.com",
-    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
   }
  
   
