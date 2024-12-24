@@ -198,6 +198,48 @@
   }
      ]
    }, 
+
+       {
+    "name": "▐ LAS SAGAS DE DESTINO FINAL EN PLAYTV",
+    "mode": false,
+    "lista": [
+         {
+    "name": "DF1",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTRJbtd/xRveLgbbYR3sNjKZI1TM2C8LydK2RXd0Lpa+Mw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DF2",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/w1dJluO5aKK7Puz7qNXoQeUh4Cb.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTRJbtd/xRveLgbbYR3sNjKZb1+D+a4X/QZbiauk1OPBfg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DF3",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTRJbtd/xRveLgbbYR3sNjKZwjLOLPcANv01WN5rrlNYLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DF4",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTQns4MI3j6SmZKqtY7Sse5KcfYkcMOT9ldnA2XGUBLv0g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DF5",
+    "ico": "https://archive.org/download/df-5_20210525/ACCE%202/DF5.mp4",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTQns4MI3j6SmZKqtY7Sse5Kth13y2x3ZUI/yIhUVwhfUg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
     {
     "name": "▐ ESTRENOS 2024 Parte 1",
     "mode": false,
