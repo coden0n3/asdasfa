@@ -2280,14 +2280,77 @@
     "name": "📽️ CANALES 24/7 ",
     "mode": false,
     "lista": [
-      {
-    "name": "ALF",
-    "ico": "https://i.ibb.co/qrDzchq/dest-1-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzmRMtgoZkDp3iYZk4rfCThQ==",
+	    {
+    "name": "EL CHAVO DEL 8",
+    "ico": "https://i.ibb.co/L1Npmrm/el-chavo-del-8-387429057-large-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSznNpmTGVzH9jZ45uvWsLCVQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+	{
+    "name": "CHESPIRITO",
+    "ico": "https://i.ibb.co/5GxrKZS/MV5-BM2-Nk-Mm-Ex-Yz-Qt-Mz-U1-My00-Y2-Jk-LTgw-Nz-It-YWNl-MTJh-Ym-Ex-N2-Vh-Xk-Ey-Xk-Fqc-Gc-V1-removebg.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzju7T652CSvda+nbPAQT4ww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },    
+	    {
+    "name": "LOS SIMPSONS",
+    "ico": "https://i.ibb.co/821FZbx/1-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzStrYsIoTLuivsT/X7n4F+g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "DRAGON BALL GT",
+    "ico": "https://i.ibb.co/jgRnGmk/3eb79333155a8e87b2f7be64f064c694-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzmSa4ut4/tKoApEVerrcAdg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+            {
+    "name": "BOB ESPONJA",
+    "ico": "https://i.ibb.co/sKSj5dm/images-removebg-preview-1.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzVLTWpmpO72sPSMVif8VszA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "CABALLEROS DEL ZODIACO",
+    "ico": "https://i.ibb.co/4RxVY3D/LCDZ-Poster-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzlnn8W4jlNA1pf+/pHUJ0qw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "EL PAJARO LOCO",
+    "ico": "https://i.ibb.co/rpcRzQq/n1-95178-1jpg-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSz3NQ9108MPa8WjilziJozug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "LOONEY TUNES",
+    "ico": "https://i.ibb.co/jM8vBgy/Looney-Tunes-poster-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzOflhr2IOc3xZYdGc8zPElg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "TOM Y JERRY",
+    "ico": "https://i.ibb.co/HB9NHRR/Tom-y-Jerry-carta-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzYFRz4CuqQgbBswD5G1eX1Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	 {
+    "name": "LOS PICAPIEDRAS",
+    "ico": "https://i.ibb.co/42FXjYp/The-Flintstones-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzuKMeZwsAuEE2NiE4K/yTEg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },   
+	    {
     "name": "SCOOBY DOO",
     "ico": "https://i.ibb.co/TPzTQ3W/s-l1200-removebg-preview.png",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzYOO9tDSsjlUgRW18/Uj36A==",
@@ -2301,66 +2364,59 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "BOB ESPONJA",
-    "ico": "https://i.ibb.co/sKSj5dm/images-removebg-preview-1.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzVLTWpmpO72sPSMVif8VszA==",
+	{
+    "name": "LA PANTERA ROSA",
+    "ico": "https://i.ibb.co/9wwqHBZ/Pink-Panther-and-Sons-Poster-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzPWVMNZQT20y4b2Oz4AsB4A==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "CABALLEROS DEL ZODIACO",
-    "ico": "https://i.ibb.co/4RxVY3D/LCDZ-Poster-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzlnn8W4jlNA1pf+/pHUJ0qw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+  },    
+	    {
     "name": "EL GALLO CLAUDIO",
     "ico": "https://i.ibb.co/0Gpy4ts/5933d592324cffb659896ade9728b67c-removebg-preview.png",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzhJ26C6S/PgXGgTPNYGlK+g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+	    {
+    "name": "YU-GI-OH",
+    "ico": "https://i.ibb.co/4WZwYZR/image-removebg-preview-2.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzePVNhWjU0QP2Wfm19r2t3A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "SAKURA",
+    "ico": "https://i.ibb.co/n8vB1wv/49bc4-personajes-de-naruto-sakura-png-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzRtq8+dVaC4YyJgX11jHGBA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
     "name": "ANIMANIACS",
     "ico": "https://i.ibb.co/8838K3j/Animaniacs-removebg-preview.png",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzxlMltqhMRO0YXs+EsHM00Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "EL PAJARO LOCO",
-    "ico": "https://i.ibb.co/rpcRzQq/n1-95178-1jpg-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSz3NQ9108MPa8WjilziJozug==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DRAGON BALL GT",
-    "ico": "https://i.ibb.co/jgRnGmk/3eb79333155a8e87b2f7be64f064c694-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzmSa4ut4/tKoApEVerrcAdg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CHAVO DEL 8",
-    "ico": "https://i.ibb.co/L1Npmrm/el-chavo-del-8-387429057-large-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSznNpmTGVzH9jZ45uvWsLCVQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DOS HOMBRES Y MEDIO",
-    "ico": "https://i.ibb.co/BrXNbkT/image-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSztvv9vYs3jHkJOVsSUa6DkA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+	    {
     "name": "RANMA",
     "ico": "https://i.ibb.co/Rjmw9df/es-mx-rm1-2-main-ex-japan-debut-vertical-27x40-rgb-pre-1-removebg-preview.png",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzuF7zvTlK31tcMZ/BPAOdXQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "DORAEMON",
+    "ico": "https://i.ibb.co/wyGsrmg/doraemon-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzPmxE8qLy1LPfs3Io1GQgvw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
+    "name": "ALF",
+    "ico": "https://i.ibb.co/qrDzchq/dest-1-removebg-preview.png",
+    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzmRMtgoZkDp3iYZk4rfCThQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2375,76 +2431,6 @@
     "name": "EL PRINCIPE DEL RAP",
     "ico": "https://i.ibb.co/r54Z508/image-removebg-preview-3.png",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzjJyJFeC08WXbGGpQ1DvoVA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TOM Y JERRY 24/7",
-    "ico": "https://i.ibb.co/sVBcMcc/Freshprincelogo.webp",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzotD29OJtx6wfZROpDVKD5A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOONEY TUNES",
-    "ico": "https://i.ibb.co/jM8vBgy/Looney-Tunes-poster-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzOflhr2IOc3xZYdGc8zPElg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SAKURA",
-    "ico": "https://i.ibb.co/n8vB1wv/49bc4-personajes-de-naruto-sakura-png-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzRtq8+dVaC4YyJgX11jHGBA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS SIMPSONS",
-    "ico": "https://i.ibb.co/821FZbx/1-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzStrYsIoTLuivsT/X7n4F+g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CHESPIRITO",
-    "ico": "https://i.ibb.co/5GxrKZS/MV5-BM2-Nk-Mm-Ex-Yz-Qt-Mz-U1-My00-Y2-Jk-LTgw-Nz-It-YWNl-MTJh-Ym-Ex-N2-Vh-Xk-Ey-Xk-Fqc-Gc-V1-removebg.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzju7T652CSvda+nbPAQT4ww==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "YU-GI-OH",
-    "ico": "https://i.ibb.co/4WZwYZR/image-removebg-preview-2.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzePVNhWjU0QP2Wfm19r2t3A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS PICAPIEDRAS",
-    "ico": "https://i.ibb.co/42FXjYp/The-Flintstones-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzuKMeZwsAuEE2NiE4K/yTEg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DORAEMON",
-    "ico": "https://i.ibb.co/wyGsrmg/doraemon-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzPmxE8qLy1LPfs3Io1GQgvw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TOM Y JERRY",
-    "ico": "https://i.ibb.co/HB9NHRR/Tom-y-Jerry-carta-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzYFRz4CuqQgbBswD5G1eX1Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA PANTERA ROSA",
-    "ico": "https://i.ibb.co/9wwqHBZ/Pink-Panther-and-Sons-Poster-removebg-preview.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzPWVMNZQT20y4b2Oz4AsB4A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
