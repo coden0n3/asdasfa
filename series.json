@@ -4,7 +4,1013 @@
     "name": "SERIES ALETORIAS",
     "mode": true,
     "lista": [
-	                
+	         {
+        "name": "ROSARIO TIJERAS",
+        "ico": "https://i.ibb.co/rcVSXtT/ROSARIO.jpg",
+        "temporada": [
+		       {
+    "name": "Capitulo 01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwtZcrUJyjfb0qx6WwZZUpinBJV.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VK89rb7xS1erE00/fGmCaxA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 02",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJX0fqKWJ80gXERnrbZ5ElDGFkE.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNe5BDz0s+2FT+c09O/A7HQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 03",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWtdM2IkbVRQE7Qjw2OwGMqZuao.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vo2298ggirikLXFtyUnbyMg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 04",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lU6Xd07uf87wpIVXEarmIn9RQv.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vvk9X+daFFsk3pIbKTJizjg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 05",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58xmAnbuuRbSKFJM9F1GLXMxGzl.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V0B8JDccdf5vTVH1IcSkwWg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 06",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJxD7adu14KVBxeaWSM6IpyQuv.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VwW2CwwqWqB95yF40b0VwnA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 07",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMEvpRnjMyL7wsoXlHOQWjA2tGi.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VJgJ1fWYH14S2lHTNro7/Cg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 08",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VwFR8KYRINqOHrY2Nbap5Vg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 09",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VLE1C7cX59mfEg+Zz52Hr5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VAcx8fntNWOvqfdzg0mzrQA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VL8hBR8Y3mvFa39FA2H8FIg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vod+MzZMxhorVIDPf4TxUaw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 13",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/ViJVHrEmGMrSOFmcsIDK7sg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 14",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VoA9/LH6eRrbZOdNLi0Uodg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 15",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vy/jzD5ej2Y3NXAUILd7lDg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 16",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V5z37qtuXRvjOjNkPEoVh5Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 17",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V4n6G56EaOcTvI/myvgZAHQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 18",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VPqRcLW3nT8/PAqa4VV5htQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 19",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V9oYzhH6zgRRXnm4JP0wFBw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 20",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V90SSUHImlbCJe9wduYpA6g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 21",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VK8ynVkz8wEz+N2u3YuVe0w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 22",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VkXFtK3ALnr9PL2E5vfrFPA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 23",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V3+ywwhLBL07UwSwcy6wKtA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 24",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V1DrdnGoCVgFbSOGosPKCqA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 25",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VYu7fEQOHuKnGmhe7h5FEIA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 26",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Ve4miif6RmjsRooVq+UJxJQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 27",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V4klPeCm80zFgtJ129AXZsg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 28",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VcUO4DAZN2hZUhwH4eGiAxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 29",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VRRHVGT5kNH2+sVW/NgHI2Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 30",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VFzpm8ODlMKU/ZYpUGJd7qw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 31",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vql6oPlsvAs7puoFLpFtRow==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 32",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VRUrLfRRqtMBJvcGMKUoAkg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 33",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VLHzsbVS6XSUjmec7xhdZqg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 34",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VsLmNZhyXpnqtIpKj5eWnJg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 35",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V9v6kjlPgtpKHf/+wz4TOaA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 36",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VXlrQtRL9BQ9/j+L6H9gZrQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 37",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VoxlSzbsohWjmBUDJB9RDVg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 38",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vjgeg83GN1UeHtZ/cgpYjng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 39",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VOx79wyDD7yPYVaaUdjwWzA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 40",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VqshAahZ8OyWy7KVwpvg5gg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 41",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VUCL+PaQN37qqn1qCSevFIA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 42",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vc8//szu9OMpVlFU69eg4Dw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 43",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VlTTedk87mt3XESWxxWy3YA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 44",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VemhXVpiGv3ead2xzQOT3kQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 45",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VI8NjdqqlqRBQmueEEfvZHg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 46",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VDiPYP1Em/AGB1PwtjRjWKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 47",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VJ1yFlHMeofFox8GeGOXhxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 48",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VIFErW6pbfV8uCuyc/47QLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 49",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vs1a3InbCHnzVrQKEK2uVLQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 50",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VMgM0OUmAkJug3+WAoSojiw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 51",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VjkjApxWwsa0YHe1jTzHw2A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 52",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VvLDtV7J2J3QyI/VwFvSxdg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 53",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vf6zAd9PwaCMwza+ZEjNiQw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 54",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VvbJXUPWPseqecVOHJ+CHgg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 55",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VOHTrhWMxdwzFqT0hgPT0MA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 56",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VriEWMYuhDYq9a8ezzwk/8g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 57",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VOTVibCCckOzWAww3IwQfqg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 58",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V21gmMtScjCUmD5Qyg757/w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 59",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VqP44pF5mXEtiizsU+rqwyw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 60",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VQiqeGlD5oYP4c8JByarlzA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   ]
+   },
+   
+   {
+        "name": "LA REINA DEL FLOW",
+        "ico": "https://i.ibb.co/ftyBtfq/LAREINA.jpg",
+        "temporada": [
+		{
+    "name": "Capitulo 01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xI1Fum7cj7ax7T9YVylx5cOie9V.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VH1GbHhLSSwhQ8N5XDZyTjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 02",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3sT4xc1O2T3wxBJOW0lzunOgch.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VqLUIJlezRVcCd7DSduxqJw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 03",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAMRXdetP5ysaY8of5XomNh87Kk.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VHxVAFGS/9tieBGTwmEgnwQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 04",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XPQgMoLYzKvBzxkl2tFBiV0ezc.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VQg5PrXiXtaSs6a6j5eo5aQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 05",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e55E3QwnwjyNLlimtbXohLgkZGk.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VIfKrUZxLXFF+Mz9Wqy6xig==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 06",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4z1QyugwMcxqzc7xxJbIKcUy243.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VuBUUpLIV6wOG8c+e20HXqQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 07",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mO2FDy48GfCXFzEQ9pCFddtzGf1.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VbDte3EGo5IgeGCITwIbWig==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 08",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEtG8uf1wcTDnlGc6CGe4RAW7ZF.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VGSEMJ/GpCwA/yRt3GbaqDQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 09",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9eqOniuPaTFHG6G4gnYw1PaGPT.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VUXczfOIuXTO1PUg7VI+2fw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/saqMscyUDGmt3XAgP6jFX8saSog.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VkDzGxHMJavbwxffDtryGxA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/RAdc3XlLaZqJzkiLGTPxUbZ80T.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VtVS4BLvo2yV4GzF7wOUNpA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43GkEIjfSmFC5q1nCjU5iwAXUV0.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V9kRm5CnjA4L4hfb4/wPCzQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 13",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePzOgTNqmg2CgoTl9WMy7NiLoMP.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VcFPSwU7iWXP4ad1OwPFgMw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 14",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rEBIwBf9tAWzG8MqjiiogQ1xIS.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VXU0C5W0HPUsYiCOANrtXeA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 15",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2qTDHQexv2CtYNX5GfaM7NbXv8.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VF41snwnXBpyI2opu/UmHSw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 16",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckWp26aMaW8JP4QlGpIoYQEzCFU.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VxRvyYjA7u9yrbQZJweOZGw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 17",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fS4ary9CLVImSURpVE93oKQxxi.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VLAfQTmfk0evlr6jMoUpFNA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 18",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFkWHDAZQLe4xbx5Y2rWk7i6ccx.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vd2GIc+jzaYvOwCtbMWHszQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 19",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG9WJ3TICiw6KXghkmPQQPex4dR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VCZCq8kDOs10BLTYE8OjnpQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 20",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzmZBZzvBR5vswseHGoPqwLb7Aw.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VMYhRwFAlDl0S9Tj/nCe7kA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 21",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kreZqJXray7ptI0OphJ8TIFMTQb.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VxWuO40vDFItxjnejzxHZ/A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 22",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UScDYIvFxplteWEzVJ1DRJY2me.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Va9D1qCgPEp05olcJl3kJjg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 23",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzLwYY7Q9weXrTSbpKqyb4PgEmY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VMLbwfMIXAXbiqR5VIaU41w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 24",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MFVgf8FpGL3ZGtJjsZgYF8lUFB.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VcU0bZl0t7tovm6ri1lWyjg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 25",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftBKiJ2up3j2Hp6wZ2FYN4ptn8p.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VU0OUv3mDAmaejWf4KMO6Jw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 26",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLTuCwSpswFLZ8SeAmRfXnYyqtr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vy9mjWhdez0+k3QpBbr0uYg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 27",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VRvLAay0vPu3HcVJWhirwLRamr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VtpSV1ackUQBP2e/AuJyMRA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 28",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ifd8eBkvTSmLVj47cvFm6hgV7J.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V1I50Mw34oGgHonuw30EnQQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 29",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpRSXRKO6Uz3m4C8kiMoT71Y9yg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VtRzTxYUgfxBcguYti6OmAg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 30",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/33dv47ZF0wLQrZLNu71tqIAjc8q.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vw7LTF2d/OshWVwlyLkhFjA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 31",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2hU1M7kNcp4e0JybvG9vTUqeSD.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNSX75LPUIuEItigpDiwNHw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 32",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVpxIpKCuBQH5HcFg6BOdFgIb1b.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VxHYPMdzgRY2EraN/5Z17Bg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 33",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydffOuhpIix6rsDhELn1buMhxXK.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNI4bh4gneoBsrFtF+dAe1A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 34",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58uOIzSY4YtIOnsd0jMsa2IXzGD.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VkkU1jxRQXWox+I6DdzbozQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 35",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HZE6QNxujeKFebItdJItHlG28u.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VhN+Tiu6wV0OpojparHMsfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 36",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ6P84QmigfZqfx8wrYGP5WJmiA.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VpKZkIRg7comqR2x3C3of4A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 37",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG2u7Z1J2ZnLu7sFjQuAQ7IaWF6.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VDhN40j8+G9IPufMT9N3tog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 38",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxAvlubIXfXKan5tNJ1I5jyoG6V.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V1I/WMI7wz4a9yHMyTyGOeg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 39",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3twv6b2BPHo15tmuMCUvkOgV9zo.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V7ydLm93jg52wKdCLLoWFvQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 40",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/64YYDeN8iVvg3XFSyU3DUZoSxLW.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V9JjZDVpjkUvefe/j/AQTIA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 41",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ehGCzQgyrwT2KFTwl2ME5Q1hP.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V+LaDZY9f0/VZyHjzDe4c5A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 42",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iATswkfSDtJ2u7yZaKvXnP4V9Fm.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VhNjlvN+fsPQekAkPYodPtA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 43",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F3obC6mD0CAx1lHqgEeVlmTfKR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VLnrS3FqmyXk/0xCQ9QcOYw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 44",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FcJxUJrNnFWCHXDEQIIlFp3ueU.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V3Tb2EJKv+XXaiYSRxVtLAA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 45",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUEeTKghxXtdvJ1Be1BEbaiuWNi.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V76UUSnOx3kkURxl34nLLKA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 46",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gO2HbUBM5OVBGctzLAekFyUGSzm.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VpgPkMjdg7YVZFb9US9uiOA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 47",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddwrU2K4nQWSEFfJpRyZ6qi8Mkn.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V8JzS+RiPmr53Ctvtx8fwAg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 48",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpyR9Zutpi6iR26SpRld5ECWtqk.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V/q01aauc1L004YJMSJSZKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 49",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh71Wr88CbtrJlkorwd9Rm5rS31.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VK7nwd1YvUxvnUfP13bgftw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 50",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXswih15lSH5XGhxhwafBUF940P.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VrLdnnr8zE/ePmVSVd554XA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 51",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEEYuOQUMMDrDCvjOjKHnBQvSJB.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vuh77fMzr/UdqqozIzhwzfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 52",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/flrmDi7K9FJPUmehWlkRLStejtY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VFNvVSYKKhLqPnSPqn0eg+Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 53",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MVQmku6e11qtwr2t4kFgVOvvfg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VOqBHnIH4e1tw9FhUdeHGnQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 54",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMDpR6KYmhES82EGdeIIMWoaiBQ.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V6/PIQgP2Kyz0rtTMKJtUyQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 55",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdkVcuH182qaFoZ5gWraRA5wLgX.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vaw7/ioTCioy6MMYShxJAxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 56",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkFQFeRSeOdVj38AKdYg69shohv.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VCdKyzJ7w2jjj/ejOwRBA9g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 57",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wU6eqoTA4NQeVccA9gbOlGmkqE.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V9ktrgxWXq3Cmh0S57+YvmA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 58",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejW7c8v4XpcO8yxaWacvAHzIlH4.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNEBK6w+prhV0DJsONbAmIg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 59",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/co7X9DrBoQYsUm53B9XpZmqAYaU.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vn2JvFs54tirflOGneQ1Iow==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 60",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/paX714X6qnJXyTCAyMqNQOeMmM1.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VMjfS46SJeWak79bm+NZUgA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 61",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Gp4eOTserlJNN2Jvq0hSGKNMO6.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VsEANABsPSmVNXGPf76O0VA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 62",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzJfrR8m2Rkm4EOuSh83TmbSuRa.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V/b+l86ygUvX495tW1JTslg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 63",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51CcYObUE8K96XvgfHbCQTrNxwA.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VAGQiIMpFt5TJeOxjf5Hgcg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 64",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/faaRQtRodw0CEmgcfd48IuOR9UI.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VmNdt60VWKFdEpVqZClBC+A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 65",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CyMuQLIDlNAV3c9rGAGjhtegtS.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VdbPCsPRGR2DK60lIpv6Low==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 66",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WEDzbrnIMLqZ5EzTOZrNmlypGM.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VINe+p/GbxNnVbFlPDpe6/A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 67",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0djxv9JTGTrMkeDtl1Sx3kNJba.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VjSF4RAPAjcZTL3dcuSvpkA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 68",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouPZxcJjrpGjR35Kvlvn98d6IYi.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V1OP4UuqSfMm2+Tri998n/Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 69",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJfxy9r3Dz3CGqH2ue9kCfv320v.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VGFMRdhBup10TduDZZQxukQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 70",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGM0GpXnBEOR2FUJvgoSEGcMJR9.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VB3qnhCsYZyZfAmSFOuDEqA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 71",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkded9Ax7tc74jiV9ritbNFl7wO.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VhnYhw7JKbYLpp2kMK5zmDw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 72",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/szb7swRpzoEz3mlXHZEtMNeXpln.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VbjOOa6V5rXEyRlWUjLuGsg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 73",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4U6lpK18bXZikUGnsDXx52ZAm9.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VONkn5z/GWbUQDoCMi80Scg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 74",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l5o7SzbJKluErMV0qy3rwkx856.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vdm7Pe1/KWx0PuO7cmYMZew==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 75",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA62lKb9lQLiAamwhkoSmyRFGQl.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VMZEavKzWzbjCrnztmFvFiQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 76",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEmr420lROVQz1r3USBxjZ9xZZR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V4JBAC3zj+atZNBmsPP+YlQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 77",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHY0tvvcmTvLO835TnRh3P2Aim0.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VceZtU89qBzQ1Uo/dUrclwg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 78",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wheDG0Vs9MM27WL7LjyMN9PpHPM.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VPdo73fdyiXOvrDUAnvDB0w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 79",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/toOp8K2VG2k9IcHNiEeW9JdNLav.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VHMSAVRLC2sIG4ZrJlT0hyA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 80",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIkxXRsBbgO01rIJa2NOe3mvpIo.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VJP+dmSUbRH8AlBn9wKj6rg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 81",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4tvhqh9FIZ9UzvWqjrBiwv4SDT.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V/p7C5NrJhFfk+lJpieHnoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 82",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcJtFsfozt4nj81R144dfGZv2a7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNGqmo+oBV/1cVz4nl7YWbA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+		]
+   },       
 			{
         "name": "MONARCA",
         "ico": "https://i.ibb.co/6spv5Kz/MONARCA.jpg",
@@ -18815,6 +19821,13 @@
     "name": "Capitulo 11",
     "ico": "https://i.ibb.co/T4cbNt9/cap11.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HcjcyxWTF9SsmcI1WGhVuk3MWoQX58ersRRcukQRYuHwFp+2YuRDNh1yN9xvAIXJk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://i.ibb.co/RbgPs7v/CAP12.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HcjcyxWTF9SsmcI1WGhVukfAHNs2AnZ15z7qdLJ/JHPa8vmJZRaiii6PT1v5ckNR8=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
