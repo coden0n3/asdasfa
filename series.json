@@ -3,7 +3,7 @@
     "name": "SERIES",
     "mode": true,
     "lista": [
-	
+      {
         "name": "EL PRINCIPE Temp 1",
         "ico": "https://i.ibb.co/yqWLjb9/elprincipe.jpg",
         "temporada": [
@@ -2792,7 +2792,7 @@
   ]
    }
  ]
-}, 
+},
 
 {
     "name": "SERIES",
