@@ -59,6 +59,15 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
+	    {
+    "name": "SENSA HBO",
+    "ico": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png",
+    "uri": "xXHrJxnr9suRD2+8AXFhOU2LyH8ctJj07yL/n1zEGJ/nLZyuputs1EA1wPT6m7z5KxyIkg5mPdi9hBlquFWj7kwnhPgJ952U7re9xHq+sks=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "lDzwDJ91IktDj177KHSkCnCDFdWhmNBhEoCLCyi+r/16BGouLYnfAA0hcfPFRVMZcyuC8EYVrQRETZIny9liWY/gqLx5CBR6iTCpKv43kx+j03WGnVZEpO3cExg4qNhX",
+    "origin": "https://player.sensa.com.ar/",
+    "user_agent": "Firefox"
+  },
 	    
      {
     "name": "AMERICA TV",
