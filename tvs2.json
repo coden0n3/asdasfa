@@ -1,5 +1,33 @@
 [
 {
+    "name": "🎵 UN POCO DE RUIDO",
+    "mode": false,
+    "lista": [
+      
+      {
+    "name": "META GUACHA",
+    "ico": "https://i.ibb.co/YZnsfrZ/METAGUACHA.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2Kt8WY3Yz0/+o+dwnpfEIahZ7dh48A9vFZNsoXQWF7ZA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL POLACO",
+    "ico": "https://i.ibb.co/z4NYk3t/elpolaco.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1dh4Zv5QOuccPeF+QqFAZ1Xcd6wEelee8YPkdPimL9UA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MIGUELITO",
+    "ico": "https://i.ibb.co/PrHGkD6/miguelito.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1n43SY5+sIrX58i0wfF1MOZjHhwWhSX1BfDLr5yVnxMA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+{
     "name": "📽️ GRAN HERMANO ARGENTINA",
     "mode": false,
     "lista": [
