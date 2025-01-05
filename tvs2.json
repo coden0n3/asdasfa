@@ -1,5 +1,18 @@
 [
 {
+        "name": "RADIOS DE TUCUMAN",
+        "mode": false,
+        "lista": [
+		{
+    "name": "SAL SI PUEDES",
+    "ico": "https://i.ibb.co/F7K7NQC/salsipuedes.png",
+    "uri": "Ff98wgzF7wgTmpOCzf/2gDHVKx0YfBBF4MURD03aOcqnmCVSSAFUgDzuvCNrt5yd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+  ]
+  },
+{
     "name": "🎵 UN POCO DE RUIDO",
     "mode": false,
     "lista": [
