@@ -27,7 +27,7 @@
   {
     "name": "CANAL 10 RIO NEGRO",
     "ico": "https://i.ibb.co/hsn6MWm/Canal-10-General-Roca-29.webp",
-    "uri": "5XU+n9Ud2NXJC+ch+PkHBHWFrvJaj6Nt4K0QROk1RF46DAvqgDWn7ydYySb72Cgs9htXCwTYRoAMCbX25RDuSB4Qufe3dzyGXUBiEGtHw+82oFAypHnZXacZrzQ7jmlxYB2aN5u+O7INHJ54QoeSPoaY5yYZhCoqM/EZUFiC5pCF30WPNkAWOjbVfebw23w05HwDd61Oq4tbzLEVcUhEbNPUvWtf4R/yddfqD7g4+HlcIEzU5WvlpIuEMOq2CvtM",
+    "uri": "G2wm2NLBqQE7WyP1DKPFoJDuHaT+RMCOEtgsu4s1P38FaNZVVV2b7UXyhuf7m7OnP9SOtEaH6Zj3VhGhbNwQtebzKmKa1oYca9VQHnu29Kd1Rgd5enrJCLyYdglTaOiH",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -144,13 +144,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "SOLIVE TV",
-    "ico": "https://i.imgur.com/dyUxugT.png",
-    "uri": "TnLoNbYifJfv46FKsRHOrcXgC57hBGfRqtofjKLDNFY/wXg87dIDdWAdJSLx9Ku+H6aqjiMBgJHN6fMCXAU3/g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "TELECINCO",
     "ico": "https://i.imgur.com/ZDenyAE.png",
     "uri": "z/qAE2SzzZix3/x0i3b2e9ZCzApK0KLTEmMDBXMBBOMUtVhA4FXOLRvMalrBkuym",
@@ -181,7 +174,7 @@
   {
     "name": "TELESOL",
     "ico": "https://i.imgur.com/79sTxtP.png",
-    "uri": "YYbDvlyH7zjWR4JnaQiARwygArb43rEzDSud837u0Jl7adDt7Y82HAhdFUfahr4akJWc1P6kQ6Rk6veBbow3qg==",
+    "uri": "YYbDvlyH7zjWR4JnaQiARwygArb43rEzDSud837u0Jl7adDt7Y82HAhdFUfahr4aMmHE1/owWnVKfmXGug4sLFK9OMujNW6zzUMWZtNaPig=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -209,7 +202,7 @@
   {
     "name": "ZONDA TV",
     "ico": "https://i.ibb.co/23GFhMR/0892ef7fbb6b42523737174dba3bc445-removebg-preview.png",
-    "uri": "YYbDvlyH7zjWR4JnaQiAR7NwFre8yArsKtALvb0SOyCmjM77B3UwH/oRzuWOz5b1VtXWzeqCS8W+1KJkyHnd/A==",
+    "uri": "YYbDvlyH7zjWR4JnaQiAR7NwFre8yArsKtALvb0SOyCmjM77B3UwH/oRzuWOz5b1XNqFWAjA6i3s+B7sQD3bXlz/7Dag9NxuksP2iN+X8JU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -242,12 +235,14 @@
     "drm_license_url": ""
   },
   {
-    "name": "CANAL 22",
+    "name": "CANAL 22 BUENOS AIRES",
     "ico": "https://i.ibb.co/Ss0YfNk/LOGO-CANAL-REBORDE-BLANCO-1-2.png",
     "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnRf4hOFmc9zFQnteoFlMmqvbXcWXmtTda9hr4ta6z1aBGyjzGTWlZWS0mNiJWM0Uc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
+
+	
 
   {
     "name": "CANAL 5 TUCUMAN",
