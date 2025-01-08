@@ -441,7 +441,7 @@
     ]
   },
   {
-    "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO",
+    "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO 1",
     "mode": false,
     "lista": [
     
@@ -805,7 +805,7 @@
   {
     "name": "CANAL 10 RIO NEGRO",
     "ico": "https://i.ibb.co/hsn6MWm/Canal-10-General-Roca-29.webp",
-    "uri": "5XU+n9Ud2NXJC+ch+PkHBHWFrvJaj6Nt4K0QROk1RF46DAvqgDWn7ydYySb72Cgs9htXCwTYRoAMCbX25RDuSB4Qufe3dzyGXUBiEGtHw+82oFAypHnZXacZrzQ7jmlxYB2aN5u+O7INHJ54QoeSPoaY5yYZhCoqM/EZUFiC5pCF30WPNkAWOjbVfebw23w05HwDd61Oq4tbzLEVcUhEbNPUvWtf4R/yddfqD7g4+HlcIEzU5WvlpIuEMOq2CvtM",
+    "uri": "G2wm2NLBqQE7WyP1DKPFoJDuHaT+RMCOEtgsu4s1P38FaNZVVV2b7UXyhuf7m7OnP9SOtEaH6Zj3VhGhbNwQtebzKmKa1oYca9VQHnu29Kd1Rgd5enrJCLyYdglTaOiH",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -922,12 +922,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "SOLIVE TV",
-    "ico": "https://i.imgur.com/dyUxugT.png",
-    "uri": "TnLoNbYifJfv46FKsRHOrcXgC57hBGfRqtofjKLDNFY/wXg87dIDdWAdJSLx9Ku+H6aqjiMBgJHN6fMCXAU3/g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
   {
     "name": "TELECINCO",
     "ico": "https://i.imgur.com/ZDenyAE.png",
@@ -959,7 +953,7 @@
   {
     "name": "TELESOL",
     "ico": "https://i.imgur.com/79sTxtP.png",
-    "uri": "YYbDvlyH7zjWR4JnaQiARwygArb43rEzDSud837u0Jl7adDt7Y82HAhdFUfahr4akJWc1P6kQ6Rk6veBbow3qg==",
+    "uri": "YYbDvlyH7zjWR4JnaQiARwygArb43rEzDSud837u0Jl7adDt7Y82HAhdFUfahr4aMmHE1/owWnVKfmXGug4sLFK9OMujNW6zzUMWZtNaPig=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -987,7 +981,7 @@
   {
     "name": "ZONDA TV",
     "ico": "https://i.ibb.co/23GFhMR/0892ef7fbb6b42523737174dba3bc445-removebg-preview.png",
-    "uri": "YYbDvlyH7zjWR4JnaQiAR7NwFre8yArsKtALvb0SOyCmjM77B3UwH/oRzuWOz5b1VtXWzeqCS8W+1KJkyHnd/A==",
+    "uri": "YYbDvlyH7zjWR4JnaQiAR7NwFre8yArsKtALvb0SOyCmjM77B3UwH/oRzuWOz5b1XNqFWAjA6i3s+B7sQD3bXlz/7Dag9NxuksP2iN+X8JU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1020,13 +1014,357 @@
     "drm_license_url": ""
   },
   {
-    "name": "CANAL 22",
+    "name": "CANAL 22 BUENOS AIRES",
     "ico": "https://i.ibb.co/Ss0YfNk/LOGO-CANAL-REBORDE-BLANCO-1-2.png",
     "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnRf4hOFmc9zFQnteoFlMmqvbXcWXmtTda9hr4ta6z1aBGyjzGTWlZWS0mNiJWM0Uc=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
     ]
+  },
+{
+    "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO 2",
+    "mode": false,
+    "lista": [
+          {
+    "name": "SAN LUIS MAS",
+    "ico": "https://cdn.m3u.cl/logo/269_San_Luis_Mas.png",
+    "uri": "E0ULO2yOXDpmYDfFyLAGS8jn9krcXjcz5QF7E+8qBck/XpPfVmiyypK6cYJRSKjR0lnT4cGbqafRWCzFjgH9XgmCduA+LBp+r1d/D9cLrvoykO4I6jU8hk4DAl8b1p5F",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SEÑAL URBANA",
+    "ico": "https://cdn.m3u.cl/logo/218_Senal_Urbana.png",
+    "uri": "qvJXDCXXK9G57ClfL6/ID5XTawwxvfzneHIAcC1+7v6tdUldHvDY81c61GmB4y/b+38j3vadJafod+M3o/p5XXRqpPt9M7Zgl0w7GbaiM00=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UCL TELEVISION LATAM",
+    "ico": "https://cdn.m3u.cl/logo/494_UCL_Television_LATAM.png",
+    "uri": "nF1BdWxYiH1SDXCs3bAb1RBRXeutmPL2UC9Nj6y0g/0wLMVQFASU8Gdkz+j9VUMOTlcoSyIKNamZqtdmxqFs+Jgox3G2LExqEH3OXLrbmBA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RETRO PLUS TV",
+    "ico": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+    "uri": "A7l/zy0FhF2Mh/0wweCNX0zWJcygFVtT0EUgbj10x3e+UuTyApmy+hYj/3hwO5j0ZSb4tz2jlT5LuF/0Yae+D85D2Y6IwzVlmY8XbSgcyTJjQ0L88A6R8u4qi79A8e81",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARIEDTV",
+    "ico": "https://cdn.m3u.cl/logo/1335_VariedTV.png",
+    "uri": "DJuEHYRn630ayDJQbUOh3zthfMm+l0NBH+9fjfpTlvNF8WC2AugkgMcDpu2qYptnJA/2PtcRzRmegrisLnZOTsmauzto8qvvtbciBdJL/SY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "5TV",
+    "ico": "https://cdn.m3u.cl/logo/249_5TV.png",
+    "uri": "82Ywsrkj8Osf3M/RdWd6sXEZqeVNxmRatSri8pFOIyizcv9LVrvbR9IacbKTFfOxChK8qdieIBZ6+lNxOWxmydRpK/UImgyi+wNImXBg987CAgUD+qjcPi56LQNac4Ez",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AIRE DE SANTA FE",
+    "ico": "https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png",
+    "uri": "Hy0bwPpZzzYK4ZiRtRA37oEqeemSIx/RAnLFeiHkmc3g3G8lmPcrfrT2sZi/n5R6dVng6pT6t4YWjqCiGkbVPjqC28JTCJjyqB7i9Ei6CaQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ALEGRIA TV",
+    "ico": "https://cdn.m3u.cl/logo/1576_Alegria_TV.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor15K+TPoJsyfItvestBKA1hXzKRYi9dVeTTXP/rq9wMKfAJq+BxwArtGtyBFqQsRPHKO4+taBp/udZ0istRNcuHh",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AVC HD",
+    "ico": "https://cdn.m3u.cl/logo/1333_AVC_HD.png",
+    "uri": "jPFpusoW/qSpoL2Ju+KXp00H9aq2XuEF5awKGRPklauhlRA+FDpCFQjsqumAUy9hhqjbzilmeaxScnZv3Xn8IT8KxFpgOXGuP+XU5yBelZY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BTV DIGITAL",
+    "ico": "https://cdn.m3u.cl/logo/1414_BTV_Digital.png",
+    "uri": "nfSR5kNLjCVHdRFRImwKdoeUj7dlWoiDWBKYjz38Xy2Xyt8xcYNcaBAoJjN+jOQkOK9Cus9tl7bwaftxYPUrfJQ+v5Zv8Sl0Y3qYItf/TnM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 10",
+    "ico": "https://cdn.m3u.cl/logo/266_Canal_10.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBHWFrvJaj6Nt4K0QROk1RF5IU2H2lTt9a4SV+1wtPMaEbauR8F/BmuNtSNuqIu9E7mVPm5Wz043vROZ+PcmpFhNHy0aYx1wSE54qiSRYcchq",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 11 DE LA COSTA",
+    "ico": "https://cdn.m3u.cl/logo/1345_Canal_11_de_La_Costa.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYreC7Et53snSzgvk7FDAY/dZTrHaPsI+6QoZyw4GW+QR9rktnSoADf45l3nZsBuaKQNz1b1oJYo5UQoZUWs82m",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 12 MADRYN TV",
+    "ico": "https://cdn.m3u.cl/logo/268_Canal_12_Madryn_TV.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnk/rg/0SVfCEiuDdfn2VD9fjKSYPI3hs3lKbiOME8j9+xctOk/gQqI2OHOUgbHzBE2JOI5U+JXNbHM1buBWejug",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 13 LA RIOJA",
+    "ico": "https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBMsE1tFSvFGGtWAE0BjnSsiWBB7YjaK4N2MpEOMtyvlYe7F2X9NH7kmzD7mlloDk1eHhlz/kLXh5t88sp20Bh/0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 2 MISIONES",
+    "ico": "https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png",
+    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yBybTXntUPXC52ghQgrZIjdhrxD+BIBDZBs83HJ1JCQBdVOybbxBv+2UH6K6FBW0Ck008BXI+qDsPDnvFKu50n3i",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 34 SAN JUAN",
+    "ico": "https://cdn.m3u.cl/logo/1346_Canal_34_San_Juan.png",
+    "uri": "gajID19gB4GaNsosEcxds9LBUKiWwaMJg1mRf/Mp4ltjMtQTjvntKmgyyQB/dyFoD4tmisGx68nADOvQo/l3cnT40jJZGAf1MMWTBiLfHEo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 4 BAHIA BLANCA",
+    "ico": "https://cdn.m3u.cl/logo/257_Canal_4_Bahia_Blanca.png",
+    "uri": "OVW2lwwBh26oUIGxsV7827Bas73EKt5wm1sEYnij50b6MJy+286Q1SaTIRd1ZGHNvlXrF4w6jwvxxcAdDUmjQyyATPKnknV/VFRDp1/n44U0zLekS5/LlXDiEMa3CY8/",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 4 ESQUEL",
+    "ico": "https://cdn.m3u.cl/logo/780_Canal_4_Esquel.jpg",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBC8FH/wmCEfVDH89TJ+1PNQFQtvWaBfzSZAcTGC4UorAAihtkz9A5mO6YcDb+CLCJpW+7ujpA6o0/Nzngw9T/0Ol+TwudfdWeQ9Pf9gQ7dch",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 4 JUJUY",
+    "ico": "https://cdn.m3u.cl/logo/258_Canal_4_Jujuy.png",
+    "uri": "/MjmSYlY9hBA2R15eTFOeog6y2FXK8WFCNgCYmALpEQnDOayTCTQGk1VHIQNpbO3xhqrTbtPWLcGig9K1FcEa4/+nP4cZ9Rt3XEiQKCvgZo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 4 SAN JUAN",
+    "ico": "https://cdn.m3u.cl/logo/260_Canal_4_San_Juan.png",
+    "uri": "Bi3h+LQz5kUv7oCPixqzYZS06eZuNMGATQrNBubleyte6pRKmqOazycv+i9UPgeHZ05Wk/dhc90jdsDP5ESLi3r0jjUvdPFVlhuXeoL5dcI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 6 POSADAS",
+    "ico": "https://cdn.m3u.cl/logo/262_Canal_6_Posadas.png",
+    "uri": "5Z9nnZlhHCYayqOijmbuhsYdOdeoK4v2ovCzmiy+XPJeKZOlfnBMu6t60WGz8yIbwIZtj1+Jdm1xGk8MULn8qui6D5DLbF7TRdbkvxhjJAs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL PROVINCIAL",
+    "ico": "https://cdn.m3u.cl/logo/801_Canal_Provincial.jpg",
+    "uri": "Ff98wgzF7wgTmpOCzf/2gEMGPMfppwlUEmkbKVF/WoKSMGTBZZ3wTRuN1zXnkw/Ht+kHrZdrGIIsrvI8lUjJI6KKxfGFOu9sho6IbdLTw32T9lUcgNVATqXvO3w/gnIQ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARAS TV",
+    "ico": "https://cdn.m3u.cl/logo/1603_Caras_TV.png",
+    "uri": "jc2wUWBhzx3t/qDXdrqrnH2A5Jg5AFvy6OcvJe3zRmIvbYO1yq4dQkhaJ6nAi1tX8aSBgpjk2ypDJk57hkFfVS72Tfr3Mdke8ntiU/5dUbcjoKDDOYS2mn263sKU/yTf",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CELTA TV",
+    "ico": "https://cdn.m3u.cl/logo/815_Celta_TV.jpg",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYuG5yCs9ljDkK/AqFboO4MrLUGe67Fnq0d0KQep2FqOQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COSMOS TV",
+    "ico": "https://cdn.m3u.cl/logo/1143_Cosmos_TV.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor16MYnNR2XWUjuPBjOHexC4mJtaBueprSf8J+Vn56Zdu8xlVdB2W+7VBLek4REygDcViy9yZAiWFp8S/J4Ssuxt6",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CPE TV",
+    "ico": "https://cdn.m3u.cl/logo/238_CPE_TV.jpg",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBFbShn4TpKwkLG/e8jhB6QDtoYhnAA49x1LunQv202yVHswl9y+WQhTJRG5xc1QfcnFLGcLlKCIck8JbJHOLCqY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DITI TV",
+    "ico": "https://cdn.m3u.cl/logo/1413_Diti_TV.png",
+    "uri": "CHiXf3NfAkGLi4DACJSqz/JbjR/meHhealxTp2EXKhQZPNkr/vShE1nCzhxS9m4slGv7a6eWp5F749jB2S/94sp58NMtE/6iW/NIntHtVQ4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LATINA TV MENDOZA",
+    "ico": "https://cdn.m3u.cl/logo/1621_Latina_TV_Mendoza.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor17+MB5+u1k12j3mm694UNT2Zu0og0TodMyjyyoNiGYWZPyKK0DD0ZzIhQJYA0tZduT1HJNVaFCbiZLv0Rdcukyl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LITUS TV",
+    "ico": "https://cdn.m3u.cl/logo/241_Litus_TV.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBJK6mIsxknKn0MHnQMNlkGCU+TZxxzn8szPrIf69r9s0cfRYfKNlU9nmipzSVyOxpJxbD3FU6KiU16UHi35i9UCucGlD5Ftmp0pxrxr4sUt+",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MALBEC PLAY",
+    "ico": "https://cdn.m3u.cl/logo/1410_Malbec_Play.png",
+    "uri": "Bi3h+LQz5kUv7oCPixqzYRjnHCbkHjuwK837t5HxgrdaoTznXHR1lti+5N3vXuXVrxf+4gz2d/NYNYGdvODlLrPW/chXcc/5N6sWM+pIAP0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEDIOS PROVINCIA",
+    "ico": "https://cdn.m3u.cl/logo/1394_Medios_Provincia.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBO1M3V84KNvEBptVr6VJpEsTJYAI/k2fJjIwHfr14izreJGS7826v7SXvLtVv+blqNDrKFmBqpkWc44ixW9CYE8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MISIONES CUATRO",
+    "ico": "https://cdn.m3u.cl/logo/1362_Misiones_Cuatro.png",
+    "uri": "Bi3h+LQz5kUv7oCPixqzYRjnHCbkHjuwK837t5HxgrfkjZ6O+mY8GvWntTCc4eaLQZAZE1TY6Bh7lvZ0GNhoCsnmVlWxlkcWxJiY5dEO9oY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MULTIVISION",
+    "ico": "https://cdn.m3u.cl/logo/284_Multivision.png",
+    "uri": "G2wm2NLBqQE7WyP1DKPFoJDuHaT+RMCOEtgsu4s1P3/fJ1PQ3r2ZyqdoAhl5Mz+cL7Xum1mDTLREyaoqOLyBKlJpx5QjOMDt8nnUjkRoD14=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "POWER MAX TV",
+    "ico": "https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor140QmPRZoo+Lc794UHVyjCbvwFCrcA51M+J7kzb+USANmZg8ExRSGJzua2TI9J+g8fGmQp4s5scyYiyNqXHidEf",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "QUATRO TV",
+    "ico": "https://cdn.m3u.cl/logo/286_Quatro_TV.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBHEYJf68zD9R7S03GI3cA4igCnvVDqZQXxa09RMUsqHNbkYEKsxHYj0wpjs+Wi7GkKyI/ptCdEnfpIGhY9DKQkQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV MANA",
+    "ico": "https://cdn.m3u.cl/logo/297_TV_Mana.png",
+    "uri": "5V5Inn2I4ADtkjctrZ6atN/T92IelUBk4B4k/ZytrdiJYw+dHkyfsAUGcL7etgouELf5KOtBvnktaD80bHQ1+JB+xnsYiLsvc4UoBPYcbPt8wAhdMf8si6MzDAn+f62O",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MUNDO DE LA MUSICA TV",
+    "ico": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+    "uri": "1z3ynUkCPsPuVYF+WMcKc1wVX9qWLYcHGj+2P/I2jdSehPmkgCPacbgTFK5LwUFM7/sTPFvIVjCO2lvPCoO8eBFTLHwlvKasPKwHD0M5RjVnI+8JobhdgMJnmzMdi9gA",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VER TV",
+    "ico": "https://cdn.m3u.cl/logo/1374_Ver_TV.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnlLq/GI0zl0F8Pp+4XjFbmA+qLnt0eWBeJ0aIgucJAn3zHUFhFRkRWNVYdRcHfkIjs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VIVE TV",
+    "ico": "https://cdn.m3u.cl/logo/1459_Vive_TV.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TbfDn72NvcKQsQrYJ3xYCClsXt+N5jaY4YXDEizkwoJFPuT/HdaEAy/LgBHseKbRDQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SUYAI TV",
+    "ico": "https://cdn.m3u.cl/logo/1288_Suyai_TV.png",
+    "uri": "Hjmz96x5eBGePoCd0qDoXaLek+0IR9j7v9baCU2BDQH4rxpFWOCZUTh075zRkDqju19UwMYxuQo7htsven/6TFXUG6ZBiJKPizp6mORvTJEXU0B8xX2jDU5Yv22axWGs",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MONTE GRANDE",
+    "ico": "https://cdn.m3u.cl/logo/1620_Monte_Grande.png",
+    "uri": "4aioUSXS5Gez/ab0wltBF3BuOFLWRvzs7Gg7s8DH/IQq/0ktEj3+5DA0PBQgcVAcoc227CmRzrY1gAQogrUEbWYDA/sEJpZ8U+lNq10ZVQU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SUBLIME GRACIA TV",
+    "ico": "https://cdn.m3u.cl/logo/1003_Sublime_Gracia_TV.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnkH45zPV71osOOPpEmiMsOXgw8uOdzZqOp8XIk6HucGAs0ux7XnRTSsngzjhHQNm72CPXfTrHJkECufFEWx9wio",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 8 VALLE DE UCO",
+    "ico": "https://i.ibb.co/FHJcMbw/channels4-profile-removebg-preview.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor14Bg871if4P9p/nvpxVRu+tk+Mh3MPR+3Fj2aEZjTDlWg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 12 PUERTO MADRYN",
+    "ico": "https://i.ibb.co/5rspHY1/Madryn-TV-Canal-12-en-vivo-Online.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnfhdMEnVfz/vyk8WOMzCskuCe4FJHDxi9l7lLzb1Hp8hE8h2bddQmQzqis5ySOZCc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PLAY TELEVISION",
+    "ico": "https://i.ibb.co/GVRgzs3/LOGO-PLAY-TV-e1663785580466-297x300.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYi91uKdvOYn6tE/iL8F8BLl9e1gOOfAjqrU2gcOtDY9w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "POWER HD",
+    "ico": "https://i.ibb.co/RbH7FXZ/logo-Pwr-HD-small.png",
+    "uri": "/Q4zKyp0RlaYIBVCkDdv9K+61AkGeQdWfiBZ4VTjwX0TvT74H70lMfBRjocPe74pie4ZIo0uyK/J3LI7V643Qg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 2 DE USUAHIA",
+    "ico": "https://i.ibb.co/dG5Q9dB/canal2-logo.webp",
+    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yByo1ZAo5JhTi+heUKqQJ2Z1651h6zdW3sD4k7XzwCLQ1w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVU LA PLATA",
+    "ico": "https://i.ibb.co/0Kj3mT4/Marca-UNLP-TV-sin-fondo.webp",
+    "uri": "ns1C0MQMmIiQjItU5hwnIGBaI5hzZ+2x6X9OqP9mvwTWfo4g+BeAUPAYi8VyrEiqMqTOJGYlqrR6in1lzmaK0A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	    
+
+   ]
   },
   {
     "name": "⚽ DEPORTES",
