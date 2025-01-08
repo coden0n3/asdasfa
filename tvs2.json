@@ -1,17 +1,5 @@
 [
-{
-        "name": "RADIOS DE TUCUMAN",
-        "mode": false,
-        "lista": [
-		{
-    "name": "SAL SI PUEDES",
-    "ico": "https://i.ibb.co/F7K7NQC/salsipuedes.png",
-    "uri": "Ff98wgzF7wgTmpOCzf/2gDHVKx0YfBBF4MURD03aOcqnmCVSSAFUgDzuvCNrt5yd",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-  ]
-  },
+
 {
     "name": "🎵 UN POCO DE RUIDO",
     "mode": false,
@@ -548,11 +536,20 @@
     "drm_license_url": ""
   },
   {
-    "name": "BRAVO TV",
-    "ico": "https://i.ibb.co/G7w2tzb/bravotv.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDnJzrpiqiyI/o6LyHe4nbRjzi6/DlNSj/WkdhgmbsgPXgYO7fFiX9VqPbr9IEWGHKbmN1mOvsBvezXbgrdR9jT",
+    "name": "CANAL 9 RESISTENCIA",
+    "ico": "https://i.ibb.co/C67qyjn/Canal-9-de-Resistencia-Imagen-del-Nordeste.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZD7tZn9IAxAEnjuUlsdc3ehZAI33x4/KYFhn0gysDGjKitoFdcfOaI076YaZ1IAfwnq7nvx3mSlXOE1gVEKdEWOQ6/C7khEZg0yK00Eaqda7w==",
     "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqOyPGeDMrpqVSHRU9xNl2PU2v4Ce+sRtcSEVXBV9HmvQfkgKm76QpavfNeorrc75WXPPAawz9tXO4z8C4Sm0Kp0ZDiN1+wSzCeLcU/nfMCGJRSYnQaODvnKaT2z3szPSQ==",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKj658SmAt692emvSbWHQfKVeb2TpqU69WYzpuTAE4fo//dcRic7mlqhDOho5n5QyeXCdBC89fPRA8+1jhkKEmPC3CZ+aktuVWRDPqkkaBrWesHkm37X4wIkjX2qWK1O8XA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "13 MAX CORRIENTES",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCH6P2e9SM6vEHa6zQSVkP/2GnqUaMEe6GPNKEnCk1IlSwis+kJ8kaXi3hrtbbBdgkMNDcJB0P3CPCy/ztllmSFbHOh6RESeo22QYjASqph4w==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKl2wgsgtcbtYM2DVvSBE9WyCPqldAthawwTueJ78XfISjC2/dJ20l9+MIwjbF3sSm0qQPW2+Xbf2KsHlLhKVywZZAI9J6JD1nKEWHLxKxefSdChiUO+gB6He9OBSLW9R0A==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -3271,6 +3268,13 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi9u4feVbu3sFTKF0ifK4JIhQFGwe+UW6jvR3rOBgTgxeVRRlIYyKdfs0rWfyxizsI5ilKKjIEn284pwjASQwgOPJ9zuotNC6ygNvTgISNaWLco94gwXuEnjx2fB61brXw==",
     "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"
+  },
+   {
+    "name": "SAL SI PUEDES",
+    "ico": "https://i.ibb.co/F7K7NQC/salsipuedes.png",
+    "uri": "Ff98wgzF7wgTmpOCzf/2gDHVKx0YfBBF4MURD03aOcqnmCVSSAFUgDzuvCNrt5yd",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
   
     ]
