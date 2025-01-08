@@ -794,8 +794,16 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKl2wgsgtcbtYM2DVvSBE9WyCPqldAthawwTueJ78XfISjC2/dJ20l9+MIwjbF3sSm0qQPW2+Xbf2KsHlLhKVywZZAI9J6JD1nKEWHLxKxefSdChiUO+gB6He9OBSLW9R0A==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  }
+  
+    ]
   },
-  {
+
+	{
+    "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO 2",
+    "mode": false,
+    "lista": [
+             {
     "name": "CANAL 7 SANTIAGO DEL ESTERO",
     "ico": "https://i.ibb.co/HnBrLjD/Canal-7-Santiago-del-Estero-29.webp",
     "uri": "5XU+n9Ud2NXJC+ch+PkHBO+dKTEQDWV97hyo11Qblql8TZH2yM7WLgL/WN4OwkhI/QfK6sulh4o5Yd0G63qIHg==",
@@ -866,6 +874,48 @@
     "drm_license_url": ""
   },
   {
+    "name": "CANAL 2 DE USUAHIA",
+    "ico": "https://i.ibb.co/dG5Q9dB/canal2-logo.webp",
+    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yByo1ZAo5JhTi+heUKqQJ2Z1651h6zdW3sD4k7XzwCLQ1w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 11 DE LA COSTA",
+    "ico": "https://cdn.m3u.cl/logo/1345_Canal_11_de_La_Costa.png",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYreC7Et53snSzgvk7FDAY/dZTrHaPsI+6QoZyw4GW+QR9rktnSoADf45l3nZsBuaKQNz1b1oJYo5UQoZUWs82m",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 12 PUERTO MADRYN",
+    "ico": "https://i.ibb.co/5rspHY1/Madryn-TV-Canal-12-en-vivo-Online.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnfhdMEnVfz/vyk8WOMzCskuCe4FJHDxi9l7lLzb1Hp8hE8h2bddQmQzqis5ySOZCc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 13 LA RIOJA",
+    "ico": "https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.png",
+    "uri": "5XU+n9Ud2NXJC+ch+PkHBMsE1tFSvFGGtWAE0BjnSsiWBB7YjaK4N2MpEOMtyvlYe7F2X9NH7kmzD7mlloDk1eHhlz/kLXh5t88sp20Bh/0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 2 MISIONES",
+    "ico": "https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png",
+    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yBybTXntUPXC52ghQgrZIjdhrxD+BIBDZBs83HJ1JCQBdVOybbxBv+2UH6K6FBW0Ck008BXI+qDsPDnvFKu50n3i",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 4 BAHIA BLANCA",
+    "ico": "https://cdn.m3u.cl/logo/257_Canal_4_Bahia_Blanca.png",
+    "uri": "OVW2lwwBh26oUIGxsV7827Bas73EKt5wm1sEYnij50b6MJy+286Q1SaTIRd1ZGHNvlXrF4w6jwvxxcAdDUmjQyyATPKnknV/VFRDp1/n44U0zLekS5/LlXDiEMa3CY8/",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "CANAL 7 JUJUY",
     "ico": "https://i.imgur.com/K0jk8p4.png",
     "uri": "5XU+n9Ud2NXJC+ch+PkHBETh2tDRtinGL90Ee27mw5Vc3T+JpzzrROymL+Yet4brGRgxZ45iCBCHnKiorKeMk7rNVN6XUhtVKJ4a3WZihWc=",
@@ -876,6 +926,27 @@
     "name": "CANAL 7 SALTA",
     "ico": "https://i.imgur.com/CudG6sl.png",
     "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYD//IgE+kDstwedbBXK5hhkB+NlYjhc9ruJzD5IQlHdA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "CANAL 4 JUJUY",
+    "ico": "https://cdn.m3u.cl/logo/258_Canal_4_Jujuy.png",
+    "uri": "/MjmSYlY9hBA2R15eTFOeog6y2FXK8WFCNgCYmALpEQnDOayTCTQGk1VHIQNpbO3xhqrTbtPWLcGig9K1FcEa4/+nP4cZ9Rt3XEiQKCvgZo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 6 POSADAS",
+    "ico": "https://cdn.m3u.cl/logo/262_Canal_6_Posadas.png",
+    "uri": "5Z9nnZlhHCYayqOijmbuhsYdOdeoK4v2ovCzmiy+XPJeKZOlfnBMu6t60WGz8yIbwIZtj1+Jdm1xGk8MULn8qui6D5DLbF7TRdbkvxhjJAs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 8 VALLE DE UCO",
+    "ico": "https://i.ibb.co/FHJcMbw/channels4-profile-removebg-preview.png",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor14Bg871if4P9p/nvpxVRu+tk+Mh3MPR+3Fj2aEZjTDlWg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -911,6 +982,56 @@
     "name": "SAN PEDRO TV",
     "ico": "https://i.imgur.com/UkpXogr.png",
     "uri": "5Z9nnZlhHCYayqOijmbuhsYdOdeoK4v2ovCzmiy+XPIEYMYVrPQiAQQk3Q7sGQ7+9il48aRa74ikqpmoipK02Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  
+  {
+    "name": "CANAL 22 BUENOS AIRES",
+    "ico": "https://i.ibb.co/Ss0YfNk/LOGO-CANAL-REBORDE-BLANCO-1-2.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnRf4hOFmc9zFQnteoFlMmqvbXcWXmtTda9hr4ta6z1aBGyjzGTWlZWS0mNiJWM0Uc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	    ]
+  },
+	    
+{
+    "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO 3",
+    "mode": false,
+    "lista": [
+          {
+    "name": "SAN LUIS MAS",
+    "ico": "https://cdn.m3u.cl/logo/269_San_Luis_Mas.png",
+    "uri": "E0ULO2yOXDpmYDfFyLAGS8jn9krcXjcz5QF7E+8qBck/XpPfVmiyypK6cYJRSKjR0lnT4cGbqafRWCzFjgH9XgmCduA+LBp+r1d/D9cLrvoykO4I6jU8hk4DAl8b1p5F",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SEÑAL URBANA",
+    "ico": "https://cdn.m3u.cl/logo/218_Senal_Urbana.png",
+    "uri": "qvJXDCXXK9G57ClfL6/ID5XTawwxvfzneHIAcC1+7v6tdUldHvDY81c61GmB4y/b+38j3vadJafod+M3o/p5XXRqpPt9M7Zgl0w7GbaiM00=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UCL TELEVISION LATAM",
+    "ico": "https://cdn.m3u.cl/logo/494_UCL_Television_LATAM.png",
+    "uri": "nF1BdWxYiH1SDXCs3bAb1RBRXeutmPL2UC9Nj6y0g/0wLMVQFASU8Gdkz+j9VUMOTlcoSyIKNamZqtdmxqFs+Jgox3G2LExqEH3OXLrbmBA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RETRO PLUS TV",
+    "ico": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+    "uri": "A7l/zy0FhF2Mh/0wweCNX0zWJcygFVtT0EUgbj10x3e+UuTyApmy+hYj/3hwO5j0ZSb4tz2jlT5LuF/0Yae+D85D2Y6IwzVlmY8XbSgcyTJjQ0L88A6R8u4qi79A8e81",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "5TV",
+    "ico": "https://cdn.m3u.cl/logo/249_5TV.png",
+    "uri": "82Ywsrkj8Osf3M/RdWd6sXEZqeVNxmRatSri8pFOIyizcv9LVrvbR9IacbKTFfOxChK8qdieIBZ6+lNxOWxmydRpK/UImgyi+wNImXBg987CAgUD+qjcPi56LQNac4Ez",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -963,6 +1084,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  
   {
     "name": "TV SOLIDARIA",
     "ico": "https://i.imgur.com/M0fMypR.png",
@@ -1013,54 +1135,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "CANAL 22 BUENOS AIRES",
-    "ico": "https://i.ibb.co/Ss0YfNk/LOGO-CANAL-REBORDE-BLANCO-1-2.png",
-    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnRf4hOFmc9zFQnteoFlMmqvbXcWXmtTda9hr4ta6z1aBGyjzGTWlZWS0mNiJWM0Uc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-{
-    "name": "🇦🇷 CANALES DEL INTERIOR ARGENTINO 2",
-    "mode": false,
-    "lista": [
-          {
-    "name": "SAN LUIS MAS",
-    "ico": "https://cdn.m3u.cl/logo/269_San_Luis_Mas.png",
-    "uri": "E0ULO2yOXDpmYDfFyLAGS8jn9krcXjcz5QF7E+8qBck/XpPfVmiyypK6cYJRSKjR0lnT4cGbqafRWCzFjgH9XgmCduA+LBp+r1d/D9cLrvoykO4I6jU8hk4DAl8b1p5F",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SEÑAL URBANA",
-    "ico": "https://cdn.m3u.cl/logo/218_Senal_Urbana.png",
-    "uri": "qvJXDCXXK9G57ClfL6/ID5XTawwxvfzneHIAcC1+7v6tdUldHvDY81c61GmB4y/b+38j3vadJafod+M3o/p5XXRqpPt9M7Zgl0w7GbaiM00=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UCL TELEVISION LATAM",
-    "ico": "https://cdn.m3u.cl/logo/494_UCL_Television_LATAM.png",
-    "uri": "nF1BdWxYiH1SDXCs3bAb1RBRXeutmPL2UC9Nj6y0g/0wLMVQFASU8Gdkz+j9VUMOTlcoSyIKNamZqtdmxqFs+Jgox3G2LExqEH3OXLrbmBA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RETRO PLUS TV",
-    "ico": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
-    "uri": "A7l/zy0FhF2Mh/0wweCNX0zWJcygFVtT0EUgbj10x3e+UuTyApmy+hYj/3hwO5j0ZSb4tz2jlT5LuF/0Yae+D85D2Y6IwzVlmY8XbSgcyTJjQ0L88A6R8u4qi79A8e81",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "5TV",
-    "ico": "https://cdn.m3u.cl/logo/249_5TV.png",
-    "uri": "82Ywsrkj8Osf3M/RdWd6sXEZqeVNxmRatSri8pFOIyizcv9LVrvbR9IacbKTFfOxChK8qdieIBZ6+lNxOWxmydRpK/UImgyi+wNImXBg987CAgUD+qjcPi56LQNac4Ez",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "AIRE DE SANTA FE",
     "ico": "https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png",
     "uri": "Hy0bwPpZzzYK4ZiRtRA37oEqeemSIx/RAnLFeiHkmc3g3G8lmPcrfrT2sZi/n5R6dVng6pT6t4YWjqCiGkbVPjqC28JTCJjyqB7i9Ei6CaQ=",
@@ -1095,41 +1169,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "CANAL 11 DE LA COSTA",
-    "ico": "https://cdn.m3u.cl/logo/1345_Canal_11_de_La_Costa.png",
-    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TYreC7Et53snSzgvk7FDAY/dZTrHaPsI+6QoZyw4GW+QR9rktnSoADf45l3nZsBuaKQNz1b1oJYo5UQoZUWs82m",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 12 PUERTO MADRYN",
-    "ico": "https://i.ibb.co/5rspHY1/Madryn-TV-Canal-12-en-vivo-Online.png",
-    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnfhdMEnVfz/vyk8WOMzCskuCe4FJHDxi9l7lLzb1Hp8hE8h2bddQmQzqis5ySOZCc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 13 LA RIOJA",
-    "ico": "https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.png",
-    "uri": "5XU+n9Ud2NXJC+ch+PkHBMsE1tFSvFGGtWAE0BjnSsiWBB7YjaK4N2MpEOMtyvlYe7F2X9NH7kmzD7mlloDk1eHhlz/kLXh5t88sp20Bh/0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 2 MISIONES",
-    "ico": "https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png",
-    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yBybTXntUPXC52ghQgrZIjdhrxD+BIBDZBs83HJ1JCQBdVOybbxBv+2UH6K6FBW0Ck008BXI+qDsPDnvFKu50n3i",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 4 BAHIA BLANCA",
-    "ico": "https://cdn.m3u.cl/logo/257_Canal_4_Bahia_Blanca.png",
-    "uri": "OVW2lwwBh26oUIGxsV7827Bas73EKt5wm1sEYnij50b6MJy+286Q1SaTIRd1ZGHNvlXrF4w6jwvxxcAdDUmjQyyATPKnknV/VFRDp1/n44U0zLekS5/LlXDiEMa3CY8/",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+  
   {
     "name": "CANAL 4 ESQUEL",
     "ico": "https://cdn.m3u.cl/logo/780_Canal_4_Esquel.jpg",
@@ -1137,20 +1177,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "CANAL 4 JUJUY",
-    "ico": "https://cdn.m3u.cl/logo/258_Canal_4_Jujuy.png",
-    "uri": "/MjmSYlY9hBA2R15eTFOeog6y2FXK8WFCNgCYmALpEQnDOayTCTQGk1VHIQNpbO3xhqrTbtPWLcGig9K1FcEa4/+nP4cZ9Rt3XEiQKCvgZo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 6 POSADAS",
-    "ico": "https://cdn.m3u.cl/logo/262_Canal_6_Posadas.png",
-    "uri": "5Z9nnZlhHCYayqOijmbuhsYdOdeoK4v2ovCzmiy+XPJeKZOlfnBMu6t60WGz8yIbwIZtj1+Jdm1xGk8MULn8qui6D5DLbF7TRdbkvxhjJAs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+  
   {
     "name": "CANAL PROVINCIAL",
     "ico": "https://cdn.m3u.cl/logo/801_Canal_Provincial.jpg",
@@ -1285,13 +1312,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "CANAL 8 VALLE DE UCO",
-    "ico": "https://i.ibb.co/FHJcMbw/channels4-profile-removebg-preview.png",
-    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor14Bg871if4P9p/nvpxVRu+tk+Mh3MPR+3Fj2aEZjTDlWg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+  
   {
     "name": "PLAY TELEVISION",
     "ico": "https://i.ibb.co/GVRgzs3/LOGO-PLAY-TV-e1663785580466-297x300.png",
@@ -1306,13 +1327,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "CANAL 2 DE USUAHIA",
-    "ico": "https://i.ibb.co/dG5Q9dB/canal2-logo.webp",
-    "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yByo1ZAo5JhTi+heUKqQJ2Z1651h6zdW3sD4k7XzwCLQ1w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+  
   {
     "name": "TVU LA PLATA",
     "ico": "https://i.ibb.co/0Kj3mT4/Marca-UNLP-TV-sin-fondo.webp",
