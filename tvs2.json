@@ -1054,13 +1054,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "CARIEDTV",
-    "ico": "https://cdn.m3u.cl/logo/1335_VariedTV.png",
-    "uri": "DJuEHYRn630ayDJQbUOh3zthfMm+l0NBH+9fjfpTlvNF8WC2AugkgMcDpu2qYptnJA/2PtcRzRmegrisLnZOTsmauzto8qvvtbciBdJL/SY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "5TV",
     "ico": "https://cdn.m3u.cl/logo/249_5TV.png",
     "uri": "82Ywsrkj8Osf3M/RdWd6sXEZqeVNxmRatSri8pFOIyizcv9LVrvbR9IacbKTFfOxChK8qdieIBZ6+lNxOWxmydRpK/UImgyi+wNImXBg987CAgUD+qjcPi56LQNac4Ez",
@@ -1110,9 +1103,9 @@
     "drm_license_url": ""
   },
   {
-    "name": "CANAL 12 MADRYN TV",
-    "ico": "https://cdn.m3u.cl/logo/268_Canal_12_Madryn_TV.png",
-    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnk/rg/0SVfCEiuDdfn2VD9fjKSYPI3hs3lKbiOME8j9+xctOk/gQqI2OHOUgbHzBE2JOI5U+JXNbHM1buBWejug",
+    "name": "CANAL 12 PUERTO MADRYN",
+    "ico": "https://i.ibb.co/5rspHY1/Madryn-TV-Canal-12-en-vivo-Online.png",
+    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnfhdMEnVfz/vyk8WOMzCskuCe4FJHDxi9l7lLzb1Hp8hE8h2bddQmQzqis5ySOZCc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1127,13 +1120,6 @@
     "name": "CANAL 2 MISIONES",
     "ico": "https://cdn.m3u.cl/logo/1182_Canal_2_Misiones.png",
     "uri": "EHOvITR6CFsFFceDCl73MbdaQEugR/yuCjN+7z27yBybTXntUPXC52ghQgrZIjdhrxD+BIBDZBs83HJ1JCQBdVOybbxBv+2UH6K6FBW0Ck008BXI+qDsPDnvFKu50n3i",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 34 SAN JUAN",
-    "ico": "https://cdn.m3u.cl/logo/1346_Canal_34_San_Juan.png",
-    "uri": "gajID19gB4GaNsosEcxds9LBUKiWwaMJg1mRf/Mp4ltjMtQTjvntKmgyyQB/dyFoD4tmisGx68nADOvQo/l3cnT40jJZGAf1MMWTBiLfHEo=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1155,13 +1141,6 @@
     "name": "CANAL 4 JUJUY",
     "ico": "https://cdn.m3u.cl/logo/258_Canal_4_Jujuy.png",
     "uri": "/MjmSYlY9hBA2R15eTFOeog6y2FXK8WFCNgCYmALpEQnDOayTCTQGk1VHIQNpbO3xhqrTbtPWLcGig9K1FcEa4/+nP4cZ9Rt3XEiQKCvgZo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 4 SAN JUAN",
-    "ico": "https://cdn.m3u.cl/logo/260_Canal_4_San_Juan.png",
-    "uri": "Bi3h+LQz5kUv7oCPixqzYZS06eZuNMGATQrNBubleyte6pRKmqOazycv+i9UPgeHZ05Wk/dhc90jdsDP5ESLi3r0jjUvdPFVlhuXeoL5dcI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1229,26 +1208,13 @@
     "drm_license_url": ""
   },
   {
-    "name": "MALBEC PLAY",
-    "ico": "https://cdn.m3u.cl/logo/1410_Malbec_Play.png",
-    "uri": "Bi3h+LQz5kUv7oCPixqzYRjnHCbkHjuwK837t5HxgrdaoTznXHR1lti+5N3vXuXVrxf+4gz2d/NYNYGdvODlLrPW/chXcc/5N6sWM+pIAP0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "MEDIOS PROVINCIA",
     "ico": "https://cdn.m3u.cl/logo/1394_Medios_Provincia.png",
     "uri": "5XU+n9Ud2NXJC+ch+PkHBO1M3V84KNvEBptVr6VJpEsTJYAI/k2fJjIwHfr14izreJGS7826v7SXvLtVv+blqNDrKFmBqpkWc44ixW9CYE8=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "MISIONES CUATRO",
-    "ico": "https://cdn.m3u.cl/logo/1362_Misiones_Cuatro.png",
-    "uri": "Bi3h+LQz5kUv7oCPixqzYRjnHCbkHjuwK837t5HxgrfkjZ6O+mY8GvWntTCc4eaLQZAZE1TY6Bh7lvZ0GNhoCsnmVlWxlkcWxJiY5dEO9oY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+  
   {
     "name": "MULTIVISION",
     "ico": "https://cdn.m3u.cl/logo/284_Multivision.png",
@@ -1323,13 +1289,6 @@
     "name": "CANAL 8 VALLE DE UCO",
     "ico": "https://i.ibb.co/FHJcMbw/channels4-profile-removebg-preview.png",
     "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor14Bg871if4P9p/nvpxVRu+tk+Mh3MPR+3Fj2aEZjTDlWg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 12 PUERTO MADRYN",
-    "ico": "https://i.ibb.co/5rspHY1/Madryn-TV-Canal-12-en-vivo-Online.png",
-    "uri": "tTv95jATFPojLDX1iHk6NBjNNahmTbH+/qUML9zSYnnfhdMEnVfz/vyk8WOMzCskuCe4FJHDxi9l7lLzb1Hp8hE8h2bddQmQzqis5ySOZCc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
