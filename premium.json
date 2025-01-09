@@ -1,6 +1,99 @@
 [
 
 
+	{
+    "name": "CANAL COOP JESUS MARIA",
+    "ico": "https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75",
+    "uri": "xXHrJxnr9suRD2+8AXFhOWwV4tJSFp1kUpkcMEZEiuGkEmdMU/URIuksVRILcheOUjagfNT2b0dE4xzdiyYHmg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 4 SAN FRANCISCO",
+    "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png?resize=696%2C392&ssl=1",
+    "uri": "zEqh6jxXyZGlRBChfINKnTJJIwjevpri+G7p7rAtscE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL TV COOP JUSTINIANO POSSE",
+    "ico": "https://tvcoop.tv/assets/img/logoweb.png",
+    "uri": "xXHrJxnr9suRD2+8AXFhOWwV4tJSFp1kUpkcMEZEiuF/nOVNlm0CRGKQSPX1fQflkUH0WAM4UFp/CEcjzp7WIw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 50 MORTEROS",
+    "ico": "https://canal50.tv/public/images/logos/logo-coop-removebg-preview.png",
+    "uri": "fn1NI5iu1Nf9hOChaEQ04vr6x+SasjSyXoGsHKSHZpsp2krKWCBcW/Chn6OJ2P1lb6dNwHIRcx8xYyDFBS192A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 9 RIO CUARTO",
+    "ico": "https://play-lh.googleusercontent.com/H8-bPL0sTXTR-LP86nBcgBn27VtaiYtQW52btjLPkpJ1GR1dSd8xBxaVui5ciNkd2JY=w240-h480-rw",
+    "uri": "1z3ynUkCPsPuVYF+WMcKc9zMvaoA2JwA1x/xEKjcOUM2ui/ReX+Lgny0PDv/4Dn5JGf0q9HalUWXi0oWrvhEHuYg+li730iOxMu4ZhZWDF0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 4 SAN JUAN",
+    "ico": "https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png",
+    "uri": "Bi3h+LQz5kUv7oCPixqzYZS06eZuNMGATQrNBubleyte6pRKmqOazycv+i9UPgeH86HUtw8ZBP4V3anGB2LdYQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO FENIX CHACO",
+    "ico": "https://play-lh.googleusercontent.com/SNVpRUVg2G706XmVZBTynknHcZjFZhsT9yElEG6Z1B65XXgRWNWjt_3_WpHnsvKWlw=w240-h480-rw",
+    "uri": "9NycdPD8XI8cRjxDN6WqNB2UcGrEZl8dmsERfejX//TzNFhVkZoUrB0Y3pZp77LD",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 2 SALTA",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcnRIcUhGDREH6gXZ9y_LEvXC0KHs1Zj9r7l3QHNEAg&s",
+    "uri": "3DBJnB6YAdDU8bPHthffujnB1lKJ3LF0TDfkq6ts+TZM7Pc0cJZ93beZnUCn8ju3fjtWoV4OU4fgVSEirNH0sg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 34 SAN JUAN",
+    "ico": "https://static.tvar.io/imagenes/34sanjuan.png",
+    "uri": "HOXMrBW1P4EZlDWmv37Vtcatjz/Swwng1PP5UrSwT3Kb9mZFgaqMOGRRDfqiUg0+p96qsLGmkPQ/0CGEst1pMA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ELPRINGLENSE",
+    "ico": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor161jpIIY8GI4uEga9jwl/dAFtHHOBltbPHiEEJ8xAOA0Ol4UuqMQN1DJxGI8iirpO4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MULTIVISION CABLE",
+    "ico": "https://static.tvar.io/imagenes/multivisioncable.jpg",
+    "uri": "ccTs6DYk6G+DmYEPwxOd8sEkuxBn8tK/1NaKKUeor17FB//fiLa1HiqOMKgJPGbRkTl+Gv3En1/gy02t8+VL1Z9YkhLJ0E4yY1ggxfVEJEqngOLGfPG+7C0DOUULzZpd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL NUEVE TELEVIDA",
+    "ico": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
+    "uri": "jc2wUWBhzx3t/qDXdrqrnHWuAt4ilDeX4j1B+VdmVb5w/azsfT1ycHZN74+BrpFJib193rEuaISw2z8Zw2cQTQEgZlvXuorukYWWZisfmyfK3yf8s4zavOu1V+tqKNEPkEhc3XDxjQ5xXU3MiI8FxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RTV NEUQUEN",
+    "ico": "https://i.ibb.co/Fqf4R9T/descarga.jpg",
+    "uri": "hir1HHpQac50YPTzp9ag4CSi0Z+UuFRpfyTKyTjHCnR0Ifbfw5Q5EOWBp3g0RlRNM3F8QWiCL3msM/pQuSgPQg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
+	
 
 	{
     "name": "SAN LUIS MAS",
