@@ -214,7 +214,15 @@
     "mode": false,
     "lista": [
 
-	    
+	{
+    "name": "DSPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png",
+    "uri": "UzWpJBKhu8ByyGXQLDZn9DH7uUfOn+V0iYjhe6Q5YejzWu7BqFcSTemZYGjkPxJZXewnvLkhvWhprmIeKPhKWb2m63wBemiZ7tsIpjRk3ucmN9rLBWBCZtPqMlmBJtR2",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjPMXMHvauQciytjfA/RMiw3byZ7gATKW2KB20MWPICqfcpYhP6oSE+YLYngnkNyvhmG0AenmZ+0nWa5pyxTLliSzIUggaE/hPlabNkdCvV7c3CiTgB8lNTYqK+Z+tUC/6N2M1oGsVBqRtiIVVSXEYoUmMpSZKds1dAFZtqszqPlOxouMAoqgNYs5WUNf3SEGbkR9+WzoiI1xe7OIXD9wXOnOmyuT9fqc6oNLLbK2bsPJrK9leAqP0GhGeQQ21rnwm8xe8rzolVYHqwR/hXdvPdbSbB9H+UHduaWodFQRQh7/4OFZMhWa9Ynjj+9BE+wGIBtHuVSsWhRsgBAQ3f+LonTFOLWYITtaY0AAeSOk3B4+uHFP6+hSHHoCOhiltD9j3o",
+    "origin": "android_mobile.directvgo.com",
+    "user_agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+  },    
      {
     "name": "AMERICA TV",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
