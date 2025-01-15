@@ -1,5 +1,54 @@
 [
  {
+        "tipo": "serie",
+        "name": "LA PLATAFORMA Temp 2",
+        "ico": "https://i.ibb.co/Y75qmYg/image.png",
+        "temporada": [
+          {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/Y75qmYg/image.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G4PQYBitThTeJ9TRkEKTtHP0mtACHRf5h8Far5ZDbYl9kE+x5c+/+O4KT+o4E1fyo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/Y75qmYg/image.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G4PQYBitThTeJ9TRkEKTtHP0mtACHRf5h8Far5ZDbYl33h+gH0MpDupfvzOMBYeRo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/Y75qmYg/image.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G4PQYBitThTeJ9TRkEKTtHP0mtACHRf5h8Far5ZDbYl/1NK8ocB85ah5Yq6cz85xM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/Y75qmYg/image.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G4PQYBitThTeJ9TRkEKTtHP0mtACHRf5h8Far5ZDbYl9laU6SDjIviFu5NoXu+tAA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/Y75qmYg/image.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G4PQYBitThTeJ9TRkEKTtHP0mtACHRf5h8Far5ZDbYl4YCGGJrDxFOqTPArKKiqfk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/Y75qmYg/image.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G4PQYBitThTeJ9TRkEKTtHP0mtACHRf5h8Far5ZDbYl+odx/Wwu83XnhbQ4g/qrAs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+  ]
+      },
+ {
     "name": "▐ SERIES 2025",
     "mode": true,
     "lista": [
