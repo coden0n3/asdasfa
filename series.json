@@ -1,5 +1,10 @@
 [
+ 
  {
+    "name": "▐ SERIES 2025",
+    "mode": true,
+    "lista": [
+	    {
         "tipo": "serie",
         "name": "LA PLATAFORMA Temp 2",
         "ico": "https://i.ibb.co/Y75qmYg/image.png",
@@ -48,10 +53,6 @@
   }
   ]
       },
- {
-    "name": "▐ SERIES 2025",
-    "mode": true,
-    "lista": [
 	        {
         "name": "BANDIDOS Temp2",
         "ico": "https://i.ibb.co/NssW0gF/asd.jpg",
