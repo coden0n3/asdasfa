@@ -1441,6 +1441,13 @@
     "name": "⚽ DEPORTES",
     "mode": false,
     "lista": [
+	    {
+    "name": "BOCA VS JUVENTUDE",
+    "ico": "https://ztv.com.ar/Img2/EVENTOS.png",
+    "uri": "5ut1+5Z/tzGWz/4/FNRDwDLQ+kwT7YP9IbAn4ElkNqDqOkMlpmE/VA2v5r1Z4fR8jE/zDJyodqzObbQZN+xYhLm1e0e8UJJhG9HEKHW6ue0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
     "name": "FOX SPORTS 1",
     "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
