@@ -1,5 +1,220 @@
 [
- 
+ {
+    "name": "▐ SERIE COMPLETA SUITS",
+    "mode": true,
+    "lista": [  
+						
+						{
+            "name": "Suits: La clave del éxito Temp 1",
+            "ico": "https://i.ibb.co/W6PCS58/433386.jpg",
+            "temporada": [
+                
+                        {
+    "name": "Capitulo 01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GmJD80FGtMIcca1UuLIIuIm2c1.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VOt2wG3xwA2h8dnyDTCF2Tg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 02",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0bGqpX5jZaxG3vvw4Gq5InvxFF.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VeUnJaYedCQsa8sujO2qT1Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 03",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rohDcpKFJwRXvHrEuh3j6eGOuLw.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VB4yQ+4etPGekh0/y2fPtaA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 04",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7Ips46UxRF9F0BJAdSxa0aQeMj.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VARJ5hHNlzNE9zCoSDQBQnQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 05",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmIh7NHAfreZgVoX7hG3EHEKIe6.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V8MQEjKaWYGLZlv6YY6flFA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 06",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT4t1HJEx2jJTEYeJIZnTN1Y8za.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VzmNijMuE4EnwEx4Ik4nKxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 07",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZNVeetYoZo3JCPRu5oQbjsl3B5.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VXtaR6TVbxzHjyccwhRDLNQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 08",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsfEwCAPwdSJNqC4ADLYh57pal1.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V/5S45mwbVPos8IeHeaYZ2A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 09",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIynnH3wjc8ArqfCULBCYdyWCB8.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VYsEgQG7C5pQTqmEsefW6tg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PrnmETDQgH8mZQk1YE1aRVo3Qz.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V0T2dRVLlxoFgNp/KC6UX8Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zPzCl3xqn1B6MCUdpnHyQAJHsf.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vk2k/IoqIhPN7WqB17y5ljg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssJ7NhSXYfWNHdDJYXmDGgGYEp.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VrpAFOze1QD2G5Bwma9B3zg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+					  ]
+                    },
+						 {
+            "name": "Suits: La clave del éxito Temp 2",
+            "ico": "https://i.ibb.co/z6NBm8G/1661130.jpg",
+            "temporada": [
+                        {
+    "name": "Capitulo 01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi1DQ0wSPkEbxSZReL73ESsS2XB.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vmd7i3bdcd5sEmUjNtdNZQQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 02",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/clxK6oT6F5FD8EWsg3J0CiQIXWx.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vzrxnv1sGjVsSJi8Ox5AjbA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 03",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQ6oD8xZ2lJwvhk01jQ5QPF6syI.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V0vemeYRZzarES1UlQ+XNLg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 04",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VdwhntEMnIz1EhxkcRk09gv5ts.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VQEPqSWa1IVxHKngtJbPo8A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 05",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/adxd0ppqT9zOynFvtSjl7Fq5knP.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VzwHyirHF/nAawmM4wZ5HKA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 06",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwTLLOML8VpuJ3ACrY3yHCqGJqc.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VWEE/eESVbeiNcXeZYKfEDA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 07",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv7yM01BPxu5IEyiOXAlriqKIV7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VxVdExxex0KNt2Eow5F9XWQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 08",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQ29XCZiAyiDpKnmB6hTAJSgR9u.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VRVFgt88oa4BOkufL0ae1ZA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 09",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bprO7iFRbHpjJzRsFjvjDjQIYm.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VxUf6Vb5YFCH4KnF6smitZg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muaurjvMczn6PZE2hOGKuh4EkqR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vq/Upj82iZ9tZFwc3WEUkSA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUJTSMmxpXL9hiDI0wCdAW39H81.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VWNNBS3ddYGtH2IZfSANwgA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fY3QJRQGtdYsMbteTw30GarU79.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VSm2rPSbE5ouDfUg//yV7RA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 13",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzyXiBetjvP4lAtvMzz5IDww1ae.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VnE6UR4Vbvv/yXGEhVAGh0w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 14",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v181BTgvU1Adn6LeR5VYEkqNIm.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VVy9Dk6GsdZx1BD3k9HzAPw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 15",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDzK1uE2ied6viZ98uDtx3xjJEw.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VW359marexyEveUGj26GalQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 16",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqLV57rFhBS5LyWKf1koHKcwETd.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VIMcg8OhANe0ToE7vhjj62Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+						]
+   }
+ ]
+},
  {
     "name": "▐ SERIES 2025",
     "mode": true,
